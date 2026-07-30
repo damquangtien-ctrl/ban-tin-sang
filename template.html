@@ -124,6 +124,11 @@
     font-size: 1.02rem; margin: 0 0 4px;
     padding-bottom: 6px; border-bottom: 2px solid var(--ink);
   }
+  h3.src {
+    font-size: 0.85rem; margin: 18px 0 0; padding: 2px 0 2px 8px;
+    border-left: 3px solid var(--accent); color: var(--ink-2);
+    text-transform: uppercase; letter-spacing: 0.03em;
+  }
   .sec-note { color: var(--muted); font-size: 0.8rem; margin: 4px 0 10px; }
 
   /* ---------- news list ---------- */
@@ -171,6 +176,7 @@
   <a href="#so-lieu">Số liệu</a>
   <a href="#the-gioi">Thế giới</a>
   <a href="#viet-nam">Việt Nam</a>
+  <a href="#phap-ly">Pháp lý</a>
   <a href="#chot-quyen">Chốt quyền</a>
 </nav>
 
@@ -224,19 +230,54 @@
 </section>
 
 <!-- ============================================================
-     PHẦN III — TIN TỨC VIỆT NAM (ROUTINE điền: đánh số liền 1→70;
-     tin 1-10 là cụm PHÁP LÝ dùng class "legal"; từ 11 trộn mọi
-     nguồn VN, xếp MỚI → CŨ (tin mới nhất lên đầu); ƯU TIÊN doanh
-     nghiệp lớn/vốn hóa lớn; TUYỆT ĐỐI không tin trùng; link bài gốc).
+     PHẦN III — TIN TỨC VIỆT NAM (ROUTINE điền: NHÓM THEO BÁO,
+     thứ tự báo phổ biến trước: CafeF → Vietstock → VnEconomy →
+     Tin nhanh Chứng khoán → Báo Đầu tư → MarketTimes → VnBusiness →
+     Tiền Phong → Thời báo Ngân hàng → BNEWS → HOSE.
+     Mỗi báo 1 khối: <h3 class="src">Tên báo</h3> + <ol class="news">
+     riêng; số RESET từ 1 trong mỗi báo; tin MỚI → CŨ; tổng ≤60 tin;
+     báo không có tin đạt chuẩn thì BỎ HẲN khối; ƯU TIÊN doanh nghiệp
+     lớn; 1 sự kiện chỉ 1 lần toàn bản tin — báo đứng trước giữ tin;
+     TIN PHÁP LÝ KHÔNG để ở đây (chuyển xuống Phần IV); tiêu đề gắn
+     <a href> bài gốc khi có; meta CHỈ ghi giờ (nguồn đã ở tên khối).
      ============================================================ -->
 <section id="viet-nam">
   <h2>III. Tin tức Việt Nam</h2>
-  <p class="sec-note">Mở đầu: 🚨 Pháp lý – thanh tra – khởi tố · sau đó tin trộn nguồn, mới nhất trước · ưu tiên doanh nghiệp lớn</p>
+  <p class="sec-note">Nhóm theo báo, báo phổ biến trước · trong mỗi báo tin mới nhất trước · ưu tiên doanh nghiệp lớn · mỗi sự kiện chỉ đưa một lần</p>
+  <h3 class="src">CafeF</h3>
   <ol class="news">
-    <li class="legal"><span class="n">1.</span><div class="t"><a href="#">🚨 Khởi tố nguyên chủ tịch HĐQT công ty X về tội thao túng thị trường chứng khoán</a><div class="meta">CafeF · 21:40 hôm qua</div></div></li>
-    <li class="legal"><span class="n">2.</span><div class="t"><a href="#">🚨 UBCKNN xử phạt công ty Y 350 triệu đồng do vi phạm công bố thông tin</a><div class="meta">Vietstock · 19:15 hôm qua</div></div></li>
-    <li><span class="n">11.</span><div class="t"><a href="#">HOSE: Công ty W đăng ký mua lại 5 triệu cổ phiếu quỹ từ 05/08</a><div class="meta">HOSE · 05:45</div></div></li>
-    <li><span class="n">12.</span><div class="t"><a href="#">Doanh nghiệp Z báo lãi quý II gấp 3 lần cùng kỳ, hoàn thành 80% kế hoạch năm</a><div class="meta">VnEconomy · 22:30 hôm qua</div></div></li>
+    <li><span class="n">1.</span><div class="t"><a href="#">HPG: Hòa Phát báo lãi quý II 4.200 tỷ đồng, cao nhất 8 quý</a><div class="meta">05:50</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="#">Khối ngoại mua ròng phiên thứ 5 liên tiếp trên HOSE</a><div class="meta">22:15 hôm qua</div></div></li>
+  </ol>
+  <h3 class="src">Vietstock</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="#">VCB: Vietcombank chốt ngày trả cổ tức tiền mặt tỷ lệ 8%</a><div class="meta">21:00 hôm qua</div></div></li>
+  </ol>
+  <h3 class="src">HOSE</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="#">Công ty W đăng ký mua lại 5 triệu cổ phiếu quỹ từ 05/08</a><div class="meta">05:45</div></div></li>
+  </ol>
+</section>
+
+<!-- ============================================================
+     PHẦN IV — PHÁP LÝ – THANH TRA – KHỞI TỐ (ROUTINE điền:
+     ĐẶT DƯỚI CÙNG, ngay trước Lịch chốt quyền; tối đa 10 tin;
+     cũng NHÓM THEO BÁO theo thứ tự Phần III, báo ngoài danh sách
+     (VnExpress, Báo Thanh tra...) xếp cuối; mỗi <li> dùng class
+     "legal" + 🚨 đầu tiêu đề; số RESET từng báo; MỚI → CŨ;
+     ƯU TIÊN doanh nghiệp lớn/niêm yết, vụ án lớn, lãnh đạo DN,
+     UBCKNN — bỏ án vặt; meta chỉ ghi giờ; link bài gốc khi có.
+     ============================================================ -->
+<section id="phap-ly">
+  <h2>IV. 🚨 Pháp lý – Thanh tra – Khởi tố</h2>
+  <p class="sec-note">Xếp theo báo · ưu tiên doanh nghiệp lớn, vụ án lớn</p>
+  <h3 class="src">CafeF</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t"><a href="#">🚨 Khởi tố nguyên chủ tịch HĐQT công ty X về tội thao túng thị trường chứng khoán</a><div class="meta">21:40 hôm qua</div></div></li>
+  </ol>
+  <h3 class="src">VnExpress</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t"><a href="#">🚨 UBCKNN xử phạt công ty Y 350 triệu đồng do vi phạm công bố thông tin</a><div class="meta">19:15 hôm qua</div></div></li>
   </ol>
 </section>
 
