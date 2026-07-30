@@ -118,6 +118,11 @@
     font-size: 1.02rem; margin: 0 0 4px;
     padding-bottom: 6px; border-bottom: 2px solid var(--ink);
   }
+  h3.src {
+    font-size: 0.85rem; margin: 18px 0 0; padding: 2px 0 2px 8px;
+    border-left: 3px solid var(--accent); color: var(--ink-2);
+    text-transform: uppercase; letter-spacing: 0.03em;
+  }
   .sec-note { color: var(--muted); font-size: 0.8rem; margin: 4px 0 10px; }
 
   ol.news { list-style: none; margin: 10px 0 0; padding: 0; counter-reset: none; }
@@ -152,7 +157,7 @@
   <div class="masthead">
     <div>
       <h1><span class="logo">📈</span>Bản tin Chứng khoán Sáng</h1>
-      <div class="dateline">Thứ Năm, 30/07/2026 · <span class="updated">cập nhật 06:31</span></div>
+      <div class="dateline">Thứ Năm, 30/07/2026 · <span class="updated">cập nhật 19:30</span></div>
     </div>
     <button id="themeBtn" title="Đổi giao diện sáng/tối">🌙</button>
   </div>
@@ -162,6 +167,7 @@
   <a href="#so-lieu">Số liệu</a>
   <a href="#the-gioi">Thế giới</a>
   <a href="#viet-nam">Việt Nam</a>
+  <a href="#phap-ly">Pháp lý</a>
   <a href="#chot-quyen">Chốt quyền</a>
 </nav>
 
@@ -171,140 +177,237 @@
     <div class="tile"><div class="label">S&amp;P 500</div><div class="value">7.316,15</div><div class="delta down">▼ −1,52%</div></div>
     <div class="tile"><div class="label">Dow Jones</div><div class="value">51.594,14</div><div class="delta down">▼ −2,19%</div></div>
     <div class="tile"><div class="label">Nasdaq</div><div class="value">24.442,94</div><div class="delta down">▼ −1,74%</div></div>
-    <div class="tile"><div class="label">Dầu WTI</div><div class="value">84,20 $</div><div class="delta up">▲ +6,44%</div></div>
-    <div class="tile"><div class="label">Dầu Brent</div><div class="value">89,43 $</div><div class="delta up">▲ +6,92%</div></div>
-    <div class="tile"><div class="label">Vàng thế giới</div><div class="value">4.100 $/oz</div><div class="delta up">▲ +0,83%</div></div>
-    <div class="tile"><div class="label">Bitcoin</div><div class="value">63.944 $</div><div class="delta up">▲ +0,31%</div></div>
-    <div class="tile"><div class="label">DXY</div><div class="value">101,30</div><div class="delta down">▼ −0,12%</div></div>
+    <div class="tile"><div class="label">Dầu WTI</div><div class="value">81,40 $</div><div class="delta down">▼ −1,46%</div></div>
+    <div class="tile"><div class="label">Dầu Brent</div><div class="value">88,51 $</div><div class="delta up">▲ +0,48%</div></div>
+    <div class="tile"><div class="label">Vàng thế giới</div><div class="value">4.087 $/oz</div><div class="delta down">▼ −1,19%</div></div>
+    <div class="tile"><div class="label">Bitcoin</div><div class="value">63.280 $</div><div class="delta down">▼ −0,65%</div></div>
+    <div class="tile"><div class="label">DXY</div><div class="value">101,44</div><div class="delta down">▼ −0,09%</div></div>
   </div>
 
   <table>
     <thead><tr><th>Trong nước &amp; tỷ giá</th><th class="num">Giá trị</th><th class="num">Thay đổi</th></tr></thead>
     <tbody>
-      <tr><td>VN-Index</td><td class="num">1.704,68</td><td class="num chg-up">▲ +1,43%</td></tr>
-      <tr><td>HNX-Index</td><td class="num">271,68</td><td class="num chg-up">▲ +0,83%</td></tr>
-      <tr><td>Thanh khoản HOSE</td><td class="num">~11.784 tỷ</td><td class="num"></td></tr>
-      <tr><td>Khối ngoại (HOSE)</td><td class="num">bán ròng ~88 tỷ</td><td class="num"></td></tr>
-      <tr><td>Bạc thế giới</td><td class="num">58,05 $/oz</td><td class="num chg-up">▲ +0,90%</td></tr>
-      <tr><td>Vàng SJC</td><td class="num">137,5 - 141,5 tr/lượng</td><td class="num chg-up">▲ +0,4 tr</td></tr>
-      <tr><td>USD/VND (VCB bán)</td><td class="num">26.515</td><td class="num chg-down">▼ −10</td></tr>
+      <tr><td>VN-Index</td><td class="num">1.744,66</td><td class="num chg-up">▲ +2,35%</td></tr>
+      <tr><td>HNX-Index</td><td class="num">275,05</td><td class="num chg-up">▲ +1,24%</td></tr>
+      <tr><td>Thanh khoản HOSE</td><td class="num">~20.264 tỷ</td><td class="num"></td></tr>
+      <tr><td>Khối ngoại (HOSE)</td><td class="num">mua ròng 677 tỷ</td><td class="num"></td></tr>
+      <tr><td>Bạc thế giới</td><td class="num">58,10 $/oz</td><td class="num chg-up">▲ +0,31%</td></tr>
+      <tr><td>Vàng SJC</td><td class="num">137,7 - 141,7 tr/lượng</td><td class="num chg-down">▼ −0,8 tr</td></tr>
+      <tr><td>USD/VND (VCB bán)</td><td class="num">26.520</td><td class="num chg-up">▲ +5</td></tr>
     </tbody>
   </table>
-  <p>Chứng khoán Mỹ giảm mạnh trong phiên 29/7 (giờ Mỹ) sau khi Fed giữ nguyên lãi suất ở mức 3,5–3,75% nhưng phát tín hiệu thận trọng hơn kỳ vọng, đẩy lợi suất trái phiếu kỳ hạn 30 năm vượt 5,2% — cao nhất kể từ 2007; Dow rơi hơn 1.100 điểm, phiên tệ nhất kể từ tháng 4/2025. Căng thẳng leo thang sau tin quân đội Mỹ không kích Iran đã đẩy giá dầu WTI và Brent tăng vọt hơn 6%, trong khi vàng bật lên gần 4.100 USD/oz nhờ nhu cầu trú ẩn. Trong nước, VN-Index đảo chiều tăng hơn 24 điểm lên 1.704,68 điểm trong phiên 29/7, được dẫn dắt bởi nhóm cổ phiếu họ Vingroup, dù thanh khoản còn thấp và khối ngoại tiếp tục bán ròng nhẹ. Tỷ giá USD/VND tại Vietcombank hạ nhẹ trong khi giá vàng SJC sáng nay nhích lên, giữa bối cảnh thị trường thế giới biến động mạnh vì Fed và xung đột Iran.</p>
+  <p>Phố Wall vẫn chịu dư chấn từ phiên giảm mạnh 29/7 (giờ Mỹ) sau khi Fed giữ nguyên lãi suất nhưng phát tín hiệu thận trọng hơn kỳ vọng, đẩy lợi suất trái phiếu kỳ hạn 30 năm lên đỉnh kể từ 2007 — Dow rơi hơn 1.150 điểm, phiên tệ nhất kể từ tháng 4/2025; hợp đồng tương lai Mỹ sáng nay (giờ VN) hồi phục nhẹ trước loạt dữ liệu việc làm, PCE và GDP. Đêm qua Ngân hàng Trung ương Anh (BOE) giữ nguyên lãi suất 3,75% với tỷ lệ ủng hộ sít sao 6-3, trong khi CPI sơ bộ tháng 7 của Đức, Pháp, Ý, Tây Ban Nha đồng loạt vượt dự báo, cho thấy áp lực lạm phát châu Âu chưa hạ nhiệt. Vàng và dầu quay đầu điều chỉnh sau đợt tăng vọt vì căng thẳng Trung Đông, trong khi bạc tiếp tục neo cao quanh 58 USD/oz. Trong nước, VN-Index bứt phá gần 40 điểm lên 1.744,66 điểm — phiên tăng thứ 3 liên tiếp — với dòng tiền lan tỏa mạnh, khối ngoại đảo chiều mua ròng gần 677 tỷ đồng sau 6 phiên bán ròng liên tiếp, dẫn dắt bởi VIC, VNM, MSN và FPT.</p>
 </section>
 
 <section id="the-gioi">
   <h2>II. Tin tức thế giới</h2>
   <p class="sec-note">Tối đa 30 tin · mới nhất trước · tin dịch ghi "(dịch)"</p>
   <ol class="news">
-    <li><span class="n">1.</span><div class="t">Vàng thế giới bật tăng lên chạm mốc 4.100 USD/oz, có lúc tăng tới 0,8% trong phiên sau khi Fed giữ nguyên lãi suất (dịch)<div class="meta">Market News Feed · 06:27</div></div></li>
-    <li><span class="n">2.</span><div class="t">Meta và Microsoft chỉ thể hiện sự ủng hộ dè dặt với nhóm cổ phiếu bán dẫn đang chịu áp lực (dịch)<div class="meta">Market News Feed · 06:19</div></div></li>
-    <li><span class="n">3.</span><div class="t">Thượng nghị sĩ Mỹ cảnh báo Apple không được mua chip nhớ từ các hãng Trung Quốc (dịch)<div class="meta">Market News Feed · 06:18</div></div></li>
-    <li><span class="n">4.</span><div class="t">Lầu Năm Góc trao hợp đồng 59 tỷ USD cho Lockheed Martin để tăng gấp 3 sản lượng tên lửa Patriot (dịch)<div class="meta">Market News Feed · 06:14</div></div></li>
-    <li><span class="n">5.</span><div class="t">Quân đội Mỹ tiến hành không kích tại Iran (dịch)<div class="meta">Market News Feed · 06:12</div></div></li>
-    <li><span class="n">6.</span><div class="t">Jersey Mike's chào bán cổ phần lần đầu (IPO), định giá 23 USD/cổ phiếu (dịch)<div class="meta">Market News Feed · 06:11</div></div></li>
-    <li><span class="n">7.</span><div class="t">Microsoft: Doanh thu Azure quý 4 tăng 43%, chi vốn (capex) cả năm ước khoảng 175 tỷ USD, dự kiến capex quý tới vượt 50 tỷ USD (dịch)<div class="meta">Market News Feed · 06:10</div></div></li>
-    <li><span class="n">8.</span><div class="t">Trump cân nhắc chiến dịch không kích Iran kéo dài hai tuần<div class="meta">Dubaotiente · 05:48</div></div></li>
-    <li><span class="n">9.</span><div class="t">Cổ phiếu Microsoft tăng 7% sau giờ giao dịch nhờ định hướng chi vốn tích cực<div class="meta">Dubaotiente · 05:39</div></div></li>
-    <li><span class="n">10.</span><div class="t">RBA đưa ra bình luận về chính sách lãi suất và lạm phát (dịch)<div class="meta">Market News Feed · 05:25</div></div></li>
-    <li><span class="n">11.</span><div class="t">Trump chỉ trích các phán quyết của Tòa án Tối cao Mỹ về quốc tịch và thuế quan (dịch)<div class="meta">VN Wall Street · 05:18</div></div></li>
-    <li><span class="n">12.</span><div class="t">Quỹ SPDR Gold Trust tăng nắm giữ thêm 0,571 tấn vàng trong phiên (dịch)<div class="meta">VN Wall Street · 05:17</div></div></li>
-    <li><span class="n">13.</span><div class="t">Cổ phiếu Meta giảm 11% sau khi CFO tuyên bố tiếp tục mở rộng năng lực điện toán đến năm 2028 và xa hơn<div class="meta">Dubaotiente · 04:40</div></div></li>
-    <li><span class="n">14.</span><div class="t">Chứng khoán Mỹ đóng cửa gần đáy phiên, thị trường không hài lòng với quyết định của Fed<div class="meta">Dubaotiente · 03:53</div></div></li>
-    <li><span class="n">15.</span><div class="t">Tổng hợp kết quả kinh doanh quý 2: Microsoft, Meta, Qualcomm, Starbucks, Arm<div class="meta">Dubaotiente · 03:49</div></div></li>
-    <li><span class="n">16.</span><div class="t">Trump tuyên bố sẽ có biện pháp trả đũa mạnh nhằm vào Iran (dịch)<div class="meta">VN Wall Street · 03:18</div></div></li>
-    <li><span class="n">17.</span><div class="t">Lợi suất trái phiếu Kho bạc Mỹ tăng vọt trên mọi kỳ hạn sau cuộc họp Fed (dịch)<div class="meta">VN Wall Street · 03:02</div></div></li>
-    <li><span class="n">18.</span><div class="t">Liên minh Saudi Arabia tìm kiếm thỏa thuận bảo vệ hàng hải trước nguy cơ từ Houthi (dịch)<div class="meta">VN Wall Street · 02:57</div></div></li>
-    <li><span class="n">19.</span><div class="t">Chủ tịch Fed Waller bác bỏ cách gọi "tạm dừng" chính sách, cho rằng định hướng thấp hơn giúp thị trường "tự lên tiếng" (dịch)<div class="meta">VN Wall Street · 02:48</div></div></li>
-    <li><span class="n">20.</span><div class="t">Lợi suất trái phiếu kỳ hạn 30 năm của Mỹ vượt 5,20%, cao nhất kể từ năm 2007 (dịch)<div class="meta">VN Wall Street · 02:42</div></div></li>
-    <li><span class="n">21.</span><div class="t">Trump tìm cách đưa lệnh trừng phạt Iran vào dự luật trừng phạt Nga (dịch)<div class="meta">VN Wall Street · 02:39</div></div></li>
-    <li><span class="n">22.</span><div class="t">Trump khen ngợi Chủ tịch Fed Powell "xuất sắc", bàn về nhân sự hội đồng Fed (dịch)<div class="meta">VN Wall Street · 02:28</div></div></li>
-    <li><span class="n">23.</span><div class="t">Chủ tịch Fed Warsh: kinh tế Mỹ cho thấy sức chống chịu ấn tượng, kiên định mục tiêu ổn định giá cả<div class="meta">Dubaotiente · 01:40</div></div></li>
-    <li><span class="n">24.</span><div class="t">Cố vấn kinh tế Nhà Trắng Hassett: Tổng thống Trump đánh giá cao ông Kevin Warsh<div class="meta">Dubaotiente · 01:25</div></div></li>
-    <li><span class="n">25.</span><div class="t">Mỹ chuẩn bị cho phản ứng mạnh hơn nhằm vào Iran<div class="meta">Dubaotiente · 01:24</div></div></li>
-    <li><span class="n">26.</span><div class="t">Những điểm chính từ biên bản họp tháng 7 của Ngân hàng Trung ương Canada<div class="meta">Dubaotiente · 01:22</div></div></li>
-    <li><span class="n">27.</span><div class="t">Fed giữ nguyên lãi suất ở mức 3,5% - 3,75%<div class="meta">Dubaotiente · 01:13</div></div></li>
-    <li><span class="n">28.</span><div class="t">Thị trường nghiêng về khả năng Fed giữ nguyên chính sách trước giờ G, dù vẫn có thể thắt chặt<div class="meta">Dubaotiente · 00:03</div></div></li>
-    <li><span class="n">29.</span><div class="t">Chứng khoán châu Âu và Mỹ giảm điểm khi thị trường lo ngại về Fed và rủi ro chiến tranh<div class="meta">Dubaotiente · 23:09 hôm qua</div></div></li>
-    <li><span class="n">30.</span><div class="t">Tồn kho dầu thô Mỹ giảm 7,167 triệu thùng, giá dầu lập đỉnh mới<div class="meta">Dubaotiente · 22:00 hôm qua</div></div></li>
+    <li><span class="n">1.</span><div class="t">Dữ liệu Mỹ về thất nghiệp, PCE và GDP chuẩn bị công bố<div class="meta">VN Wall Street · 12:20</div></div></li>
+    <li><span class="n">2.</span><div class="t">Thống đốc BOE Bailey: đường cong lãi suất thị trường phù hợp với hiểu biết kinh tế hiện tại<div class="meta">VN Wall Street · 12:16</div></div></li>
+    <li><span class="n">3.</span><div class="t">Thống đốc BOE Bailey: có thể cần tăng lãi suất nếu xung đột Trung Đông kéo dài và có tác động vòng hai<div class="meta">VN Wall Street · 12:13</div></div></li>
+    <li><span class="n">4.</span><div class="t">CPI sơ bộ tháng 7 của Đức tăng 2,8%, cao hơn dự báo 2,7%<div class="meta">Dubaotiente · 12:09</div></div></li>
+    <li><span class="n">5.</span><div class="t">BOE Bailey: chưa có bằng chứng về hiệu ứng vòng hai từ lạm phát nhưng vẫn cảnh giác<div class="meta">VN Wall Street · 12:03</div></div></li>
+    <li><span class="n">6.</span><div class="t">BOE Bailey: sẵn sàng điều chỉnh chính sách dựa trên diễn biến kinh tế thực tế<div class="meta">VN Wall Street · 12:02</div></div></li>
+    <li><span class="n">7.</span><div class="t">CPI tháng 7 của Đức ở mức 0,8%, cao hơn dự báo 0,7%<div class="meta">VN Wall Street · 12:00</div></div></li>
+    <li><span class="n">8.</span><div class="t">Tổng kết phiên châu Âu: USD nối dài đà giảm sau Fed, BOE giữ nguyên lãi suất<div class="meta">Dubaotiente · 12:00</div></div></li>
+    <li><span class="n">9.</span><div class="t">Đồng Bảng Anh giảm sau quyết định giữ nguyên lãi suất của BOE<div class="meta">VN Wall Street · 11:54</div></div></li>
+    <li><span class="n">10.</span><div class="t">Intercontinental Exchange (ICE) mua lại MarketAxess với giá 167 USD/cổ phiếu<div class="meta">VN Wall Street · 11:28</div></div></li>
+    <li><span class="n">11.</span><div class="t">Lợi suất trái phiếu Chính phủ Anh giảm sau quyết định giữ nguyên lãi suất của BOE<div class="meta">VN Wall Street · 11:26</div></div></li>
+    <li><span class="n">12.</span><div class="t">Thị trường dự báo BOE tăng thêm 25 điểm cơ bản trong quý IV và 25 điểm cơ bản năm 2027<div class="meta">VN Wall Street · 11:10</div></div></li>
+    <li><span class="n">13.</span><div class="t">BOE giữ nguyên lãi suất ở mức 3,75% trong cuộc họp tháng 7<div class="meta">Dubaotiente · 11:10</div></div></li>
+    <li><span class="n">14.</span><div class="t">BOE giữ nguyên lãi suất, cho rằng rủi ro giá năng lượng là yếu tố chính cần theo dõi<div class="meta">VN Wall Street · 11:06</div></div></li>
+    <li><span class="n">15.</span><div class="t">Ủy ban chính sách BOE: chưa thấy rõ hiệu ứng vòng hai nhưng lạm phát đang trong xu hướng giảm<div class="meta">VN Wall Street · 11:05</div></div></li>
+    <li><span class="n">16.</span><div class="t">BOE giữ nguyên lãi suất, tỷ lệ ủng hộ sít sao 6-3 trong hội đồng chính sách<div class="meta">VN Wall Street · 11:02</div></div></li>
+    <li><span class="n">17.</span><div class="t">BOE dự báo tăng trưởng kinh tế Anh 1,1% (2026-2027) và 1,7% (2028)<div class="meta">VN Wall Street · 11:01</div></div></li>
+    <li><span class="n">18.</span><div class="t">USD/JPY lao dốc nhanh sau quyết định FOMC trước khi hồi nhẹ trở lại<div class="meta">Dubaotiente · 10:30</div></div></li>
+    <li><span class="n">19.</span><div class="t">Chỉ số tâm lý kinh tế khu vực đồng Euro tiếp tục phục hồi trong tháng 7<div class="meta">Dubaotiente · 09:19</div></div></li>
+    <li><span class="n">20.</span><div class="t">Niềm tin tiêu dùng cuối tháng 7 của Eurozone ở mức -15,9, khớp số liệu sơ bộ<div class="meta">Dubaotiente · 09:11</div></div></li>
+    <li><span class="n">21.</span><div class="t">GDP sơ bộ quý 2 của Eurozone tăng 0,4% so với quý trước, vượt dự báo 0,2%<div class="meta">Dubaotiente · 09:09</div></div></li>
+    <li><span class="n">22.</span><div class="t">KBC Bank: lợi suất trái phiếu 30 năm của Mỹ lên đỉnh kể từ 2007 khi Fed chật vật duy trì uy tín<div class="meta">Dubaotiente · 08:41</div></div></li>
+    <li><span class="n">23.</span><div class="t">Lạm phát Đức được dự báo tăng trở lại trong tháng 7, số liệu các bang đồng loạt tăng tốc<div class="meta">Dubaotiente · 08:32</div></div></li>
+    <li><span class="n">24.</span><div class="t">Kinh tế Đức trụ vững trong quý 2, tiếp tục tăng trưởng nhẹ<div class="meta">Dubaotiente · 08:14</div></div></li>
+    <li><span class="n">25.</span><div class="t">GDP sơ bộ quý 2 của Ý tăng 0,2%, vượt dự báo 0,1%<div class="meta">Dubaotiente · 08:09</div></div></li>
+    <li><span class="n">26.</span><div class="t">USD/JPY lao dốc sau quyết định FOMC, nhưng đà giảm của USD khó kéo dài<div class="meta">Dubaotiente · 07:50</div></div></li>
+    <li><span class="n">27.</span><div class="t">Kinh tế Tây Ban Nha tiếp tục cho thấy sức bền trong quý 2, tăng trưởng vượt dự báo<div class="meta">Dubaotiente · 07:21</div></div></li>
+    <li><span class="n">28.</span><div class="t">Lạm phát Tây Ban Nha dự kiến tiếp tục tăng tốc trong tháng 7<div class="meta">Dubaotiente · 07:13</div></div></li>
+    <li><span class="n">29.</span><div class="t">Kinh tế Pháp phục hồi trong quý 2 nhưng động lực tăng trưởng chung vẫn ảm đạm<div class="meta">Dubaotiente · 05:49</div></div></li>
+    <li><span class="n">30.</span><div class="t">JPMorgan dự báo Fed sẽ tăng lãi suất trở lại vào tháng 12 năm nay<div class="meta">Dubaotiente · 05:30</div></div></li>
   </ol>
 </section>
 
 <section id="viet-nam">
   <h2>III. Tin tức Việt Nam</h2>
-  <p class="sec-note">Mở đầu: 🚨 Pháp lý – thanh tra – khởi tố · sau đó tin trộn nguồn, mới nhất trước · ưu tiên doanh nghiệp lớn</p>
-  <ol class="news">
-    <li class="legal"><span class="n">1.</span><div class="t"><a href="https://cafef.vn/thanh-tra-chinh-phu-neu-sai-pham-cua-acv-tct-36-vietur-va-loat-nha-thau-tai-da-san-bay-long-thanh-chuyen-bo-cong-an-dieu-tra-188260729110352614.chn">🚨 Long Thành: Thanh tra Chính phủ chỉ ra sai phạm chuyển nhượng thầu hơn 3.200 tỷ đồng tại ACV, Tổng công ty 36, Vietur và loạt nhà thầu sân bay Long Thành giai đoạn 1, chuyển hồ sơ sang Bộ Công an điều tra</a><div class="meta">CafeF · 11:04 hôm qua</div></div></li>
-    <li class="legal"><span class="n">2.</span><div class="t"><a href="https://vnexpress.net/thu-truong-nong-nghiep-va-moi-truong-hoang-trung-bi-bat-5102722.html">🚨 Thứ trưởng Bộ Nông nghiệp và Môi trường Hoàng Trung bị bắt vì cáo buộc nhận hối lộ, ban hành "giấy phép con" phục vụ lợi ích nhóm trong xuất khẩu sầu riêng</a><div class="meta">VnExpress · 23:40 hôm qua</div></div></li>
-    <li class="legal"><span class="n">3.</span><div class="t"><a href="https://cafef.vn/sau-khi-cuu-chu-tich-hdqt-bi-khoi-to-cong-ty-dien-bao-lai-quy-2-tang-75-lan-48-tong-tai-san-la-tien-mat-va-tien-gui-ngan-hang-188260729082812871.chn">🚨 TV2 (cựu Chủ tịch HĐQT Nguyễn Chơn Hùng bị khởi tố): doanh nghiệp vẫn báo lãi quý 2 tăng 75%, 48% tổng tài sản là tiền mặt và tiền gửi ngân hàng</a><div class="meta">CafeF · 08:28 hôm qua</div></div></li>
-    <li class="legal"><span class="n">4.</span><div class="t">🚨 Hóa chất Đức Giang (DGC): Tân Tổng giám đốc bị khởi tố, thêm 3 lãnh đạo liên quan vụ án, lợi nhuận giảm một nửa, cổ phiếu rơi đáy 5 năm<div class="meta">Tuổi Trẻ · 23/7</div></div></li>
-    <li class="legal"><span class="n">5.</span><div class="t"><a href="https://cafef.vn/vietravel-vtr-bi-phat-295-trieu-dong-vi-hang-loat-vi-pham-cong-bo-thong-tin-va-giao-dich-voi-ben-lien-quan-188260729210742444.chn">🚨 Vietravel (VTR) bị phạt 295 triệu đồng vì hàng loạt vi phạm công bố thông tin và giao dịch với bên liên quan</a><div class="meta">CafeF · 21:07 hôm qua</div></div></li>
-    <li class="legal"><span class="n">6.</span><div class="t">🚨 Đồng Nai: Thanh tra phát hiện sai sót trong quản lý tài chính tại Ban Quản lý các khu công nghiệp<div class="meta">Báo Thanh tra · 28/7</div></div></li>
-    <li class="legal"><span class="n">7.</span><div class="t"><a href="https://cafef.vn/ra-soat-7-doanh-nghiep-nha-nuoc-tai-thai-nguyen-188260729211852694.chn">🚨 Rà soát hoạt động của 7 doanh nghiệp Nhà nước tại Thái Nguyên</a><div class="meta">CafeF · 21:18 hôm qua</div></div></li>
+  <p class="sec-note">Nhóm theo báo, báo phổ biến trước · trong mỗi báo tin mới nhất trước · ưu tiên doanh nghiệp lớn · mỗi sự kiện chỉ đưa một lần</p>
 
-    <li><span class="n">8.</span><div class="t"><a href="https://cafef.vn/cap-nhat-bctc-quy-2-2026-sang-ngay-30-7-loat-doanh-nghiep-ten-tuoi-da-cong-bo-nhieu-ket-qua-bat-ngo-18826072923081518.chn">Cập nhật BCTC quý 2/2026 sáng nay: Đạm Cà Mau (DCM) lãi 2.065 tỷ đồng 6 tháng, tăng 54%, loạt doanh nghiệp lớn công bố kết quả bất ngờ</a><div class="meta">CafeF · 06:31</div></div></li>
-    <li><span class="n">9.</span><div class="t"><a href="https://tienphong.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-post1863615.tpo">Đằng sau "cuộc đua" lãi suất huy động và cho vay giữa các ngân hàng</a><div class="meta">Tiền Phong · 05:37</div></div></li>
-    <li><span class="n">10.</span><div class="t"><a href="https://cafef.vn/mot-ca-map-thang-tay-cat-lo-hon-nua-danh-muc-co-phieu-188260729232926669.chn">Một "cá mập" thẳng tay cắt lỗ hơn nửa danh mục cổ phiếu (DGW)</a><div class="meta">CafeF · 00:10</div></div></li>
-    <li><span class="n">11.</span><div class="t"><a href="https://cafef.vn/54-quy-cung-xuong-tien-gom-mot-co-phieu-ngan-hang-dieu-gi-dang-dien-ra-188260729222413426.chn">54 quỹ đầu tư cùng "xuống tiền" gom cổ phiếu ngân hàng ACB, điều gì đang diễn ra?</a><div class="meta">CafeF · 00:08</div></div></li>
-    <li><span class="n">12.</span><div class="t"><a href="https://cafef.vn/lo-dien-dai-gia-gui-hang-tram-ty-dong-khong-ky-han-188260729212211375.chn">Lộ diện "đại gia" gửi hàng trăm tỷ đồng không kỳ hạn tại Techcombank</a><div class="meta">CafeF · 00:05</div></div></li>
-    <li><span class="n">13.</span><div class="t"><a href="https://cafef.vn/nha-vang-sjc-bi-gia-mao-188260729212024631.chn">"Nhà vàng" SJC bị giả mạo</a><div class="meta">CafeF · 00:04</div></div></li>
-    <li><span class="n">14.</span><div class="t"><a href="https://cafef.vn/loat-ca-map-da-am-tham-lam-mot-viec-truoc-cu-roi-hon-200-diem-cua-vn-index-188260729222548034.chn">Loạt "cá mập" đã âm thầm hành động trước cú rơi hơn 200 điểm của VN-Index</a><div class="meta">CafeF · 00:01</div></div></li>
-    <li><span class="n">15.</span><div class="t"><a href="http://vietstock.vn/2026/07/gelex-lai-truoc-thue-26-ngan-ty-sau-6-thang-737-1473185.htm">GELEX (GEX) lãi trước thuế 2.611 tỷ đồng sau 6 tháng, tiếp tục đầu tư cho chu kỳ tăng trưởng mới</a><div class="meta">Vietstock · 22:49 hôm qua</div></div></li>
-    <li><span class="n">16.</span><div class="t"><a href="http://vietstock.vn/2026/07/giai-ma-loi-nhuan-ky-luc-cua-masan-cu-hich-tu-vat-lieu-cong-nghe-cao-va-suc-manh-cua-ai-737-1473176.htm">Masan (MSN): Giải mã lợi nhuận kỷ lục nhờ vật liệu công nghệ cao và sức mạnh của AI</a><div class="meta">Vietstock · 22:09 hôm qua</div></div></li>
-    <li><span class="n">17.</span><div class="t"><a href="http://vietstock.vn/2026/07/digiworld-bao-lai-tang-truong-167-trong-quy-2-tai-cau-truc-danh-muc-dau-tu-co-phieu-737-1473103.htm">Digiworld (DGW) báo lãi tăng trưởng 167% trong quý 2</a><div class="meta">Vietstock · 19:47 hôm qua</div></div></li>
-    <li><span class="n">18.</span><div class="t"><a href="https://markettimes.vn/lai-suat-ngan-hang-29-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-126955.html">Lãi suất ngân hàng hôm qua tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank</a><div class="meta">MarketTimes · 19:35 hôm qua</div></div></li>
-    <li><span class="n">19.</span><div class="t"><a href="https://cafef.vn/bao-lai-mang-cot-loi-nha-thu-duc-tdh-but-pha-doanh-thu-quy-2-188260729192211369.chn">Nhà Thủ Đức (TDH) báo lãi mảng cốt lõi, doanh thu quý 2 bứt phá</a><div class="meta">CafeF · 19:30 hôm qua</div></div></li>
-    <li><span class="n">20.</span><div class="t"><a href="http://vietstock.vn/2026/07/ssi-duyet-chi-500-ty-dong-lap-quy-dau-tu-cong-nghe-737-1473123.htm">SSI duyệt chi 500 tỷ đồng lập quỹ đầu tư công nghệ, ông Nguyễn Duy Hưng ký quyết định</a><div class="meta">Vietstock · 18:48 hôm qua</div></div></li>
-    <li><span class="n">21.</span><div class="t"><a href="https://cafef.vn/doanh-thu-fpt-retail-dat-30743-ty-dong-trong-nua-dau-nam-2026-nha-thuoc-long-chau-dan-dat-da-tang-truong-188260729174415306.chn">FPT Retail (FRT): Doanh thu đạt 30.743 tỷ đồng nửa đầu năm 2026, Long Châu dẫn dắt tăng trưởng</a><div class="meta">CafeF · 17:54 hôm qua</div></div></li>
-    <li><span class="n">22.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/bhn-trich-yeu-nghi-quyet-hdqt-ve-viec-chap-thuan-hop-dong-voi-nguoi-lien-quan/2483993">BHN (Habeco): Nghị quyết HĐQT chấp thuận hợp đồng giao dịch với người có liên quan</a><div class="meta">HOSE · 17:40 hôm qua</div></div></li>
-    <li><span class="n">23.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/vtp-dieu-chinh-bao-cao-ket-qua-dot-phat-hanh-cp-de-tra-co-tuc/2483994">VTP (Viettel Post): Điều chỉnh báo cáo kết quả đợt phát hành cổ phiếu trả cổ tức</a><div class="meta">HOSE · 17:40 hôm qua</div></div></li>
-    <li><span class="n">24.</span><div class="t"><a href="http://vietstock.vn/2026/07/pgi-ghi-nhan-loi-nhuan-thue-6-thang-gan-172-ty-tang-8-737-1472899.htm">PGI ghi nhận lợi nhuận trước thuế 6 tháng gần 172 tỷ đồng, tăng 8%</a><div class="meta">Vietstock · 17:30 hôm qua</div></div></li>
-    <li><span class="n">25.</span><div class="t"><a href="http://vietstock.vn/2026/07/chu-tich-smc-dang-ky-mua-5-trieu-cp-khi-thi-gia-giam-hon-30-739-1472884.htm">Chủ tịch SMC đăng ký mua 5 triệu cổ phiếu khi thị giá giảm hơn 30%, nâng sở hữu lên hơn 8%</a><div class="meta">Vietstock · 17:15 hôm qua</div></div></li>
-    <li><span class="n">26.</span><div class="t"><a href="http://vietstock.vn/2026/07/dhdcd-bat-thuong-mst-thong-qua-thay-doi-phuong-an-phat-hanh-trai-phieu-11-ngan-ty-cho-du-an-trong-diem-tai-ha-noi-737-1472858.htm">ĐHĐCĐ bất thường MST thông qua phương án phát hành trái phiếu 11 nghìn tỷ đồng cho dự án trọng điểm tại Hà Nội</a><div class="meta">Vietstock · 16:55 hôm qua</div></div></li>
-    <li><span class="n">27.</span><div class="t"><a href="http://vietstock.vn/2026/07/leadcap-tiep-tuc-8216xa-hang8217-vsc-gia-ban-thap-hon-thoi-diem-mua-vao-37-739-1472821.htm">LeadCap tiếp tục thoái vốn VSC, giá bán thấp hơn thời điểm mua vào 37%, không còn là cổ đông lớn Viconship</a><div class="meta">Vietstock · 16:37 hôm qua</div></div></li>
-    <li><span class="n">28.</span><div class="t"><a href="https://cafef.vn/cap-nhat-bctc-quy-2-2026-sang-ngay-29-7-hagl-qns-va-pan-group-bao-lai-ban-nien-vuot-nghin-ty-nha-tu-liem-lai-gap-doi-cung-ky-188260729001003642.chn">BCTC quý 2/2026: HAGL, QNS, Pan Group báo lãi bán niên vượt nghìn tỷ đồng</a><div class="meta">CafeF · 16:33 hôm qua</div></div></li>
-    <li><span class="n">29.</span><div class="t"><a href="https://cafef.vn/co-phieu-vincom-retail-co-bien-188260729155829242.chn">Cổ phiếu Vincom Retail (VRE) tăng hết biên độ</a><div class="meta">CafeF · 16:19 hôm qua</div></div></li>
-    <li><span class="n">30.</span><div class="t"><a href="https://cafef.vn/loi-nhuan-giam-43-chuyen-gi-dang-xay-ra-voi-dabaco-cua-dai-gia-nguyen-nhu-so-188260729154105375.chn">Dabaco (DBC): Lợi nhuận giảm 43% dù doanh thu tăng</a><div class="meta">CafeF · 15:51 hôm qua</div></div></li>
-    <li><span class="n">31.</span><div class="t"><a href="https://vneconomy.vn/kha-nang-cao-vn-index-se-tien-len-vung-khang-cu-1730-trong-ngan-han.htm">Nhận định CTCK: VN-Index có khả năng tiến lên vùng kháng cự 1.730 điểm trong ngắn hạn</a><div class="meta">VnEconomy · 15:38 hôm qua</div></div></li>
-    <li><span class="n">32.</span><div class="t"><a href="http://vietstock.vn/2026/07/soi-the-ky-lo-2-quy-lien-tiep-sau-khi-nha-may-moi-di-vao-hoat-dong-737-1472760.htm">Sợi Thế Kỷ (STK) lỗ 2 quý liên tiếp sau khi nhà máy mới đi vào hoạt động</a><div class="meta">Vietstock · 15:30 hôm qua</div></div></li>
-    <li><span class="n">33.</span><div class="t"><a href="http://vietstock.vn/2026/07/cong-ty-bau-duc-lai-vuot-ngan-ty-trong-2-quy-lien-tiep-737-1472752.htm">Công ty bầu Đức (HAGL) lãi vượt nghìn tỷ đồng trong 2 quý liên tiếp, được Bộ Tài chính xóa nợ</a><div class="meta">Vietstock · 15:15 hôm qua</div></div></li>
-    <li><span class="n">34.</span><div class="t"><a href="http://vietstock.vn/2026/07/janus-group-xuat-hien-2-co-dong-lon-moi-sau-tang-von-len-573-ty-dong-764-1472751.htm">Janus Group xuất hiện 2 cổ đông lớn mới sau khi tăng vốn lên 573 tỷ đồng</a><div class="meta">Vietstock · 15:13 hôm qua</div></div></li>
-    <li><span class="n">35.</span><div class="t"><a href="http://vietstock.vn/2026/07/quy-2-but-toc-giup-bvbank-thuc-hien-duoc-80-ke-hoach-loi-nhuan-nam-737-1472696.htm">Quý 2 bứt tốc giúp BVBank thực hiện được 80% kế hoạch lợi nhuận năm</a><div class="meta">Vietstock · 15:02 hôm qua</div></div></li>
-    <li><span class="n">36.</span><div class="t"><a href="https://cafef.vn/ha-noi-cho-phep-cong-ty-ho-petrolimex-chuyen-doi-hon-2600m2-dat-vang-truong-chinh-de-xay-to-hop-nha-o-van-phong-188260729145951621.chn">Hà Nội cho phép công ty họ Petrolimex chuyển đổi hơn 2.600m² đất vàng Trường Chinh để xây tổ hợp nhà ở, văn phòng</a><div class="meta">CafeF · 15:00 hôm qua</div></div></li>
-    <li><span class="n">37.</span><div class="t"><a href="https://cafef.vn/f88-sap-chao-ban-400-ty-dong-trai-phieu-ra-cong-chung-188260728141952731.chn">F88 sắp chào bán 400 tỷ đồng trái phiếu ra công chúng, lãi suất 10%/năm</a><div class="meta">CafeF · 14:19 hôm qua</div></div></li>
-    <li><span class="n">38.</span><div class="t"><a href="http://vietstock.vn/2026/07/ncb-but-pha-ngoan-muc-sau-5-nam-tai-co-cau-tien-gan-muc-tieu-hoan-thanh-som-phuong-an-co-cau-lai-737-1472710.htm">NCB bứt phá ngoạn mục sau 5 năm tái cơ cấu, tiến gần mục tiêu hoàn thành sớm phương án</a><div class="meta">Vietstock · 14:13 hôm qua</div></div></li>
-    <li><span class="n">39.</span><div class="t"><a href="https://cafef.vn/mot-doanh-nghiep-ho-gelex-lan-dau-lai-hon-1000-ty-dong-quy-co-phieu-van-o-vung-day-1-nam-188260729134457334.chn">Một doanh nghiệp "họ GELEX" lần đầu lãi hơn 1.000 tỷ đồng/quý</a><div class="meta">CafeF · 13:53 hôm qua</div></div></li>
-    <li><span class="n">40.</span><div class="t"><a href="https://cafef.vn/khi-moi-dong-co-tang-truong-deu-tao-loi-nhuan-vi-sao-masan-tu-tin-buoc-vao-nua-cuoi-nam-2026-188260729124925101.chn">Masan tự tin bước vào nửa cuối năm 2026 với nhiều động cơ tăng trưởng mới</a><div class="meta">CafeF · 13:30 hôm qua</div></div></li>
-    <li><span class="n">41.</span><div class="t"><a href="https://cafef.vn/tap-doan-cua-bau-hien-bat-tay-vdb-mo-rong-kenh-von-cho-danh-muc-du-an-chien-luoc-188260729123239478.chn">T&amp;T Group bắt tay Ngân hàng Phát triển Việt Nam (VDB) mở rộng kênh vốn cho danh mục dự án chiến lược</a><div class="meta">CafeF · 13:30 hôm qua</div></div></li>
-    <li><span class="n">42.</span><div class="t"><a href="https://vneconomy.vn/quy-ngoai-that-nghich-ly-khi-dong-von-fdi-vao-ky-luc-khoi-ngoai-lai-ban-rong-co-phieu-viet-nam.htm">Quỹ ngoại: Nghịch lý dòng vốn FDI vào kỷ lục nhưng khối ngoại lại bán ròng cổ phiếu Việt Nam</a><div class="meta">VnEconomy · 13:19 hôm qua</div></div></li>
-    <li><span class="n">43.</span><div class="t"><a href="https://vneconomy.vn/dong-tien-rut-rong-manh-khoi-dai-loan-ruc-rich-do-vao-viet-nam.htm">Dòng tiền rút ròng mạnh khỏi Đài Loan, rục rịch đổ vào Việt Nam</a><div class="meta">VnEconomy · 13:17 hôm qua</div></div></li>
-    <li><span class="n">44.</span><div class="t"><a href="http://vietstock.vn/2026/07/lo-quy-2-chu-casino-ha-long-vien-dan-do-world-cup-2026-737-1472399.htm">Chủ casino Hạ Long (RIC) lỗ quý 2, viện dẫn nguyên nhân do World Cup 2026</a><div class="meta">Vietstock · 13:05 hôm qua</div></div></li>
-    <li><span class="n">45.</span><div class="t"><a href="http://vietstock.vn/2026/07/hoa-phat-lai-hon-6400-ty-trong-quy-2-tang-51-so-voi-cung-ky-737-1472700.htm">Hòa Phát (HPG): Lãi hơn 6.400 tỷ đồng quý 2, tăng 51%; lũy kế 6 tháng đạt 15.480 tỷ đồng, tăng 103%</a><div class="meta">Vietstock · 12:49 hôm qua</div></div></li>
-    <li><span class="n">46.</span><div class="t"><a href="http://vietstock.vn/2026/07/sgn-vuot-tac-dong-tu-vietjet-loi-nhuan-quy-2-tang-gan-20-737-1472697.htm">SGN vượt tác động từ sự cố Vietjet, lợi nhuận quý 2 tăng gần 20%</a><div class="meta">Vietstock · 12:45 hôm qua</div></div></li>
-    <li><span class="n">47.</span><div class="t"><a href="https://vneconomy.vn/mbs-research-309-nghin-ty-dong-trai-phieu-doanh-nghiep-dao-han-trong-quy-32026.htm">MBS Research: 30,9 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026</a><div class="meta">VnEconomy · 12:12 hôm qua</div></div></li>
-    <li><span class="n">48.</span><div class="t"><a href="http://vietstock.vn/2026/07/sunshine-group-lai-gan-5900-ty-dong-sau-6-thang-dau-nam-2026-tong-tai-san-vuot-125500-ty-737-1472644.htm">Sunshine Group (KSF) lãi gần 5.900 tỷ đồng sau 6 tháng, tổng tài sản vượt 125.500 tỷ đồng</a><div class="meta">Vietstock · 11:47 hôm qua</div></div></li>
-    <li><span class="n">49.</span><div class="t"><a href="https://cafef.vn/vincom-retail-bao-lai-sau-thue-hon-1600-ty-dong-trong-quy-2-2026-tang-30-so-voi-cung-ky-188260729113457144.chn">Vincom Retail (VRE) báo lãi sau thuế hơn 1.600 tỷ đồng quý 2/2026, tăng 30% so với cùng kỳ</a><div class="meta">CafeF · 11:31 hôm qua</div></div></li>
-    <li><span class="n">50.</span><div class="t"><a href="https://cafef.vn/pv-drilling-hoan-tat-tang-von-dieu-le-vuot-9200-ty-dong-188260729112248993.chn">PV Drilling hoàn tất tăng vốn điều lệ vượt 9.200 tỷ đồng</a><div class="meta">CafeF · 11:23 hôm qua</div></div></li>
-    <li><span class="n">51.</span><div class="t"><a href="https://cafef.vn/fpt-che-doi-thu-ong-lon-an-do-chuyen-doi-cham-con-doanh-nghiep-nho-thieu-nhieu-nang-luc-188260728111441855.chn">FPT: AI giúp thu hẹp khoảng cách với các "ông lớn" công nghệ Ấn Độ</a><div class="meta">CafeF · 11:15 hôm qua</div></div></li>
-    <li><span class="n">52.</span><div class="t"><a href="http://vietstock.vn/2026/07/pho-tong-tcbs-nua-cuoi-nam-thuong-la-giai-doan-kinh-doanh-thuan-loi-hon-737-1472546.htm">Phó Tổng TCBS: Nửa cuối năm thường là giai đoạn kinh doanh thuận lợi hơn</a><div class="meta">Vietstock · 10:33 hôm qua</div></div></li>
-    <li><span class="n">53.</span><div class="t"><a href="http://vietstock.vn/2026/07/chu-tich-nguyen-duc-tai-muon-mua-1-trieu-cp-mwg-tang-so-huu-739-1472602.htm">Chủ tịch Nguyễn Đức Tài đăng ký mua 1 triệu cổ phiếu MWG, tăng sở hữu</a><div class="meta">Vietstock · 10:15 hôm qua</div></div></li>
-    <li><span class="n">54.</span><div class="t"><a href="http://vietstock.vn/2026/07/chi-phi-quang-cao-bao-mon-lai-quy-2-cua-sabeco-du-tang-gia-ban-nui-tien-hon-20-ngan-ty-giup-lai-ban-nien-an-tuong-737-1471765.htm">Chi phí quảng cáo bào mòn lợi nhuận quý 2 của Sabeco (SAB) dù doanh thu bán niên vượt 20 nghìn tỷ đồng</a><div class="meta">Vietstock · 09:51 hôm qua</div></div></li>
-    <li><span class="n">55.</span><div class="t"><a href="https://cafef.vn/vincom-retail-co-tan-chu-tich-hdqt-188260729092730185.chn">Vincom Retail (VRE) có tân Chủ tịch HĐQT, thay đổi dàn lãnh đạo cấp cao</a><div class="meta">CafeF · 09:33 hôm qua</div></div></li>
-    <li><span class="n">56.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxORDlYQmpFX0pmUVZCSm52ZVYtY0RlWDk0OEpCM2cyZWwyT2RMY1R1TlZnT1FJMlNmLWZfaTJsNWVEUFM2WmtuRWUyNldpd1ozcEdkNmxEVVh3RVpsX3VfcUhGT2JuUFVGNmJGS0hsaUJCblhXNy1fOTV4aWJEVnRxWl9ueVZYV1F6S0dGRFBtR1NIb252NVlGSmdtV0hfdm1FWGfSAZ4BQVVfeXFMTTV0Sm9Yb2NWenhDWXg2X2JsU2p1NzFzdVByZWVSZXlhY25hT05XbEFFRmdrd05EYWswZl9BNHJMcGRxWEZrR0lhX1NMdEFGMTUxSl9paE9jMUd1SUN2T0RjNTlScWFHMEVZUmNrM2JIZVlORUVNSllHSGtkZ0tUc21LOFNrLWdaSU80RElTTktUbjlOenE4NVNhWWp6T1E?oc=5">VN-Index vượt 1.700 điểm ngay đầu phiên sáng 29/7, thanh khoản vẫn ở mức thấp</a><div class="meta">Tin nhanh Chứng khoán · 08:32 hôm qua</div></div></li>
-    <li><span class="n">57.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0ZJVDBmWkdkdlVNMTRBd19DRUIyZnprX3BQYkItS29hN1lrMEpJczVCRkZVU1FfS0V2X0F0YmlIbUkySVVPZ1FoSEJpVE1IdG00a3BqTWlURnpEMFNVeS1COGw3WWVBNUUtRzFMOHJOek9LMHBlbDcwTEw1enpjekFoRTU2VFhrdm1HN3FwX1Z0SEd5X3FtOUpFNk0wdlVsY2I5VTBB0gGiAUFVX3lxTFBaRjFsZUh6NzlLVTNITkVZREtCS1Jzbm1tc3lRbW11Z1VuR3J0LUJ4cmVxSWlyLWRNOExaRzJZUFN2LW5qMTRIRkVXSTkwc3I2S2kzQ1B1SklJQVczMWNiMGs2NS1wRmZaM0hLdS1FQ0NmdVlHbEtyNUt5ai1SWmpRMnpmaFBHdnJBSGZyNV9FeFZORHllenVjVWJseGlMRlYzQQ?oc=5">Sonadezi (SNZ) báo lãi sau thuế quý 2 giảm hơn một nửa</a><div class="meta">Tin nhanh Chứng khoán · 07:25 hôm qua</div></div></li>
-    <li><span class="n">58.</span><div class="t"><a href="https://vneconomy.vn/nhieu-dinh-che-lon-vanguard-blackstone-morgan-stanley-da-hoan-tat-chuan-bi-ky-thuat-de-dau-tu-vao-viet-nam.htm">Nhiều định chế lớn Vanguard, Blackstone, Morgan Stanley đã hoàn tất chuẩn bị kỹ thuật để đầu tư vào Việt Nam</a><div class="meta">VnEconomy · 06:40 hôm qua</div></div></li>
-    <li><span class="n">59.</span><div class="t"><a href="https://vneconomy.vn/bat-dau-tu-thang-9-vanguard-se-mua-2-ty-usd-co-phieu-viet-nam-rieng-vic-duoc-mua-770-trieu-usd.htm">Vanguard sẽ mua 2 tỷ USD cổ phiếu Việt Nam bắt đầu từ tháng 9/2026, riêng VIC được mua khoảng 770 triệu USD</a><div class="meta">VnEconomy · 06:39 hôm qua</div></div></li>
-    <li><span class="n">60.</span><div class="t"><a href="https://amp.baodautu.vn">Khoảng trống thanh khoản trên thị trường đã lên tới 2,7 triệu tỷ đồng</a><div class="meta">Báo Đầu tư · 04:16 hôm qua</div></div></li>
-    <li><span class="n">61.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2pQRnN4ckJBNzh4YnlLVTc0UF9LV09wOEpyRlZINjNQVXRFMlRQQS1hLWJsY1dPbWpBbXZndExvNFhxSHBrc3dQX0o1QjE3WThRSTFEVU1PbE9HQmJkakg1T2hJeDhrMjU5ZUY0OTJoR3V4OFRxdlJEWGJ3aHB2ZlJNRXV0a1UxdXZzVTBpdFBVcGI4NHItR3FvY1k2Z2J5VFdDMG5CMDE1TmJRQnVvOXJ3YnBuZFROamZVb2RYWdIBuwFBVV95cUxNUlBacW40cXNXcnZWVjJoOUd4MUxVcmhFRmI0UTY3NW9iYVpiRGFld096WXVtWUxaNjdId1VVcE5hOGNueUYzcVJLd2xPZHBOaDE0UDNjcWRiU0YwS1VzYjE5eHhxVVRmekhobzRMcldNOXJHMmZCZWxaRzNVZ3lnWEV3MnlSYUttcVJLNXZGZHMxR0NXSVp3ekUzZlRRQ3dRVGhxeFBKZTltYW5YY3U4enNwOFNzbUR3TmtV?oc=5">Dòng tiền rút mạnh, hiệu suất suy yếu: Ngành quỹ đầu tư đối mặt áp lực kép</a><div class="meta">Tin nhanh Chứng khoán · 03:03 hôm qua</div></div></li>
-    <li><span class="n">62.</span><div class="t"><a href="https://cafef.vn/acv-du-kien-dau-tu-gan-12000-ty-dong-mo-rong-san-bay-cam-ranh-hoan-thanh-trong-2028-2030-188260728230047698.chn">ACV dự kiến đầu tư gần 12.000 tỷ đồng mở rộng sân bay Cam Ranh, hoàn thành trong 2028-2030</a><div class="meta">CafeF · 28/7</div></div></li>
-    <li><span class="n">63.</span><div class="t"><a href="https://cafef.vn/nhieu-doanh-nghiep-dot-loi-nhuan-vi-dau-tu-co-phieu-188260728221617123.chn">Nhiều doanh nghiệp "đốt" lợi nhuận vì đầu tư cổ phiếu</a><div class="meta">CafeF · 28/7</div></div></li>
-    <li><span class="n">64.</span><div class="t"><a href="https://cafef.vn/nong-pnj-da-mua-lai-hon-7000-ty-dong-hang-hoa-tu-khach-trong-27-ngay-giua-luc-nhu-cau-ban-lai-kim-cuong-tang-dot-bien-188260728192304087.chn">PNJ đã mua lại hơn 7.000 tỷ đồng hàng hóa từ khách trong 27 ngày giữa lúc nhu cầu bán lại kim cương tăng đột biến</a><div class="meta">CafeF · 28/7</div></div></li>
-    <li><span class="n">65.</span><div class="t"><a href="http://vietstock.vn/2026/07/bamboo-airways-chi-con-3-may-bay-dang-khai-thac-gui-thu-xin-loi-va-hoan-ve-cho-khach-hang-737-1472706.htm">Bamboo Airways chỉ còn 3 máy bay đang khai thác, gửi thư xin lỗi và hoàn vé cho khách hàng</a><div class="meta">Vietstock · 28/7</div></div></li>
-    <li><span class="n">66.</span><div class="t"><a href="http://vietstock.vn/2026/07/apg-chao-ban-50-trieu-cp-gap-24-lan-thi-gia-vo-chu-tich-du-kien-mua-nhieu-nhat-764-1471400.htm">APG chào bán 50 triệu cổ phiếu giá gấp 2,4 lần thị giá, vợ Chủ tịch dự kiến mua nhiều nhất</a><div class="meta">Vietstock · 27/7</div></div></li>
-    <li><span class="n">67.</span><div class="t"><a href="https://vietstock.vn/2026/07/mua-co-phieu-quy-tu-hanh-vi-thao-tung-tro-thanh-thong-le-thi-truong-toan-cau.htm">Mua cổ phiếu quỹ: Từ hành vi thao túng trở thành thông lệ thị trường toàn cầu</a><div class="meta">Vietstock · 27/7</div></div></li>
-    <li><span class="n">68.</span><div class="t"><a href="https://amp.baodautu.vn">Nhiều điểm tựa giữ ổn định tỷ giá cuối năm</a><div class="meta">Báo Đầu tư · 27/7</div></div></li>
-    <li><span class="n">69.</span><div class="t"><a href="http://vietstock.vn/2026/07/hoa-phat-gop-gan-8-ngan-ty-vao-tap-doan-phat-trien-sieu-do-thi-hon-605-ngan-ty-tai-ha-noi-764-1470743.htm">Hòa Phát góp gần 8 ngàn tỷ đồng vào tập đoàn phát triển siêu đô thị hơn 60,5 ngàn tỷ đồng tại Hà Nội</a><div class="meta">Vietstock · 24/7</div></div></li>
-    <li><span class="n">70.</span><div class="t"><a href="http://vietstock.vn/2026/07/abbank-hoan-tat-phat-hanh-gan-2096-trieu-cp-tra-co-tuc-tang-von-len-gan-16068-ty-757-1468886.htm">ABBank hoàn tất phát hành gần 209,6 triệu cổ phiếu trả cổ tức, tăng vốn lên gần 16.068 tỷ đồng</a><div class="meta">Vietstock · 21/7</div></div></li>
+  <h3 class="src">CafeF</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://cafef.vn/vinpearl-bao-lai-sau-thue-6t2026-dat-2100-ty-dong-gap-8-lan-cung-ky-188260730183721335.chn">Vinpearl (VPL) báo lãi sau thuế 6T2026 đạt 2.100 tỷ đồng, gấp 8 lần cùng kỳ</a><div class="meta">18:37</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="https://cafef.vn/mot-the-luc-vua-xa-gan-200-ty-dong-188260730181732.chn">Một thế lực vừa "xả" gần 200 tỷ đồng trong phiên VN-Index tăng 40 điểm</a><div class="meta">18:17</div></div></li>
+    <li><span class="n">3.</span><div class="t"><a href="https://cafef.vn/pnj-phat-thong-bao-quan-trong-188260730180932.chn">PNJ phát thông báo quan trọng</a><div class="meta">18:09</div></div></li>
+    <li><span class="n">4.</span><div class="t"><a href="https://cafef.vn/thong-tin-moi-nhat-vu-vingroup-khoi-kien-68-ca-nhan-to-chuc-188260730174732.chn">Thông tin mới nhất vụ Vingroup (VIC) khởi kiện 68 cá nhân, tổ chức</a><div class="meta">17:47</div></div></li>
+    <li><span class="n">5.</span><div class="t"><a href="https://cafef.vn/vietnam-airlines-va-nhieu-doanh-nghiep-lai-dam-188260730171232.chn">Vietnam Airlines (HVN) và nhiều doanh nghiệp lãi đậm</a><div class="meta">17:12</div></div></li>
+    <li><span class="n">6.</span><div class="t"><a href="https://cafef.vn/them-chung-khoan-vietcap-call-margin-dig-cua-gia-dinh-ong-nguyen-hung-cuong-188260730164332.chn">Chứng khoán Vietcap "call margin" cổ phiếu DIG của gia đình ông Nguyễn Hùng Cường</a><div class="meta">16:43</div></div></li>
+    <li><span class="n">7.</span><div class="t"><a href="https://cafef.vn/cap-nhat-bctc-quy-2-2026-chieu-toi-ngay-30-7-vinhomes-vinpearl-gemadept-bao-lai-tang-bang-lan-ha-tang-gelex-lai-truoc-thue-1000-ty-18826072923081518.chn">Cập nhật BCTC quý 2/2026 chiều tối 30/7: Vinhomes, Vinpearl, Gemadept lãi tăng bằng lần, Hạ tầng GELEX lãi trước thuế 1.000 tỷ</a><div class="meta">16:41</div></div></li>
+    <li><span class="n">8.</span><div class="t"><a href="https://cafef.vn/kinh-te-truong-ssi-chi-ra-dieu-can-luu-y-188260730163332.chn">Kinh tế trưởng SSI chỉ ra điều cần lưu ý sau quyết định của Fed</a><div class="meta">16:33</div></div></li>
+    <li><span class="n">9.</span><div class="t"><a href="https://cafef.vn/sjc-phat-canh-bao-khan-188260730163032.chn">SJC phát cảnh báo khẩn về tình trạng giả mạo thương hiệu</a><div class="meta">16:30</div></div></li>
+    <li><span class="n">10.</span><div class="t"><a href="https://cafef.vn/cong-ty-chung-khoan-ty-do-phe-duyet-2-phuong-an-mua-co-phieu-vingroup-va-vinhomes-188260730155521936.chn">Công ty chứng khoán tỷ đô phê duyệt 2 phương án mua cổ phiếu Vingroup và Vinhomes</a><div class="meta">15:55</div></div></li>
+    <li><span class="n">11.</span><div class="t"><a href="https://cafef.vn/cu-mo-cua-hang-la-lai-188260730154632.chn">"Cứ mở cửa hàng là lãi", lợi nhuận Bách Hóa Xanh lập kỷ lục</a><div class="meta">15:46</div></div></li>
+    <li><span class="n">12.</span><div class="t"><a href="https://cafef.vn/khoi-ngoai-chi-gan-700-ty-dong-188260730154532.chn">Khối ngoại chi gần 700 tỷ đồng "gom" cổ phiếu Việt Nam</a><div class="meta">15:45</div></div></li>
+    <li><span class="n">13.</span><div class="t"><a href="https://cafef.vn/de-xuat-giam-sat-thi-truong-vang-188260730152632.chn">Đề xuất giám sát thị trường vàng, làm rõ trách nhiệm các bộ, ngành</a><div class="meta">15:26</div></div></li>
+    <li><span class="n">14.</span><div class="t"><a href="https://cafef.vn/cong-ty-dao-kho-bau-lon-nhat-viet-nam-bao-lai-quy-2-cao-nhat-lich-su-1400-ty-188260730144028791.chn">KSV: Công ty đào kho báu lớn nhất Việt Nam báo lãi quý 2 cao nhất lịch sử 1.400 tỷ đồng</a><div class="meta">14:40</div></div></li>
+    <li><span class="n">15.</span><div class="t"><a href="https://cafef.vn/tin-vui-cho-co-dong-mwg-188260730142632.chn">Tin vui cho cổ đông MWG: Lãi quý 2 hơn 4.000 tỷ đồng</a><div class="meta">14:26</div></div></li>
+    <li><span class="n">16.</span><div class="t"><a href="https://cafef.vn/gelex-lap-dinh-ve-doanh-thu-va-loi-nhuan-doanh-thu-tu-ban-cho-thue-bat-dong-san-tang-gap-doi-cung-ky-188260730120652368.chn">GELEX lập đỉnh doanh thu và lợi nhuận, doanh thu từ bán cho thuê bất động sản tăng gấp đôi cùng kỳ</a><div class="meta">14:03</div></div></li>
+    <li><span class="n">17.</span><div class="t"><a href="https://cafef.vn/mot-doanh-nghiep-bds-bao-loi-nhuan-6-thang-tang-30-188260730134430097.chn">Một doanh nghiệp bất động sản (DC4) báo lợi nhuận 6 tháng tăng 30%</a><div class="meta">13:44</div></div></li>
+    <li><span class="n">18.</span><div class="t"><a href="https://cafef.vn/vinhomes-bao-lai-6t2026-ky-luc-hon-52000-ty-dong-gap-5-lan-cung-ky-188260730133721579.chn">Vinhomes (VHM) báo lãi 6T2026 kỷ lục hơn 52.000 tỷ đồng, gấp 5 lần cùng kỳ, doanh số bán hàng vượt 148.000 tỷ</a><div class="meta">13:37</div></div></li>
+    <li><span class="n">19.</span><div class="t"><a href="https://cafef.vn/chu-tich-doanh-nghiep-o-at-mua-co-phieu-188260730133032.chn">Chủ tịch doanh nghiệp ồ ạt mua cổ phiếu (MWG, SMC)</a><div class="meta">13:30</div></div></li>
+    <li><span class="n">20.</span><div class="t"><a href="https://cafef.vn/cong-ty-nyobolt-duoc-masan-rot-von-co-dinh-gia-1-ty-usd-188260730112411989.chn">Nyobolt được Masan (MSN) rót vốn, định giá 1 tỷ USD</a><div class="meta">11:22</div></div></li>
+    <li><span class="n">21.</span><div class="t"><a href="https://cafef.vn/viet-nam-nghien-cuu-trien-khai-tien-ky-thuat-so-quoc-gia-188260730112132.chn">Việt Nam nghiên cứu triển khai tiền kỹ thuật số quốc gia (CBDC)</a><div class="meta">11:21</div></div></li>
+    <li><span class="n">22.</span><div class="t"><a href="https://cafef.vn/blackrock-mua-them-gan-23-tan-bac-188260730105932.chn">BlackRock mua thêm gần 23 tấn Bạc trong một ngày</a><div class="meta">10:59</div></div></li>
+    <li><span class="n">23.</span><div class="t"><a href="https://cafef.vn/co-dong-lon-ban-ra-59-trieu-co-phieu-nrc-188260730105932.chn">Cổ đông lớn bán ra 5,9 triệu cổ phiếu NRC</a><div class="meta">10:59</div></div></li>
+    <li><span class="n">24.</span><div class="t"><a href="https://cafef.vn/cong-ty-bia-hon-130-nam-tuoi-thu-hang-chuc-ty-dong-tu-lai-tien-gui-loi-nhuan-quy-ii-tang-50-188260730104353162.chn">Habeco (BHN) lãi quý II 240 tỷ đồng, tăng 50%</a><div class="meta">10:43</div></div></li>
+    <li><span class="n">25.</span><div class="t"><a href="https://cafef.vn/dien-may-xanh-chot-ngay-dep-chao-san-hose-188260730101232.chn">Điện Máy Xanh (DMX) chốt ngày "đẹp" chào sàn HoSE</a><div class="meta">10:12</div></div></li>
+    <li><span class="n">26.</span><div class="t"><a href="https://cafef.vn/tu-chuyen-hang-loat-dn-vang-kim-cuong-188260730100932.chn">Từ chuyện hàng loạt doanh nghiệp vàng, kim cương "bỗng dưng" đóng cửa</a><div class="meta">10:09</div></div></li>
+    <li><span class="n">27.</span><div class="t"><a href="https://cafef.vn/dich-vu-bien-tan-cang-tos-bao-lai-188260730100832.chn">Dịch vụ biển Tân Cảng (TOS) báo lãi tăng trưởng, chuyển sàn HOSE</a><div class="meta">10:08</div></div></li>
+    <li><span class="n">28.</span><div class="t"><a href="https://cafef.vn/masan-consumer-chot-ngay-tra-co-tuc-bang-tien-mat-ty-le-20-188260730093421139.chn">Masan Consumer (MCH) chốt ngày trả cổ tức tiền mặt tỷ lệ 20%</a><div class="meta">09:34</div></div></li>
+    <li><span class="n">29.</span><div class="t"><a href="https://cafef.vn/nha-may-che-bien-nong-san-lien-quan-ba-truong-my-lan-tim-nguoi-mua-giam-gia-gan-30-con-851-ty-dong-188260730091222399.chn">Nhà máy chế biến nông sản liên quan bà Trương Mỹ Lan tìm người mua, giảm giá gần 30% còn 851 tỷ đồng</a><div class="meta">09:16</div></div></li>
+    <li><span class="n">30.</span><div class="t"><a href="https://cafef.vn/doi-thu-lon-nhat-mo-cua-hang-o-at-wincommerce-khang-dinh-chung-toi-khong-bi-anh-huong-doanh-thu-cung-cua-hang-van-tang-tren-10-188260730073626989.chn">WinCommerce: doanh thu cùng cửa hàng vẫn tăng trên 10% dù đối thủ mở ồ ạt</a><div class="meta">07:36</div></div></li>
+    <li><span class="n">31.</span><div class="t"><a href="https://cafef.vn/ban-tom-gao-nuoc-mam-chu-tich-nguyen-duy-hung-thu-gan-7400-ty-dong-lai-tang-hon-gap-doi-188260730073546118.chn">Chủ tịch SSI Nguyễn Duy Hưng: mảng tôm, gạo, nước mắm thu gần 7.400 tỷ đồng, lãi tăng hơn gấp đôi</a><div class="meta">07:35</div></div></li>
+  </ol>
+
+  <h3 class="src">Vietstock</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="http://vietstock.vn/2026/07/vietstock-daily-31072026-tiep-da-phuc-hoi-1636-1473758.htm">Vietstock Daily 31/07/2026: Tiếp đà phục hồi</a><div class="meta">17:59</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="http://vietstock.vn/2026/07/loi-nhuan-quy-2-tang-25-ocb-duy-tri-da-tang-truong-trong-nua-dau-2026-737-1473699.htm">OCB: Lợi nhuận quý 2 tăng 25%, duy trì đà tăng trưởng nửa đầu 2026</a><div class="meta">17:34</div></div></li>
+    <li><span class="n">3.</span><div class="t"><a href="http://vietstock.vn/2026/07/thaco-lai-gan-55-ngan-ty-no-phai-tra-vot-len-165-ngan-ty-737-1473745.htm">THACO lãi gần 5,5 ngàn tỷ đồng, nợ phải trả vọt lên 165 ngàn tỷ</a><div class="meta">17:34</div></div></li>
+    <li><span class="n">4.</span><div class="t"><a href="http://vietstock.vn/2026/07/loi-nhuan-nam-a-bank-tang-25-chat-luong-tai-san-cai-thien-ro-net-trong-6-thang-dau-nam-737-1473726.htm">NAB: Lợi nhuận Nam A Bank tăng 25%, chất lượng tài sản cải thiện rõ nét</a><div class="meta">17:27</div></div></li>
+    <li><span class="n">5.</span><div class="t"><a href="http://vietstock.vn/2026/07/hodeco-thoat-lo-quy-2-chu-tich-gui-tam-thu-khi-co-phieu-ve-day-hon-5-nam-737-1473582.htm">HDC: Hodeco thoát lỗ quý 2, Chủ tịch gửi tâm thư khi cổ phiếu về đáy hơn 5 năm</a><div class="meta">16:54</div></div></li>
+    <li><span class="n">6.</span><div class="t"><a href="http://vietstock.vn/2026/07/nhip-dap-thi-truong-3007-ket-phien-thang-hoa-khoi-ngoai-mua-rong-tro-lai-1636-1473291.htm">Nhịp đập Thị trường 30/07: Kết phiên thăng hoa, khối ngoại mua ròng trở lại</a><div class="meta">16:47</div></div></li>
+    <li><span class="n">7.</span><div class="t"><a href="http://vietstock.vn/2026/07/eximbank-cong-bo-ket-qua-kinh-doanh-6-thang-dau-nam-2026-737-1473615.htm">Eximbank (EIB) công bố kết quả kinh doanh 6 tháng đầu năm 2026</a><div class="meta">16:39</div></div></li>
+    <li><span class="n">8.</span><div class="t"><a href="http://vietstock.vn/2026/07/dpm-dat-muc-tieu-doanh-thu-hon-11-ty-usd-vao-nam-2030-day-manh-hoa-chat-va-ma-737-1473534.htm">DPM đặt mục tiêu doanh thu hơn 1,1 tỷ USD vào năm 2030, đẩy mạnh hóa chất và M&amp;A</a><div class="meta">16:30</div></div></li>
+    <li><span class="n">9.</span><div class="t"><a href="http://vietstock.vn/2026/07/dpm-khanh-thanh-he-thong-bang-tai-phan-bon-cong-suat-55-tangio-737-1473495.htm">DPM khánh thành hệ thống băng tải phân bón công suất 55 tấn/giờ</a><div class="meta">15:23</div></div></li>
+    <li><span class="n">10.</span><div class="t"><a href="http://vietstock.vn/2026/07/cang-hai-phong-bao-lai-tang-tren-120-trong-quy-2-737-1473385.htm">PHP: Cảng Hải Phòng báo lãi tăng trên 120% trong quý 2</a><div class="meta">14:24</div></div></li>
+    <li><span class="n">11.</span><div class="t"><a href="http://vietstock.vn/2026/07/lan-song-thuong-vu-ma-quy-mo-lon-trong-ky-nguyen-ai-764-1473375.htm">Làn sóng thương vụ M&amp;A quy mô lớn trong kỷ nguyên AI</a><div class="meta">14:02</div></div></li>
+    <li><span class="n">12.</span><div class="t"><a href="http://vietstock.vn/2026/07/dhdcd-cc1-chu-tich-tu-tin-voi-muc-tieu-doanh-thu-1-ty-usd-cuu-sep-ttc-land-va-novaland-vao-hdqt-737-1473370.htm">CC1: Chủ tịch tự tin với mục tiêu doanh thu 1 tỷ USD, cựu sếp TTC Land và Novaland vào HĐQT</a><div class="meta">13:27</div></div></li>
+    <li><span class="n">13.</span><div class="t"><a href="http://vietstock.vn/2026/07/lideco-tiep-tuc-thang-lon-quy-2-nho-dau-tu-chung-khoan-danh-muc-co-gi-737-1473379.htm">NTL: Lideco tiếp tục thắng lớn quý 2 nhờ đầu tư chứng khoán</a><div class="meta">13:19</div></div></li>
+    <li><span class="n">14.</span><div class="t"><a href="http://vietstock.vn/2026/07/no-vay-ngan-han-tang-gap-gan-7-lan-ijc-giam-32-lai-rong-quy-2-737-1473366.htm">IJC: Nợ vay ngắn hạn tăng gấp gần 7 lần, giảm 32% lãi ròng quý 2</a><div class="meta">12:38</div></div></li>
+    <li><span class="n">15.</span><div class="t"><a href="http://vietstock.vn/2026/07/toa-dinh-chi-vu-vua-ca-tra-hung-vuong-doi-camimex-tra-nha-may-737-1473017.htm">Tòa đình chỉ vụ "vua cá tra" Hùng Vương đòi Camimex (CMM) trả nhà máy</a><div class="meta">12:17</div></div></li>
+    <li><span class="n">16.</span><div class="t"><a href="http://vietstock.vn/2026/07/doanh-thu-ban-can-ho-cham-day-co-phieu-an-gia-ve-vung-thap-nhat-lich-su-737-1473167.htm">AGG: Doanh thu bán căn hộ chạm đáy, cổ phiếu An Gia về vùng thấp nhất lịch sử</a><div class="meta">12:03</div></div></li>
+    <li><span class="n">17.</span><div class="t"><a href="http://vietstock.vn/2026/07/hang-tau-dau-pvtrans-lai-ky-luc-tren-550-ty-trong-quy-2-co-phieu-kich-tran-737-1473289.htm">PVT: Hãng tàu dầu PVTrans lãi kỷ lục trên 550 tỷ trong quý 2, cổ phiếu kịch trần</a><div class="meta">10:52</div></div></li>
+  </ol>
+
+  <h3 class="src">VnEconomy</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://vneconomy.vn/chuyen-gia-day-co-the-la-vung-day-cua-chu-ky-dau-tu-6-12-thang-toi.htm">Chuyên gia: Đây có thể là vùng đáy của chu kỳ đầu tư 6-12 tháng tới</a><div class="meta">09:22</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="https://vneconomy.vn/blog-chung-khoan-khau-vi-rui-ro-thay-doi.htm">Blog chứng khoán: Khẩu vị rủi ro thay đổi</a><div class="meta">09:21</div></div></li>
+    <li><span class="n">3.</span><div class="t"><a href="https://vneconomy.vn/mua-duoi-gia-tren-dien-rong-loat-co-phieu-tang-kich-tran-khoi-ngoai-cung-dua.htm">Mua đuổi giá trên diện rộng, loạt cổ phiếu tăng kịch trần, khối ngoại cũng "đua"</a><div class="meta">08:30</div></div></li>
+    <li><span class="n">4.</span><div class="t"><a href="https://vneconomy.vn/aig-bao-lai-sau-thue-tang-72-trong-nua-dau-nam-2026-doanh-thu-vuot-8200-ty-dong.htm">AIG báo lãi sau thuế tăng 72% trong nửa đầu năm 2026, doanh thu vượt 8.200 tỷ đồng</a><div class="meta">07:00</div></div></li>
+    <li><span class="n">5.</span><div class="t"><a href="https://vneconomy.vn/dong-tien-tu-tin-day-gia-thanh-khoan-cao-nhat-6-phien-co-phieu-ao-at-tang.htm">Dòng tiền tự tin đẩy giá, thanh khoản cao nhất 6 phiên, cổ phiếu ào ạt tăng</a><div class="meta">05:03</div></div></li>
+    <li><span class="n">6.</span><div class="t"><a href="https://vneconomy.vn/thi-truong-chung-khoan-can-theo-doi-sat-sao-ap-luc-fed-co-the-tang-lai-suat-trong-thang-9.htm">Thị trường chứng khoán cần theo dõi sát áp lực Fed có thể tăng lãi suất trong tháng 9</a><div class="meta">04:27</div></div></li>
+    <li><span class="n">7.</span><div class="t"><a href="https://vneconomy.vn/da-co-672-doanh-nghiep-cong-bo-loi-nhuan-tang-manh-256-chu-yeu-nho-dau-khi-va-dien.htm">Đã có 672 doanh nghiệp công bố lợi nhuận, tăng mạnh 25,6% chủ yếu nhờ Dầu khí và Điện</a><div class="meta">03:17</div></div></li>
+    <li><span class="n">8.</span><div class="t"><a href="https://vneconomy.vn/tai-cau-truc-he-hang-hoa-de-thi-truong-chung-khoan-phan-anh-nen-kinh-te-moi.htm">Tái cấu trúc hệ hàng hóa để thị trường chứng khoán phản ánh nền kinh tế mới</a><div class="meta">02:30</div></div></li>
+    <li><span class="n">9.</span><div class="t"><a href="https://vneconomy.vn/viet-nam-tro-thanh-quoc-gia-thu-nhap-trung-binh-cao-nhung-doanh-nghiep-nao-tiem-nang.htm">Việt Nam trở thành quốc gia thu nhập trung bình cao, những doanh nghiệp nào tiềm năng</a><div class="meta">02:08</div></div></li>
+  </ol>
+
+  <h3 class="src">Tin nhanh Chứng khoán</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/su-kien-chung-khoan-dang-chu-y-ngay-317-post394999.html">Sự kiện chứng khoán đáng chú ý ngày 31/7</a><div class="meta">11:38</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/goc-nhin-ky-thuat-phien-giao-dich-ngay-317-post394998.html">Góc nhìn kỹ thuật ngày 31/7: Kiểm định vùng kháng cự</a><div class="meta">11:38</div></div></li>
+    <li><span class="n">3.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/co-phieu-chung-khoan-bung-no-vn-index-tang-gan-40-diem-post394980.html">Cổ phiếu chứng khoán bùng nổ, VN-Index tăng gần 40 điểm</a><div class="meta">09:30</div></div></li>
+    <li><span class="n">4.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/fideco-loi-nhuan-quy-ii-giam-641-post394970.html">FDC: Fideco lợi nhuận quý II giảm 64,1%</a><div class="meta">04:36</div></div></li>
+    <li><span class="n">5.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-sang-307-sac-xanh-lan-toa-vn-index-tiep-tuc-tien-buoc-post394965.html">Giao dịch chứng khoán sáng 30/7: Sắc xanh lan tỏa, VN-Index tiếp tục tiến bước</a><div class="meta">03:57</div></div></li>
+    <li><span class="n">6.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/masan-consumer-mch-chuyen-san-tu-vn30-den-ftse-post394955.html">Masan Consumer (MCH) chuyển sàn từ VN30 đến FTSE</a><div class="meta">01:30</div></div></li>
+    <li><span class="n">7.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/masan-nang-muc-tieu-loi-nhuan-va-chien-luoc-vuon-toan-cau-post394950.html">Masan (MSN) nâng mục tiêu lợi nhuận và chiến lược vươn toàn cầu</a><div class="meta">01:00</div></div></li>
+    <li><span class="n">8.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/bsr-day-manh-dau-tu-tao-dong-luc-tang-truong-post394948.html">BSR đẩy mạnh đầu tư tạo động lực tăng trưởng</a><div class="meta">00:55</div></div></li>
+    <li><span class="n">9.</span><div class="t"><a href="https://www.tinnhanhchungkhoan.vn/go-an-cuong-tang-no-vay-8842-ty-dong-post394940.html">ACG: Gỗ An Cường tăng nợ vay 884,2 tỷ đồng</a><div class="meta">00:11</div></div></li>
+  </ol>
+
+  <h3 class="src">MarketTimes</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://markettimes.vn/thi-truong-chung-khoan-bung-no-vn-index-tich-luy-them-gan-40-diem-127052.html">Thị trường chứng khoán "bùng nổ", VN-Index tích lũy thêm gần 40 điểm</a><div class="meta">17:22</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="https://markettimes.vn/ngan-hang-rao-ban-tai-san-127046.html">Ngân hàng rao bán tài sản để thu hồi nợ</a><div class="meta">15:32</div></div></li>
+    <li><span class="n">3.</span><div class="t"><a href="https://markettimes.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-127032.html">Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026</a><div class="meta">14:22</div></div></li>
+    <li><span class="n">4.</span><div class="t"><a href="https://markettimes.vn/chuyen-gia-thue-viet-nam-lap-ky-luc-voi-2-65-trieu-ty-dong-127019.html">Chuyên gia thuế: Việt Nam lập kỷ lục thu ngân sách với 2,65 triệu tỷ đồng</a><div class="meta">12:43</div></div></li>
+    <li><span class="n">5.</span><div class="t"><a href="https://markettimes.vn/xuat-hien-ngan-hang-lai-gap-25-lan-cung-ky-nam-truoc-127015.html">BVB: Xuất hiện ngân hàng lãi gấp 2,5 lần cùng kỳ năm trước</a><div class="meta">12:02</div></div></li>
+  </ol>
+
+  <h3 class="src">VnBusiness</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://vnbusiness.vn//sabeco-va-habeco-huong-loi-tu-gia-nguyen-lieu-giam-cuoc-dua-thi-phan-tao-khac-biet-loi-nhuan.html">Sabeco và Habeco hưởng lợi từ giá nguyên liệu giảm, cuộc đua thị phần tạo khác biệt lợi nhuận</a><div class="meta">10:24</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="https://vnbusiness.vn//loi-nhuan-quy-ii-cua-dai-gia-thep-ra-sao.html">Lợi nhuận quý II của "đại gia" thép (HPG, HSG) ra sao?</a><div class="meta">10:16</div></div></li>
+  </ol>
+
+  <h3 class="src">Tiền Phong</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://tienphong.vn/loi-nhuan-vinatex-tang-gan-40-post1863930.tpo">Lợi nhuận Vinatex tăng gần 40%</a><div class="meta">18:49</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="https://tienphong.vn/can-tho-thong-qua-du-an-duong-vanh-dai-phia-tay-hon-10600-ty-dong-post1863903.tpo">Cần Thơ thông qua dự án đường Vành đai phía Tây hơn 10.600 tỷ đồng</a><div class="meta">17:57</div></div></li>
+    <li><span class="n">3.</span><div class="t"><a href="https://tienphong.vn/nghe-an-trong-nhom-thu-hut-dau-tu-manh-nhat-nuoc-post1863831.tpo">Nghệ An trong nhóm thu hút đầu tư mạnh nhất nước</a><div class="meta">17:26</div></div></li>
+    <li><span class="n">4.</span><div class="t"><a href="https://tienphong.vn/khai-tu-du-an-khach-san-sheraton-phu-quoc-post1863746.tpo">"Khai tử" dự án khách sạn Sheraton Phú Quốc</a><div class="meta">15:26</div></div></li>
+    <li><span class="n">5.</span><div class="t"><a href="https://tienphong.vn/de-xuat-co-che-lam-du-an-thuong-mai-van-phong-tai-ga-duong-sat-post1863816.tpo">Đề xuất cơ chế làm dự án thương mại, văn phòng tại ga đường sắt</a><div class="meta">15:24</div></div></li>
+    <li><span class="n">6.</span><div class="t"><a href="https://tienphong.vn/bo-tai-chinh-tra-loi-kien-nghi-giam-thue-phi-trong-gia-xang-dau-post1863765.tpo">Bộ Tài chính trả lời kiến nghị giảm thuế, phí trong giá xăng dầu</a><div class="meta">15:21</div></div></li>
+    <li><span class="n">7.</span><div class="t"><a href="https://tienphong.vn/gia-xang-dau-dong-loat-tang-manh-post1863833.tpo">Giá xăng dầu trong nước đồng loạt tăng mạnh</a><div class="meta">15:17</div></div></li>
+    <li><span class="n">8.</span><div class="t"><a href="https://tienphong.vn/hang-tram-con-heo-nghi-dinh-chat-cam-salbutamol-post1863669.tpo">Hàng trăm con heo nghi "dính" chất cấm Salbutamol</a><div class="meta">09:26</div></div></li>
+    <li><span class="n">9.</span><div class="t"><a href="https://tienphong.vn/vi-sao-moi-dong-doanh-thu-cua-masan-consumer-hom-nay-co-gia-tri-hon-truoc-post1863731.tpo">Vì sao mỗi đồng doanh thu của Masan Consumer (MCH) hôm nay có giá trị hơn trước</a><div class="meta">09:25</div></div></li>
+    <li><span class="n">10.</span><div class="t"><a href="https://tienphong.vn/seabank-duoc-moodys-nang-xep-hang-tin-nhiem-nhieu-hang-muc-danh-gia-trien-vong-tich-cuc-post1863729.tpo">SeABank (SSB) được Moody's nâng xếp hạng tín nhiệm nhiều hạng mục, triển vọng tích cực</a><div class="meta">09:19</div></div></li>
+    <li><span class="n">11.</span><div class="t"><a href="https://tienphong.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-post1863615.tpo">Đằng sau "cuộc đua" lãi suất huy động và cho vay giữa các ngân hàng</a><div class="meta">05:37</div></div></li>
+  </ol>
+
+  <h3 class="src">Thời báo Ngân hàng</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://thoibaonganhang.vn/fed-giu-nguyen-lai-suat-chi-la-tam-thoi-hay-keo-dai-het-nam.htm">Fed giữ nguyên lãi suất: Chỉ là tạm thời hay kéo dài hết năm?</a><div class="meta">01:00</div></div></li>
+  </ol>
+
+  <h3 class="src">HOSE</h3>
+  <ol class="news">
+    <li><span class="n">1.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/hid-bao-cao-tinh-hinh-quan-tri-cong-ty-6-thang-dau-nam-2026/2484694">HID: Báo cáo tình hình quản trị công ty 6 tháng đầu năm 2026</a><div class="meta">18:10</div></div></li>
+    <li><span class="n">2.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/vdp-thong-bao-giao-dich-quyen-mua-cp-cua-nguoi-noi-bo-kieu-huu/2484693">VDP: Thông báo giao dịch quyền mua cổ phiếu của người nội bộ</a><div class="meta">18:08</div></div></li>
+    <li><span class="n">3.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/msn-nghi-quyet-hdqt-so-264-ngay-30072026/2484692">MSN: Nghị quyết HĐQT số 264 ngày 30/07/2026</a><div class="meta">18:05</div></div></li>
+    <li><span class="n">4.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/pvp-bao-cao-tinh-hinh-quan-tri-cong-ty-6-thang-dau-nam-2026/2484689">PVP: Báo cáo tình hình quản trị công ty 6 tháng đầu năm 2026</a><div class="meta">17:57</div></div></li>
+    <li><span class="n">5.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/dtl-giai-trinh-kqkd-quy-2-nam-2026/2484688">DTL: Giải trình kết quả kinh doanh quý 2 năm 2026</a><div class="meta">17:56</div></div></li>
+    <li><span class="n">6.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/ctr-bao-cao-phat-trien-ben-vung-2025/2484706">CTR (Viettel Construction): Báo cáo phát triển bền vững 2025</a><div class="meta">17:54</div></div></li>
+    <li><span class="n">7.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/ttf-bao-cao-tinh-hinh-quan-tri-6-thang-dau-nam-2026/2484685">TTF: Báo cáo tình hình quản trị 6 tháng đầu năm 2026</a><div class="meta">17:51</div></div></li>
+  </ol>
+</section>
+
+<section id="phap-ly">
+  <h2>IV. 🚨 Pháp lý – Thanh tra – Khởi tố</h2>
+  <p class="sec-note">Xếp theo báo · ưu tiên doanh nghiệp lớn, vụ án lớn</p>
+
+  <h3 class="src">CafeF</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t"><a href="https://cafef.vn/vi-sao-vietravel-bi-xu-phat-188260730112432.chn">🚨 Vì sao Vietravel (VTR) bị phạt 295 triệu đồng vì hàng loạt vi phạm công bố thông tin?</a><div class="meta">11:24</div></div></li>
+  </ol>
+
+  <h3 class="src">Tiền Phong</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t"><a href="https://tienphong.vn/vu-an-sau-rieng-can-dep-giay-phep-con-trong-cap-ma-so-vung-trong-post1863823.tpo">🚨 Vụ án sầu riêng: Cần dẹp "giấy phép con" trong cấp mã số vùng trồng</a><div class="meta">16:49</div></div></li>
+    <li class="legal"><span class="n">2.</span><div class="t"><a href="https://tienphong.vn/nha-thau-san-bay-long-thanh-tu-y-gui-ngan-hang-hon-930-ty-dong-post1863785.tpo">🚨 8 nhà thầu sân bay Long Thành tự ý dùng hơn 930 tỷ đồng tạm ứng gửi ngân hàng lấy lãi</a><div class="meta">13:55</div></div></li>
+  </ol>
+
+  <h3 class="src">Báo Đầu tư</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t">🚨 Khởi tố giám đốc doanh nghiệp và chủ hộ kinh doanh vì mua bán trái phép hóa đơn<div class="meta">11:37</div></div></li>
+  </ol>
+
+  <h3 class="src">VnExpress</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t"><a href="https://vnexpress.net/dau-tu-5-ty-dong-ban-tui-hang-hieu-gia-co-gai-ra-dau-thu-5103467.html">🚨 Đầu tư 5 tỷ đồng bán túi hàng hiệu giả, cô gái ra đầu thú</a><div class="meta">18:24</div></div></li>
+    <li class="legal"><span class="n">2.</span><div class="t"><a href="https://vnexpress.net/lua-nha-dau-tu-giam-doc-cong-ty-nha-tien-phat-linh-an-tu-chung-than-5103089.html">🚨 Lừa nhà đầu tư, Giám đốc Công ty Nhà Tiến Phát lĩnh án tù chung thân</a><div class="meta">00:00</div></div></li>
+  </ol>
+
+  <h3 class="src">Báo Thanh tra</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t">🚨 Tây Ninh: Công bố quyết định thanh tra đối với 3 doanh nghiệp<div class="meta">09:07</div></div></li>
+  </ol>
+
+  <h3 class="src">Thanh Niên</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t">🚨 Công an Phú Thọ khởi tố 18 người trong vụ "xã hội đen" núp bóng doanh nghiệp<div class="meta">10:23</div></div></li>
+  </ol>
+
+  <h3 class="src">Thương Trường</h3>
+  <ol class="news">
+    <li class="legal"><span class="n">1.</span><div class="t">🚨 Thanh tra Chính phủ tiếp tục chỉ rõ sai phạm của nhiều doanh nghiệp tại dự án sân bay Long Thành<div class="meta">05:44</div></div></li>
   </ol>
 </section>
 
