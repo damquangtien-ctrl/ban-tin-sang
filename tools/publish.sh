@@ -35,17 +35,15 @@ push_now() {
   return 0
 }
 
-# ---------- Chế độ biên nhận: chỉ commit file audit, KHÔNG gửi lại tin nhắn ----------
+# ---------- Chế độ biên nhận: commit audit + nhật ký, KHÔNG gửi lại tin nhắn ----------
+# Nhật ký archive/data/<ngày>.log do run.sh ghi TRƯỚC khi gọi bước này (sau khi đã có
+# kết quả giao tin nhắn và dòng kết luận), để nó không phải ảnh chụp cũ. Ở đây chỉ đưa
+# cả hai tệp vào ĐÚNG MỘT commit — không tạo commit thứ ba chỉ để cập nhật nhật ký.
 if [ "$MODE" = "receipt" ]; then
   [ -f "$AUDIT" ] || { log "LOI: thieu $AUDIT"; exit 40; }
-  # Lưu phần cuối nhật ký chạy vào repo: VM bị thu hồi sau phiên nên không giữ được
-  # data/pipeline.log. Nội dung log đã qua scrub() của notify.py, không chứa bí mật.
   LOGDST="archive/data/${DATE}.log"
-  if [ -f data/pipeline.log ]; then
-    tail -n 80 data/pipeline.log > "$LOGDST" 2>/dev/null || true
-  fi
   git add -- "$AUDIT" || { log "LOI: git add that bai"; exit 43; }
-  [ -f "$LOGDST" ] && git add -- "$LOGDST"
+  [ -f "$LOGDST" ] && { git add -- "$LOGDST" || { log "LOI: git add nhat ky that bai"; exit 43; }; }
   if git diff --cached --quiet; then
     log "Bien nhan khong doi, khong can commit."
     exit 0
