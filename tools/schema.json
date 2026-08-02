@@ -1,0 +1,138 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bản tin chứng khoán sáng - dữ liệu nguồn (bulletin.json)",
+  "description": "Claude chỉ tạo file này (chọn tin, dịch, phân loại, tóm tắt). Mọi URL và thời gian đăng lấy tự động từ raw_feed.json qua trường ref - Claude KHÔNG tự viết URL.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["date", "edition", "market_data", "world", "vietnam", "legal", "dividends", "highlights"],
+  "properties": {
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "description": "Ngày bản tin theo giờ VN"
+    },
+    "edition": {
+      "type": "string",
+      "enum": ["daily", "sunday"],
+      "description": "sunday = ấn bản rút gọn, chỉ có phần thế giới"
+    },
+    "market_data": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["tiles", "domestic", "summary"],
+      "properties": {
+        "tiles": {
+          "type": "array",
+          "minItems": 8,
+          "maxItems": 8,
+          "description": "Đúng 8 ô, đúng thứ tự quy định trong TILE_ORDER",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["label", "value", "change_pct"],
+            "properties": {
+              "label": {"type": "string", "minLength": 2, "maxLength": 40},
+              "value": {"type": "string", "minLength": 1, "maxLength": 30},
+              "change_pct": {"type": ["number", "null"], "minimum": -99, "maximum": 999}
+            }
+          }
+        },
+        "domestic": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 12,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["label", "value"],
+            "properties": {
+              "label": {"type": "string", "minLength": 2, "maxLength": 40},
+              "value": {"type": "string", "minLength": 1, "maxLength": 40},
+              "change": {"type": ["string", "null"], "maxLength": 30},
+              "direction": {"type": ["string", "null"], "enum": ["up", "down", "flat", null]}
+            }
+          }
+        },
+        "summary": {"type": "string", "minLength": 40, "maxLength": 1200}
+      }
+    },
+    "world": {
+      "type": "array",
+      "maxItems": 30,
+      "description": "Tin thế giới, tối đa 30. Renderer tự đánh số 1..N và tự sắp mới->cũ.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["ref", "title"],
+        "properties": {
+          "ref": {"type": "string", "minLength": 3},
+          "title": {"type": "string", "minLength": 10, "maxLength": 300},
+          "translated": {"type": "boolean"}
+        }
+      }
+    },
+    "vietnam": {
+      "type": "array",
+      "description": "Các khối tin trong nước, nhóm theo báo, thứ tự khối theo SOURCE_ORDER",
+      "items": {"$ref": "#/definitions/sourceBlock"}
+    },
+    "legal": {
+      "type": "array",
+      "description": "Pháp lý - thanh tra - khởi tố, cũng nhóm theo báo, tổng tối đa 10 tin",
+      "items": {"$ref": "#/definitions/sourceBlock"}
+    },
+    "dividends": {
+      "type": "array",
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["ticker", "event", "record_date"],
+        "properties": {
+          "ticker": {"type": "string", "pattern": "^[A-Z0-9]{3,10}$"},
+          "event": {"type": "string", "minLength": 4, "maxLength": 160},
+          "record_date": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+          "ref": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "highlights": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 5,
+      "description": "3-5 tin nổi bật nhất cho tin nhắn Telegram/Zalo",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["text", "source"],
+        "properties": {
+          "text": {"type": "string", "minLength": 15, "maxLength": 220},
+          "source": {"type": "string", "minLength": 2, "maxLength": 40}
+        }
+      }
+    }
+  },
+  "definitions": {
+    "sourceBlock": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "items"],
+      "properties": {
+        "source": {"type": "string", "minLength": 2, "maxLength": 40},
+        "items": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["ref", "title"],
+            "properties": {
+              "ref": {"type": "string", "minLength": 3},
+              "title": {"type": "string", "minLength": 10, "maxLength": 300}
+            }
+          }
+        }
+      }
+    }
+  }
+}
