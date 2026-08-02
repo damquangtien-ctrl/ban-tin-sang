@@ -9,6 +9,7 @@ Dùng:  python3 tools/render.py [--bulletin ...] [--raw ...] [--template ...]
 Exit:  0 = OK · 30 = lỗi render · 31 = thiếu file/marker
 """
 import argparse
+import hashlib
 import html
 import json
 import os
@@ -199,10 +200,26 @@ def main():
         with open(path, "w", encoding="utf-8", newline="\n") as fh:
             fh.write(doc)
 
+    # Vết kiểm toán: nội dung + content_sha (khoá chống gửi trùng của notify.py).
+    # content_sha tính trên DỮ LIỆU bản tin, không tính trên HTML — vì HTML chứa giờ
+    # render nên sẽ đổi mỗi lần chạy, làm hỏng cơ chế chống trùng.
     audit_path = os.path.join(args.outdir, "archive", "data", "%s.json" % date_str)
     os.makedirs(os.path.dirname(audit_path), exist_ok=True)
+    canonical = json.dumps(bulletin, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
+    audit = dict(bulletin)
+    audit["content_sha"] = hashlib.sha256(canonical.encode("utf-8")).hexdigest()
+    previous = None
+    if os.path.isfile(audit_path):
+        try:
+            with open(audit_path, encoding="utf-8") as fh:
+                previous = json.load(fh)
+        except ValueError:
+            previous = None
+    if isinstance(previous, dict) and previous.get("delivery"):
+        # Giữ biên nhận của lần chạy trước để notify.py biết kênh nào đã giao.
+        audit["delivery"] = previous["delivery"]
     with open(audit_path, "w", encoding="utf-8", newline="\n") as fh:
-        json.dump(bulletin, fh, ensure_ascii=False, indent=1)
+        json.dump(audit, fh, ensure_ascii=False, indent=1)
 
     vn_n = sum(len(b.get("items") or []) for b in (bulletin.get("vietnam") or []))
     legal_n = sum(len(b.get("items") or []) for b in (bulletin.get("legal") or []))
