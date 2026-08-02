@@ -4,15 +4,20 @@
 #
 # Thứ tự là bắt buộc: KHÔNG gọi notify khi publish chưa thành công.
 # notify.py tự chống gửi trùng theo (ngày + content_sha) nên chạy lại an toàn.
+# Biên nhận (audit + nhật ký) được ghi bằng ĐÚNG MỘT commit bổ sung; nếu commit đó
+# hỏng thì trạng thái chống-gửi-trùng chưa vào repo → trả 53, KHÔNG gửi lại lần hai.
 #
 # Dùng:  bash tools/run.sh
-# Exit:  0 trọn vẹn · 20 kiểm định · 30 render · 4x xuất bản · 5x giao tin nhắn
+# Exit:  0 trọn vẹn · 20 kiểm định · 30 render · 4x xuất bản
+#        50/51/52 giao tin nhắn · 53 đã giao nhưng chưa lưu được biên nhận
 set -uo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT" || exit 42
 PY="$(command -v python3 || command -v python)"
 LOG="$ROOT/data/pipeline.log"
+DATE="$(TZ='Asia/Ho_Chi_Minh' date +%F)"
+LOGDST="archive/data/${DATE}.log"
 mkdir -p "$ROOT/data"
 
 step()  { printf '\n=== %s ===\n' "$1" | tee -a "$LOG"; }
@@ -48,17 +53,33 @@ step "4/5 GUI TIN NHAN"
 "$PY" tools/notify.py 2>&1 | tee -a "$LOG"
 notify_rc=${PIPESTATUS[0]}
 
-step "5/5 GHI BIEN NHAN"
-bash tools/publish.sh receipt 2>&1 | tee -a "$LOG"
-receipt_rc=${PIPESTATUS[0]}
-[ "$receipt_rc" -eq 0 ] || echo "CANH BAO: khong ghi duoc bien nhan (exit $receipt_rc)" | tee -a "$LOG"
-
-if [ "$notify_rc" -ne 0 ]; then
-  echo "" | tee -a "$LOG"
-  echo "KET THUC: trang DA xuat ban nhung giao tin nhan chua tron ven (exit $notify_rc)" | tee -a "$LOG"
-  exit "$notify_rc"
+# Kết luận về nội dung + giao tin nhắn được ghi TRƯỚC khi chụp nhật ký vào repo,
+# để bản lưu trong repo là nhật ký hoàn chỉnh chứ không phải ảnh chụp giữa chừng.
+if [ "$notify_rc" -eq 0 ]; then
+  echo "HOAN TAT luc $(stamp) - trang da len, ca hai kenh da giao" | tee -a "$LOG"
+else
+  echo "KET THUC luc $(stamp) - trang DA xuat ban nhung giao tin nhan chua tron ven (exit $notify_rc)" \
+    | tee -a "$LOG"
 fi
 
-echo "" | tee -a "$LOG"
-echo "HOAN TAT luc $(stamp) - trang da len, ca hai kenh da giao" | tee -a "$LOG"
+step "5/5 GHI BIEN NHAN"
+mkdir -p "$ROOT/archive/data"
+tail -n 80 "$LOG" > "$ROOT/$LOGDST" 2>/dev/null || true
+bash tools/publish.sh receipt 2>&1 | tee -a "$LOG"
+receipt_rc=${PIPESTATUS[0]}
+
+if [ "$receipt_rc" -ne 0 ]; then
+  {
+    echo ""
+    echo "LOI BIEN NHAN (exit $receipt_rc): tin nhan DA GIAO nhung trang thai chong-gui-trung"
+    echo "  CHUA duoc luu vao repo. Phien sau se khong biet la da gui va co the gui lai ca hai kenh."
+    echo "  KHONG tu dong gui lai trong phien nay - notify.py da hoan tat, chay lai la gui trung."
+    echo "  Xu ly: chay lai DUNG lenh 'bash tools/publish.sh receipt'; TUYET DOI khong chay lai tools/run.sh."
+  } | tee -a "$LOG"
+  exit 53
+fi
+
+if [ "$notify_rc" -ne 0 ]; then
+  exit "$notify_rc"
+fi
 exit 0
