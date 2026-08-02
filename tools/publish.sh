@@ -38,7 +38,14 @@ push_now() {
 # ---------- Chế độ biên nhận: chỉ commit file audit, KHÔNG gửi lại tin nhắn ----------
 if [ "$MODE" = "receipt" ]; then
   [ -f "$AUDIT" ] || { log "LOI: thieu $AUDIT"; exit 40; }
+  # Lưu phần cuối nhật ký chạy vào repo: VM bị thu hồi sau phiên nên không giữ được
+  # data/pipeline.log. Nội dung log đã qua scrub() của notify.py, không chứa bí mật.
+  LOGDST="archive/data/${DATE}.log"
+  if [ -f data/pipeline.log ]; then
+    tail -n 80 data/pipeline.log > "$LOGDST" 2>/dev/null || true
+  fi
   git add -- "$AUDIT" || { log "LOI: git add that bai"; exit 43; }
+  [ -f "$LOGDST" ] && git add -- "$LOGDST"
   if git diff --cached --quiet; then
     log "Bien nhan khong doi, khong can commit."
     exit 0
