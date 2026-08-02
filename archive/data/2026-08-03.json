@@ -1,0 +1,476 @@
+{
+ "date": "2026-08-03",
+ "edition": "daily",
+ "market_data": {
+  "tiles": [
+   {
+    "label": "S&P 500",
+    "value": "7.489,72 điểm",
+    "change_pct": 0.7
+   },
+   {
+    "label": "Dow Jones",
+    "value": "52.485,03 điểm",
+    "change_pct": 0.53
+   },
+   {
+    "label": "Nasdaq",
+    "value": "25.373,85 điểm",
+    "change_pct": 1.0
+   },
+   {
+    "label": "Dầu WTI",
+    "value": "74,78 USD/thùng",
+    "change_pct": -7.3
+   },
+   {
+    "label": "Dầu Brent",
+    "value": "—",
+    "change_pct": -7
+   },
+   {
+    "label": "Vàng thế giới",
+    "value": "4.080 USD/oz",
+    "change_pct": 0.97
+   },
+   {
+    "label": "Bitcoin",
+    "value": "63.564,32 USD",
+    "change_pct": 1.28
+   },
+   {
+    "label": "DXY",
+    "value": "99,79 điểm",
+    "change_pct": 0.07
+   }
+  ],
+  "domestic": [
+   {
+    "label": "VN-Index",
+    "value": "1.735,78 điểm",
+    "change": "-8,88 (-0,51%)",
+    "direction": "down"
+   },
+   {
+    "label": "HNX-Index",
+    "value": "271,25 điểm",
+    "change": "-3,80 (-1,38%)",
+    "direction": "down"
+   },
+   {
+    "label": "Thanh khoản HOSE",
+    "value": "~15.967 tỷ đồng",
+    "change": null,
+    "direction": null
+   },
+   {
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~310,6 tỷ đồng",
+    "change": null,
+    "direction": "down"
+   },
+   {
+    "label": "Vàng SJC",
+    "value": "141,9 triệu đồng/lượng",
+    "change": null,
+    "direction": null
+   },
+   {
+    "label": "USD/VND (VCB bán)",
+    "value": "26.490 đồng/USD",
+    "change": null,
+    "direction": null
+   }
+  ],
+  "summary": "Phố Wall chốt phiên cuối tuần trước trong sắc xanh (S&P 500 +0,70%, Dow Jones +0,53%, Nasdaq +1,00%). Sang sáng thứ Hai giờ Việt Nam, Tổng thống Mỹ Trump thông báo hoãn kế hoạch tấn công Iran để nối lại đàm phán, khiến giá dầu WTI giảm hơn 7% xuống quanh 74,78 USD/thùng trong khi vàng thế giới vượt 4.080 USD/ounce; Mỹ và Nhật Bản cũng xác nhận đã phối hợp can thiệp tỷ giá yên hôm thứ Sáu. Trong nước, VN-Index đóng cửa phiên 31/7 giảm về 1.735,78 điểm, khối ngoại tiếp tục bán ròng hơn 310 tỷ đồng trên HOSE."
+ },
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:395264",
+   "title": "Mỹ - Iran có thể sớm đàm phán, giá dầu thô nhẹ WTI giảm mạnh về 74,78 USD/thùng"
+  },
+  {
+   "ref": "tg-marketfeed:1010696",
+   "title": "Dầu Brent sụt tới 10% ngay khi mở cửa sau khi Mỹ và Iran tạm dừng leo thang căng thẳng",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010703",
+   "title": "Iran bác bỏ tuyên bố của Trump về thỏa thuận Eo biển Hormuz, phủ nhận việc đề nghị Mỹ dừng tấn công",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010701",
+   "title": "Trump: Đàm phán Mỹ - Iran bắt đầu chiều mai, cuộc tấn công vào Iran 'sẽ rất lớn' nếu không tạm hoãn theo đề nghị của Saudi Arabia, Qatar, UAE",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105358",
+   "title": "Iran bị cáo buộc bắn tên lửa hành trình vào tàu chở dầu Mỹ gần Oman, Hải quân Anh cũng ghi nhận sự cố"
+  },
+  {
+   "ref": "tg-marketfeed:1010711",
+   "title": "Ukraine tấn công nhà máy lọc dầu và căn cứ không quân Nga tại Saratov, kho dầu tại Kaluga",
+   "translated": true
+  },
+  {
+   "ref": "tg-vnwallstreet:395258",
+   "title": "Hợp đồng tương lai trái phiếu Chính phủ Mỹ kỳ hạn 10 năm và 30 năm đồng loạt tăng khi giá dầu lao dốc"
+  },
+  {
+   "ref": "tg-dubaotiente:105360",
+   "title": "Bessent và Nhật Bản xác nhận đợt can thiệp chung vào đồng yên hôm thứ Sáu, cam kết hành động thêm"
+  },
+  {
+   "ref": "tg-vnwallstreet:395261",
+   "title": "Bộ Tài chính Nhật Bản: can thiệp nhằm đối phó biến động bất thường của đồng yên, sẽ dùng công cụ mua lại của Fed trong tương lai"
+  },
+  {
+   "ref": "tg-marketfeed:1010705",
+   "title": "Đồng USD giảm 0,2% xuống 157,02 yên, đồng euro tăng 0,25% lên 1,1549 USD",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105356",
+   "title": "Trump: Can thiệp đồng yên mang lại lợi ích tài chính cho Mỹ"
+  },
+  {
+   "ref": "tg-vnwallstreet:395256",
+   "title": "Giá vàng giao ngay mở cửa phiên đầu tuần vượt 4.080 USD/ounce, tăng gần 1%"
+  },
+  {
+   "ref": "tg-vnwallstreet:395259",
+   "title": "Giá bạc giao ngay tăng lên 58,60 USD/ounce, tăng 1,79% trong ngày"
+  },
+  {
+   "ref": "tg-vnwallstreet:395263",
+   "title": "Malaysia xem xét nới lỏng lệnh cấm xuất khẩu đất hiếm chưa qua chế biến"
+  },
+  {
+   "ref": "tg-vnwallstreet:395262",
+   "title": "Tuần này: Mỹ công bố số liệu việc làm, Trung Quốc công bố dự trữ ngoại hối, CPI và cán cân thương mại, SpaceX báo cáo tài chính"
+  },
+  {
+   "ref": "tg-dubaotiente:105361",
+   "title": "PMI sản xuất Australia tháng 7 tăng lên 52,0 khi sản lượng phục hồi"
+  }
+ ],
+ "vietnam": [
+  {
+   "source": "CafeF",
+   "items": [
+    {
+     "ref": "cafef:edcf52dc1b",
+     "title": "VIC: Đại gia Việt kiếm tiền thần tốc: Tập đoàn của ông Phạm Nhật Vượng thu hơn 50 tỷ mỗi giờ vẫn “về nhì”"
+    },
+    {
+     "ref": "cafef:e0bb4b3d5e",
+     "title": "Chứng khoán sau cú rơi mạnh nhất từ đầu năm: Tháng 8 có 'dễ thở' hơn?"
+    },
+    {
+     "ref": "cafef:a0a12a829a",
+     "title": "Xuất hiện tín hiệu tạo đáy, chuyên gia VinaCapital chỉ ra loạt cơ hội đầu tư \"hiếm có\" trên thị trường"
+    },
+    {
+     "ref": "cafef:c1223d8206",
+     "title": "PLX: Choáng với doanh thu của 'đại gia' xăng dầu"
+    },
+    {
+     "ref": "cafef:0f25d47c26",
+     "title": "Chứng khoán Việt diễn biến thế nào khi Fed giữ nguyên lãi suất?"
+    },
+    {
+     "ref": "cafef:a4ff50b3af",
+     "title": "DIG: Gia đình chủ tịch liên tục bị bán giải chấp cổ phiếu, DIC Corp làm ăn ra sao?"
+    },
+    {
+     "ref": "cafef:fddc2d9e38",
+     "title": "Góc nhìn chuyên gia: Chưa đủ cơ sở thể khẳng định VN-Index đang ở đầu sóng lớn, tận dụng nhịp hồi để cơ cấu danh mục"
+    },
+    {
+     "ref": "cafef:046628b82d",
+     "title": "TAL: Taseco Land góp 220 tỷ đồng thành lập một công ty con tại Ninh Bình"
+    },
+    {
+     "ref": "cafef:c130f3cf0b",
+     "title": "PNJ: Tháng 7 sóng gió của PNJ: Hơn 16.400 tỷ đồng vốn hóa đã bốc hơi"
+    },
+    {
+     "ref": "cafef:ad1e90ee76",
+     "title": "CII: Nhóm CII nâng sở hữu lên 11,9% vốn PC1"
+    },
+    {
+     "ref": "cafef:c6efb559c0",
+     "title": "Cập nhật BCTC quý 2/2026 ngày 2/8: HAGL Agirco lần đầu tiên có lãi trong 1 quý từ quý 2/2021, Sunshome Homes báo lãi quý 2 hơn 1.500 tỷ đồng"
+    },
+    {
+     "ref": "cafef:621fc6d170",
+     "title": "Chứng khoán tuần qua: Cổ phiếu TAL và FRT bất ngờ “cháy hàng”, PNJ “dò đáy” 6 năm"
+    }
+   ]
+  },
+  {
+   "source": "Vietstock",
+   "items": [
+    {
+     "ref": "vietstock:03327ab879",
+     "title": "Thị trường chứng quyền tuần 03-07/08/2026: Đỏ lửa cùng thị trường cơ sở"
+    },
+    {
+     "ref": "vietstock:f19bed3765",
+     "title": "Vietstock Weekly 03-07/08/2026: Tâm lý thận trọng vẫn chi phối"
+    },
+    {
+     "ref": "vietstock:949bddf839",
+     "title": "NLG: Doanh số bán hàng Nam Long vượt 5 ngàn tỷ đồng sau 6 tháng"
+    },
+    {
+     "ref": "vietstock:e23d1d1134",
+     "title": "Chứng khoán phái sinh tuần 03-07/08/2026: Tình hình không quá bi quan"
+    },
+    {
+     "ref": "vietstock:ec6aa742d1",
+     "title": "VPI: Nợ của Văn Phú lập đỉnh hơn 10 ngàn tỷ đồng"
+    },
+    {
+     "ref": "vietstock:e6c9aa3154",
+     "title": "VCG: Vinaconex lập đỉnh doanh thu giữa lúc cổ phiếu về đáy hơn 1 năm, còn phải thu ACV hơn 500 tỷ"
+    },
+    {
+     "ref": "vietstock:3789082039",
+     "title": "BAB: Lợi nhuận Bac A Bank đi ngang trong nửa đầu năm 2026"
+    },
+    {
+     "ref": "vietstock:da82f38b04",
+     "title": "NKG: Thép Nam Kim lãi hơn 100 tỷ đồng trong quý 2, thực hiện gần một nửa kế hoạch năm"
+    },
+    {
+     "ref": "vietstock:d96282990d",
+     "title": "ACV: ACV lãi kỷ lục hơn 3,35 ngàn tỷ, rót gần 40 ngàn tỷ vào sân bay Long Thành"
+    },
+    {
+     "ref": "vietstock:81edb70c7a",
+     "title": "PAN: Tập đoàn PAN báo lãi quý 2 tăng hơn 50% dù doanh thu đi lùi"
+    },
+    {
+     "ref": "vietstock:55467f29b3",
+     "title": "MSB: MSB tăng 8% lãi trước thuế bán niên 2026"
+    },
+    {
+     "ref": "vietstock:cdaedfec23",
+     "title": "TAL: Lãi khủng nhờ chuyển nhượng bất động sản, Taseco Land tăng hàng tồn kho gần 60%"
+    },
+    {
+     "ref": "vietstock:c926c3b54c",
+     "title": "CTD: Coteccons mỗi ngày trả gần 1 tỷ đồng tiền lãi vay, tồn kho lên cao kỷ lục gần 10 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:e897adfa0d",
+     "title": "DIG: DIG báo lãi tăng sau khi nhận thêm 3,2 ngàn tỷ tiền đặt chỗ mua bất động sản"
+    }
+   ]
+  },
+  {
+   "source": "VnEconomy",
+   "items": [
+    {
+     "ref": "vneconomy:1447064f55",
+     "title": "Xu thế dòng tiền: Hồi kỹ thuật, hay thị trường đã thực sự tạo đáy?"
+    },
+    {
+     "ref": "vneconomy:4a05335112",
+     "title": "VN-Index dự báo dao động tích lũy, tìm điểm cân bằng mới"
+    },
+    {
+     "ref": "vneconomy:fca69f7900",
+     "title": "Khối ngoại lại bán ròng"
+    }
+   ]
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5f8307f522",
+     "title": "Nhận định thị trường phiên giao dịch ngày 3/8: Nắm giữ cổ phiếu - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4f029ca36d",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 3/8: Chuyển sang trạng thái tích lũy - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:50ba29fa61",
+     "title": "Cổ phiếu cần quan tâm ngày 3/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c97c703682",
+     "title": "VN-Index tháng 8: Cơ hội mở rộng đà hồi phục hay chỉ là \"bull trap\"? - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a07a5a7c42",
+     "title": "Đề xuất hỗ trợ 20.000 tỷ đồng làm cao tốc Thái Nguyên - Lạng Sơn - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c5ced0216f",
+     "title": "Nới trần tiền gửi Kho bạc lên 50%, big 4 ngân hàng có thêm hàng trăm nghìn tỷ cho vay - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a08004ac94",
+     "title": "Chính phủ thông qua hồ sơ Đề án thành lập TP. Bắc Ninh trực thuộc Trung ương - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ab66da8f52",
+     "title": "Hải Phòng tăng tốc thi công, đẩy nhanh tiến độ các dự án giao thông phía Tây - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8a482d9399",
+     "title": "Mở đường làm chủ công nghệ sản xuất ray đường sắt tốc độ cao - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6450490714",
+     "title": "Giá vàng hôm nay ngày 2/8: Vàng đang mắc kẹt ở vùng giá 4.000 USD/ounce - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ebdf8d6c37",
+     "title": "LDG: 6 tháng, Đầu tư LDG lỗ 41,44 tỷ đồng và dòng tiền kinh doanh âm 1.593,3 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fabeae75bf",
+     "title": "SACOMBANK (STB) miễn nhiệm 2 Phó tổng giám đốc - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:98bc604e61",
+     "title": "EIB: Bà Phạm Thị Huyền Trang giữ chức vụ Tổng giám đốc Eximbank từ ngày 1/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3ace3b325d",
+     "title": "Viglacera (VGC) đạt 1.452,5 tỷ đồng lãi trước thuế trong 6 tháng, hoàn thành gần 80% mục tiêu lợi nhuận năm - Tin nhanh chứng khoán"
+    }
+   ]
+  },
+  {
+   "source": "Báo Đầu tư",
+   "items": [
+    {
+     "ref": "b-o-u-t:d307565d27",
+     "title": "Đề xuất đầu tư 11.500 tỷ đồng xây dựng cao tốc CT.11 qua Ninh Bình - baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:913a9a98a7",
+     "title": "STB: SACOMBANK lợi nhuận trước thuế đạt 2.030 tỷ đồng, giảm 44,5% do dự phòng tăng cao"
+    },
+    {
+     "ref": "b-o-u-t:05a35f6319",
+     "title": "VPSF 2026 ghi nhận loạt kiến nghị từ nhà đầu tư nước ngoài - baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:2972fa073a",
+     "title": "STB: SACOMBANK phát hành chứng chỉ tiền gửi lãi suất 8,2%/năm"
+    }
+   ]
+  },
+  {
+   "source": "MarketTimes",
+   "items": [
+    {
+     "ref": "markettimes:eb4fc4f90c",
+     "title": "Phạt đến 400 triệu đồng, thậm chí tịch thu toàn bộ số vàng nếu người mua bán có hành vi vi phạm sau đây"
+    }
+   ]
+  },
+  {
+   "source": "VnBusiness",
+   "items": [
+    {
+     "ref": "vnbusiness:f75bea650e",
+     "title": "HDB: HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế"
+    }
+   ]
+  }
+ ],
+ "legal": [
+  {
+   "source": "CafeF",
+   "items": [
+    {
+     "ref": "cafef:d9e039abdf",
+     "title": "Bắt 3 'mắt xích' cuối, xóa sổ đường dây lừa đảo 2.300 tỷ đồng bằng 'app tình cảm'"
+    },
+    {
+     "ref": "cafef:e0a9917355",
+     "title": "Chiếm đoạt hơn 420 tỷ đồng của 4.800 nhà đầu tư, dàn lãnh đạo Tập đoàn Capel bị truy tố"
+    }
+   ]
+  },
+  {
+   "source": "VnEconomy",
+   "items": [
+    {
+     "ref": "vneconomy:dc8fa1abd2",
+     "title": "HNX cảnh báo lừa đảo mạo danh, nhà đầu tư cần cẩn trọng"
+    }
+   ]
+  },
+  {
+   "source": "MarketTimes",
+   "items": [
+    {
+     "ref": "markettimes:093538f033",
+     "title": "Công an sẽ điều tra, xác minh các giao dịch mua bán vàng trong trường hợp sau"
+    }
+   ]
+  },
+  {
+   "source": "VnBusiness",
+   "items": [
+    {
+     "ref": "vnbusiness:b93bb8ac5f",
+     "title": "BID: Thanh tra NHNN: BIDV Bình Định còn tồn tại trong thẩm định, giải ngân và giám sát vốn vay"
+    }
+   ]
+  }
+ ],
+ "dividends": [
+  {
+   "ticker": "FBC",
+   "event": "Chốt quyền cổ tức tiền mặt tỷ lệ 100% (10.000 đồng/CP)",
+   "record_date": "2026-08-07",
+   "ref": "cafef:16e81131f9"
+  },
+  {
+   "ticker": "SAS",
+   "event": "Chốt quyền cổ tức tiền mặt tỷ lệ 40,24% (4.024 đồng/CP)",
+   "record_date": "2026-08-04",
+   "ref": "cafef:16e81131f9"
+  },
+  {
+   "ticker": "VHM",
+   "event": "Chốt quyền phát hành cổ phiếu thưởng tỷ lệ 100% (1:1)",
+   "record_date": "2026-08-07",
+   "ref": "cafef:16e81131f9"
+  }
+ ],
+ "highlights": [
+  {
+   "text": "Trump hoãn kế hoạch tấn công Iran, giá dầu thế giới lao dốc hơn 7%, vàng vượt 4.080 USD/ounce",
+   "source": "VN Wall Street"
+  },
+  {
+   "text": "Mỹ - Nhật xác nhận phối hợp can thiệp tỷ giá yên, Bessent cam kết sẵn sàng hành động thêm",
+   "source": "Dubaotiente"
+  },
+  {
+   "text": "VN-Index lùi về 1.735,78 điểm phiên cuối tuần, khối ngoại bán ròng hơn 310 tỷ đồng trên HOSE",
+   "source": "FiinQuant"
+  },
+  {
+   "text": "ACV lãi kỷ lục hơn 3.350 tỷ đồng, rót gần 40.000 tỷ đồng vào sân bay Long Thành",
+   "source": "Vietstock"
+  },
+  {
+   "text": "Gia đình Chủ tịch DIC Corp (DIG) tiếp tục bị bán giải chấp hơn 8 triệu cổ phiếu",
+   "source": "CafeF"
+  }
+ ],
+ "content_sha": "8ff2d0f33dbc81aa5b6cef54bea333e1832b82684e95a538b0471983ed008a8b"
+}
