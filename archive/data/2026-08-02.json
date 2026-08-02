@@ -1,0 +1,174 @@
+{
+ "date": "2026-08-02",
+ "edition": "sunday",
+ "market_data": {
+  "tiles": [
+   {
+    "label": "S&P 500",
+    "value": "7.489,72 điểm",
+    "change_pct": 0.7
+   },
+   {
+    "label": "Dow Jones",
+    "value": "52.485,03 điểm",
+    "change_pct": 0.53
+   },
+   {
+    "label": "Nasdaq",
+    "value": "25.373,85 điểm",
+    "change_pct": 1.0
+   },
+   {
+    "label": "Dầu WTI",
+    "value": "84,67 USD/thùng",
+    "change_pct": 1.29
+   },
+   {
+    "label": "Dầu Brent",
+    "value": "90,12 USD/thùng",
+    "change_pct": 1.22
+   },
+   {
+    "label": "Vàng thế giới",
+    "value": "4.028,0 USD/oz",
+    "change_pct": -1.78
+   },
+   {
+    "label": "Bitcoin",
+    "value": "63.477 USD",
+    "change_pct": 1.31
+   },
+   {
+    "label": "DXY",
+    "value": "99,79 điểm",
+    "change_pct": 0.07
+   }
+  ],
+  "domestic": [
+   {
+    "label": "VN-Index",
+    "value": "1.735,78 điểm",
+    "change": "-8,88 (-0,51%)",
+    "direction": "down"
+   },
+   {
+    "label": "HNX-Index",
+    "value": "271,25 điểm",
+    "change": "-3,80 (-1,38%)",
+    "direction": "down"
+   },
+   {
+    "label": "Thanh khoản HOSE",
+    "value": "15.967 tỷ đồng",
+    "change": "-733 tỷ đồng so phiên trước",
+    "direction": "down"
+   },
+   {
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 310,6 tỷ đồng",
+    "change": null,
+    "direction": "down"
+   },
+   {
+    "label": "Vàng SJC",
+    "value": "137 - 141 triệu đồng/lượng (mua - bán)",
+    "change": "đi ngang so với hôm qua",
+    "direction": "flat"
+   },
+   {
+    "label": "USD/VND (VCB bán)",
+    "value": "26.490 đồng",
+    "change": null,
+    "direction": null
+   }
+  ],
+  "summary": "Chứng khoán Mỹ tăng điểm cuối tuần sau khi Tổng thống Trump tuyên bố tạm hoãn kế hoạch tấn công Iran để chờ đàm phán, S&P 500 tăng 0,70%, Dow Jones tăng 0,53%, Nasdaq tăng 1,00%. Dầu WTI và Brent cùng tăng hơn 1% do lo ngại nguồn cung tại Trung Đông và thỏa thuận sản lượng mới của OPEC+. Trong nước, VN-Index đóng cửa phiên 31/7 giảm 8,88 điểm còn 1.735,78 điểm, thanh khoản HOSE đạt gần 16.000 tỷ đồng, khối ngoại bán ròng hơn 310 tỷ đồng. Giá vàng SJC trong nước đi ngang quanh 141 triệu đồng/lượng bán ra, tỷ giá USD/VND tại Vietcombank niêm yết 26.490 đồng chiều bán."
+ },
+ "world": [
+  {
+   "ref": "tg-marketfeed:1010523",
+   "title": "Ông Trump tạm hoãn kế hoạch tấn công Iran, chờ thỏa thuận hạt nhân và mở lại eo biển Hormuz",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010519",
+   "title": "OPEC+ nhất trí về nguyên tắc tăng sản lượng dầu thêm 188.000 thùng/ngày từ tháng 9, sau đó tạm dừng 4 tháng",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010534",
+   "title": "Kuwait nâng sản lượng dầu thô tháng 7 lên bình quân 1,971 triệu thùng/ngày, từ 1,65 triệu thùng/ngày trong tháng 6",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010527",
+   "title": "Nhật Bản dự kiến công bố đã phối hợp với Mỹ can thiệp thị trường tiền tệ để hỗ trợ đồng yen sau khi rơi xuống đáy 40 năm",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010507",
+   "title": "Thái tử Ả Rập Saudi Mohammed bin Salman điện đàm với Tổng thống Trump, kêu gọi đối thoại hạ nhiệt căng thẳng Trung Đông",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010506",
+   "title": "Quân đội Ukraine tập kích nhà máy lọc dầu và căn cứ không quân tại vùng Saratov, kho dầu tại Kaluga của Nga",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010485",
+   "title": "Nga tiếp tục không kích các cảng và tàu thuyền Ukraine trong đêm, làm tăng rủi ro chuỗi cung ứng qua Biển Đen",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010487",
+   "title": "Chiến sự Iran thúc đẩy doanh số xe điện tại châu Á, nhưng đà giảm tốc của Trung Quốc kéo lùi tổng doanh số toàn cầu",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010484",
+   "title": "Thương mại biên giới Ấn Độ - Trung Quốc nối lại sau 6 năm gián đoạn, lô hàng đầu tiên của 16 thương nhân xuất phát sang Tây Tạng",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010476",
+   "title": "Cổ phiếu Meta diễn biến kém tích cực dù thị trường chung khởi sắc",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010501",
+   "title": "CEO công ty ngân khố Bitcoin Strategy: bài học lớn nhất năm 2026 là tầm quan trọng của việc nắm giữ USD thanh khoản",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010475",
+   "title": "Tàu sân bay Mỹ thực hiện chuyến thăm cảng hiếm hoi tới Việt Nam",
+   "translated": true
+  }
+ ],
+ "vietnam": [],
+ "legal": [],
+ "dividends": [],
+ "highlights": [
+  {
+   "text": "Ông Trump tạm hoãn kế hoạch tấn công Iran để chờ đàm phán mở lại eo biển Hormuz, giá dầu và vàng biến động mạnh",
+   "source": "Market News Feed"
+  },
+  {
+   "text": "OPEC+ nhất trí tăng sản lượng dầu thêm 188.000 thùng/ngày từ tháng 9 rồi tạm dừng 4 tháng",
+   "source": "Market News Feed"
+  },
+  {
+   "text": "Chứng khoán Mỹ tăng điểm cuối tuần: S&P 500 +0,70%, Dow Jones +0,53%, Nasdaq +1,00%",
+   "source": "Thị trường quốc tế"
+  },
+  {
+   "text": "VN-Index đóng cửa phiên 31/7 giảm 8,88 điểm còn 1.735,78 điểm, khối ngoại bán ròng hơn 310 tỷ đồng",
+   "source": "Thị trường trong nước"
+  },
+  {
+   "text": "Nhật Bản phối hợp với Mỹ can thiệp thị trường tiền tệ hỗ trợ đồng yen sau khi rơi xuống đáy 40 năm",
+   "source": "Market News Feed"
+  }
+ ]
+}
