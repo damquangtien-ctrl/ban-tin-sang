@@ -472,5 +472,24 @@
    "source": "CafeF"
   }
  ],
- "content_sha": "8ff2d0f33dbc81aa5b6cef54bea333e1832b82684e95a538b0471983ed008a8b"
+ "content_sha": "8ff2d0f33dbc81aa5b6cef54bea333e1832b82684e95a538b0471983ed008a8b",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "deacc44bfe58ba99b7131813037e36779f4e8b15",
+   "published_at": "2026-08-03T06:44:12+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "211",
+   "sent_at": "2026-08-03T06:44:13+07:00",
+   "content_sha": "8ff2d0f33dbc81aa5b6cef54bea333e1832b82684e95a538b0471983ed008a8b"
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "1dc6dfb103d98a80d3cf",
+   "sent_at": "2026-08-03T06:44:15+07:00",
+   "content_sha": "8ff2d0f33dbc81aa5b6cef54bea333e1832b82684e95a538b0471983ed008a8b"
+  }
+ }
 }
