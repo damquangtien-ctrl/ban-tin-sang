@@ -146,5 +146,24 @@
    "source": "Market News Feed"
   }
  ],
- "content_sha": "7473d4ceabecf2cdad914018110edbee7a0c8b78b64c4982012ae3f587de4c76"
+ "content_sha": "7473d4ceabecf2cdad914018110edbee7a0c8b78b64c4982012ae3f587de4c76",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "42a56be23b56d83c56697fa72aa9b629818ac0e7",
+   "published_at": "2026-08-02T17:11:23+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "210",
+   "sent_at": "2026-08-02T17:11:24+07:00",
+   "content_sha": "7473d4ceabecf2cdad914018110edbee7a0c8b78b64c4982012ae3f587de4c76"
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "c26e1278e1e757be0ef1",
+   "sent_at": "2026-08-02T17:11:25+07:00",
+   "content_sha": "7473d4ceabecf2cdad914018110edbee7a0c8b78b64c4982012ae3f587de4c76"
+  }
+ }
 }
