@@ -1,48 +1,139 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Gửi tin nhắn tóm tắt + link trang qua Telegram và Zalo.
+"""Gửi tin nhắn tóm tắt + link trang qua Telegram và Zalo, có biên nhận và chống gửi trùng.
 
-Token KHÔNG nằm trong mã nguồn và KHÔNG nằm trong prompt. Script đọc từ
-biến môi trường của environment cloud:
-    TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, ZALO_BOT_TOKEN, ZALO_CHAT_ID
-Thiếu biến nào thì bỏ qua kênh đó và báo rõ trong log.
+Nguyên tắc:
+  • Chỉ gửi khi publish đã xác nhận thành công (đọc data/publish.json).
+  • Thành công = CẢ HAI kênh giao được. Một kênh hỏng là cả lượt chạy hỏng.
+  • Chống gửi trùng theo (ngày + content_sha): kênh nào đã giao đúng bản nội dung này
+    thì bỏ qua; chạy lại chỉ thử lại kênh còn thiếu.
+  • Token đọc từ biến môi trường, không bao giờ ghi ra log/biên nhận/repo.
 
-Dùng:  python3 tools/notify.py [--bulletin data/bulletin.json] [--dry-run]
-Exit:  0 = ít nhất 1 kênh gửi được · 50 = không kênh nào gửi được
-       51 = thiếu toàn bộ cấu hình token
+Biến môi trường: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, ZALO_BOT_TOKEN, ZALO_CHAT_ID
+Dùng:  python3 tools/notify.py [--dry-run] [--alert "lý do"]
+Exit:  0  cả hai kênh đã giao (gửi mới hoặc đã giao từ lần chạy trước)
+       50 ít nhất một kênh gửi thất bại
+       51 thiếu biến môi trường của ít nhất một kênh
+       52 chưa có xác nhận publish thành công → từ chối gửi
 """
 import argparse
 import html
 import json
 import os
+import re
 import sys
 import urllib.parse
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
+VN = timezone(timedelta(hours=7))
 PAGE_URL = "https://damquangtien-ctrl.github.io/ban-tin-sang/"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CHANNELS = ("telegram", "zalo")
+ENV_KEYS = {
+    "telegram": ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID"),
+    "zalo": ("ZALO_BOT_TOKEN", "ZALO_CHAT_ID"),
+}
+TOKEN_RE = re.compile(r"bot[0-9]{6,}:[A-Za-z0-9_\-]+")
+
+
+def scrub(text):
+    """Che mọi chuỗi bí mật trước khi in ra log hoặc ghi biên nhận."""
+    out = str(text)
+    for keys in ENV_KEYS.values():
+        for key in keys:
+            val = os.environ.get(key, "").strip()
+            if val and len(val) >= 8:
+                out = out.replace(val, "***")
+    return TOKEN_RE.sub("bot***", out)
 
 
 def log(msg):
-    print(msg, flush=True)
+    print(scrub(msg), flush=True)
+
+
+def now_iso():
+    return datetime.now(VN).isoformat(timespec="seconds")
+
+
+def load_json(path):
+    try:
+        with open(path, encoding="utf-8") as fh:
+            return json.load(fh)
+    except (OSError, ValueError):
+        return None
+
+
+def save_json(path, obj):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8", newline="\n") as fh:
+        json.dump(obj, fh, ensure_ascii=False, indent=1)
 
 
 def post_form(url, fields, timeout=45):
+    """Gửi POST; KHÔNG bao giờ trả hay ghi lại url (url có chứa token)."""
     data = urllib.parse.urlencode(fields).encode("utf-8")
     req = urllib.request.Request(url, data=data, headers={
         "Content-Type": "application/x-www-form-urlencoded; charset=utf-8"})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.status, resp.read().decode("utf-8", "replace")[:200]
+        return resp.status, resp.read().decode("utf-8", "replace")[:4000]
+
+
+def extract_message_id(body):
+    """Lấy DUY NHẤT message_id từ phản hồi; phần còn lại của phản hồi bị bỏ."""
+    try:
+        data = json.loads(body)
+    except (ValueError, TypeError):
+        return None
+
+    def walk(node, depth=0):
+        if depth > 4:
+            return None
+        if isinstance(node, dict):
+            for key in ("message_id", "messageId", "msg_id", "messageID"):
+                val = node.get(key)
+                if isinstance(val, (str, int)):
+                    return str(val)
+            for val in node.values():
+                got = walk(val, depth + 1)
+                if got:
+                    return got
+        elif isinstance(node, list):
+            for val in node[:5]:
+                got = walk(val, depth + 1)
+                if got:
+                    return got
+        return None
+
+    return walk(data)
+
+
+def short_error(status, body):
+    """Mô tả lỗi ngắn, đã che bí mật, không kèm nguyên văn phản hồi."""
+    desc = ""
+    try:
+        data = json.loads(body)
+        if isinstance(data, dict):
+            for key in ("description", "message", "error", "error_description"):
+                if isinstance(data.get(key), str):
+                    desc = data[key][:80]
+                    break
+    except (ValueError, TypeError):
+        pass
+    return scrub(("HTTP %s" % status) + (" - %s" % desc if desc else ""))
+
+
+def channel_config(name):
+    token_key, chat_key = ENV_KEYS[name]
+    return os.environ.get(token_key, "").strip(), os.environ.get(chat_key, "").strip()
 
 
 def build_lines(bulletin):
-    """Trả về (dòng tiêu đề, dòng số liệu, danh sách tin nổi bật)."""
     day = datetime.strptime(bulletin["date"], "%Y-%m-%d").strftime("%d/%m")
-    now = datetime.now().strftime("%H:%M")
-    scheduled = 5 <= datetime.now().hour <= 8
+    now = datetime.now(VN)
+    scheduled = 5 <= now.hour <= 8
     head = ("📈 BẢN TIN SÁNG %s" % day if scheduled
-            else "📈 BẢN TIN CẬP NHẬT %s %s" % (now, day))
+            else "📈 BẢN TIN CẬP NHẬT %s %s" % (now.strftime("%H:%M"), day))
 
     md = bulletin.get("market_data") or {}
     picks, tiles = [], {t.get("label"): t for t in md.get("tiles") or []}
@@ -58,98 +149,155 @@ def build_lines(bulletin):
             arrow = "▲" if pct > 0 else ("▼" if pct < 0 else "•")
             picks.append("%s %s %s%.2f%%" % (short, arrow, "+" if pct > 0 else "", pct))
     stats = " · ".join(picks).replace(".", ",") if picks else ""
-
-    highlights = [(h.get("text", ""), h.get("source", "")) for h in bulletin.get("highlights") or []]
+    highlights = [(h.get("text", ""), h.get("source", ""))
+                  for h in bulletin.get("highlights") or []]
     return head, stats, highlights
 
 
-def send_telegram(head, stats, highlights, dry):
-    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-    if not (token and chat):
-        log("   Telegram: BO QUA (thieu TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID)")
-        return None
-    parts = ["<b>%s</b>" % html.escape(head)]
-    if stats:
-        parts.append(html.escape(stats))
-    if highlights:
-        parts.append("")
-        parts.append("⭐ <b>Đáng chú ý:</b>")
-        for i, (text, source) in enumerate(highlights, start=1):
-            suffix = " (%s)" % html.escape(source) if source else ""
-            parts.append("%d. %s%s" % (i, html.escape(text), suffix))
-    parts.append("")
-    parts.append('👉 <a href="%s">Đọc bản tin đầy đủ</a>' % PAGE_URL)
-    body = "\n".join(parts)
-    if dry:
-        log("   Telegram (dry-run):\n%s" % body)
-        return True
-    try:
-        status, resp = post_form(
-            "https://api.telegram.org/bot%s/sendMessage" % token,
-            {"chat_id": chat, "parse_mode": "HTML",
-             "disable_web_page_preview": "true", "text": body})
-        ok = status == 200 and '"ok":true' in resp
-        log("   Telegram: %s (HTTP %s)" % ("OK" if ok else "LOI " + resp, status))
-        return ok
-    except Exception as exc:  # noqa: BLE001
-        log("   Telegram: LOI %s" % str(exc)[:150])
-        return False
-
-
-def send_zalo(head, stats, highlights, dry):
-    token = os.environ.get("ZALO_BOT_TOKEN", "").strip()
-    chat = os.environ.get("ZALO_CHAT_ID", "").strip()
-    if not (token and chat):
-        log("   Zalo: BO QUA (thieu ZALO_BOT_TOKEN/ZALO_CHAT_ID)")
-        return None
+def compose(channel, head, stats, highlights):
+    if channel == "telegram":
+        parts = ["<b>%s</b>" % html.escape(head)]
+        if stats:
+            parts.append(html.escape(stats))
+        if highlights:
+            parts += ["", "⭐ <b>Đáng chú ý:</b>"]
+            for i, (text, source) in enumerate(highlights, start=1):
+                suffix = " (%s)" % html.escape(source) if source else ""
+                parts.append("%d. %s%s" % (i, html.escape(text), suffix))
+        parts += ["", '👉 <a href="%s">Đọc bản tin đầy đủ</a>' % PAGE_URL]
+        return "\n".join(parts)
     parts = [head]
     if stats:
         parts.append(stats)
     if highlights:
-        parts.append("")
-        parts.append("⭐ Đáng chú ý:")
+        parts += ["", "⭐ Đáng chú ý:"]
         for i, (text, source) in enumerate(highlights, start=1):
             parts.append("%d. %s%s" % (i, text, " (%s)" % source if source else ""))
-    parts.append("")
-    parts.append("👉 Đọc bản tin đầy đủ: %s" % PAGE_URL)
-    body = "\n".join(parts)[:1900]
-    if dry:
-        log("   Zalo (dry-run):\n%s" % body)
-        return True
+    parts += ["", "👉 Đọc bản tin đầy đủ: %s" % PAGE_URL]
+    return "\n".join(parts)[:1900]
+
+
+def send(channel, body):
+    """Trả về (ok, message_id, error) — không lộ token trong bất kỳ giá trị nào."""
+    token, chat = channel_config(channel)
+    if channel == "telegram":
+        url = "https://api.telegram.org/bot%s/sendMessage" % token
+        fields = {"chat_id": chat, "parse_mode": "HTML",
+                  "disable_web_page_preview": "true", "text": body}
+    else:
+        url = "https://bot-api.zapps.me/bot%s/sendMessage" % token
+        fields = {"chat_id": chat, "text": body}
     try:
-        status, resp = post_form(
-            "https://bot-api.zapps.me/bot%s/sendMessage" % token,
-            {"chat_id": chat, "text": body})
-        ok = status == 200
-        log("   Zalo: %s (HTTP %s)" % ("OK" if ok else "LOI " + resp, status))
-        return ok
+        status, resp = post_form(url, fields)
     except Exception as exc:  # noqa: BLE001
-        log("   Zalo: LOI %s" % str(exc)[:150])
-        return False
+        return False, None, scrub(str(exc))[:120]
+    ok = status == 200 and '"ok":false' not in resp.replace(" ", "")
+    if not ok:
+        return False, None, short_error(status, resp)
+    return True, extract_message_id(resp), None
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--bulletin", default=os.path.join(ROOT, "data", "bulletin.json"))
+    ap.add_argument("--publish", default=os.path.join(ROOT, "data", "publish.json"))
+    ap.add_argument("--outdir", default=ROOT)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--alert", default=None,
+                    help="gửi cảnh báo sự cố (bỏ qua kiểm tra publish và chống trùng)")
     args = ap.parse_args()
 
-    if not os.path.isfile(args.bulletin):
-        log("LOI: thieu %s" % args.bulletin)
+    # --- Chế độ cảnh báo sự cố: gửi thẳng, không biên nhận, không idempotency ---
+    if args.alert:
+        head, stats, highlights = "⚠️ BẢN TIN SÁNG GẶP SỰ CỐ", scrub(args.alert)[:300], []
+        rc = 0
+        for channel in CHANNELS:
+            token, chat = channel_config(channel)
+            if not (token and chat):
+                log("   %s: BO QUA (thieu bien moi truong)" % channel)
+                rc = 51
+                continue
+            ok, _, err = send(channel, compose(channel, head, stats, highlights))
+            log("   %s: %s" % (channel, "OK" if ok else "LOI %s" % err))
+            if not ok and rc == 0:
+                rc = 50
+        return rc
+
+    bulletin = load_json(args.bulletin)
+    if not bulletin:
+        log("LOI: thieu hoac hong %s" % args.bulletin)
         return 50
-    with open(args.bulletin, encoding="utf-8") as fh:
-        bulletin = json.load(fh)
+    date = bulletin["date"]
+    audit_path = os.path.join(args.outdir, "archive", "data", "%s.json" % date)
+    audit = load_json(audit_path) or {}
+    content_sha = audit.get("content_sha")
+    if not content_sha:
+        log("LOI: %s thieu content_sha - chay lai tools/render.py" % audit_path)
+        return 50
+
+    # --- Chốt chặn: chưa publish thì tuyệt đối không gửi ---
+    pub = load_json(args.publish) or {}
+    if not (pub.get("ok") and pub.get("commit")):
+        log("TU CHOI GUI: chua co xac nhan publish thanh cong (data/publish.json)")
+        return 52
+
+    delivery = audit.get("delivery") or {}
+    delivery["publish"] = {"ok": True, "commit": pub["commit"],
+                           "published_at": pub.get("published_at") or now_iso()}
 
     head, stats, highlights = build_lines(bulletin)
-    log("Gui thong bao: %s" % head)
-    results = [send_telegram(head, stats, highlights, args.dry_run),
-               send_zalo(head, stats, highlights, args.dry_run)]
+    log("Giao nhan: %s | content_sha %s | commit %s"
+        % (head, content_sha[:12], pub["commit"][:12]))
 
-    if all(r is None for r in results):
-        log("LOI: chua cau hinh kenh nao (dat bien moi truong trong Environment settings)")
+    statuses = {}
+    for channel in CHANNELS:
+        prev = delivery.get(channel) or {}
+        if prev.get("ok") and prev.get("content_sha") == content_sha:
+            statuses[channel] = "already"
+            log("   %-8s DA GUI truoc do cho dung ban noi dung nay (message_id=%s) - bo qua"
+                % (channel, prev.get("message_id")))
+            continue
+        token, chat = channel_config(channel)
+        if not (token and chat):
+            statuses[channel] = "unconfigured"
+            missing = " / ".join(k for k in ENV_KEYS[channel] if not os.environ.get(k, "").strip())
+            log("   %-8s THIEU CAU HINH: %s" % (channel, missing))
+            delivery[channel] = {"ok": False, "message_id": None, "sent_at": None,
+                                 "content_sha": content_sha, "error": "thieu bien moi truong"}
+            continue
+        body = compose(channel, head, stats, highlights)
+        if args.dry_run:
+            statuses[channel] = "dry"
+            log("   %-8s DRY-RUN, %d ky tu, khong gui that" % (channel, len(body)))
+            continue
+        ok, message_id, err = send(channel, body)
+        statuses[channel] = "sent" if ok else "failed"
+        log("   %-8s %s" % (channel, "OK message_id=%s" % message_id if ok else "THAT BAI: %s" % err))
+        delivery[channel] = {"ok": bool(ok), "message_id": message_id,
+                             "sent_at": now_iso() if ok else None,
+                             "content_sha": content_sha}
+        if not ok:
+            delivery[channel]["error"] = err
+
+    if args.dry_run:
+        return 0
+
+    audit["delivery"] = delivery
+    save_json(audit_path, audit)
+    save_json(os.path.join(args.outdir, "data", "delivery-%s.json" % date),
+              {"date": date, "content_sha": content_sha, "recorded_at": now_iso(),
+               "delivery": delivery})
+    log("   Bien nhan: %s" % audit_path)
+
+    if any(s == "unconfigured" for s in statuses.values()):
+        log("KET QUA: thieu cau hinh kenh -> exit 51")
         return 51
-    return 0 if any(r is True for r in results) else 50
+    if any(s == "failed" for s in statuses.values()):
+        log("KET QUA: co kenh that bai -> exit 50")
+        return 50
+    log("KET QUA: ca hai kenh da giao (%s)"
+        % ", ".join("%s=%s" % (c, statuses[c]) for c in CHANNELS))
+    return 0
 
 
 if __name__ == "__main__":
