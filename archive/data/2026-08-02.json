@@ -49,145 +49,75 @@
     "label": "VN-Index",
     "value": "—",
     "change": null,
-    "direction": "flat"
-   },
-   {
-    "label": "HNX-Index",
-    "value": "—",
-    "change": null,
-    "direction": "flat"
-   },
-   {
-    "label": "Thanh khoản HOSE",
-    "value": "—",
-    "change": null,
-    "direction": "flat"
-   },
-   {
-    "label": "Khối ngoại (HOSE)",
-    "value": "—",
-    "change": null,
-    "direction": "flat"
-   },
-   {
-    "label": "Vàng SJC",
-    "value": "—",
-    "change": null,
-    "direction": "flat"
-   },
-   {
-    "label": "USD/VND (VCB bán)",
-    "value": "—",
-    "change": null,
-    "direction": "flat"
+    "direction": null
    }
   ],
-  "summary": "Ấn bản Chủ Nhật rút gọn, chỉ tổng hợp tin thế giới; không có phiên giao dịch trong nước và không cập nhật số liệu thị trường chi tiết hôm nay."
+  "summary": "Đây là ấn bản Chủ Nhật rút gọn, chỉ tổng hợp tin thế giới. Số liệu thị trường trong nước và quốc tế sẽ được cập nhật đầy đủ trong bản tin ngày thường tiếp theo."
  },
  "world": [
   {
-   "ref": "tg-marketfeed:1010526",
-   "title": "Hai nghị sĩ Iran kêu gọi trả đũa Israel và Mỹ sau vụ sát hại lãnh tụ tối cao Ali Khamenei, một người yêu cầu Quốc hội cho phép hành động quân sự chính thức.",
-   "translated": true
-  },
-  {
    "ref": "tg-marketfeed:1010523",
-   "title": "Trump tạm hoãn kế hoạch tấn công Iran để chờ một thỏa thuận nhanh nhằm kiềm chế chương trình hạt nhân và mở lại hoàn toàn eo biển Hormuz.",
+   "title": "Ông Trump tạm hoãn kế hoạch tấn công Iran để chờ thỏa thuận hạt nhân và mở lại Eo biển Hormuz",
    "translated": true
   },
   {
    "ref": "tg-marketfeed:1010536",
-   "title": "Hãng tin Fars (Iran) dẫn nguồn tin: không có chuyện Tehran đồng ý đề xuất mở lại eo biển Hormuz, bác bỏ các thông tin đang lan truyền.",
+   "title": "Hãng Fars: Không có chuyện Iran đồng ý mở lại Eo biển Hormuz",
    "translated": true
   },
   {
-   "ref": "tg-marketfeed:1010528",
-   "title": "Quyền Bộ trưởng Quốc phòng Iran: Tehran sẽ không bị động hay bất ngờ trước bất kỳ mối đe dọa nào, gọi các tuyên bố mới của Mỹ là \"chiến tranh tâm lý\".",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010532",
-   "title": "Bộ trưởng Tài chính Israel Smotrich: muốn Israel chiếm toàn bộ Dải Gaza, thiết lập quân quản rồi tái định cư người Do Thái tại đây.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010510",
-   "title": "Ít nhất 7 người Palestine thiệt mạng trong các cuộc tấn công mới của Israel vào Dải Gaza.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010529",
-   "title": "OPEC+ nhiều khả năng nâng hạn ngạch sản lượng dầu thêm khoảng 188.000 thùng/ngày từ tháng 9, sau đó tạm dừng tăng trong 4 tháng.",
+   "ref": "tg-marketfeed:1010519",
+   "title": "OPEC+ nhất trí về nguyên tắc tăng sản lượng dầu thêm 188.000 thùng/ngày từ tháng 9 rồi tạm dừng 4 tháng",
    "translated": true
   },
   {
    "ref": "tg-marketfeed:1010534",
-   "title": "Kuwait nâng sản lượng dầu thô tháng 7 lên bình quân 1,971 triệu thùng/ngày, tăng từ 1,65 triệu thùng/ngày trong tháng 6.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010520",
-   "title": "Thái tử Saudi Arabia điện đàm với Tổng thống Trump, thảo luận nỗ lực hạ nhiệt căng thẳng khu vực Trung Đông.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010527",
-   "title": "Nhật Bản dự kiến công bố phối hợp với Mỹ can thiệp thị trường tiền tệ hỗ trợ đồng yen sau khi đồng tiền này rơi xuống đáy 40 năm, ước tính đã chi gần 59 tỷ USD.",
+   "title": "Kuwait nâng sản lượng dầu thô tháng 7 lên 1,971 triệu thùng/ngày, từ 1,65 triệu thùng/ngày tháng trước",
    "translated": true
   },
   {
    "ref": "tg-marketfeed:1010498",
-   "title": "Thị trường cuối tuần: DAX, Dow Jones, Nasdaq, FTSE, Hang Seng đồng loạt tăng nhẹ; vàng tăng 0,57%; dầu WTI giảm mạnh khoảng 6,19%.",
+   "title": "Thị trường cuối tuần: Dow +0,46%, Nasdaq +0,77%, vàng +0,57%, dầu WTI lao dốc 6,19%",
    "translated": true
   },
   {
-   "ref": "tg-marketfeed:1010497",
-   "title": "Tiền số cuối tuần: Bitcoin tăng 1,31% lên khoảng 63.477 USD, Ether tăng 2,06%, phần lớn altcoin đồng loạt đi lên.",
+   "ref": "tg-marketfeed:1010527",
+   "title": "Nhật Bản phối hợp Mỹ can thiệp thị trường tiền tệ hỗ trợ đồng yen sau khi rơi xuống đáy 40 năm, đã chi khoảng 59 tỷ USD",
    "translated": true
   },
   {
-   "ref": "tg-marketfeed:1010501",
-   "title": "CEO Strategy (công ty nắm giữ Bitcoin) Phong Le: bài học lớn nhất năm 2026 là tầm quan trọng của việc duy trì thanh khoản USD.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010484",
-   "title": "Thương mại biên giới Ấn Độ - Trung Quốc nối lại sau 6 năm, lô hàng đầu tiên với 16 thương nhân được thông quan sang Tây Tạng.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010476",
-   "title": "Cổ phiếu Meta diễn biến kém tích cực dù thị trường chung khởi sắc.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010479",
-   "title": "Các nhà bán lẻ xăng dầu Ấn Độ chịu lỗ lớn để bảo vệ người tiêu dùng khỏi đà tăng giá nhiên liệu.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010478",
-   "title": "Financial Times: Iran đang chủ động dẫn dắt nhịp độ trong cuộc đối đầu với chính quyền Trump.",
-   "translated": true
-  },
-  {
-   "ref": "tg-marketfeed:1010487",
-   "title": "Chiến tranh Iran thúc đẩy doanh số xe điện tại châu Á nhưng đà giảm tốc của Trung Quốc kéo lùi tổng doanh số toàn cầu.",
+   "ref": "tg-marketfeed:1010507",
+   "title": "Thái tử Saudi Arabia kêu gọi đối thoại, hạ nhiệt căng thẳng khu vực trong điện đàm với Tổng thống Trump",
    "translated": true
   },
   {
    "ref": "tg-marketfeed:1010506",
-   "title": "Quân đội Ukraine thông báo pháo kích một nhà máy lọc dầu và căn cứ không quân tại vùng Saratov, cùng một kho dầu tại vùng Kaluga của Nga.",
+   "title": "Ukraine tấn công nhà máy lọc dầu, sân bay quân sự và kho dầu của Nga tại vùng Saratov và Kaluga",
    "translated": true
   },
   {
-   "ref": "tg-marketfeed:1010485",
-   "title": "Nga tiếp tục không kích các cảng và tàu thuyền của Ukraine trong đêm, theo Bộ Quốc phòng Nga.",
+   "ref": "tg-marketfeed:1010501",
+   "title": "CEO Strategy Phong Le: Bài học lớn nhất năm 2026 là tầm quan trọng của việc nắm giữ USD thanh khoản",
    "translated": true
   },
   {
-   "ref": "tg-marketfeed:1010509",
-   "title": "Thương vụ thâu tóm chuỗi dược phẩm Boots trị giá 7 tỷ bảng của gia tộc Weston có nguy cơ đổ vỡ, theo Telegraph.",
+   "ref": "tg-marketfeed:1010487",
+   "title": "Chiến sự Iran thúc đẩy doanh số xe điện châu Á nhưng đà giảm tốc của Trung Quốc kéo lùi tổng thể",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010484",
+   "title": "Thương mại biên giới Ấn Độ - Trung Quốc nối lại sau 6 năm gián đoạn",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010479",
+   "title": "Các nhà bán lẻ xăng dầu Ấn Độ chịu lỗ lớn để bảo vệ người tiêu dùng khỏi giá tăng vọt",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1010515",
+   "title": "Các dòng sông lớn của châu Âu cạn nước sau nắng nóng, đe dọa ngành công nghiệp nặng",
    "translated": true
   }
  ],
@@ -196,24 +126,25 @@
  "dividends": [],
  "highlights": [
   {
-   "text": "Trump tạm hoãn kế hoạch tấn công Iran để chờ thỏa thuận mở lại eo biển Hormuz, nhưng Iran sau đó bác bỏ thông tin đã đồng ý.",
+   "text": "Ông Trump tạm hoãn kế hoạch tấn công Iran, chờ thỏa thuận mở lại Eo biển Hormuz",
    "source": "Market News Feed"
   },
   {
-   "text": "OPEC+ nhiều khả năng nâng hạn ngạch sản lượng dầu thêm khoảng 188.000 thùng/ngày từ tháng 9, rồi tạm dừng tăng trong 4 tháng.",
+   "text": "OPEC+ nhất trí tăng sản lượng dầu 188.000 thùng/ngày từ tháng 9, tạm dừng 4 tháng",
    "source": "Market News Feed"
   },
   {
-   "text": "Nhật Bản phối hợp với Mỹ can thiệp hỗ trợ đồng yen sau khi tiền tệ này rơi xuống đáy 40 năm, ước chi gần 59 tỷ USD.",
+   "text": "Dầu WTI lao dốc 6,19% trong phiên cuối tuần dù vàng và chứng khoán Mỹ tăng nhẹ",
    "source": "Market News Feed"
   },
   {
-   "text": "Thị trường cuối tuần: Dow Jones +0,46%, Nasdaq +0,77%, vàng thế giới +0,57%, dầu WTI giảm mạnh khoảng 6,19%; Bitcoin vượt 63.400 USD.",
+   "text": "Nhật Bản chi khoảng 59 tỷ USD phối hợp Mỹ can thiệp hỗ trợ đồng yen sau khi rơi đáy 40 năm",
    "source": "Market News Feed"
   },
   {
-   "text": "Căng thẳng Trung Đông leo thang: nghị sĩ Iran kêu gọi trả đũa Israel và Mỹ sau vụ sát hại lãnh tụ tối cao Ali Khamenei.",
+   "text": "Kuwait nâng mạnh sản lượng dầu thô tháng 7 lên 1,971 triệu thùng/ngày",
    "source": "Market News Feed"
   }
- ]
+ ],
+ "content_sha": "7473d4ceabecf2cdad914018110edbee7a0c8b78b64c4982012ae3f587de4c76"
 }
