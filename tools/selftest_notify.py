@@ -23,14 +23,19 @@ spec = importlib.util.spec_from_file_location("notify", os.path.join(HERE, "noti
 notify = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(notify)
 
-CALLS = []
+CALLS = []          # tên kênh của từng lời gọi
+CALL_TARGETS = []   # chat_id của từng lời gọi
 OUTCOME = {"telegram": True, "zalo": True}
+OUTCOME_TARGET = {}  # chat_id -> bool, ưu tiên hơn OUTCOME
 
 
 def fake_post_form(url, fields, timeout=45):
     channel = "telegram" if "api.telegram.org" in url else "zalo"
+    chat = fields.get("chat_id", "")
     CALLS.append(channel)
-    if OUTCOME.get(channel, True):
+    CALL_TARGETS.append(chat)
+    ok = OUTCOME_TARGET.get(chat, OUTCOME.get(channel, True))
+    if ok:
         return 200, json.dumps({"ok": True, "result": {"message_id": 9000 + len(CALLS)}})
     return 401, json.dumps({"ok": False, "error_code": 401, "description": "Unauthorized"})
 
@@ -67,12 +72,12 @@ def make_workspace(publish_ok=True, content_sha=CONTENT_SHA):
     return root
 
 
-def set_env(telegram=True, zalo=True):
+def set_env(telegram=True, zalo=True, zalo_targets="zalouser1"):
     pairs = {
         "TELEGRAM_BOT_TOKEN": "1234567890:TEST-TELEGRAM-TOKEN" if telegram else "",
         "TELEGRAM_CHAT_ID": "111222333" if telegram else "",
         "ZALO_BOT_TOKEN": "9876543210:TEST-ZALO-TOKEN" if zalo else "",
-        "ZALO_CHAT_ID": "zalochat" if zalo else "",
+        "ZALO_CHAT_ID": zalo_targets if zalo else "",
     }
     for key, val in pairs.items():
         if val:
@@ -83,6 +88,7 @@ def set_env(telegram=True, zalo=True):
 
 def run(root):
     CALLS.clear()
+    CALL_TARGETS.clear()
     sys.argv = ["notify.py",
                 "--bulletin", os.path.join(root, "data", "bulletin.json"),
                 "--publish", os.path.join(root, "data", "publish.json"),
@@ -218,6 +224,65 @@ def case_no_token_in_receipt():
     shutil.rmtree(root, ignore_errors=True)
 
 
+def case_group_target_fail():
+    """Zalo có 2 đích (cá nhân + nhóm); nhóm lỗi → exit 50, chạy lại chỉ thử lại nhóm."""
+    root = make_workspace()
+    set_env(zalo_targets="zalouser1, zgr-nhomdoctin")
+    OUTCOME.update(telegram=True, zalo=True)
+    OUTCOME_TARGET.clear()
+    OUTCOME_TARGET["zgr-nhomdoctin"] = False
+    rc = run(root)
+    d = audit_delivery(root)
+    kinds = {t["kind"]: t["ok"] for t in d["zalo"]["targets"]}
+    first = (rc == 50 and len(d["zalo"]["targets"]) == 2
+             and kinds.get("user") is True and kinds.get("group") is False)
+    check("10. Zalo gui nhom: nhom loi -> exit 50", first,
+          "exit=%s calls=%s" % (rc, len(CALLS)))
+
+    OUTCOME_TARGET.clear()                      # nhóm đã sửa xong
+    rc2 = run(root)
+    d2 = audit_delivery(root)
+    only_group = (rc2 == 0 and CALL_TARGETS == ["zgr-nhomdoctin"]
+                  and all(t["ok"] for t in d2["zalo"]["targets"]))
+    check("11. Chay lai chi thu lai DICH nhom bi loi", only_group,
+          "exit=%s dich_da_goi=%s" % (rc2, CALL_TARGETS))
+    shutil.rmtree(root, ignore_errors=True)
+
+
+def case_new_group_added():
+    """Thêm nhóm mới sau khi đã gửi xong → chỉ nhóm mới được gửi."""
+    root = make_workspace()
+    set_env(zalo_targets="zalouser1")
+    OUTCOME.update(telegram=True, zalo=True)
+    OUTCOME_TARGET.clear()
+    run(root)
+    set_env(zalo_targets="zalouser1, zgr-nhommoi")
+    rc = run(root)
+    d = audit_delivery(root)
+    ok = (rc == 0 and CALL_TARGETS == ["zgr-nhommoi"]
+          and len(d["zalo"]["targets"]) == 2)
+    check("12. Them nhom moi -> chi gui nhom moi", ok,
+          "exit=%s dich_da_goi=%s" % (rc, CALL_TARGETS))
+    set_env()
+    shutil.rmtree(root, ignore_errors=True)
+
+
+def case_no_chatid_in_receipt():
+    """Biên nhận không được chứa chat id thật, chỉ mã băm rút gọn."""
+    root = make_workspace()
+    set_env(zalo_targets="zalouser1, zgr-nhomdoctin")
+    OUTCOME.update(telegram=True, zalo=True)
+    OUTCOME_TARGET.clear()
+    run(root)
+    with open(os.path.join(root, "archive", "data", "%s.json" % DATE), encoding="utf-8") as fh:
+        blob = fh.read()
+    leaked = [v for v in ("zalouser1", "zgr-nhomdoctin", "111222333") if v in blob]
+    check("13. Bien nhan khong chua chat id that", not leaked,
+          "chi luu ma bam" if not leaked else "LO: %s" % leaked)
+    set_env()
+    shutil.rmtree(root, ignore_errors=True)
+
+
 def main():
     print("KIEM THU KHAU GIAO TIN NHAN\n" + "-" * 72)
     case_both_ok()
@@ -229,6 +294,9 @@ def main():
     case_retry_only_failed(root2)
     case_new_content_resends(root6)
     case_no_token_in_receipt()
+    case_group_target_fail()
+    case_new_group_added()
+    case_no_chatid_in_receipt()
     print("-" * 72)
     failed = [n for n, ok, _ in results if not ok]
     print("KET QUA: %d/%d tinh huong dat" % (len(results) - len(failed), len(results)))
