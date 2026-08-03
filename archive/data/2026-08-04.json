@@ -1,0 +1,597 @@
+{
+ "date": "2026-08-04",
+ "edition": "daily",
+ "market_data": {
+  "tiles": [
+   {
+    "label": "S&P 500",
+    "value": "7.600,50 điểm",
+    "change_pct": 1.48
+   },
+   {
+    "label": "Dow Jones",
+    "value": "53.178,41 điểm",
+    "change_pct": 1.32
+   },
+   {
+    "label": "Nasdaq",
+    "value": "25.913,90 điểm",
+    "change_pct": 2.13
+   },
+   {
+    "label": "Dầu WTI",
+    "value": "80,34 USD/thùng",
+    "change_pct": -5.11
+   },
+   {
+    "label": "Dầu Brent",
+    "value": "83,77 USD/thùng",
+    "change_pct": -4.73
+   },
+   {
+    "label": "Vàng thế giới",
+    "value": "4.038,16 USD/oz",
+    "change_pct": -0.12
+   },
+   {
+    "label": "Bitcoin",
+    "value": "63.465 USD",
+    "change_pct": -0.05
+   },
+   {
+    "label": "DXY",
+    "value": "99,72 điểm",
+    "change_pct": -0.07
+   }
+  ],
+  "domestic": [
+   {
+    "label": "VN-Index",
+    "value": "1.762,84 điểm",
+    "change": "+27,06 (+1,56%)",
+    "direction": "up"
+   },
+   {
+    "label": "HNX-Index",
+    "value": "279,28 điểm",
+    "change": "+8,03 (+2,96%)",
+    "direction": "up"
+   },
+   {
+    "label": "Thanh khoản HOSE",
+    "value": "~16.471 tỷ đồng",
+    "change": "+504 tỷ so với phiên trước",
+    "direction": "up"
+   },
+   {
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~1.057 tỷ đồng",
+    "change": null,
+    "direction": "up"
+   },
+   {
+    "label": "Vàng SJC",
+    "value": "137 - 141 triệu đồng/lượng",
+    "change": "đi ngang",
+    "direction": "flat"
+   },
+   {
+    "label": "USD/VND (VCB bán)",
+    "value": "26.480 đồng/USD",
+    "change": null,
+    "direction": null
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua tăng mạnh, S&P 500 và Dow Jones lập kỷ lục khi nhóm công nghệ dẫn dắt đà tăng, trong khi giá dầu WTI và Brent lao dốc hơn 5% sau khi Tổng thống Trump phát tín hiệu đàm phán với Iran về việc mở lại eo biển Hormuz. Vàng thế giới và đồng USD gần như đi ngang qua đêm. Tại thị trường trong nước, VN-Index đóng cửa phiên 3/8 tăng hơn 27 điểm lên 1.762,84 điểm, thanh khoản HOSE đạt hơn 16.470 tỷ đồng và khối ngoại mua ròng đột biến hơn 1.000 tỷ đồng."
+ },
+ "world": [
+  {
+   "ref": "tg-marketfeed:1011410",
+   "title": "CPI tháng 7 của Hàn Quốc tăng 2,8% so với cùng kỳ, thấp hơn dự báo 3% và giảm so với mức 3,2% của tháng 6; so với tháng trước giảm 0,2% - lần giảm theo tháng đầu tiên kể từ tháng 11/2025",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1011409",
+   "title": "Trung Quốc chuẩn bị các phương án đáp trả nếu Mỹ hành động nhắm vào doanh nghiệp AI, giữa lúc lo ngại về các mô hình AI tiên tiến của Mỹ trước thềm chuyến thăm Mỹ của ông Tập Cận Bình",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1011391",
+   "title": "Giá dầu ổn định trở lại sau cú giảm mạnh nhất trong tuần, WTI về khoảng 80 USD/thùng sau khi mất hơn 5% phiên đầu tuần; ông Trump nói đây là 'cơ hội cuối cùng' cho Iran và kỳ vọng eo biển Hormuz mở cửa hoàn toàn",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1011392",
+   "title": "Iran phủ nhận đang đàm phán với Mỹ nhưng nói đàm phán với Oman về khơi thông tàu qua eo biển Hormuz đang có tiến triển; cố vấn lãnh tụ tối cao Iran yêu cầu Washington 'thay đổi hành vi' trước",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1011393",
+   "title": "Xuất khẩu dầu thô của Saudi Arabia giảm xuống 4,19 triệu thùng/ngày trong tháng 7, thấp hơn 460.000 thùng/ngày so với tháng trước do rủi ro an ninh hàng hải",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1011399",
+   "title": "Lượng Bitcoin bị đánh cắp từ vụ hack ví cứng Coldcard đã vượt mốc 100 triệu USD",
+   "translated": true
+  },
+  {
+   "ref": "tg-vnwallstreet:395368",
+   "title": "Quỹ vàng lớn nhất thế giới SPDR Gold Trust giảm nắm giữ 1,141 tấn vàng trong phiên trước, còn 1.005,874 tấn",
+   "translated": true
+  }
+ ],
+ "vietnam": [
+  {
+   "source": "CafeF",
+   "items": [
+    {
+     "ref": "cafef:18c76eea1c",
+     "title": "Thành viên bắt tay cùng Vingroup đề xuất xây toà tháp đôi cao nhất thế giới tại Việt Nam: Công bố thông tin bất ngờ"
+    },
+    {
+     "ref": "cafef:f40dfb9765",
+     "title": "Cựu Phó Chủ tịch UBCKNN bất ngờ ứng cử HĐQT một “ông lớn” ngành nhựa"
+    },
+    {
+     "ref": "cafef:a5d85e48ac",
+     "title": "Một trong những vướng mắc lớn nhất tại siêu dự án 60.000 tỷ đồng ở Thủ Thiêm đã được xử lý"
+    },
+    {
+     "ref": "cafef:f57e0cc27f",
+     "title": "Chứng khoán bước vào tháng có xác suất tăng cao, loạt nhóm cổ phiếu có thể \"hút tiền\""
+    },
+    {
+     "ref": "cafef:7a9b57d125",
+     "title": "Chứng khoán đón sự kiện quan trọng trong tháng 9, chuyên gia nói gì?"
+    },
+    {
+     "ref": "cafef:f2aa5d4111",
+     "title": "DIG chuyển nhượng dự án thành phần Khu đô thị du lịch sinh thái Đại Phước"
+    },
+    {
+     "ref": "cafef:b193d00f64",
+     "title": "Tồn kho bạc tăng mạnh, giá bạc chờ đợi nhịp bứt phá dứt khoát"
+    },
+    {
+     "ref": "cafef:9338682b29",
+     "title": "Tập đoàn PC1 có nữ chủ tịch 27 tuổi làm ăn ra sao?"
+    },
+    {
+     "ref": "cafef:c79268d4f0",
+     "title": "Mở màn tháng 8, PNJ và loạt cổ phiếu 'đua' trần"
+    },
+    {
+     "ref": "cafef:ad27c1818f",
+     "title": "Chứng khoán Rồng Việt công bố Báo cáo Phát triển bền vững 2025"
+    },
+    {
+     "ref": "cafef:6f5d224390",
+     "title": "Thủy Tiên đăng ký mua lượng lớn cổ phiếu DHC"
+    },
+    {
+     "ref": "cafef:cc7d243656",
+     "title": "Một thế lực bất ngờ tung hơn nửa nghìn tỷ \"gom hàng\" trong phiên đầu tháng"
+    },
+    {
+     "ref": "cafef:816070e014",
+     "title": "Loạt cổ phiếu thăng hoa, VN-Index tăng hơn 27 điểm"
+    },
+    {
+     "ref": "cafef:883dba9d5b",
+     "title": "Xếp dỡ Hải An hoàn tất phát hành 3,5 triệu cổ phiếu ESOP"
+    },
+    {
+     "ref": "cafef:c9ee35bb5d",
+     "title": "Ai vừa tung hàng trăm tỷ \"bắt đáy\" PNJ?"
+    },
+    {
+     "ref": "cafef:06357e0607",
+     "title": "Khối ngoại mua ròng đột biến hơn nghìn tỷ trong ngày VN-Index tăng 27 điểm, cổ phiếu nào được \"gom\" mạnh nhất?"
+    },
+    {
+     "ref": "cafef:0e494fc910",
+     "title": "Công ty chứng khoán vốn hóa gần 3.000 tỷ đồng rục rịch niêm yết HOSE"
+    },
+    {
+     "ref": "cafef:56ac384067",
+     "title": "Một nghịch lý đang mở ra cơ hội lớn trên thị trường chứng khoán, đầu là tâm điểm hút tiền?"
+    }
+   ]
+  },
+  {
+   "source": "Vietstock",
+   "items": [
+    {
+     "ref": "vietstock:536d38c327",
+     "title": "Thị trường chứng quyền ngày 04/08/2026: Thị trường khởi sắc trở lại"
+    },
+    {
+     "ref": "vietstock:56542a4d0b",
+     "title": "Chứng khoán phái sinh ngày 04/08/2026: Triển vọng phục hồi tiếp tục hiện hữu?"
+    },
+    {
+     "ref": "vietstock:d19840cbde",
+     "title": "Vietstock Daily 04/08/2026: Đà phục hồi được củng cố"
+    },
+    {
+     "ref": "vietstock:69c08f5084",
+     "title": "Chủ thương hiệu Bia Hà Nội có quý lãi cao nhất trong hơn 5 năm"
+    },
+    {
+     "ref": "vietstock:ed97b6f352",
+     "title": "Nhịp đập Thị trường 03/08: Khối ngoại quay lại mua ròng mạnh, VN-Index tiếp đà phục hồi"
+    },
+    {
+     "ref": "vietstock:b766a29bff",
+     "title": "Doanh thu phí bảo hiểm thuần đi lùi, lãi sau thuế bán niên của BMI vẫn tăng 27%"
+    },
+    {
+     "ref": "vietstock:719d20350e",
+     "title": "Người nhà lãnh đạo Dohaco muốn gom cổ phần khi thị giá bứt tốc"
+    },
+    {
+     "ref": "vietstock:715994af6a",
+     "title": "Lợi nhuận sau thuế 6 tháng của PRE tăng 41%, biên lãi gộp cải thiện"
+    },
+    {
+     "ref": "vietstock:241d3678d4",
+     "title": "Hàng loạt lãnh đạo doanh nghiệp đăng ký gom thêm cổ phiếu khi giá giảm sâu"
+    },
+    {
+     "ref": "vietstock:ebaf0f0507",
+     "title": "Thaiholdings vượt kế hoạch lợi nhuận cả năm sau 6 tháng"
+    },
+    {
+     "ref": "vietstock:3c7594dea7",
+     "title": "Cảng Quy Nhơn báo lãi 6 tháng tăng hơn 30%, đạt 55% kế hoạch năm"
+    },
+    {
+     "ref": "vietstock:b4c2965e17",
+     "title": "Kafi muốn huy động trên 1,900 tỷ để cho vay margin và tự doanh"
+    },
+    {
+     "ref": "vietstock:dc7bf89c07",
+     "title": "Hoạt động tài chính suy giảm, lợi nhuận sau thuế 6 tháng của BIC giảm 35%"
+    },
+    {
+     "ref": "vietstock:b232841e09",
+     "title": "Tiếp nối Chủ tịch, Phó Chủ tịch kiêm Tổng Giám đốc HPX muốn “bắt đáy” 10 triệu cp"
+    },
+    {
+     "ref": "vietstock:2064b5dcd6",
+     "title": "Trước khi bị hủy đại chúng, Golden Gate kinh doanh ra sao?"
+    },
+    {
+     "ref": "vietstock:1ae5f1062d",
+     "title": "IDC lãi 6 tháng gần 900 tỷ, gần 6 ngàn tỷ doanh thu chờ ghi nhận"
+    },
+    {
+     "ref": "vietstock:cdaac55fdb",
+     "title": "BCM gánh nợ vay 1 tỷ USD, lợi nhuận lao dốc hơn 80%, cổ phiếu về đáy 5 năm"
+    }
+   ]
+  },
+  {
+   "source": "VnEconomy",
+   "items": [
+    {
+     "ref": "vneconomy:4c46057028",
+     "title": "VN-Index tăng 27 điểm và xu hướng hồi phục có thể tiếp diễn"
+    },
+    {
+     "ref": "vneconomy:a2b60d92df",
+     "title": "“Chủ tịch Kevin Warsh muốn giảm số cuộc họp lãi suất của Fed”"
+    },
+    {
+     "ref": "vneconomy:ca2dcd6b5a",
+     "title": "Nhà đầu tư cá nhân tranh thủ chốt lời, bán ròng hơn 1.500 tỷ"
+    },
+    {
+     "ref": "vneconomy:ced40c37bd",
+     "title": "Dự báo mới nhất về 30 cổ phiếu lọt rổ FTSE GEIS"
+    },
+    {
+     "ref": "vneconomy:1df41cb3d9",
+     "title": "Bà Hồ Thị Hằng giữ chức Trưởng ban Quản lý kinh doanh chứng khoán"
+    },
+    {
+     "ref": "vneconomy:4b39221cee",
+     "title": "Blog chứng khoán: Chưa đến đoạn rung lắc mạnh"
+    },
+    {
+     "ref": "vneconomy:ecb0648b2c",
+     "title": "Ba động lực đưa đồng won Hàn Quốc tăng giá mạnh trong tháng 7"
+    },
+    {
+     "ref": "vneconomy:7b54faa8d3",
+     "title": "Các “đại gia” dầu khí Mỹ kiếm đậm nhờ giá dầu tăng vì chiến tranh ở Vùng Vịnh"
+    },
+    {
+     "ref": "vneconomy:7f1e97b387",
+     "title": "Khối ngoại bán ròng kỷ lục hơn 92.000 tỷ đồng từ đầu năm"
+    },
+    {
+     "ref": "vneconomy:1a9f395a0d",
+     "title": "Khối ngoại rục rịch quay lại mua ròng tuần qua, cổ phiếu nào được gom nhiều nhất?"
+    },
+    {
+     "ref": "vneconomy:c2ae071864",
+     "title": "Đồng yên tiếp tục tăng giá mạnh sau khi Nhật Bản - Mỹ chính thức xác nhận can thiệp"
+    },
+    {
+     "ref": "vneconomy:7905e4147b",
+     "title": "Giá vàng tăng mạnh nhờ tin đàm phán Mỹ - Iran, tâm lý nhà đầu tư có thể đang dịch chuyển"
+    }
+   ]
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:31c08be7dc",
+     "title": "Công ty Cổ phần Chứng khoán Kỹ Thương (TCX) thông báo chào bán trái phiếu ra công chúng đợt 2 (Kỳ 1)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b9e0b489de",
+     "title": "Taseco Airs (AST): Lợi nhuận sau thuế nửa đầu năm 2026 tăng 52%, biên gộp cải thiện 1,4 điểm phần trăm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9b5cf98ada",
+     "title": "Nhận định thị trường phiên giao dịch ngày 4/8: Hạn chế mua đuổi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5c2dd9312d",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 4/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3e0806dd2f",
+     "title": "Thị trường tài chính 24h: Chứng khoán tăng mạnh, giá dầu hạ nhiệt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1f533389f4",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 4/8: Hướng đến vùng 1.770 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:03757373a0",
+     "title": "Cổ phiếu cần quan tâm ngày 4/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b361199f0e",
+     "title": "Chứng khoán Kafi lãi trước thuế gần 370 tỷ đồng sau 6 tháng, tăng 155% so với cùng kỳ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:33ad2d6d68",
+     "title": "Khối ngoại mua ròng hơn 1.000 tỷ đồng trong phiên khởi sắc ngày 3/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:530c3a03d7",
+     "title": "Ngân hàng vươn lên dẫn đầu thị trường trái phiếu tháng 7"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:52964a6c52",
+     "title": "Nhiều cổ phiếu dậy sóng, VN-Index tăng gần 30 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e3640c87a1",
+     "title": "VietinBank Capital mua thêm 2,69 triệu cổ phiếu Petrosetco (PET)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:52e58ae0f1",
+     "title": "Đánh giá tình hình cung cầu, dự trữ xăng dầu, không để thiếu hụt nguồn cung"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ec65f338a7",
+     "title": "TP.HCM thu hút hơn 9,8 tỷ USD vốn FDI sau 7 tháng, hoàn thành gần 90% mục tiêu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:194d512f18",
+     "title": "Lợi nhuận 4 ngân hàng có vốn Nhà nước tăng mạnh trong nửa đầu năm 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b769045399",
+     "title": "Hancorp (HAN) tăng vay nợ, dòng tiền kinh doanh âm 250,1 tỷ đồng trong nửa đầu năm 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d5dae47a89",
+     "title": "UOBAM (Việt Nam) thông báo chào bán chứng chỉ Quỹ UMMF ra công chúng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:20c645d91d",
+     "title": "Thuế quan không còn gây sốc tâm lý"
+    }
+   ]
+  },
+  {
+   "source": "Báo Đầu tư",
+   "items": [
+    {
+     "ref": "b-o-u-t:6756e01ea9",
+     "title": "Bộ Tài chính thông tin về kéo dài chính sách miễn giảm, gia hạn thuế phí"
+    },
+    {
+     "ref": "b-o-u-t:88f859a283",
+     "title": "Sửa đổi, bổ sung điều kiện thành lập, mở rộng cụm công nghiệp"
+    },
+    {
+     "ref": "b-o-u-t:60573015a5",
+     "title": "Giải ngân vốn đầu tư công cao hơn cùng kỳ năm trước, nhưng áp lực những tháng cuối năm vẫn còn lớn"
+    },
+    {
+     "ref": "b-o-u-t:75c7cb695c",
+     "title": "EVNGENCO3: Sản lượng điện đạt 15,3 tỷ kWh sau 6 tháng 2026"
+    },
+    {
+     "ref": "b-o-u-t:9d1d74a826",
+     "title": "Điểm sáng của nền kinh tế: Thu hút FDI tăng mạnh"
+    },
+    {
+     "ref": "b-o-u-t:aa022c6f37",
+     "title": "TKV duy trì ổn định sản xuất kinh doanh, lợi nhuận 7 tháng đầu năm vượt kế hoạch"
+    },
+    {
+     "ref": "b-o-u-t:86df5781f7",
+     "title": "Quốc Cường Gia Lai thoát lỗ nhờ bán nhà máy thuỷ điện"
+    },
+    {
+     "ref": "b-o-u-t:40a9492230",
+     "title": "Trình Quốc hội cơ chế đặc thù gỡ vướng các công trình APEC 2027"
+    },
+    {
+     "ref": "b-o-u-t:9cd75704fd",
+     "title": "Sửa Luật Hải quan, tạo thuận lợi tối đa cho hoạt động thương mại"
+    },
+    {
+     "ref": "b-o-u-t:2f72eaf976",
+     "title": "So găng big 4 ngân hàng: Vietcombank trả lương cao nhất; Agribank huy động vốn nhiều nhất; BIDV dẫn đầu cho vay"
+    },
+    {
+     "ref": "b-o-u-t:026976cf34",
+     "title": "\"Ngôi sao hy vọng\" tháng 8 trên thị trường chứng khoán"
+    },
+    {
+     "ref": "b-o-u-t:13abd77f4f",
+     "title": "Dự kiến cắt giảm 786 điều kiện kinh doanh, chi phí tuân thủ mỗi năm giảm 175 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:6f28f40827",
+     "title": "Xuất khẩu hàng hóa sang Nhật Bản sớm vượt 30 tỷ USD"
+    }
+   ]
+  },
+  {
+   "source": "MarketTimes",
+   "items": [
+    {
+     "ref": "markettimes:4526a7d8c0",
+     "title": "Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+    },
+    {
+     "ref": "markettimes:f888048dd2",
+     "title": "Cơ quan Thuế yêu cầu BIDV, Agribank, VietinBank... trích tiền, phong tỏa tài khoản ngân hàng của các cá nhân sau"
+    },
+    {
+     "ref": "markettimes:ca047b3f9f",
+     "title": "Cổ phiếu ngân hàng đồng loạt tăng mạnh, một mã gần tím trần"
+    },
+    {
+     "ref": "markettimes:7f9f39750a",
+     "title": "Ngân hàng thông báo quan trọng: Khách hàng thuộc trường hợp này có thể bị tạm dừng giao dịch chuyển tiền"
+    },
+    {
+     "ref": "markettimes:76f61d2691",
+     "title": "FPT “tái sinh”"
+    }
+   ]
+  },
+  {
+   "source": "VnBusiness",
+   "items": [
+    {
+     "ref": "vnbusiness:1aa1c39d91",
+     "title": "Lợi nhuận khởi sắc, cổ phiếu Hà Đô vẫn bị ‘neo’ bởi những nút thắt cũ"
+    },
+    {
+     "ref": "vnbusiness:9a0b199051",
+     "title": "Xuất khẩu nông, lâm, thủy sản đạt gần 42,8 tỷ USD sau 7 tháng, xuất siêu hơn 11,6 tỷ USD"
+    }
+   ]
+  }
+ ],
+ "legal": [
+  {
+   "source": "CafeF",
+   "items": [
+    {
+     "ref": "cafef:0198c02882",
+     "title": "Rửa tiền 318 tỷ đồng cho Mr Pips, Shark Bình bị truy tố ở khung phạt 10 - 15 năm tù"
+    }
+   ]
+  },
+  {
+   "source": "MarketTimes",
+   "items": [
+    {
+     "ref": "markettimes:cda1ee5ead",
+     "title": "Kết luận thanh tra Ngân hàng Bản Việt - Chi nhánh Thái Nguyên"
+    }
+   ]
+  },
+  {
+   "source": "Thời báo Ngân hàng",
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:12bfe18976",
+     "title": "Đà Nẵng bóc gỡ đường dây mua bán hóa đơn trái phép đặc biệt lớn"
+    }
+   ]
+  },
+  {
+   "source": "VnExpress",
+   "items": [
+    {
+     "ref": "vnexpress:6b83199751",
+     "title": "Phong tỏa hơn 3.000 tỷ đồng tại 36 ngân hàng trong đường dây rửa tiền"
+    }
+   ]
+  },
+  {
+   "source": "Báo Thanh tra",
+   "items": [
+    {
+     "ref": "b-o-thanh-tra:8e84c605ac",
+     "title": "Lâm Đồng: Nhiều tồn tại ở Dự án Khu du lịch sinh thái biển cao cấp Lạc Việt"
+    }
+   ]
+  },
+  {
+   "source": "Google News Pháp lý",
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:77c5ce5448",
+     "title": "Từ 10/9 doanh nghiệp bị siết trách nhiệm về an toàn lao động và bảo hiểm xã hội"
+    },
+    {
+     "ref": "google-news-ph-p-l:7560b970e4",
+     "title": "Loạt lãnh đạo bị khởi tố, PC1 vẫn báo lãi quý II tăng vọt 43%"
+    },
+    {
+     "ref": "google-news-ph-p-l:34ead43070",
+     "title": "Khởi tố, bắt tạm giam Chủ tịch Công ty phân bón Hà Bắc"
+    },
+    {
+     "ref": "google-news-ph-p-l:4765d4422a",
+     "title": "Du lịch Vietravel bị phạt 295 triệu đồng"
+    },
+    {
+     "ref": "google-news-ph-p-l:dcb756f8ed",
+     "title": "Khởi tố vụ án xảy ra tại Công ty cổ phần Đầu tư Y tế Việt Mỹ và các đơn vị liên quan"
+    }
+   ]
+  }
+ ],
+ "dividends": [],
+ "highlights": [
+  {
+   "text": "VN-Index tăng hơn 27 điểm lên 1.762,84 điểm phiên đầu tháng 8, khối ngoại mua ròng đột biến hơn 1.000 tỷ đồng",
+   "source": "CafeF"
+  },
+  {
+   "text": "Giá dầu WTI, Brent lao dốc hơn 5% sau khi ông Trump nói đây là cơ hội cuối cùng để Iran đàm phán mở lại eo biển Hormuz",
+   "source": "Market News Feed"
+  },
+  {
+   "text": "Chứng khoán Mỹ lập kỷ lục mới: S&P 500 tăng 1,48%, Dow Jones tăng 1,32% nhờ nhóm công nghệ dẫn dắt",
+   "source": "Market News Feed"
+  },
+  {
+   "text": "Shark Bình bị truy tố khung hình phạt 10-15 năm tù trong vụ rửa 318 tỷ đồng cho Mr Pips",
+   "source": "CafeF"
+  },
+  {
+   "text": "Lợi nhuận 4 ngân hàng có vốn Nhà nước tăng mạnh trong nửa đầu năm 2026",
+   "source": "Tin nhanh Chứng khoán"
+  }
+ ],
+ "content_sha": "d1c13a3d63485b4a70e0b0f8685fdbeb88bd12944addb8015688a816644dfa87"
+}
