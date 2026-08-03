@@ -593,5 +593,44 @@
    "source": "Tin nhanh Chứng khoán"
   }
  ],
- "content_sha": "d1c13a3d63485b4a70e0b0f8685fdbeb88bd12944addb8015688a816644dfa87"
+ "content_sha": "d1c13a3d63485b4a70e0b0f8685fdbeb88bd12944addb8015688a816644dfa87",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "5fecb336148f5d49dd86b34e270a74d289da7a5d",
+   "published_at": "2026-08-04T06:42:37+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "212",
+   "sent_at": "2026-08-04T06:42:38+07:00",
+   "content_sha": "d1c13a3d63485b4a70e0b0f8685fdbeb88bd12944addb8015688a816644dfa87",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "212",
+     "sent_at": "2026-08-04T06:42:38+07:00",
+     "content_sha": "d1c13a3d63485b4a70e0b0f8685fdbeb88bd12944addb8015688a816644dfa87"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "bf371f0f2440ac19f556",
+   "sent_at": "2026-08-04T06:42:41+07:00",
+   "content_sha": "d1c13a3d63485b4a70e0b0f8685fdbeb88bd12944addb8015688a816644dfa87",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "bf371f0f2440ac19f556",
+     "sent_at": "2026-08-04T06:42:41+07:00",
+     "content_sha": "d1c13a3d63485b4a70e0b0f8685fdbeb88bd12944addb8015688a816644dfa87"
+    }
+   ]
+  }
+ }
 }
