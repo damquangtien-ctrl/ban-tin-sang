@@ -1,0 +1,34 @@
+
+########## CHAY LUC 2026-08-05 06:44:53 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-05, ban daily)
+   the gioi 9 tin · Viet Nam 48 tin / 7 bao · phap ly 10 tin · chot quyen 2 ma
+   THAT BAI: 1 loi
+      [C9] legal: khối 'VnExpress' phải đứng trước 'Google News Pháp lý' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-08-05 06:45:16 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-05, ban daily)
+   the gioi 9 tin · Viet Nam 48 tin / 7 bao · phap ly 10 tin · chot quyen 2 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-05 · the gioi 9 · Viet Nam 48 · phap ly 10
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-05.html
+
+=== 3/5 XUAT BAN ===
+Da xuat ban 2026-08-05: commit bc3f0aac78d6 · sha noi dung d275dad4aac94f5a
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 05/08 | content_sha 2c49a1a48db3 | commit bc3f0aac78d6
+   telegram user/928f6fc4179d OK message_id=213
+   zalo     user/593dd2adbb87 OK message_id=54fac3878b2b03725a3d
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-08-05.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-08-05 06:45:21 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
