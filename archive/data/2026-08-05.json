@@ -1,0 +1,462 @@
+{
+ "date": "2026-08-05",
+ "edition": "daily",
+ "market_data": {
+  "tiles": [
+   {
+    "label": "S&P 500",
+    "value": "7.737 điểm",
+    "change_pct": 1.79
+   },
+   {
+    "label": "Dow Jones",
+    "value": "54.086 điểm",
+    "change_pct": 1.71
+   },
+   {
+    "label": "Nasdaq",
+    "value": "26.585 điểm",
+    "change_pct": 2.59
+   },
+   {
+    "label": "Dầu WTI",
+    "value": "77,77 USD/thùng",
+    "change_pct": -3.2
+   },
+   {
+    "label": "Dầu Brent",
+    "value": "81,81 USD/thùng",
+    "change_pct": -2.34
+   },
+   {
+    "label": "Vàng thế giới",
+    "value": "4.075,3 USD/oz",
+    "change_pct": 1.01
+   },
+   {
+    "label": "Bitcoin",
+    "value": "64.032 USD",
+    "change_pct": 0.9
+   },
+   {
+    "label": "DXY",
+    "value": "—",
+    "change_pct": null
+   }
+  ],
+  "domestic": [
+   {
+    "label": "VN-Index",
+    "value": "1.777,23 điểm",
+    "change": "+14,39 (+0,82%)",
+    "direction": "up"
+   },
+   {
+    "label": "HNX-Index",
+    "value": "286,41 điểm",
+    "change": "+7,13 (+2,55%)",
+    "direction": "up"
+   },
+   {
+    "label": "Thanh khoản HOSE",
+    "value": "~14.049 tỷ đồng",
+    "change": null,
+    "direction": "flat"
+   },
+   {
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~891 tỷ đồng",
+    "change": null,
+    "direction": "up"
+   },
+   {
+    "label": "Vàng SJC",
+    "value": "141,9 triệu đồng/lượng",
+    "change": null,
+    "direction": "up"
+   },
+   {
+    "label": "USD/VND (VCB bán)",
+    "value": "26.460 đồng",
+    "change": null,
+    "direction": "flat"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đóng cửa phiên 4/8 lập đỉnh mới nhờ căng thẳng Trung Đông hạ nhiệt sau khi Iran và Oman được cho là đã thống nhất phương án mở lại eo biển Hormuz, với S&P 500 tăng 1,79% lên 7.737 điểm, Dow Jones tăng 1,71% và Nasdaq tăng 2,59%. Dầu WTI và Brent giảm lần lượt 3,2% và 2,34% do lo ngại gián đoạn nguồn cung dịu bớt, trong khi vàng thế giới và Bitcoin đều nhích lên. Tại Việt Nam, VN-Index đóng cửa phiên 4/8 tăng 14,39 điểm (+0,82%) lên 1.777,23 điểm, thanh khoản HOSE đạt hơn 14.000 tỷ đồng và khối ngoại tiếp tục mua ròng gần 900 tỷ đồng."
+ },
+ "world": [
+  {
+   "ref": "tg-marketfeed:1012322",
+   "title": "Nhật Bản: Tổng thu nhập tiền mặt tháng 6 tăng 3,4% so với cùng kỳ năm trước, lương thực tế tăng 1,6%",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105472",
+   "title": "Giá dầu thế giới giảm khoảng 5% khi Iran và Oman được cho là đã thống nhất phương án mở lại eo biển Hormuz",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105479",
+   "title": "PMI dịch vụ Australia lên đỉnh 6 tháng ở mức 53,6 điểm khi đơn hàng mới quay lại",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105477",
+   "title": "Ngân hàng Trung ương Hàn Quốc chuẩn bị mua vàng trở lại sau 13 năm, quy mô không lớn",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105475",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent: Lạm phát Nhật Bản tăng do đồng yên yếu và giá năng lượng, tin tưởng BOJ sẽ hành động phù hợp",
+   "translated": true
+  },
+  {
+   "ref": "tg-vnwallstreet:395519",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust tăng nắm giữ thêm 3,4 tấn trong phiên trước, tổng khối lượng vượt 1.009 tấn",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1012288",
+   "title": "Chính quyền Trump hoàn trả 100 tỷ USD tiền thuế quan sau phán quyết của Tòa án Tối cao Mỹ",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1012285",
+   "title": "Chính quyền Trump sẽ không kiểm định an toàn các mô hình AI mã nguồn mở; Nvidia tham gia cuộc họp với các hãng AI",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1012286",
+   "title": "ETF Ethereum giao ngay của BlackRock sẽ gộp cổ phiếu theo tỷ lệ 1 đổi 3 vào tháng 10",
+   "translated": true
+  }
+ ],
+ "vietnam": [
+  {
+   "source": "CafeF",
+   "items": [
+    {
+     "ref": "cafef:cf7bfff945",
+     "title": "VN-Index \"sáng cửa\" vượt 1.800 điểm, CTCK chỉ ra loạt cổ phiếu có câu chuyện riêng và định giá hấp dẫn"
+    },
+    {
+     "ref": "cafef:04a3c136ae",
+     "title": "Hơn 6.400 nhân sự rời khỏi báo cáo của 8 ngân hàng, 14 doanh nghiệp đứng đầu giảm 21.730 lao động"
+    },
+    {
+     "ref": "cafef:b428ed0f71",
+     "title": "Hàng tỷ USD chờ đổ vào chứng khoán Việt Nam, loạt cổ phiếu được dự báo hút tiền mạnh"
+    },
+    {
+     "ref": "cafef:a4481541ee",
+     "title": "Top DN lỗ lớn nhất quý 2: Ba cái tên đầu bảng âm gần 1.000 tỷ đồng, 1 công ty có doanh thu tăng gần 8 lần vẫn lỗ hơn trăm tỷ"
+    },
+    {
+     "ref": "cafef:640c7bfece",
+     "title": "Một nguồn thu của công ty chứng khoán tăng 10 quý liên tiếp bất chấp thị trường lên xuống"
+    },
+    {
+     "ref": "cafef:6f8e7389eb",
+     "title": "SST: Trả cổ tức tiền mặt tỷ lệ 80,16%, tương đương 8.016 đồng/cổ phiếu"
+    },
+    {
+     "ref": "cafef:6db3e615de",
+     "title": "Thế Giới Di Động, Vinhomes dẫn đầu nhóm 13 doanh nghiệp tuyển thêm 11.500 lao động, 4 ngân hàng tăng 2.500 người"
+    },
+    {
+     "ref": "cafef:e2bed4ca6d",
+     "title": "PVT: PVTrans có tân Tổng Giám đốc sau quý lãi kỷ lục 768 tỷ đồng"
+    },
+    {
+     "ref": "cafef:470ae91074",
+     "title": "Thông tin về nữ Tổng Giám đốc Eximbank vừa bổ nhiệm"
+    },
+    {
+     "ref": "cafef:f61f79e50a",
+     "title": "Cổ phiếu họ Vingroup đưa VN-Index tiến về mốc 1.800 điểm"
+    },
+    {
+     "ref": "cafef:b085c7e0c4",
+     "title": "Xếp dỡ Hải An đón cổ đông lớn mới"
+    },
+    {
+     "ref": "cafef:61c1821f4f",
+     "title": "Đầu mối xăng dầu lãi lớn: Do điều hành giá có lợi cho doanh nghiệp?"
+    },
+    {
+     "ref": "cafef:f553f9d319",
+     "title": "Viconship sắp “bỏ túi” gần 90 tỷ đồng cổ tức từ Cảng Xanh Vip"
+    },
+    {
+     "ref": "cafef:995522a220",
+     "title": "Phiên 4/8: Khối ngoại tiếp đà mua ròng, tung hơn 700 tỷ đồng gom hai cổ phiếu bluechip"
+    },
+    {
+     "ref": "cafef:b867585862",
+     "title": "Lần đầu tiên Viettel bổ nhiệm một nữ Tổng Giám đốc ở thị trường quốc tế"
+    }
+   ]
+  },
+  {
+   "source": "Vietstock",
+   "items": [
+    {
+     "ref": "vietstock:90df4f9528",
+     "title": "Góc nhìn 05/08: Hạn chế mua đuổi ở vùng gần 1.800 điểm"
+    },
+    {
+     "ref": "vietstock:27eb800c66",
+     "title": "Công ty mẹ của HOSE và HNX lãi hơn 1.400 tỷ đồng sau 6 tháng"
+    },
+    {
+     "ref": "vietstock:afcec30db8",
+     "title": "MST trúng thầu dự án gần nghìn tỷ sau quý 2 tăng lãi mạnh"
+    },
+    {
+     "ref": "vietstock:cbdb37c736",
+     "title": "Lãi ròng quý 2 HBC giảm hơn nửa, triển khai phát hành hơn 51,4 triệu cổ phiếu để hoán đổi nợ"
+    },
+    {
+     "ref": "vietstock:12e60148bc",
+     "title": "Chi bồi thường tăng, VNR đi lùi trong quý 2/2026"
+    },
+    {
+     "ref": "vietstock:6963bbd74b",
+     "title": "Hợp nhất thêm đại lý Ford, GMA vẫn lỗ 10 tỷ đồng quý 2"
+    },
+    {
+     "ref": "vietstock:4e610f7d6f",
+     "title": "Động thái mới của Bamboo Airways giữa những đồn đoán"
+    },
+    {
+     "ref": "vietstock:ecbec445f8",
+     "title": "\"Của để dành\" chủ khu công nghiệp lớn nhất Tây Ninh chiếm 50% nguồn vốn, lãi 6 tháng lập kỷ lục"
+    },
+    {
+     "ref": "vietstock:e470a1daf7",
+     "title": "Mảng bảo hiểm chịu áp lực bồi thường, lãi ròng 6 tháng của PTI giảm 16%"
+    },
+    {
+     "ref": "vietstock:cb8686b871",
+     "title": "Mảng cho vay trở thành trụ cột lợi nhuận của ngành chứng khoán"
+    }
+   ]
+  },
+  {
+   "source": "VnEconomy",
+   "items": [
+    {
+     "ref": "vneconomy:4cf6048bdd",
+     "title": "Khối ngoại rục rịch quay lại mua ròng gần 2.000 tỷ đồng trong 4 phiên, cổ phiếu nào được gom?"
+    },
+    {
+     "ref": "vneconomy:e2a333607b",
+     "title": "Tháng 8/2026, còn 57 cổ phiếu bị cắt margin trên HOSE"
+    },
+    {
+     "ref": "vneconomy:14be0957ec",
+     "title": "7 tháng năm 2026: Nhiều chỉ số vĩ mô đạt mức cao nhất trong nhiều năm qua"
+    },
+    {
+     "ref": "vneconomy:7183a9c5b8",
+     "title": "Áp lực thanh khoản sẽ hạ nhiệt trong 6 tháng cuối năm, giải ngân đầu tư công tăng tốc"
+    },
+    {
+     "ref": "vneconomy:2d4223b9c1",
+     "title": "Dòng tiền bắt đáy tích cực, VN-Index hướng tới mốc 1.800 điểm"
+    },
+    {
+     "ref": "vneconomy:f05a9db65e",
+     "title": "Nhiều dư địa cho cổ phiếu đầu tư công khi giải ngân đẩy mạnh, thị giá đã về mức thấp nhiều năm"
+    }
+   ]
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4eb8fe6d18",
+     "title": "Nửa năm 2026, các doanh nghiệp bảo hiểm nhân thọ đã chi trả khoảng 35.048 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3432b67c79",
+     "title": "FiinRatings chỉ ra 11 tín hiệu cảnh báo sớm rủi ro ngân hàng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a5ac7b940c",
+     "title": "TASCO (HUT) giải trình lợi nhuận hợp nhất quý II/2026 gấp hơn 3,5 lần cùng kỳ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d81e53df34",
+     "title": "Nợ xấu \"ăn mòn\" lợi nhuận nhiều nhà băng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b896c5f172",
+     "title": "ACB vào top 20 VNSI: Chất lượng tài sản top đầu đi cùng tăng trưởng hiệu quả và bền vững"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:825082b5c1",
+     "title": "ABBank (ABB) trình ĐHĐCĐ điều chỉnh kế hoạch tăng vốn lên gần 27.000 tỷ đồng, chuẩn bị cho chu kỳ tăng trưởng mới"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4e4970695b",
+     "title": "Mỹ áp thuế 12,5%: Áp lực cạnh tranh gia tăng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ed8ba3fb8a",
+     "title": "Cổ phiếu cần quan tâm ngày 5/8"
+    }
+   ]
+  },
+  {
+   "source": "Báo Đầu tư",
+   "items": [
+    {
+     "ref": "b-o-u-t:6cf99ad788",
+     "title": "Lợi nhuận Yeah1 giảm mạnh, lao dốc gần 50% trong nửa đầu năm"
+    }
+   ]
+  },
+  {
+   "source": "MarketTimes",
+   "items": [
+    {
+     "ref": "markettimes:0cfe8823fa",
+     "title": "VPS: 3 năm liên tiếp dẫn đầu các công ty nộp ngân sách nhà nước ngành chứng khoán"
+    },
+    {
+     "ref": "markettimes:e3c5f5867e",
+     "title": "Hỗ trợ thanh khoản hệ thống ngân hàng, Bộ Tài chính muốn sửa quy định liên quan đến hàng trăm nghìn tỷ đồng, dự kiến áp dụng từ 1/1/2027"
+    },
+    {
+     "ref": "markettimes:262ba46505",
+     "title": "Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank"
+    },
+    {
+     "ref": "markettimes:5b32bc7dd8",
+     "title": "Loạt cổ phiếu PNJ, DGW, TAL và GEL \"cháy hàng\", VN-Index bứt phá gần 13 điểm"
+    },
+    {
+     "ref": "markettimes:78802defbe",
+     "title": "BAB: Tiền gửi giảm hơn 7.000 tỷ đồng trong quý II/2026, lợi nhuận đi ngang do trích lập dự phòng tăng vọt"
+    },
+    {
+     "ref": "markettimes:f82b81c2c1",
+     "title": "Người dùng tài khoản sinh năm 2001, 1986 và 1966 có thể bị ngân hàng từ chối giao dịch nếu chưa làm điều này"
+    },
+    {
+     "ref": "markettimes:50f7be0970",
+     "title": "PNJ nói gì về thời điểm hoạt động kinh doanh phục hồi?"
+    }
+   ]
+  },
+  {
+   "source": "VnBusiness",
+   "items": [
+    {
+     "ref": "vnbusiness:2b31b60313",
+     "title": "Ưu đãi thuế phải khuyến khích doanh nghiệp mở rộng quy mô"
+    }
+   ]
+  }
+ ],
+ "legal": [
+  {
+   "source": "CafeF",
+   "items": [
+    {
+     "ref": "cafef:e7c44de09a",
+     "title": "Thực hiện 2 giao dịch, Tổng giám đốc 49 tuổi bị phạt tiền, cổ phiếu DN chỉ còn 900 đồng"
+    },
+    {
+     "ref": "cafef:4f10e48c71",
+     "title": "Tập đoàn ST8 bị xử phạt hành chính 125 triệu đồng do báo lỗ thành lãi"
+    },
+    {
+     "ref": "cafef:f61cf3f851",
+     "title": "Quảng cáo \"sự lựa chọn số 1 của người dùng Việt\", công ty bán máy lọc nước ion kiềm bị xử phạt 200 triệu đồng"
+    },
+    {
+     "ref": "cafef:e86e838e15",
+     "title": "Hàng trăm miếng vàng thu giữ tại nhà bạn gái Mr Pips định giá hơn 222 tỷ đồng"
+    },
+    {
+     "ref": "cafef:58f3c4569d",
+     "title": "Hoạt hình Việt Wolfoo thua kiện Peppa Pig: Công ty đứng sau quy mô ra sao?"
+    }
+   ]
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5c45bb10e0",
+     "title": "Xuất nhập khẩu Bắc Giang bị xử phạt vì chậm công bố thông tin tài chính"
+    }
+   ]
+  },
+  {
+   "source": "VnExpress",
+   "items": [
+    {
+     "ref": "vnexpress:62443a9981",
+     "title": "Cựu giám đốc SJC Lê Thúy Hằng được đề nghị giảm thêm 7-9 năm tù"
+    }
+   ]
+  },
+  {
+   "source": "Google News Pháp lý",
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:bbb1901334",
+     "title": "Khởi tố, bắt tạm giam hàng loạt lãnh đạo, giám đốc doanh nghiệp, trẻ nhất sinh năm 2001"
+    },
+    {
+     "ref": "google-news-ph-p-l:a60bc47850",
+     "title": "Apec Mandala Wyndham Mũi Né bị phạt 270 triệu đồng vì xả nước thải vượt quy chuẩn"
+    },
+    {
+     "ref": "google-news-ph-p-l:2a34d86215",
+     "title": "Bộ Y tế xử phạt 4 doanh nghiệp dược vì vi phạm kê khai giá thuốc thiết yếu"
+    }
+   ]
+  }
+ ],
+ "dividends": [
+  {
+   "ticker": "MBB",
+   "event": "Chốt quyền chia cổ tức bằng cổ phiếu tỷ lệ 15%, nâng vốn điều lệ lên hơn 100.600 tỷ đồng",
+   "record_date": "2026-08-12",
+   "ref": "vietstock:23d0bb47e0"
+  },
+  {
+   "ticker": "IN4",
+   "event": "Chi trả cổ tức tiền mặt tỷ lệ 40%, tương ứng 4.000 đồng/cổ phiếu",
+   "record_date": "2026-08-06",
+   "ref": "cafef:29c6e2f575"
+  }
+ ],
+ "highlights": [
+  {
+   "text": "VN-Index đóng cửa phiên 4/8 tăng 14,39 điểm lên 1.777,23 điểm, khối ngoại mua ròng gần 900 tỷ đồng",
+   "source": "Thị trường"
+  },
+  {
+   "text": "Giá dầu thế giới giảm khoảng 5% khi Iran và Oman được cho là đã thống nhất phương án mở lại eo biển Hormuz",
+   "source": "Thế giới"
+  },
+  {
+   "text": "Chính quyền Trump hoàn trả 100 tỷ USD tiền thuế quan sau phán quyết của Tòa án Tối cao Mỹ",
+   "source": "Thế giới"
+  },
+  {
+   "text": "MBB chốt quyền chia cổ tức cổ phiếu tỷ lệ 15%, nâng vốn điều lệ lên hơn 100.600 tỷ đồng",
+   "source": "Cổ tức"
+  },
+  {
+   "text": "Tổng giám đốc 49 tuổi bị phạt tiền do vi phạm giao dịch, cổ phiếu doanh nghiệp chỉ còn 900 đồng",
+   "source": "Pháp lý"
+  }
+ ],
+ "content_sha": "2c49a1a48db31894ef57b24179f25700ff4d1de0c9f3618389c44454804423c5"
+}
