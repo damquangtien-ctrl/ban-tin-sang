@@ -1,0 +1,536 @@
+{
+ "date": "2026-08-06",
+ "edition": "daily",
+ "market_data": {
+  "tiles": [
+   {
+    "label": "S&P 500",
+    "value": "—",
+    "change_pct": -0.2
+   },
+   {
+    "label": "Dow Jones",
+    "value": "—",
+    "change_pct": 0.5
+   },
+   {
+    "label": "Nasdaq",
+    "value": "—",
+    "change_pct": -0.8
+   },
+   {
+    "label": "Dầu WTI",
+    "value": "75,69 USD/thùng",
+    "change_pct": -0.1
+   },
+   {
+    "label": "Dầu Brent",
+    "value": "79,26 USD/thùng",
+    "change_pct": -0.13
+   },
+   {
+    "label": "Vàng thế giới",
+    "value": "4.250,18 USD/oz",
+    "change_pct": 4.23
+   },
+   {
+    "label": "Bitcoin",
+    "value": "64.092 USD",
+    "change_pct": 0.18
+   },
+   {
+    "label": "DXY",
+    "value": "99,84",
+    "change_pct": -0.02
+   }
+  ],
+  "domestic": [
+   {
+    "label": "VN-Index",
+    "value": "1.776,46 điểm",
+    "change": "-0,77 (-0,04%)",
+    "direction": "down"
+   },
+   {
+    "label": "HNX-Index",
+    "value": "293,59 điểm",
+    "change": "+7,18 (+2,51%)",
+    "direction": "up"
+   },
+   {
+    "label": "Thanh khoản HOSE",
+    "value": "~16.513 tỷ đồng",
+    "change": null,
+    "direction": "up"
+   },
+   {
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~498 tỷ đồng",
+    "change": null,
+    "direction": "up"
+   },
+   {
+    "label": "Vàng SJC",
+    "value": "140,5 triệu đồng/lượng",
+    "change": null,
+    "direction": "down"
+   },
+   {
+    "label": "USD/VND (VCB bán)",
+    "value": "26.266 đồng",
+    "change": null,
+    "direction": "down"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đóng cửa phiên 5/8 trái chiều khi diễn biến ngoại giao quanh eo biển Hormuz tiếp tục chi phối tâm lý thị trường: Dow Jones lập đỉnh mới với mức tăng khoảng 0,5%, trong khi S&P 500 giảm nhẹ gần 0,2% và Nasdaq giảm 0,8%, chấm dứt chuỗi 4 phiên tăng liên tiếp. Dầu WTI và Brent tiếp tục giảm nhẹ, trong khi vàng thế giới tăng mạnh lên 4.250,18 USD/oz và Bitcoin nhích nhẹ. Tại Việt Nam, VN-Index đóng cửa phiên 5/8 giảm nhẹ 0,77 điểm (-0,04%) xuống 1.776,46 điểm dù có lúc vượt 1.790 điểm trong phiên, trong khi HNX-Index tăng mạnh 2,51% lên 293,59 điểm; thanh khoản HOSE đạt hơn 16.500 tỷ đồng và khối ngoại tiếp tục mua ròng gần 500 tỷ đồng."
+ },
+ "world": [
+  {
+   "ref": "tg-dubaotiente:105537",
+   "title": "PIMCO: Các quỹ liên quan đến AI đang làm méo số liệu lạm phát lõi (core PCE) của Mỹ",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013231",
+   "title": "Iran cảnh báo các nước vùng Vịnh: đòn tấn công mới của Mỹ vào lãnh thổ Iran sẽ kéo theo trả đũa nhằm vào hạ tầng năng lượng và tài sản Mỹ trong khu vực; Ngoại trưởng Araghchi kêu gọi Saudi Arabia, Qatar, Thổ Nhĩ Kỳ gây sức ép để ông Trump tránh leo thang",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105536",
+   "title": "Giải mã: thỏa thuận về eo biển Hormuz trao quyền kiểm soát hàng hải cho Iran có ý nghĩa gì",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013230",
+   "title": "Tổng thống Trump: Mỹ 'có thể phải' đẩy giá dầu lên cao hơn",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105535",
+   "title": "Chính quyền Trump hoàn trả 100 tỷ USD tiền thuế quan bị tòa bác bỏ",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013229",
+   "title": "Hàn Quốc: thặng dư cán cân vãng lai tháng 6 đạt 49,73 tỷ USD (tạm tính), tăng từ 38,61 tỷ USD tháng 5; lũy kế 6 tháng đạt 191,01 tỷ USD so với 47,87 tỷ USD cùng kỳ năm trước",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013220",
+   "title": "Chứng khoán châu Á: cổ phiếu Hàn Quốc đáng chú ý gồm Kakao Games, L&C Bio, SK Hynix; hợp đồng tương lai KOSPI 200 giảm 1,6% còn 1.025,1 điểm, dầu Brent tăng 0,1% lên 79,45 USD/thùng, S&P 500 giảm 0,2% còn 7.723,6 điểm khi lo ngại tăng lãi suất át đi đà tăng của Nvidia",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105534",
+   "title": "CEO BofA Brian Moynihan dự báo Fed sẽ tăng lãi suất ba lần từ nay đến cuối năm 2026",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013210",
+   "title": "Mỹ đang nắm giữ lượng Bitcoin dự trữ quốc gia lớn nhất với 328.372 BTC (19,8 tỷ USD), theo sau là Anh với 61.245 BTC",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013206",
+   "title": "Một mô hình AI của Meta (Muse Spark 1.1) đã tự ý xâm nhập hệ thống của một công ty khác trong quá trình kiểm thử an ninh mạng, xâm phạm và thay đổi hệ thống nội bộ của công ty này",
+   "translated": true
+  },
+  {
+   "ref": "tg-vnwallstreet:395664",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust tăng nắm giữ thêm 4,851 tấn trong phiên trước, nâng tổng lượng nắm giữ lên 1.014,148 tấn",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013204",
+   "title": "Alphabet cải tổ ban lãnh đạo AI: Giám đốc AI lâu năm Jeff Dean rời đi để lập startup mới, trong khi Demis Hassabis chuyển sang vai trò Chủ tịch chiến lược kiêm Giám đốc khoa học",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013203",
+   "title": "Giá dầu giữ đà giảm sau khi Iran cho biết đã đạt thỏa thuận với Oman về tuyến vận chuyển qua eo biển Hormuz, mở ra khả năng nối lại một phần nguồn cung năng lượng; WTI giao dịch quanh 75 USD/thùng sau khi mất 11% trong 3 phiên đầu tuần",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105533",
+   "title": "BofA hạ dự báo tỷ giá USD/JPY cuối năm xuống 149 sau đợt can thiệp của Nhật Bản",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013200",
+   "title": "Tổng thống Trump: Iran không được phép sở hữu vũ khí hạt nhân",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013196",
+   "title": "Tổng thống Trump: Mỹ đang đàm phán với Iran và muốn đạt thỏa thuận hơn là đối đầu, 'hãy chờ xem điều gì sẽ xảy ra'",
+   "translated": true
+  },
+  {
+   "ref": "tg-dubaotiente:105532",
+   "title": "Tổng hợp thị trường Mỹ: giá vàng bứt phá mạnh mẽ",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013193",
+   "title": "Brazil hạ lãi suất điều hành 25 điểm cơ bản xuống còn 14,00%",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013190",
+   "title": "MSCI thông báo lịch công bố kết quả rà soát chỉ số tháng 8 vào ngày 12/8/2026, sẽ cung cấp thông tin tái cơ cấu chi tiết cho khách hàng ngay sau thông báo tóm tắt",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013185",
+   "title": "AWS hợp tác với Anthropic và OpenAI để tích hợp nền tảng AWS Continuum vào quy trình phát triển phần mềm",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013183",
+   "title": "Xung đột Iran khiến nguồn cung urê tại Trung Đông sụt giảm 4-4,5 triệu tấn, theo CF Industries",
+   "translated": true
+  },
+  {
+   "ref": "tg-marketfeed:1013212",
+   "title": "DBS Group (Singapore) báo lãi ròng nửa đầu năm đạt 6.009 triệu SGD, thu nhập lãi thuần 6.958 triệu SGD, biên lãi ròng 1,88%, tỷ lệ nợ xấu 1,0% và hệ số CET-1 đạt 16,6%",
+   "translated": true
+  }
+ ],
+ "vietnam": [
+  {
+   "source": "CafeF",
+   "items": [
+    {
+     "ref": "cafef:870f71475e",
+     "title": "Đúng 15 ngày nữa, chứng khoán Việt Nam đón một thông tin quan trọng"
+    },
+    {
+     "ref": "cafef:3d2ded70a1",
+     "title": "Cựu vương ngành thép lỗ lũy kế hơn 3.800 tỷ, khoản phải trả nhóm Vin tăng từ 0 lên 1.424 tỷ đồng"
+    },
+    {
+     "ref": "cafef:721d11c7df",
+     "title": "Vietcap gọi tên 29 cổ phiếu có thể đón dòng vốn tỷ USD sau nâng hạng"
+    },
+    {
+     "ref": "cafef:002cb26884",
+     "title": "Một cổ phiếu HOSE \"bốc đầu\" kịch trần 5 phiên liên tiếp sau khi báo lãi quý 2 đột biến"
+    },
+    {
+     "ref": "cafef:0653d1f01c",
+     "title": "Agriseco gọi tên 6 doanh nghiệp tăng trưởng, định giá hợp lý"
+    },
+    {
+     "ref": "cafef:66b473086f",
+     "title": "Vinpearl cần thu hơn 9.200 tỷ đồng trong nửa cuối năm 2026: Động lực đến từ đâu?"
+    },
+    {
+     "ref": "cafef:c76e0ffdda",
+     "title": "Không chỉ lãi lớn từ cho vay, vì đâu Vietcombank có khoản lãi 2.900 tỷ ngay sau khi nắm trọn toà tháp 35 tầng đắc địa hàng đầu phường Sài Gòn?"
+    },
+    {
+     "ref": "cafef:ceed975e9c",
+     "title": "\"Gà đẻ trứng vàng\" của MWG có thể mở hơn 1.000 cửa hàng trong năm nay, lợi nhuận nhiều khả năng vượt kế hoạch"
+    },
+    {
+     "ref": "cafef:b97e2c67dd",
+     "title": "Một thế lực vừa thẳng tay \"xả\" ròng hơn 700 tỷ đồng cổ phiếu HoSE"
+    },
+    {
+     "ref": "cafef:6ca689b1d9",
+     "title": "PNJ triệu tập họp bất thường"
+    },
+    {
+     "ref": "cafef:f4a8adbc2b",
+     "title": "Sasco bổ nhiệm Tổng Giám đốc"
+    },
+    {
+     "ref": "cafef:bc7211848b",
+     "title": "Tổng Giám đốc MWG: Tự tin hoàn thành kế hoạch lợi nhuận sớm 2-3 tháng"
+    },
+    {
+     "ref": "cafef:f7722a97bc",
+     "title": "Bách Hóa Xanh và WinCommerce: So kè hiệu quả vận hành và bài toán lợi nhuận của 2 \"ông lớn\" ngành bán lẻ"
+    },
+    {
+     "ref": "cafef:102e64d849",
+     "title": "Phiên 5/8: Một cổ phiếu VN30 được khối ngoại mua ròng mạnh tay gần 400 tỷ đồng"
+    },
+    {
+     "ref": "cafef:6e60ef6420",
+     "title": "\"Đại gia\" khai thác vàng bạc lớn nhất Việt Nam báo lãi kỷ lục, cổ phiếu lập tức \"tím lịm\""
+    },
+    {
+     "ref": "cafef:56737d8f4d",
+     "title": "\"Gà đẻ trứng vàng\" sở hữu 7.000 ha đất của bầu Đức được cấp phép IPO"
+    }
+   ]
+  },
+  {
+   "source": "Vietstock",
+   "items": [
+    {
+     "ref": "vietstock:2b2112e24e",
+     "title": "Phát Đạt liên tiếp sang tay dự án ngàn tỷ: Từ Phước Hải Serenity đến khu \"đất vàng\" 01 Ngô Mây"
+    },
+    {
+     "ref": "vietstock:3d0b48ca28",
+     "title": "Thị trường chứng quyền ngày 06/08/2026: Sự bi quan vẫn còn"
+    },
+    {
+     "ref": "vietstock:7b5c6f07f7",
+     "title": "Chứng khoán phái sinh ngày 06/08/2026: Xuất hiện các tín hiệu trái chiều"
+    },
+    {
+     "ref": "vietstock:bffa63286b",
+     "title": "25 triệu cp HHV vừa được sang tay giá 10,050 đồng/cp"
+    },
+    {
+     "ref": "vietstock:8cad807fbf",
+     "title": "Vietstock Daily 06/08/2026: Giằng co trở lại"
+    },
+    {
+     "ref": "vietstock:7bdcd0b7cc",
+     "title": "Nhịp đập Thị trường 05/08: Thị trường phân hóa, các chỉ số diễn biến trái chiều"
+    },
+    {
+     "ref": "vietstock:6bbd57d638",
+     "title": "Khách hàng lớn Uniqlo giảm dư nợ, May Việt Tiến lãi kỷ lục trong quý 2"
+    },
+    {
+     "ref": "vietstock:3e24d42c04",
+     "title": "Biến động cổ đông lớn tại Merufa"
+    },
+    {
+     "ref": "vietstock:70fb97a1b5",
+     "title": "VietinBank Capital và HDCapital cùng gia tăng sở hữu tại PET"
+    },
+    {
+     "ref": "vietstock:5b761f225b",
+     "title": "Dòng xe MG sa sút, Chủ tịch HAX Đỗ Tiến Dũng rót thêm tiền vào chuỗi đại lý VinFast"
+    },
+    {
+     "ref": "vietstock:67c4b2486b",
+     "title": "Casumina đặt mục tiêu lãi 30 tỷ trong quý 3"
+    },
+    {
+     "ref": "vietstock:1d90a16e9e",
+     "title": "Lãi ròng 6 tháng BHI tăng 97% nhờ tái cấu trúc chi phí và mảng tái bảo hiểm bứt phá"
+    },
+    {
+     "ref": "vietstock:85b29b9443",
+     "title": "DXG dừng đầu tư hai khu đô thị ngàn tỷ ở Cần Thơ và Phú Thọ"
+    }
+   ]
+  },
+  {
+   "source": "VnEconomy",
+   "items": [
+    {
+     "ref": "vneconomy:b0e8aecd70",
+     "title": "Khối ngoại mua ròng phiên thứ ba liên tiếp, tổ chức trong nước bán"
+    },
+    {
+     "ref": "vneconomy:d6d00b7142",
+     "title": "Tâm lý thị trường thiếu đồng thuận trong nỗ lực vượt 1800 điểm"
+    },
+    {
+     "ref": "vneconomy:9a75c58fda",
+     "title": "Blog chứng khoán: Vào vùng thận trọng"
+    },
+    {
+     "ref": "vneconomy:4316b23dd3",
+     "title": "VN-Index gặp cản \"cứng\", điều chỉnh rõ nét hơn"
+    },
+    {
+     "ref": "vneconomy:0e081a838e",
+     "title": "Đã có 1.057 doanh nghiệp công bố lợi nhuận, tăng bùng nổ 41,2% chủ yếu nhờ Bất động sản"
+    },
+    {
+     "ref": "vneconomy:4c2bf1af91",
+     "title": "Áp lực chốt lời tăng, dòng tiền đỡ tốt ở cổ phiếu vừa và nhỏ, vốn ngoại vẫn mua ròng"
+    },
+    {
+     "ref": "vneconomy:ccddabdf32",
+     "title": "Dòng tiền ETF hạ nhiệt ở Mỹ, rục rịch đổ vào Việt Nam"
+    },
+    {
+     "ref": "vneconomy:3d7b757921",
+     "title": "Chinh phục hơn 100 điểm từ đáy, VN-Index sắp gặp cản \"cứng\"?"
+    }
+   ]
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:11d53228f7",
+     "title": "Samland (SLD): 6 tháng lãi hơn nửa tỷ đồng, lũy kế vẫn lỗ 45,3 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:289b541530",
+     "title": "Nhận định thị trường phiên giao dịch ngày 6/8: Nắm giữ danh mục hiện tại"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1d351901c6",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 6/8: Thị trường cần thêm thời gian tích lũy"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4ad4f3d7a4",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 6/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:283002789c",
+     "title": "Khối ngoại mua ròng phiên thứ 3 liên tiếp, đạt gần 500 tỷ đồng trong ngày 5/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ed235f026c",
+     "title": "Cổ phiếu cần quan tâm ngày 6/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7ebe03b136",
+     "title": "Doanh nghiệp trong nước xuất khẩu gần 64 tỷ USD sau 7 tháng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3b56d8788f",
+     "title": "Cảng Sài Gòn (SGP) không đáp ứng điều kiện công ty đại chúng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c4f815fecb",
+     "title": "VN-Index đảo chiều trước ngưỡng 1.800 điểm, áp lực chốt lời gia tăng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:48688f8dda",
+     "title": "Standard Chartered huy động thành công khoản vay hợp vốn xã hội trị giá 721 triệu USD cho HDBank"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:86b16d48c5",
+     "title": "EU tham vấn phạm vi về sản phẩm thép, những lưu ý cho Việt Nam"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:db9388330f",
+     "title": "Kiểm soát chặt thiết kế đô thị dự án bất động sản lớn của tư nhân"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0a6014d7ba",
+     "title": "Đề xuất khắc phục khó khăn, vướng mắc trong cơ chế tài chính của Ngân hàng Nhà nước"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3cf7f6d5c2",
+     "title": "Dòng vốn margin chảy về đâu?"
+    }
+   ]
+  },
+  {
+   "source": "Báo Đầu tư",
+   "items": [
+    {
+     "ref": "b-o-u-t:7ab7f2c3ef",
+     "title": "Giao khu vực biển cho CC1 khai thác khoáng sản xây cao tốc"
+    }
+   ]
+  },
+  {
+   "source": "MarketTimes",
+   "items": [
+    {
+     "ref": "markettimes:e4bab3153f",
+     "title": "Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank"
+    },
+    {
+     "ref": "markettimes:86b80d4ebf",
+     "title": "Lãi suất cho vay mới nhất tại Agribank"
+    },
+    {
+     "ref": "markettimes:a97d525c12",
+     "title": "Cổ phiếu PNJ tăng trần 3 phiên liên tiếp, VN-Index thoát hiểm bất thành phút cuối"
+    },
+    {
+     "ref": "markettimes:eebae4440f",
+     "title": "Đến cuối ngày 5/8, giá vàng miếng, vàng nhẫn tại SJC, DOJI, Bảo Tín Mạnh Hải, Phú Quý đã tăng tới 1,8 triệu đồng/lượng"
+    }
+   ]
+  },
+  {
+   "source": "VnBusiness",
+   "items": [
+    {
+     "ref": "vnbusiness:fa9370b1d0",
+     "title": "Techcombank tìm kiếm khoản vay 1 tỷ USD, cuộc đua huy động vốn ngoại tăng tốc"
+    },
+    {
+     "ref": "vnbusiness:7a0ae8337c",
+     "title": "Allianz mở rộng hiện diện tại Việt Nam sau thương vụ 434 triệu USD thâu tóm quỹ UOB"
+    }
+   ]
+  }
+ ],
+ "legal": [
+  {
+   "source": "MarketTimes",
+   "items": [
+    {
+     "ref": "markettimes:b7548710fb",
+     "title": "Kết luận thanh tra VCB Chi nhánh Nam Bình Dương"
+    },
+    {
+     "ref": "markettimes:315afe4516",
+     "title": "ACB Long An có tồn tại, hạn chế, rủi ro trong hoạt động cho vay"
+    }
+   ]
+  },
+  {
+   "source": "VnExpress",
+   "items": [
+    {
+     "ref": "vnexpress:ebad68fc08",
+     "title": "Cựu Tổng Giám đốc SJC Lê Thúy Hằng được giảm 4 năm tù"
+    }
+   ]
+  },
+  {
+   "source": "Google News Pháp lý",
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:8b86583dbd",
+     "title": "Loạt doanh nghiệp lĩnh án phạt, một tập đoàn báo lãi nhưng kiểm toán ghi nhận lỗ"
+    },
+    {
+     "ref": "google-news-ph-p-l:436c79e3b9",
+     "title": "Kê khai không đúng giá bán đối với 6 mặt hàng thuốc, Y tế Domesco bị xử phạt"
+    }
+   ]
+  }
+ ],
+ "dividends": [
+  {
+   "ticker": "FOC",
+   "event": "Cổ tức tiền mặt tỷ lệ 100% (10.000 đồng/cổ phiếu)",
+   "record_date": "2026-08-10",
+   "ref": "vietstock:5ac254894e"
+  }
+ ],
+ "highlights": [
+  {
+   "text": "VN-Index đóng cửa phiên 5/8 giảm nhẹ 0,77 điểm xuống 1.776,46 điểm, khối ngoại mua ròng phiên thứ ba liên tiếp gần 500 tỷ đồng",
+   "source": "Thị trường"
+  },
+  {
+   "text": "Vàng thế giới tăng vọt 4,23% lên 4.250,18 USD/oz khi căng thẳng Trung Đông tiếp diễn",
+   "source": "Thế giới"
+  },
+  {
+   "text": "Iran và Oman đạt thỏa thuận về tuyến vận chuyển qua eo biển Hormuz, giá dầu tiếp tục giảm nhẹ",
+   "source": "Thế giới"
+  },
+  {
+   "text": "FPT Online (FOC) sắp trả cổ tức tiền mặt tỷ lệ 100%, ngày đăng ký cuối cùng 10/8/2026",
+   "source": "Cổ tức"
+  },
+  {
+   "text": "Cựu Tổng Giám đốc SJC Lê Thúy Hằng được giảm 4 năm tù",
+   "source": "Pháp lý"
+  }
+ ],
+ "content_sha": "bf32867e45fd1c36ca4d5cd56e3b5407e5895b6d798ff6259778b5a969773a18"
+}
