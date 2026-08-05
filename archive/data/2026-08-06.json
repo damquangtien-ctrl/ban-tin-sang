@@ -532,5 +532,44 @@
    "source": "Pháp lý"
   }
  ],
- "content_sha": "bf32867e45fd1c36ca4d5cd56e3b5407e5895b6d798ff6259778b5a969773a18"
+ "content_sha": "bf32867e45fd1c36ca4d5cd56e3b5407e5895b6d798ff6259778b5a969773a18",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "b4a89cbbc51f612a62ce255207faef74241b039b",
+   "published_at": "2026-08-06T06:43:58+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "214",
+   "sent_at": "2026-08-06T06:43:59+07:00",
+   "content_sha": "bf32867e45fd1c36ca4d5cd56e3b5407e5895b6d798ff6259778b5a969773a18",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "214",
+     "sent_at": "2026-08-06T06:43:59+07:00",
+     "content_sha": "bf32867e45fd1c36ca4d5cd56e3b5407e5895b6d798ff6259778b5a969773a18"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "a3b094d3c94042191b56",
+   "sent_at": "2026-08-06T06:44:00+07:00",
+   "content_sha": "bf32867e45fd1c36ca4d5cd56e3b5407e5895b6d798ff6259778b5a969773a18",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "a3b094d3c94042191b56",
+     "sent_at": "2026-08-06T06:44:00+07:00",
+     "content_sha": "bf32867e45fd1c36ca4d5cd56e3b5407e5895b6d798ff6259778b5a969773a18"
+    }
+   ]
+  }
+ }
 }

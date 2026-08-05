@@ -1,0 +1,25 @@
+
+########## CHAY LUC 2026-08-06 06:43:56 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-06, ban daily)
+   the gioi 22 tin · Viet Nam 58 tin / 7 bao · phap ly 5 tin · chot quyen 1 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-06 · the gioi 22 · Viet Nam 58 · phap ly 5
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-06.html
+
+=== 3/5 XUAT BAN ===
+Da xuat ban 2026-08-06: commit b4a89cbbc51f · sha noi dung e5ffdb563a3bc27a
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 06/08 | content_sha bf32867e45fd | commit b4a89cbbc51f
+   telegram user/928f6fc4179d OK message_id=214
+   zalo     user/593dd2adbb87 OK message_id=a3b094d3c94042191b56
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-08-06.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-08-06 06:44:00 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
