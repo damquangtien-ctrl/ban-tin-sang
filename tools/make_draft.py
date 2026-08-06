@@ -35,6 +35,10 @@ DIVIDEND_RE = re.compile(r"cổ tức|chốt quyền|ĐKCC|ngày đăng ký cu�
 NOISE_RE = re.compile(
     r"^(ảnh|video|infographic|emagazine|photo)\b|giải trí|showbiz|sao việt|"
     r"tử vi|bóng đá|thời trang|làm đẹp|du lịch hè", re.I)
+# Tin THUẦN GIÁ hàng hoá/tỷ giá: đã nằm ở Phần I số liệu nên không vào Phần III.
+# Chỉ khớp tin bản thân nó là bản tin giá, không đụng tin ngành (vd. giá thép HRC).
+PRICE_TICK_RE = re.compile(
+    r"(giá vàng|vàng thế giới|vàng sjc|giá dầu|dầu wti|dầu brent|giá xăng|giá bạc)", re.I)
 
 PER_SOURCE_CAP = 25
 WORLD_CAP = 60
@@ -114,6 +118,8 @@ def main():
             continue
         title = item.get("title") or ""
         if NOISE_RE.search(title):
+            continue
+        if item.get("category") != "world" and PRICE_TICK_RE.search(title):
             continue
         if len(title) > TITLE_MAX:
             title = title[:TITLE_MAX].rsplit(" ", 1)[0] + "…"
