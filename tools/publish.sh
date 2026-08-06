@@ -6,6 +6,15 @@
 #        bash tools/publish.sh receipt    chỉ commit biên nhận giao hàng (1 commit bổ sung)
 # Exit:  0 = xong · 40 thiếu file · 41 index khác archive/nội dung mẫu
 #        42 sai repo · 43 push thất bại
+#
+# Push thành công KHÔNG có nghĩa trang đã build xong (GitHub Pages build bất đồng bộ),
+# nên sau khi đẩy còn poll trang thật để chắc nội dung mới đã được phục vụ
+# (mặc định 6 lần × 15 giây ≈ 90s) — SOFT-FAIL: không khớp chỉ cảnh báo, mã thoát
+# vẫn là 0, tuyệt đối không chặn bước gửi tin nhắn. Biến môi trường:
+#   BANTIN_PAGE_URL           URL trang cần kiểm (mặc định index trên Pages)
+#   BANTIN_PAGE_TRIES         số lần poll tối đa (mặc định 6)
+#   BANTIN_PAGE_SLEEP         số giây chờ giữa hai lần poll (mặc định 15)
+#   BANTIN_SKIP_PAGE_VERIFY   =1 bỏ qua hẳn bước kiểm (pages_verified="skipped")
 set -uo pipefail
 
 REPO_EXPECTED="damquangtien-ctrl/ban-tin-sang"
@@ -80,6 +89,36 @@ else
   push_now || exit 43
 fi
 
+# ---------- Kiểm chứng trang đã phục vụ (SOFT-FAIL, không chặn gửi tin) ----------
+# So sha256 của trang tải về với sha256 index.html cục bộ (đã tính ở trên là $a).
+# Khớp thì dừng sớm; hết lượt vẫn lệch thì chỉ CẢNH BÁO — trang có thể build chậm
+# và tự lên sau, còn tin nhắn vẫn phải được gửi đúng giờ.
+PAGE_URL="${BANTIN_PAGE_URL:-https://damquangtien-ctrl.github.io/ban-tin-sang/index.html}"
+PAGE_TRIES="${BANTIN_PAGE_TRIES:-6}"
+PAGE_SLEEP="${BANTIN_PAGE_SLEEP:-15}"
+if [ "${BANTIN_SKIP_PAGE_VERIFY:-0}" = "1" ]; then
+  PAGES_VERIFIED='"skipped"'
+  log "Bo qua kiem chung trang da phuc vu (BANTIN_SKIP_PAGE_VERIFY=1)"
+else
+  PAGES_VERIFIED=false
+  try=1
+  while [ "$try" -le "$PAGE_TRIES" ]; do
+    served="$(curl -s --max-time 20 "$PAGE_URL" 2>/dev/null | sha256sum | cut -d' ' -f1)"
+    if [ "$served" = "$a" ]; then
+      PAGES_VERIFIED=true
+      log "Trang da phuc vu dung noi dung moi (lan kiem $try/$PAGE_TRIES)"
+      break
+    fi
+    [ "$try" -lt "$PAGE_TRIES" ] && sleep "$PAGE_SLEEP"
+    try=$((try + 1))
+  done
+  if [ "$PAGES_VERIFIED" != true ]; then
+    log "CANH BAO: sau $PAGE_TRIES lan kiem, trang phuc vu van chua khop sha noi dung moi."
+    log "  GitHub Pages co the build cham - trang se tu len sau. KHONG chan buoc gui tin."
+  fi
+fi
+PAGES_CHECKED_AT="$(now_iso)"
+
 COMMIT="$(git rev-parse HEAD)"
 mkdir -p data
 cat > data/publish.json <<EOF
@@ -90,7 +129,9 @@ cat > data/publish.json <<EOF
  "index_sha256": "${a}",
  "archive_sha256": "${b}",
  "archive_path": "${ARCHIVE}",
- "audit_path": "${AUDIT}"
+ "audit_path": "${AUDIT}",
+ "pages_verified": ${PAGES_VERIFIED},
+ "pages_checked_at": "${PAGES_CHECKED_AT}"
 }
 EOF
 
