@@ -28,6 +28,17 @@ def esc(text):
     return html.escape(str(text if text is not None else ""), quote=True)
 
 
+def strip_private(obj):
+    """Loại đệ quy mọi khóa bắt đầu bằng '_' (ghi chú nháp của make_draft).
+    Biên tập viên được dặn tự xoá, nhưng nếu sót thì tuyệt đối không được để
+    chúng lọt vào content_sha lẫn audit công khai (lỗi Codex 4.2)."""
+    if isinstance(obj, dict):
+        return {k: strip_private(v) for k, v in obj.items() if not k.startswith("_")}
+    if isinstance(obj, list):
+        return [strip_private(v) for v in obj]
+    return obj
+
+
 def fmt_pct(value):
     if value is None:
         return "delta flat", "• 0,00%"
@@ -101,7 +112,7 @@ def main():
             print("LOI: thiếu file %s" % path)
             return 31
     with open(args.bulletin, encoding="utf-8") as fh:
-        bulletin = json.load(fh)
+        bulletin = strip_private(json.load(fh))
     with open(args.raw, encoding="utf-8") as fh:
         raw = json.load(fh)
     with open(args.template, encoding="utf-8") as fh:
