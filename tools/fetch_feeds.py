@@ -334,7 +334,10 @@ def parse_hsx(text, source, category):
         if not title or not keep_item(source, title):
             continue
         if not url:
-            url = "https://www.hsx.vn/Modules/Cms/Web/NewsList"
+            # Gói 1 (Codex 4.5): KHÔNG chế tạo link trang danh sách làm permalink
+            # giả — tin không có URL thật thì bỏ (đường RSS của HSX có link thật,
+            # nhánh JSON này chỉ là dự phòng).
+            continue
         items.append({
             "id": make_id(slug(source), title),
             "source": source,
