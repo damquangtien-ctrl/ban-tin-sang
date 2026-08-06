@@ -11,12 +11,15 @@ Exit:  0 = OK · 10 = không nguồn nào trả về tin · 11 = lỗi ghi file
 """
 import argparse
 import concurrent.futures as cf
+import gzip
 import hashlib
 import html
 import json
 import os
 import re
 import sys
+import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -33,7 +36,7 @@ TELEGRAM_SOURCES = [
     ("Dubaotiente", "dubaotiente", 2),
 ]
 
-# (tên nguồn hiển thị, url feed, phân loại: vn | legal | dividend)
+# (tên nguồn hiển thị, url feed, phân loại: vn | legal | dividend | world)
 RSS_SOURCES = [
     ("CafeF", "https://cafef.vn/thi-truong-chung-khoan.rss", "vn"),
     ("CafeF", "https://cafef.vn/doanh-nghiep.rss", "vn"),
@@ -70,6 +73,17 @@ RSS_SOURCES = [
     ("Báo Thanh tra",
      "https://news.google.com/rss/search?q=site:thanhtra.com.vn&hl=vi&gl=VN&ceid=VN:vi", "legal"),
     ("Vietstock", "https://vietstock.vn/738/doanh-nghiep/co-tuc.rss", "dividend"),
+    # Hai feed quốc tế Bloomberg (markets + economics) cùng source "Bloomberg":
+    # bài đăng ở cả hai feed có cùng link -> cùng id (slug nguồn + link) -> tự khử
+    # trùng chéo ở vòng dedup cuối. Feed trả 301, urlopen mặc định tự theo redirect.
+    ("Bloomberg", "https://feeds.bloomberg.com/markets/news.rss", "world"),
+    ("Bloomberg", "https://feeds.bloomberg.com/economics/news.rss", "world"),
+]
+
+# (tên nguồn hiển thị, url news-sitemap, phân loại) — Reuters KHÔNG có RSS công khai,
+# chỉ có news-sitemap (định dạng khác RSS, ~5 tin/lần là bình thường).
+SITEMAP_SOURCES = [
+    ("Reuters", "https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml", "world"),
 ]
 
 HSX_SOURCES = [
@@ -106,15 +120,52 @@ def keep_item(source, title):
 
 
 def http_get(url, timeout=45):
+    """Trả về (text, http_status). urlopen mặc định tự theo redirect 301/302
+    (Bloomberg cần điều này), nên status là của response CUỐI sau redirect."""
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
+        status = r.status
         data = r.read()
+    # Vài server (tienphong.vn) trả gzip dù ta không gửi Accept-Encoding — nhận
+    # diện theo magic bytes 1f 8b và tự giải nén, nếu hỏng thì giữ nguyên data.
+    if data[:2] == b"\x1f\x8b":
+        try:
+            data = gzip.decompress(data)
+        except OSError:
+            pass
     for enc in ("utf-8", "utf-8-sig", "latin-1"):
         try:
-            return data.decode(enc)
+            return data.decode(enc), status
         except UnicodeDecodeError:
             continue
-    return data.decode("utf-8", "replace")
+    return data.decode("utf-8", "replace"), status
+
+
+def short_endpoint(url):
+    """Rút gọn endpoint còn host+path để ghi vào sources_health."""
+    p = urllib.parse.urlsplit(url)
+    return p.netloc + p.path
+
+
+def stamp_kind(items, kind):
+    """Gắn source_kind bắt buộc cho mọi item (hợp đồng Gói 4): web | telegram | api."""
+    for item in items:
+        item["source_kind"] = kind
+    return items
+
+
+def health_row(source, url, status, items, error):
+    """Một dòng telemetry sources_health cho mỗi endpoint đã fetch.
+    http_status = int (kể cả 4xx/5xx) hoặc None nếu lỗi mạng trước khi có response."""
+    newest = max((i["published_at"] for i in items if i["published_at"]), default=None)
+    return {
+        "source": source,
+        "endpoint": short_endpoint(url),
+        "http_status": status,
+        "items": len(items),
+        "newest_at": newest,
+        "error": error,
+    }
 
 
 def parse_date(value):
@@ -186,6 +237,30 @@ def parse_rss(text, source, category):
         published = parse_date(field(blk, "pubDate") or field(blk, "published")
                                or field(blk, "updated") or field(blk, "a10:updated")
                                or field(blk, "dc:date"))
+        if not title or not link.startswith("http"):
+            continue
+        if not keep_item(source, title):
+            continue
+        items.append({
+            "id": make_id(slug(source), link),
+            "source": source,
+            "category": category,
+            "title": title,
+            "url": link,
+            "published_at": published,
+        })
+    return items
+
+
+def parse_news_sitemap(text, source, category):
+    """Đọc news-sitemap của Reuters — KHÔNG phải RSS: mỗi block <url> có
+    <loc> (permalink), <news:title> (CDATA, field() đã bóc) và
+    <news:publication_date> (ISO, parse_date hiện có đọc được)."""
+    items = []
+    for blk in re.findall(r"<url\b[^>]*>(.*?)</url>", text, re.S | re.I):
+        title = clean_text(field(blk, "news:title"), 300)
+        link = html.unescape(clean_text(field(blk, "loc"), 600))
+        published = parse_date(field(blk, "news:publication_date"))
         if not title or not link.startswith("http"):
             continue
         if not keep_item(source, title):
@@ -283,40 +358,45 @@ def parse_telegram(text, source, handle):
     return items
 
 
-def fetch_rss_source(entry):
+def fetch_http_source(entry, parser, kind):
+    """Fetch một endpoint HTTP rồi parse; trả (items, health_row, error).
+    Dùng chung cho RSS (web), news-sitemap (web) và HSX (api)."""
     source, url, category = entry
+    status, err = None, None
     try:
-        return parse_rss(http_get(url), source, category), None
+        text, status = http_get(url)
+        got = parser(text, source, category)
     except Exception as exc:  # noqa: BLE001 - nguồn lỗi thì bỏ qua, không dừng pipeline
-        return [], "%s (%s): %s" % (source, url[:60], str(exc)[:120])
-
-
-def fetch_hsx_source(entry):
-    source, url, category = entry
-    try:
-        return parse_hsx(http_get(url), source, category), None
-    except Exception as exc:  # noqa: BLE001
-        return [], "%s (%s): %s" % (source, url[:60], str(exc)[:120])
+        if isinstance(exc, urllib.error.HTTPError):
+            status = exc.code
+        got, err = [], "%s (%s): %s" % (source, url[:60], str(exc)[:120])
+    stamp_kind(got, kind)
+    return got, health_row(source, url, status, got, err), err
 
 
 def fetch_telegram_source(entry):
     source, handle, pages = entry
-    collected, errors, before = [], None, None
+    base = "https://t.me/s/%s" % handle
+    collected, errors, before, status = [], None, None, None
     try:
         for _ in range(max(1, pages)):
-            url = "https://t.me/s/%s" % handle
+            url = base
             if before:
                 url += "?before=%d" % before
-            batch = parse_telegram(http_get(url), source, handle)
+            text, status = http_get(url)
+            batch = parse_telegram(text, source, handle)
             if not batch:
                 break
             collected.extend(batch)
             before = min(i["post_id"] for i in batch)
     except Exception as exc:  # noqa: BLE001
+        if isinstance(exc, urllib.error.HTTPError):
+            status = exc.code
         errors = "%s (t.me/%s): %s" % (source, handle, str(exc)[:120])
     for item in collected:
         item.pop("post_id", None)
-    return collected, errors
+    stamp_kind(collected, "telegram")
+    return collected, health_row(source, base, status, collected, errors), errors
 
 
 def main():
@@ -327,19 +407,22 @@ def main():
     args = ap.parse_args()
 
     now = datetime.now(VN)
-    items, errors = [], []
+    items, errors, sources_health = [], [], []
 
     jobs = []
     with cf.ThreadPoolExecutor(max_workers=8) as pool:
         for entry in RSS_SOURCES:
-            jobs.append(pool.submit(fetch_rss_source, entry))
+            jobs.append(pool.submit(fetch_http_source, entry, parse_rss, "web"))
+        for entry in SITEMAP_SOURCES:
+            jobs.append(pool.submit(fetch_http_source, entry, parse_news_sitemap, "web"))
         for entry in HSX_SOURCES:
-            jobs.append(pool.submit(fetch_hsx_source, entry))
+            jobs.append(pool.submit(fetch_http_source, entry, parse_hsx, "api"))
         for entry in TELEGRAM_SOURCES:
             jobs.append(pool.submit(fetch_telegram_source, entry))
         for job in jobs:
-            got, err = job.result()
+            got, health, err = job.result()
             items.extend(got)
+            sources_health.append(health)
             if err:
                 errors.append(err)
 
@@ -360,6 +443,8 @@ def main():
         "freshness_hours": args.hours,
         "cutoff": (now - timedelta(hours=args.hours)).isoformat(),
         "counts": {"total": len(unique), "per_source": per_source},
+        # Telemetry mỗi endpoint (hợp đồng Gói 4 mục 6) — nguồn lỗi vẫn có dòng riêng
+        "sources_health": sources_health,
         "errors": errors,
         "items": unique,
     }
