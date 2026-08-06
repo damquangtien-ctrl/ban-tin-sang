@@ -31,12 +31,13 @@ TILE_ORDER = ["S&P 500", "Dow Jones", "Nasdaq", "Dầu WTI", "Dầu Brent",
 
 # Thứ tự khối báo trong nước (báo phổ biến trước) - dùng cho cả phần III và IV
 SOURCE_ORDER = ["CafeF", "Vietstock", "VnEconomy", "Tin nhanh Chứng khoán", "Báo Đầu tư",
-                "MarketTimes", "VnBusiness", "Tiền Phong", "Thời báo Ngân hàng",
-                "BNEWS", "HOSE"]
+                "MarketTimes", "Bloomberg Businessweek VN", "VnBusiness", "Tiền Phong",
+                "Thời báo Ngân hàng", "BNEWS", "HOSE"]
 # Báo chỉ xuất hiện ở phần pháp lý, xếp sau các báo trên
 LEGAL_EXTRA_SOURCES = ["VnExpress", "Báo Thanh tra", "Google News Pháp lý",
                        "Thanh Niên", "Tuổi Trẻ", "Dân Trí", "Thương Trường"]
-WORLD_SOURCES = ["Bloomberg", "Reuters", "Market News Feed", "VN Wall Street", "Dubaotiente"]
+WORLD_SOURCES = ["Bloomberg", "Reuters", "Bloomberg Businessweek VN",
+                 "Market News Feed", "VN Wall Street", "Dubaotiente"]
 
 ALLOWED_HOSTS = {
     "cafef.vn", "vietstock.vn", "vneconomy.vn", "markettimes.vn", "vnbusiness.vn",
@@ -46,6 +47,8 @@ ALLOWED_HOSTS = {
     "dantri.com.vn", "thuongtruong.com.vn",
     # Gói 4: nguồn thế giới có link bài gốc
     "bloomberg.com", "www.bloomberg.com", "reuters.com", "www.reuters.com",
+    # Bloomberg Businessweek VN — bản dịch Bloomberg có bản quyền, link tiếng Việt
+    "bbw.vn", "www.bbw.vn",
 }
 
 PLACEHOLDER_RE = re.compile(
