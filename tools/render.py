@@ -175,9 +175,14 @@ def main():
             if item.get("translated"):
                 title = "%s (dịch)" % title
             meta = "%s · %s" % (src.get("source"), fmt_time(src.get("published_at"), date_str))
+            label = esc(title)
+            if src.get("source_kind") == "web" and src.get("url"):
+                # Gói 4: nguồn web (Bloomberg/Reuters) gắn link bài gốc — URL lấy từ
+                # raw_feed, đã qua allowlist của validate; kênh Telegram giữ text thuần.
+                label = '<a href="%s">%s</a>' % (esc(src.get("url")), label)
             world_html.append(
                 '  <li><span class="n">%d.</span><div class="t">%s<div class="meta">%s</div>'
-                "</div></li>" % (pos, esc(title), esc(meta.strip(" ·"))))
+                "</div></li>" % (pos, label, esc(meta.strip(" ·"))))
         world_html.append("</ol>")
         doc = replace_block(doc, "WORLD", "\n".join(world_html))
 
@@ -206,8 +211,15 @@ def main():
     audit_path = os.path.join(args.outdir, "archive", "data", "%s.json" % date_str)
     os.makedirs(os.path.dirname(audit_path), exist_ok=True)
     canonical = json.dumps(bulletin, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
-    audit = dict(bulletin)
+    audit = json.loads(canonical)  # bản sao sâu: enrich audit không chạm bulletin gốc
     audit["content_sha"] = hashlib.sha256(canonical.encode("utf-8")).hexdigest()
+    # Gói 4: bổ sung trường máy-đọc cho tin thế giới trong audit — tiêu đề gốc tiếng
+    # Anh và link bài gốc (null với kênh Telegram). Không ảnh hưởng content_sha vì
+    # sha đã tính xong trên bulletin thuần ở trên.
+    for item in audit.get("world") or []:
+        src = index.get(item.get("ref")) or {}
+        item["original_title"] = src.get("title")
+        item["link"] = src.get("url") if src.get("source_kind") == "web" else None
     previous = None
     if os.path.isfile(audit_path):
         try:
