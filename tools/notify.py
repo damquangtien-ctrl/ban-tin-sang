@@ -9,6 +9,8 @@ Nguyên tắc:
   • Thành công = MỌI đích của CẢ HAI kênh đều giao được.
   • Chống gửi trùng theo (ngày + content_sha + từng đích): đích nào đã giao thì bỏ qua,
     chạy lại chỉ thử lại đích còn thiếu. Thêm đích mới thì chỉ đích mới được gửi.
+  • Biên nhận được ghi xuống đĩa NGAY sau kết quả của TỪNG đích (ghi nguyên tử qua
+    file tạm + os.replace) — tiến trình chết giữa vòng gửi cũng không gửi trùng.
   • Token đọc từ biến môi trường; token và chat id không bao giờ lọt vào log hay biên nhận
     (biên nhận chỉ lưu mã băm rút gọn của đích).
 
@@ -81,9 +83,15 @@ def load_json(path):
 
 
 def save_json(path, obj):
+    """Ghi an toàn: ghi ra file tạm cùng thư mục rồi os.replace (nguyên tử trên cùng ổ)
+    — chết giữa chừng cũng không bao giờ để lại file JSON cụt."""
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8", newline="\n") as fh:
+    tmp = "%s.tmp" % path
+    with open(tmp, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(obj, fh, ensure_ascii=False, indent=1)
+        fh.flush()
+        os.fsync(fh.fileno())
+    os.replace(tmp, path)
 
 
 def target_id(value):
@@ -242,8 +250,11 @@ def previous_targets(prev, content_sha, targets, channel):
     return out
 
 
-def deliver_channel(channel, body, content_sha, prev, dry_run):
-    """Gửi tới mọi đích của một kênh. Trả (trạng thái, bản ghi kênh)."""
+def deliver_channel(channel, body, content_sha, prev, dry_run, persist=None):
+    """Gửi tới mọi đích của một kênh. Trả (trạng thái, bản ghi kênh).
+
+    `persist` (nếu có) được gọi với bản ghi kênh NGAY sau kết quả của TỪNG đích
+    — chết ở bất kỳ điểm nào giữa hai đích thì mọi đích đã xử lý vẫn nằm trên đĩa."""
     token, targets = channel_config(channel)
     if not (token and targets):
         missing = []
@@ -259,6 +270,20 @@ def deliver_channel(channel, body, content_sha, prev, dry_run):
 
     done = previous_targets(prev, content_sha, targets, channel)
     records, sent, failed, skipped = [], 0, 0, 0
+
+    def snapshot():
+        """Bản ghi kênh từ các đích đã xử lý tới thời điểm này."""
+        all_ok = bool(records) and all(r.get("ok") for r in records)
+        first_id = next((r.get("message_id") for r in records
+                         if r.get("ok") and r.get("message_id")), None)
+        first_at = next((r.get("sent_at") for r in records
+                         if r.get("ok") and r.get("sent_at")), None)
+        summary = {"ok": all_ok, "message_id": first_id, "sent_at": first_at,
+                   "content_sha": content_sha, "targets": records}
+        if not all_ok:
+            summary["error"] = "%d/%d dich that bai" % (failed, len(records))
+        return summary
+
     for target in targets:
         tid = target_id(target)
         kind = target_kind(channel, target)
@@ -286,15 +311,10 @@ def deliver_channel(channel, body, content_sha, prev, dry_run):
         if not ok:
             row["error"] = err
         records.append(row)
+        if persist:
+            persist(snapshot())  # ghi biên nhận đích này xuống đĩa ngay, không chờ cuối hàm
 
-    all_ok = bool(records) and all(r.get("ok") for r in records)
-    first_id = next((r.get("message_id") for r in records if r.get("ok") and r.get("message_id")),
-                    None)
-    first_at = next((r.get("sent_at") for r in records if r.get("ok") and r.get("sent_at")), None)
-    summary = {"ok": all_ok, "message_id": first_id, "sent_at": first_at,
-               "content_sha": content_sha, "targets": records}
-    if not all_ok:
-        summary["error"] = "%d/%d dich that bai" % (failed, len(records))
+    summary = snapshot()
     status = "failed" if failed else ("already" if skipped == len(records) else "sent")
     return status, summary
 
@@ -354,8 +374,16 @@ def main():
     statuses = {}
     for channel in CHANNELS:
         body = compose(channel, head, stats, highlights)
+
+        def persist(summary, channel=channel):
+            """Ghi audit xuống đĩa NGAY sau từng đích — chết giữa vòng gửi không mất biên nhận."""
+            delivery[channel] = summary
+            audit["delivery"] = delivery
+            save_json(audit_path, audit)
+
         status, summary = deliver_channel(channel, body, content_sha,
-                                          delivery.get(channel), args.dry_run)
+                                          delivery.get(channel), args.dry_run,
+                                          persist=None if args.dry_run else persist)
         statuses[channel] = status
         if not args.dry_run:
             delivery[channel] = summary
