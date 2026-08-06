@@ -91,6 +91,20 @@ HSX_SOURCES = [
     ("HOSE", "https://api.hsx.vn/n/api/v1/News/NewsByCateFeed/11", "vn"),
 ]
 
+# bbw.vn — Bloomberg Businessweek Việt Nam (Beacon Asia Media, bản dịch Bloomberg
+# CÓ BẢN QUYỀN + phân tích thị trường VN, ~1-4 bài/ngày). KHÔNG có RSS; sitemap
+# lastmod bị đóng dấu giờ sinh file (vô dụng); trang "mới nhất" render bằng JS.
+# Đường máy đọc duy nhất: homepage server-rendered — link bài đầu DOM xếp mới→cũ —
+# rồi mở từng bài lấy datePublished/headline trong JSON-LD (giờ VN, không hậu tố
+# múi giờ). robots.txt cho phép đọc HTML (cấm /api/ và *.json — không dùng).
+# (tên nguồn, homepage, phân loại thô, số bài đầu DOM cần mở)
+BBW_SOURCES = [
+    ("Bloomberg Businessweek VN", "https://bbw.vn/", "vn", 12),
+]
+BBW_LINK_RE = re.compile(r'href="(https://bbw\.vn/[a-z0-9-]+-\d{4,6}\.html)"')
+BBW_DATE_RE = re.compile(r'"datePublished"\s*:\s*"([^"]+)"')
+BBW_TITLE_RE = re.compile(r'"headline"\s*:\s*"((?:[^"\\]|\\.)*)"')
+
 # Tin HOSE cần loại ngay từ khâu thu thập (rác cố định, không phải việc của Claude)
 HOSE_DROP = re.compile(r"chứng quyền|FUE[A-Z0-9]*|E1VFVN30|cơ cấu hoán đổi", re.I)
 
@@ -399,6 +413,56 @@ def fetch_telegram_source(entry):
     return collected, health_row(source, base, status, collected, errors), errors
 
 
+def fetch_bbw_source(entry):
+    """bbw.vn hai tầng: đọc homepage lấy link bài theo thứ tự DOM (mới trước),
+    mở tối đa `limit` bài đầu lấy datePublished + headline từ JSON-LD. Tiêu đề
+    đã là TIẾNG VIỆT (bản dịch có bản quyền) — biên tập viên không cần dịch.
+    Một bài lỗi chỉ mất bài đó, không phá cả nguồn."""
+    source, base, category, limit = entry
+    items, err, status = [], None, None
+    try:
+        text, status = http_get(base)
+        links = []
+        for m in BBW_LINK_RE.finditer(text):
+            if m.group(1) not in links:
+                links.append(m.group(1))
+        for link in links[:limit]:
+            try:
+                page, _ = http_get(link, timeout=15)
+            except Exception:  # noqa: BLE001 - bài hỏng thì bỏ, giữ các bài còn lại
+                continue
+            md = BBW_DATE_RE.search(page)
+            mt = BBW_TITLE_RE.search(page)
+            title = ""
+            if mt:
+                try:
+                    # headline trong JSON-LD có thể chứa escape JSON (\", \uXXXX)
+                    title = json.loads('"%s"' % mt.group(1))
+                except json.JSONDecodeError:
+                    title = mt.group(1)
+            if not title:
+                m2 = re.search(r"<title>([^<]+)</title>", page)
+                title = html.unescape(m2.group(1)) if m2 else ""
+                title = re.sub(r"\s*\|\s*Bloomberg Businessweek.*$", "", title)
+            title = clean_text(title, 300)
+            if not title:
+                continue
+            items.append({
+                "id": make_id(slug(source), link),
+                "source": source,
+                "category": category,
+                "title": title,
+                "url": link,
+                "published_at": parse_date(md.group(1)) if md else None,
+            })
+    except Exception as exc:  # noqa: BLE001
+        if isinstance(exc, urllib.error.HTTPError):
+            status = exc.code
+        err = "%s (bbw.vn): %s" % (source, str(exc)[:120])
+    stamp_kind(items, "web")
+    return items, health_row(source, base, status, items, err), err
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--hours", type=int, default=24,
@@ -419,6 +483,8 @@ def main():
             jobs.append(pool.submit(fetch_http_source, entry, parse_hsx, "api"))
         for entry in TELEGRAM_SOURCES:
             jobs.append(pool.submit(fetch_telegram_source, entry))
+        for entry in BBW_SOURCES:
+            jobs.append(pool.submit(fetch_bbw_source, entry))
         for job in jobs:
             got, health, err = job.result()
             items.extend(got)
