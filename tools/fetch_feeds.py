@@ -37,10 +37,18 @@ TELEGRAM_SOURCES = [
 RSS_SOURCES = [
     ("CafeF", "https://cafef.vn/thi-truong-chung-khoan.rss", "vn"),
     ("CafeF", "https://cafef.vn/doanh-nghiep.rss", "vn"),
+    # Bốn feed chuyên mục hẹp (bám sát KQKD / nội bộ / M&A / nhận định)
     ("Vietstock", "https://vietstock.vn/737/doanh-nghiep/hoat-dong-kinh-doanh.rss", "vn"),
     ("Vietstock", "https://vietstock.vn/739/chung-khoan/giao-dich-noi-bo.rss", "vn"),
     ("Vietstock", "https://vietstock.vn/764/doanh-nghiep/tang-von-m-a.rss", "vn"),
     ("Vietstock", "https://vietstock.vn/1636/nhan-dinh-phan-tich/nhan-dinh-thi-truong.rss", "vn"),
+    # Ba feed "mới cập nhật" — tươi hơn hẳn và phủ rộng hơn bốn feed trên.
+    # /1/ tổng hợp (có bản tin trước giờ giao dịch), /3/ doanh nghiệp, /6/ tài chính-ngân hàng.
+    # Các feed này lặp bài trong chính nó; fetch tự khử trùng theo (nguồn + link).
+    # KHÔNG lấy /2/ "Hàng hóa": chỉ là tin giá vàng/dầu, đã có ở Phần I số liệu.
+    ("Vietstock", "https://vietstock.vn/1/moi-cap-nhat.rss", "vn"),
+    ("Vietstock", "https://vietstock.vn/3/moi-cap-nhat.rss", "vn"),
+    ("Vietstock", "https://vietstock.vn/6/moi-cap-nhat.rss", "vn"),
     ("VnEconomy", "https://vneconomy.vn/chung-khoan.rss", "vn"),
     ("Tin nhanh Chứng khoán",
      "https://news.google.com/rss/search?q=site:tinnhanhchungkhoan.vn&hl=vi&gl=VN&ceid=VN:vi", "vn"),
@@ -82,10 +90,19 @@ def log(msg):
 
 def clean_text(raw, limit=280):
     txt = raw.replace("<br/>", " ").replace("<br>", " ").replace("<br />", " ")
+    # Bóc thẻ hai lượt: một số feed (HOSE) bọc tiêu đề trong thẻ ĐÃ escape
+    # (&lt;span&gt;...), nếu chỉ unescape thì thẻ HTML thật lọt vào tiêu đề.
+    txt = html.unescape(TAG_RE.sub(" ", txt))
     txt = TAG_RE.sub(" ", txt)
-    txt = html.unescape(txt)
     txt = WS_RE.sub(" ", txt).strip()
     return txt[:limit]
+
+
+def keep_item(source, title):
+    """Lọc rác cố định ngay từ khâu thu thập, không để Claude phải xử."""
+    if source == "HOSE" and HOSE_DROP.search(title):
+        return False
+    return True
 
 
 def http_get(url, timeout=45):
@@ -164,9 +181,14 @@ def parse_rss(text, source, category):
             m = re.search(r'<link[^>]*href="([^"]+)"', blk, re.I)
             link = m.group(1) if m else ""
         link = html.unescape(clean_text(link, 600))
+        # a10:updated là dạng Atom mà feed api.hsx.vn dùng — thiếu nó thì mọi tin
+        # HOSE không có giờ đăng và bị loại khỏi bản tin.
         published = parse_date(field(blk, "pubDate") or field(blk, "published")
-                               or field(blk, "updated") or field(blk, "dc:date"))
+                               or field(blk, "updated") or field(blk, "a10:updated")
+                               or field(blk, "dc:date"))
         if not title or not link.startswith("http"):
+            continue
+        if not keep_item(source, title):
             continue
         items.append({
             "id": make_id(slug(source), link),
@@ -220,7 +242,7 @@ def parse_hsx(text, source, category):
                 url = v
             elif published is None and ("date" in kl or "time" in kl):
                 published = parse_date(v)
-        if not title or HOSE_DROP.search(title):
+        if not title or not keep_item(source, title):
             continue
         if not url:
             url = "https://www.hsx.vn/Modules/Cms/Web/NewsList"
