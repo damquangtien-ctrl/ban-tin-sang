@@ -420,16 +420,25 @@ def fetch_bbw_source(entry):
     Một bài lỗi chỉ mất bài đó, không phá cả nguồn."""
     source, base, category, limit = entry
     items, err, status = [], None, None
+    # Canary chống "chết ngầm" (Codex vòng 4): đếm từng khâu để phân biệt
+    # trang đổi giao diện / bài mở lỗi / JSON-LD mất ngày — HTTP 200 không đủ tin.
+    stats = {"link": 0, "mo": 0, "loi_bai": 0, "thieu_ngay": 0, "dao_chieu": 0}
     try:
         text, status = http_get(base)
         links = []
         for m in BBW_LINK_RE.finditer(text):
             if m.group(1) not in links:
                 links.append(m.group(1))
-        for link in links[:limit]:
+        stats["link"] = len(links)
+        for link in links:
+            # Quét quá `limit` link để bù bài lỗi, nhưng có trần request tuyệt đối
+            if len(items) >= limit or stats["mo"] >= limit + 6:
+                break
+            stats["mo"] += 1
             try:
                 page, _ = http_get(link, timeout=15)
             except Exception:  # noqa: BLE001 - bài hỏng thì bỏ, giữ các bài còn lại
+                stats["loi_bai"] += 1
                 continue
             md = BBW_DATE_RE.search(page)
             mt = BBW_TITLE_RE.search(page)
@@ -446,21 +455,38 @@ def fetch_bbw_source(entry):
                 title = re.sub(r"\s*\|\s*Bloomberg Businessweek.*$", "", title)
             title = clean_text(title, 300)
             if not title:
+                stats["loi_bai"] += 1
                 continue
+            published = parse_date(md.group(1)) if md else None
+            if published is None:
+                stats["thieu_ngay"] += 1
             items.append({
                 "id": make_id(slug(source), link),
                 "source": source,
                 "category": category,
                 "title": title,
                 "url": link,
-                "published_at": parse_date(md.group(1)) if md else None,
+                "published_at": published,
             })
+        # Đếm cặp liền kề có giờ TĂNG — đầu DOM lẽ ra mới→cũ; đảo chiều nhiều
+        # nghĩa là trang đã đổi cách xếp và "12 bài đầu" không còn là mới nhất.
+        stamped = [i["published_at"] for i in items if i["published_at"]]
+        stats["dao_chieu"] = sum(1 for a, b in zip(stamped, stamped[1:]) if a < b)
+        if status == 200 and not items:
+            err = "%s: homepage 200 nhung 0 bai — nghi doi giao dien" % source
+        elif stats["loi_bai"] or stats["thieu_ngay"] or stats["dao_chieu"] > 2:
+            err = ("%s: %d/%d bai loi, %d thieu ngay, %d dao chieu thu tu"
+                   % (source, stats["loi_bai"], stats["mo"],
+                      stats["thieu_ngay"], stats["dao_chieu"]))
     except Exception as exc:  # noqa: BLE001
         if isinstance(exc, urllib.error.HTTPError):
             status = exc.code
         err = "%s (bbw.vn): %s" % (source, str(exc)[:120])
     stamp_kind(items, "web")
-    return items, health_row(source, base, status, items, err), err
+    health = health_row(source, base, status, items, err)
+    health["detail"] = ("link=%(link)d mo=%(mo)d loi=%(loi_bai)d "
+                        "thieu_ngay=%(thieu_ngay)d dao_chieu=%(dao_chieu)d" % stats)
+    return items, health, err
 
 
 def main():
