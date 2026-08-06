@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Kiểm thử khâu giao tin nhắn: mã thoát, chống gửi trùng, chốt chặn publish.
+"""Kiểm thử khâu giao tin nhắn: mã thoát, chống gửi trùng, chốt chặn publish,
+chịu được tiến trình chết cứng giữa vòng gửi.
 
 Không gọi mạng thật — thay `notify.post_form` bằng bản giả có ghi lại lời gọi.
 
@@ -27,6 +28,7 @@ CALLS = []          # tên kênh của từng lời gọi
 CALL_TARGETS = []   # chat_id của từng lời gọi
 OUTCOME = {"telegram": True, "zalo": True}
 OUTCOME_TARGET = {}  # chat_id -> bool, ưu tiên hơn OUTCOME
+CRASH = {"at_call": None}  # lời gọi API thứ N thì chết cứng (giả lập crash giữa vòng gửi)
 
 
 def fake_post_form(url, fields, timeout=45):
@@ -34,6 +36,10 @@ def fake_post_form(url, fields, timeout=45):
     chat = fields.get("chat_id", "")
     CALLS.append(channel)
     CALL_TARGETS.append(chat)
+    if CRASH["at_call"] is not None and len(CALLS) == CRASH["at_call"]:
+        # SystemExit là BaseException → không bị `except Exception` trong notify.send bắt lại,
+        # thoát thẳng ra ngoài như tiến trình chết thật giữa chừng.
+        raise SystemExit(97)
     ok = OUTCOME_TARGET.get(chat, OUTCOME.get(channel, True))
     if ok:
         return 200, json.dumps({"ok": True, "result": {"message_id": 9000 + len(CALLS)}})
@@ -283,6 +289,36 @@ def case_no_chatid_in_receipt():
     shutil.rmtree(root, ignore_errors=True)
 
 
+def case_crash_mid_delivery():
+    """Chết cứng ngay lời gọi Zalo (sau khi Telegram đã gửi xong): biên nhận Telegram
+    phải ĐÃ nằm trên đĩa ngay lúc đó; chạy lại chỉ gửi Zalo, không gửi trùng Telegram."""
+    root = make_workspace()
+    set_env()
+    OUTCOME.update(telegram=True, zalo=True)
+    OUTCOME_TARGET.clear()
+    CRASH["at_call"] = 2                     # lời gọi API thứ hai (Zalo) chết giữa chừng
+    crashed = False
+    try:
+        run(root)
+    except SystemExit:
+        crashed = True
+    finally:
+        CRASH["at_call"] = None
+    d = audit_delivery(root)                 # đọc đĩa NGAY lúc tiến trình vừa chết
+    tg = d.get("telegram") or {}
+    tg_targets = tg.get("targets") or []
+    on_disk = (tg.get("ok") is True and len(tg_targets) == 1
+               and tg_targets[0].get("ok") is True and "zalo" not in d)
+    rc = run(root)                           # stub hết chết -> chạy lại
+    d2 = audit_delivery(root)
+    ok = (crashed and on_disk and rc == 0 and CALLS == ["zalo"]
+          and d2["telegram"]["message_id"] == tg.get("message_id")
+          and d2["zalo"]["ok"] is True)
+    check("14. Chet giua vong gui -> Telegram khong gui trung", ok,
+          "crash=%s tren_dia=%s exit=%s calls=%s" % (crashed, on_disk, rc, CALLS))
+    shutil.rmtree(root, ignore_errors=True)
+
+
 def main():
     print("KIEM THU KHAU GIAO TIN NHAN\n" + "-" * 72)
     case_both_ok()
@@ -297,6 +333,7 @@ def main():
     case_group_target_fail()
     case_new_group_added()
     case_no_chatid_in_receipt()
+    case_crash_mid_delivery()
     print("-" * 72)
     failed = [n for n, ok, _ in results if not ok]
     print("KET QUA: %d/%d tinh huong dat" % (len(results) - len(failed), len(results)))
