@@ -249,6 +249,16 @@ def main():
         cutoff = datetime.fromisoformat(raw["cutoff"])
     except (KeyError, ValueError):
         warn("C3", "raw_feed.json thiếu mốc cutoff, bỏ qua kiểm tra độ tươi")
+    # Gói 1 (Codex 4.3): giờ đăng "đến từ tương lai" là dữ liệu hỏng (đồng hồ nguồn
+    # sai hoặc feed ghi giờ dự kiến) — quá 30 phút so với lúc kiểm định thì chặn.
+    future_gate = datetime.now(VN) + timedelta(minutes=30)
+    try:
+        fetched = datetime.fromisoformat(raw["fetched_at"])
+        if datetime.now(VN) - fetched > timedelta(hours=12):
+            warn("C3", "raw_feed.json thu thập lúc %s — quá cũ so với lúc kiểm định, "
+                 "cửa sổ độ tươi vẫn neo theo lúc fetch" % raw["fetched_at"][:16])
+    except (KeyError, ValueError):
+        pass
     seen_urls, titles = {}, []
 
     for path, item, block_source, section in iter_news(bulletin):
@@ -267,13 +277,19 @@ def main():
         published = src.get("published_at")
         if not published:
             err("C3", "%s: tin không có thời gian đăng, không đủ điều kiện lên bản tin" % path)
-        elif cutoff:
+        else:
+            pub_dt = None
             try:
-                if datetime.fromisoformat(published) < cutoff:
-                    err("C3", "%s: tin đăng %s, cũ hơn mốc độ tươi %s"
-                        % (path, published[:16], raw["cutoff"][:16]))
+                pub_dt = datetime.fromisoformat(published)
             except ValueError:
                 err("C3", "%s: thời gian đăng '%s' không hợp lệ" % (path, published))
+            if pub_dt is not None:
+                if cutoff and pub_dt < cutoff:
+                    err("C3", "%s: tin đăng %s, cũ hơn mốc độ tươi %s"
+                        % (path, published[:16], raw["cutoff"][:16]))
+                if pub_dt > future_gate:
+                    err("C3", "%s: giờ đăng %s ở TƯƠNG LAI so với lúc kiểm định"
+                        % (path, published[:16]))
         # C4
         url = src.get("url") or ""
         if section == "world":
