@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 # Kiểm thử phần điều phối của run.sh: thứ tự bước, mã thoát, và độ bền của
 # bước ghi biên nhận. Dùng script giả thay cho validate/render/publish/notify
-# nên KHÔNG chạm mạng, KHÔNG chạm repo thật.
+# nên KHÔNG chạm mạng, KHÔNG chạm repo thật. Riêng tình huống 7 dùng publish.sh
+# THẬT nhưng với repo git cục bộ (bare repo đóng vai GitHub) và BANTIN_PAGE_URL
+# trỏ tệp qua file:// — vẫn không chạm mạng, không ngủ chờ Pages build.
 #
 # Dùng:  bash tools/selftest_receipt.sh
 # Exit:  0 = tất cả tình huống đạt · 1 = có tình huống sai
@@ -31,6 +33,11 @@ if ! python3 -c "print(1)" >/dev/null 2>&1; then
   export PATH="$SHIM:$PATH"
   echo "(dung shim python3 -> $REALPY)"
 fi
+
+# Các tình huống 1–6 dùng stub publish.sh nên vốn không poll trang; vẫn đặt biến
+# này để nếu có tình huống nào chạy nhầm bản thật thì kiểm thử cũng không gọi
+# mạng hay ngủ ~90 giây chờ Pages build. Tình huống 7 sẽ chủ động ghi đè =0.
+export BANTIN_SKIP_PAGE_VERIFY=1
 
 # $1 publish_rc · $2 receipt_rc · $3 notify_rc → in ra đường dẫn workspace giả
 setup() {
@@ -65,6 +72,16 @@ setup() {
 }
 
 count() { [ -f "$1" ] && wc -l < "$1" | tr -d ' ' || echo 0; }
+
+# Đường dẫn tệp → URL file:// mà curl trên máy hiểu được. curl của Git Bash là
+# bản Windows, không hiểu đường dẫn kiểu /tmp/... nên phải đổi qua dạng C:/...
+page_url() {
+  if command -v cygpath >/dev/null 2>&1; then
+    printf 'file:///%s' "$(cygpath -m "$1")"
+  else
+    printf 'file://%s' "$1"
+  fi
+}
 
 check() { # $1 tên · $2 điều kiện đã đánh giá (0/1) · $3 chi tiết
   if [ "$2" -eq 0 ]; then
@@ -123,6 +140,35 @@ bash "$W/tools/run.sh" >/dev/null 2>&1; rc=$?
 n=$(count "$W/data/notify_calls")
 [ "$rc" -eq 44 ] && [ "$n" -eq 0 ]; ok=$?
 check "6. Thieu publish.json -> exit 44, khong goi API" $ok "exit=$rc notify=$n"
+rm -rf "$W"
+
+# 7. Xuất bản THẬT thành công nhưng trang phục vụ chưa khớp → SOFT-FAIL:
+#    publish.json vẫn được ghi với pages_verified=false (các trường cũ giữ nguyên),
+#    notify vẫn được gọi, exit tổng thể vẫn 0. Dùng publish.sh thật + repo git cục
+#    bộ có đường dẫn chứa tên repo mong đợi để qua được bước kiểm remote.
+W="$(setup 0 0 0)"
+cp "$TOOLS/publish.sh" "$W/tools/publish.sh"
+printf '<html><body><p class="dateline">%s</p>Ban tin that su</body></html>\n' "$DATE" > "$W/index.html"
+cp "$W/index.html" "$W/archive/$DATE.html"
+BARE="$W/gh/damquangtien-ctrl/ban-tin-sang.git"
+mkdir -p "$BARE"
+git init -q --bare "$BARE"
+git -C "$W" init -q
+git -C "$W" remote add origin "$BARE"
+git -C "$W" config commit.gpgsign false
+printf 'trang cu - Pages chua build xong\n' > "$W/served.html"
+BANTIN_SKIP_PAGE_VERIFY=0 BANTIN_PAGE_URL="$(page_url "$W/served.html")" \
+BANTIN_PAGE_TRIES=2 BANTIN_PAGE_SLEEP=0 \
+  bash "$W/tools/run.sh" >/dev/null 2>&1; rc=$?
+n=$(count "$W/data/notify_calls")
+pv=1;   grep -q '"pages_verified": false' "$W/data/publish.json" 2>/dev/null && pv=0
+keep=1; grep -q '"ok": true' "$W/data/publish.json" 2>/dev/null \
+        && grep -q '"index_sha256"' "$W/data/publish.json" 2>/dev/null \
+        && grep -q '"commit"' "$W/data/publish.json" 2>/dev/null && keep=0
+warn=1; grep -q 'CANH BAO' "$W/data/pipeline.log" 2>/dev/null && warn=0
+[ "$rc" -eq 0 ] && [ "$n" -eq 1 ] && [ "$pv" -eq 0 ] && [ "$keep" -eq 0 ] && [ "$warn" -eq 0 ]; ok=$?
+check "7. Trang phuc vu chua khop -> pages_verified=false, van exit 0" $ok \
+      "exit=$rc notify=$n pv_false=$([ $pv -eq 0 ] && echo co || echo khong) canh_bao=$([ $warn -eq 0 ] && echo co || echo khong)"
 rm -rf "$W"
 
 printf -- '------------------------------------------------------------------------\n'
