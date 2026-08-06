@@ -36,7 +36,7 @@ SOURCE_ORDER = ["CafeF", "Vietstock", "VnEconomy", "Tin nhanh Chứng khoán", "
 # Báo chỉ xuất hiện ở phần pháp lý, xếp sau các báo trên
 LEGAL_EXTRA_SOURCES = ["VnExpress", "Báo Thanh tra", "Google News Pháp lý",
                        "Thanh Niên", "Tuổi Trẻ", "Dân Trí", "Thương Trường"]
-WORLD_SOURCES = ["Market News Feed", "VN Wall Street", "Dubaotiente"]
+WORLD_SOURCES = ["Bloomberg", "Reuters", "Market News Feed", "VN Wall Street", "Dubaotiente"]
 
 ALLOWED_HOSTS = {
     "cafef.vn", "vietstock.vn", "vneconomy.vn", "markettimes.vn", "vnbusiness.vn",
@@ -44,6 +44,8 @@ ALLOWED_HOSTS = {
     "tinnhanhchungkhoan.vn", "thoibaonganhang.vn", "bnews.vn", "news.google.com",
     "api.hsx.vn", "www.hsx.vn", "hsx.vn", "t.me", "thanhnien.vn", "tuoitre.vn",
     "dantri.com.vn", "thuongtruong.com.vn",
+    # Gói 4: nguồn thế giới có link bài gốc
+    "bloomberg.com", "www.bloomberg.com", "reuters.com", "www.reuters.com",
 }
 
 PLACEHOLDER_RE = re.compile(
@@ -272,7 +274,18 @@ def main():
         # C4
         url = src.get("url") or ""
         if section == "world":
-            pass  # phần thế giới không gắn link, không cần kiểm tra host
+            # Gói 4: tin thế giới nguồn web (Bloomberg/Reuters...) được renderer gắn link
+            # nên phải kiểm URL: bắt buộc https + host thuộc allowlist. Nguồn telegram
+            # hoặc raw_feed cũ chưa có source_kind thì bỏ qua như trước (tương thích ngược).
+            if src.get("source_kind") == "web":
+                if not re.match(r"^https://", url):
+                    err("C4", "%s: URL không hợp lệ '%s' (nguồn web phải https)"
+                        % (path, url[:60]))
+                else:
+                    host = url.split("/")[2].lower().split(":")[0]
+                    base = host[4:] if host.startswith("www.") else host
+                    if base not in ALLOWED_HOSTS and host not in ALLOWED_HOSTS:
+                        err("C4", "%s: URL trỏ tới host lạ '%s'" % (path, host))
         else:
             if not re.match(r"^https?://", url):
                 err("C4", "%s: URL không hợp lệ '%s'" % (path, url[:60]))
