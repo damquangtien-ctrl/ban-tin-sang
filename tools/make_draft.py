@@ -89,14 +89,18 @@ def load(path):
         return json.load(fh)
 
 
-def fresh(item, cutoff):
+def fresh(item, cutoff, future_gate):
+    """Tin hợp lệ phải nằm trong [cutoff, hiện tại + 30']. Giờ đăng ở tương lai
+    (đồng hồ nguồn sai / feed ghi giờ dự kiến) là dữ liệu hỏng — loại từ nháp
+    (lỗi Codex 4.3), validate C3 cũng chặn tầng sau."""
     ts = item.get("published_at")
     if not ts:
         return False
     try:
-        return datetime.fromisoformat(ts) >= cutoff
+        dt = datetime.fromisoformat(ts)
     except ValueError:
         return False
+    return cutoff <= dt <= future_gate
 
 
 def main():
@@ -114,10 +118,15 @@ def main():
     now = datetime.now(VN)
     hours = args.hours or raw.get("freshness_hours", 24)
     cutoff = now - timedelta(hours=hours)
+    future_gate = now + timedelta(minutes=30)
 
     world, legal_pool, vn_pool, dividends = [], [], {}, []
+    tuong_lai = 0
     for item in raw.get("items", []):
-        if not fresh(item, cutoff):
+        if not fresh(item, cutoff, future_gate):
+            ts = item.get("published_at")
+            if ts and ts > future_gate.isoformat():
+                tuong_lai += 1
             continue
         title = item.get("title") or ""
         if NOISE_RE.search(title):
@@ -242,6 +251,8 @@ def main():
     print("   ung vien: the gioi %d · Viet Nam %d tin / %d bao · phap ly %d tin / %d bao"
           % (len(draft["world"]), vn_n, len(draft["vietnam"]), legal_n, len(draft["legal"])))
     print("   goi y chot quyen: %d tin" % len(draft["_goi_y_chot_quyen"]))
+    if tuong_lai:
+        print("   CANH BAO: loai %d tin co gio dang o TUONG LAI (dong ho nguon sai?)" % tuong_lai)
     if not (draft["world"] or vn_n):
         print("   CANH BAO: khong co ung vien nao trong cua so %dh" % hours)
         return 12
