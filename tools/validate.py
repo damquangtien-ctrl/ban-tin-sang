@@ -184,6 +184,8 @@ def main():
     ap.add_argument("--bulletin", default=os.path.join(ROOT, "data", "bulletin.json"))
     ap.add_argument("--raw", default=os.path.join(ROOT, "data", "raw_feed.json"))
     ap.add_argument("--schema", default=os.path.join(ROOT, "tools", "schema.json"))
+    ap.add_argument("--market", default=os.path.join(ROOT, "data", "market_raw.json"),
+                    help="số liệu máy đọc của fetch_market.py (không có file thì bỏ qua)")
     args = ap.parse_args()
 
     for path in (args.bulletin, args.raw, args.schema):
@@ -221,6 +223,38 @@ def main():
         err("C6", "phần pháp lý %d tin, vượt trần 10" % legal_total)
     if not sunday and not (bulletin.get("vietnam") or []):
         err("C6", "phần Việt Nam trống (chỉ ấn bản Chủ Nhật mới được trống)")
+
+    # C6 mở rộng (Gói 1 số liệu): đối chiếu số trên bulletin với market_raw.json —
+    # số đã có nguồn máy đọc thì biên tập viên phải CHÉP NGUYÊN, chép nhầm là lỗi.
+    # Không có file (chạy cũ / fetch_market chết hẳn) thì bỏ qua, tương thích ngược.
+    if os.path.isfile(args.market):
+        try:
+            with open(args.market, encoding="utf-8") as fh:
+                market = {t["label"]: t for t in json.load(fh).get("tiles") or []}
+        except (ValueError, KeyError, TypeError):
+            market = {}
+            warn("C6", "market_raw.json không đọc được, bỏ qua đối chiếu số liệu")
+        for pos, tile in enumerate(tiles):
+            ref = market.get(tile.get("label"))
+            if not ref or ref.get("value_raw") is None:
+                continue
+            m = re.search(r"[\d.,]+", str(tile.get("value") or ""))
+            if not m:
+                warn("C6", "ô '%s' để trống dù fetch_market có số (%s)"
+                     % (tile.get("label"), ref.get("value")))
+                continue
+            try:
+                got = float(m.group(0).replace(".", "").replace(",", "."))
+            except ValueError:
+                continue
+            expect = float(ref["value_raw"])
+            diff = abs(got - expect) / expect if expect else 0
+            if diff > 0.02:
+                err("C6", "ô '%s' ghi %s nhưng fetch_market đo %s (lệch %.1f%%)"
+                    % (tile.get("label"), tile.get("value"), ref.get("value"), diff * 100))
+            elif diff > 0.005:
+                warn("C6", "ô '%s' ghi %s hơi lệch số đo %s"
+                     % (tile.get("label"), tile.get("value"), ref.get("value")))
 
     # C9 - nguồn và thứ tự khối
     for section, extra in (("vietnam", []), ("legal", LEGAL_EXTRA_SOURCES)):
