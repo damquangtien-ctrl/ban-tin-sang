@@ -1,0 +1,657 @@
+{
+ "date": "2026-08-07",
+ "dividends": [
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 100% (10.000 đồng/cổ phiếu)",
+   "record_date": "2026-08-10",
+   "ref": "cafef:e3d9e1796f",
+   "ticker": "FOC"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VnEconomy",
+   "text": "VN-Index giảm 11,68 điểm (-0,66%) xuống 1.764,78 điểm trong phiên 6/8, mức giảm mạnh nhất 8 phiên, thanh khoản xuống đáy."
+  },
+  {
+   "source": "Reuters",
+   "text": "Fed's Musalem: Lẽ ra Fed nên tăng lãi suất tại cuộc họp gần nhất, cần kiềm chế lạm phát đáng kể."
+  },
+  {
+   "source": "CafeF",
+   "text": "Bắt tạm giam Chủ tịch HĐQT Mekolor Võ Xuân Trường, người từng tuyên bố sở hữu hàng chục tỷ Euro."
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Điện Máy Xanh (DMX) chính thức giao dịch trên HoSE, chốt trả cổ tức tiền mặt 5.000 tỷ đồng ngay trong tháng 8."
+  },
+  {
+   "source": "Reuters",
+   "text": "Ông Trump công bố loạt biện pháp thương mại nhằm cạnh tranh với Trung Quốc trong lĩnh vực pin mặt trời và chip bán dẫn."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:847bd575a2",
+     "title": "Phát hiện bất thường từ nhóm cư dân, công an đồng loạt ập vào khám xét nhiều căn hộ tại một khu đô thị ở Gia Lâm: Bóc trần đường dây rửa tiền hơn 30.000 tỷ"
+    },
+    {
+     "ref": "cafef:4c4fedb3b0",
+     "title": "Lệnh khám xét chỗ ở, nơi làm việc, bắt tạm giam Chủ tịch HĐQT Mekolor Võ Xuân Trường"
+    },
+    {
+     "ref": "cafef:2dbf282057",
+     "title": "Động thái mới của Hoá chất Đức Giang sau biến cố khởi tố thêm 3 lãnh đạo"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:177dbf1971",
+     "title": "3 doanh nghiệp bị xử phạt do vi phạm công bố thông tin trên thị trường chứng khoán - Thời báo Tài chính Việt Nam"
+    },
+    {
+     "ref": "google-news-ph-p-l:327641925d",
+     "title": "Nhiều doanh nghiệp kinh doanh xăng dầu kém chất lượng bị xử phạt hơn 1,7 tỷ đồng - VOV.VN"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-11,68 (-0,66%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.764,78 điểm"
+   },
+   {
+    "change": "-0,95 (-0,32%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "292,64 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~12.635 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng ~120 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "139,7 – 142,7 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 26.040 · Bán 26.420"
+   }
+  ],
+  "summary": "Phố Wall qua đêm diễn biến trái chiều: S&P 500 giảm 0,18%, Dow Jones giảm 0,85%, Nasdaq giảm nhẹ 0,06%; giá dầu WTI và Brent tăng mạnh lần lượt 3,83% và 1,10% do căng thẳng địa chính trị Trung Đông leo thang, vàng thế giới tăng 1,38% lên 4.304 USD/ounce. Trong nước, phiên 6/8 VN-Index giảm 11,68 điểm (-0,66%) còn 1.764,78 điểm, mức giảm mạnh nhất trong 8 phiên gần đây, thanh khoản HOSE co hẹp còn khoảng 12.635 tỷ đồng; HNX-Index giảm 0,32% xuống 292,64 điểm. Khối ngoại quay lại bán ròng khoảng 120 tỷ đồng trên HOSE sau chuỗi mua ròng trước đó.",
+  "tiles": [
+   {
+    "change_pct": -0.18,
+    "label": "S&P 500",
+    "value": "7.710,0"
+   },
+   {
+    "change_pct": -0.85,
+    "label": "Dow Jones",
+    "value": "53.885,1"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "Nasdaq",
+    "value": "26.348,4"
+   },
+   {
+    "change_pct": 3.83,
+    "label": "Dầu WTI",
+    "value": "78,1 USD"
+   },
+   {
+    "change_pct": 1.1,
+    "label": "Dầu Brent",
+    "value": "83,4 USD"
+   },
+   {
+    "change_pct": 1.38,
+    "label": "Vàng thế giới",
+    "value": "4.304 USD"
+   },
+   {
+    "change_pct": -0.62,
+    "label": "Bitcoin",
+    "value": "64.194 USD"
+   },
+   {
+    "change_pct": 0.28,
+    "label": "DXY",
+    "value": "99,97"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:eb0a9bd66f",
+     "title": "Quỹ ngoại tỷ USD có tháng 7 tệ nhất trong lịch sử hoạt động"
+    },
+    {
+     "ref": "cafef:458251e07b",
+     "title": "Chứng khoán khó nhằn, tài khoản mở mới giảm mạnh"
+    },
+    {
+     "ref": "cafef:5bd245b05b",
+     "title": "56 mã chứng khoán bị HoSE cắt margin trong tháng 8"
+    },
+    {
+     "ref": "cafef:32ffab2ce1",
+     "title": "Chứng khoán Vietcap dự phóng VN-Index có thể chạm mốc 1.885 điểm ngay trong tháng 8"
+    },
+    {
+     "ref": "cafef:3fe4e653f9",
+     "title": "Một doanh nghiệp Việt thu hơn 1 tỷ USD ở nước ngoài trong nửa đầu năm 2026, lợi nhuận tăng hơn 120%"
+    },
+    {
+     "ref": "cafef:8937cd6c3f",
+     "title": "Nắm trong tay Điện Máy Xanh, Bách Hóa Xanh, An Khang, vốn hóa MWG chỉ ngang DMX"
+    },
+    {
+     "ref": "cafef:08c30bfe06",
+     "title": "VNPT nắm giữ lượng tiền hơn 62.000 tỷ đồng, lớn hơn cả Vinhomes, Viettel Global"
+    },
+    {
+     "ref": "cafef:5b17cb9a9f",
+     "title": "Một doanh nghiệp dầu khí đem hơn 42.200 tỷ đồng gửi ngân hàng"
+    },
+    {
+     "ref": "cafef:2091f6745a",
+     "title": "Hãng xe của tỷ phú Phạm Nhật Vượng cán mốc 60 đại lý tại quốc gia 1,4 tỷ dân"
+    },
+    {
+     "ref": "cafef:2f96b02b34",
+     "title": "Công ty con của HAGL chốt thời gian IPO 18,8 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:7b8e79c11c",
+     "title": "“Bàn tiệc chỉ còn vài chai bia”, Bia Hà Nội vẫn báo lãi quý 2 cao nhất 5 năm, có hơn 5.300 tỷ đồng gửi ngân hàng"
+    },
+    {
+     "ref": "cafef:66bdb884cd",
+     "title": "Sắc đỏ bao trùm, cổ phiếu Hoá chất Đức Giang vẫn tăng kịch trần"
+    },
+    {
+     "ref": "cafef:e6b05f55e7",
+     "title": "Một cổ phiếu bị tự doanh CTCK bán ròng 200 tỷ đồng trong phiên Index giảm điểm"
+    },
+    {
+     "ref": "cafef:ed2203fb43",
+     "title": "PNJ gây chú ý giữa tâm bão kim cương"
+    },
+    {
+     "ref": "cafef:03315494aa",
+     "title": "Phiên 6/8: Khối ngoại ngắt mạch mua ròng, tập trung \"xả\" hai cổ phiếu lớn"
+    },
+    {
+     "ref": "cafef:f6f98e2d3e",
+     "title": "Rất nhanh: Nhà máy 10.000 tỷ đồng sản xuất thép ray đường sắt của Hoà Phát đã hoàn thành hơn 50% khối lượng xây dựng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:5b5eb83596",
+     "title": "Bộ Tài chính đề xuất chính sách ưu tiên, ưu đãi trong đấu thầu, mua sắm hàng hóa xuất xứ trong nước"
+    },
+    {
+     "ref": "vietstock:66a251c18d",
+     "title": "Sửa đổi luật lĩnh vực ngân hàng nhằm xử lý khoảng trống pháp lý, hướng tới tăng trưởng kinh tế"
+    },
+    {
+     "ref": "vietstock:d26afeb5e2",
+     "title": "Lộc Trời chưa thoát cảnh trễ BCTC sau 2 năm khủng hoảng"
+    },
+    {
+     "ref": "vietstock:c2ffa86d44",
+     "title": "Thị trường chứng quyền ngày 07/08/2026: Khối ngoại quay lại mua ròng"
+    },
+    {
+     "ref": "vietstock:09cc2ed192",
+     "title": "Theo dấu dòng tiền cá mập 06/08: Tự doanh, khối ngoại đồng thuận bán ròng"
+    },
+    {
+     "ref": "vietstock:f25848efc1",
+     "title": "Tổng Giám đốc Phạm Như Ánh: MB tự tin hoàn thành kế hoạch lợi nhuận 2026, \"khóa\" dư nợ bất động sản dưới 15%"
+    },
+    {
+     "ref": "vietstock:95755aab9d",
+     "title": "Đề xuất sửa Luật Đấu thầu"
+    },
+    {
+     "ref": "vietstock:5fdb4039ed",
+     "title": "Giám đốc Fitch Ratings: Việt Nam cần nâng cao năng suất lao động nội địa để cải thiện bậc xếp hạng"
+    },
+    {
+     "ref": "vietstock:b2649e7243",
+     "title": "Doanh thu từ concert ít ỏi, Yeah1 giảm nửa lãi ròng, có khoản ủy thác đầu tư hơn 430 tỷ"
+    },
+    {
+     "ref": "vietstock:93d7c36010",
+     "title": "Janus Group thay mới cả Chủ tịch lẫn Tổng Giám đốc trong vài ngày"
+    },
+    {
+     "ref": "vietstock:c3b38e3a09",
+     "title": "Nhịp đập Thị trường 06/08: Áp lực bán gia tăng, dòng tiền thận trọng trên HOSE"
+    },
+    {
+     "ref": "vietstock:3276479c5d",
+     "title": "Sau cú bắt tay Vingroup, doanh thu Pomina gấp gần 4 lần cùng kỳ nhưng vẫn lỗ"
+    },
+    {
+     "ref": "vietstock:679e183e04",
+     "title": "Cổ đông Singapore gia tăng ảnh hưởng khi Âu Lạc chuẩn bị cho đại kế hoạch đóng tàu 450 triệu USD, Coney Pearl thâu tóm gần 21.6% vốn"
+    },
+    {
+     "ref": "vietstock:6ba98f6927",
+     "title": "PNJ triệu tập ĐHĐCĐ bất thường để điều chỉnh kế hoạch kinh doanh"
+    },
+    {
+     "ref": "vietstock:56edf16e3e",
+     "title": "MAScham chính thức mở đường đua đầu tư khi sóng nâng hạng cận kề"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:c10ece8d2d",
+     "title": "VN-Index đang kiểm tra động lực trong vùng 1750 - 1790 điểm"
+    },
+    {
+     "ref": "vneconomy:da648cdfa3",
+     "title": "NLG Day 2026: Tích lũy sức bật tài chính, chờ sóng bàn giao nửa cuối năm 2026"
+    },
+    {
+     "ref": "vneconomy:c2a63cee4b",
+     "title": "Nam Hoa (NHT): Lãi ròng Nam Hoa tăng gấp 5 lần nhờ mô hình “hai trụ cột”"
+    },
+    {
+     "ref": "vneconomy:4e1ee75a57",
+     "title": "VN-Index giảm mạnh nhất 8 phiên, thanh khoản xuống đáy"
+    },
+    {
+     "ref": "vneconomy:d4045c8719",
+     "title": "Điện Máy Xanh chính thức niêm yết HoSE ngày 6/8: Tái cấu trúc toàn diện, mở ra chu kỳ tăng trưởng mới"
+    },
+    {
+     "ref": "vneconomy:cdb7c36fe0",
+     "title": "“Trùm” bán khống Michael Burry cảnh báo rủi ro chứng khoán Mỹ sụp đổ"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2f269563c6",
+     "title": "Thị trường tài chính 24h: Phát hành trái phiếu của nhóm ngân hàng tăng trở lại - tinnhanhchungkhoan.vn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9853bc9a92",
+     "title": "Khối ngoại giảm mạnh giao dịch, trở lại bán ròng 124 tỷ đồng trong phiên 6/8 - tinnhanhchungkhoan.vn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1c9a4a9f1e",
+     "title": "Nam A Bank (NAB) đón dòng vốn xanh từ Thụy Sĩ, nâng tổng quy mô huy động vốn quốc tế lên gần 350 triệu USD - tinnhanhchungkhoan.vn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:42eb32abe3",
+     "title": "Tổng tài sản 440,8 tỷ đồng, Vietinbank Capital sở hữu danh mục 3 cổ phiếu PET, PC1 và HAH lên tới 2.640,5 tỷ đồng - tinnhanhchungkhoan.vn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:92b0d850d7",
+     "title": "FPT hợp tác với OpenAI, khai phá thị trường an ninh mạng 240 tỷ USD - tinnhanhchungkhoan.vn"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:d43a86c6f4",
+     "title": "Việt Nam - Malaysia hướng tới kim ngạch thương mại 20 tỷ USD - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:3feaeee8f6",
+     "title": "Sửa Luật Ngân hàng: Cân nhắc thận trọng việc áp dụng tỷ lệ an toàn khác quy định - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:1c738ecd4a",
+     "title": "[Infographic] Bức tranh xuất nhập khẩu 7 tháng đầu năm - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:2e2def4b90",
+     "title": "Keppel thoái toàn bộ vốn tại Empire City, thu về 270 triệu USD - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:4f0edd1cf8",
+     "title": "Đà Nẵng thu hút thêm 116.000 tỷ đồng vốn đầu tư trong nước - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:a9de632739",
+     "title": "Cả nghìn nhân viên tại Vietcombank, VietinBank, BIDV và Agribank nghỉ việc trong nửa đầu năm 2026"
+    },
+    {
+     "ref": "markettimes:e5c3302adf",
+     "title": "Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:dfc5a88d75",
+     "title": "Vì sao VN-Index chưa phản ánh đúng quy mô kinh tế Việt Nam?"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:d377d52234",
+     "title": "PVcomBank: Nhiều chỉ tiêu sát “ngưỡng đỏ”, nợ có khả năng mất vốn tăng vọt gần 20%"
+    },
+    {
+     "ref": "vnbusiness:a93a8658ad",
+     "title": "Nhiều 'ông lớn' công nghiệp Hà Lan đang tìm kiếm nhà cung cấp tại Việt Nam"
+    },
+    {
+     "ref": "vnbusiness:46946cbfbd",
+     "title": "Cục Thuế \"truy\" nhóm doanh nghiệp báo lãi mỏng và thua lỗ triền miên"
+    },
+    {
+     "ref": "vnbusiness:8da063dc4a",
+     "title": "Nhập siêu hơn 20 tỷ USD, vùng đệm bảo vệ tỷ giá mỏng dần"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:ac2dbd8f6d",
+     "title": "Đề xuất điều chỉnh đường sắt Lào Cai - Hà Nội - Hải Phòng, tăng hơn 86.000 tỷ"
+    },
+    {
+     "ref": "ti-n-phong:9b75b720c9",
+     "title": "Chọn đúng đầu tàu: Danh mục doanh nghiệp nhà nước mạnh và bài toán giao nhiệm vụ"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:0f93b1fc1c",
+     "title": "Chiến lược gia ngoại hối nói gì về triển vọng đồng USD và yên Nhật? - Thời Báo Ngân Hàng"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:176763fc37",
+     "title": "DSC: Nghị quyết HĐQT về việc phê duyệt mua lại cổ phiếu ESOP của người lao động nghỉ việc"
+    },
+    {
+     "ref": "hose:ff1d6b31a6",
+     "title": "TRA: Báo cáo kết quả đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu"
+    },
+    {
+     "ref": "hose:035d1b2cde",
+     "title": "HHV: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:4a2d40b8b8",
+     "title": "MIG: Nghị quyết HĐQT và Thông báo trả cổ tức bằng tiền cho năm tài chính 2025"
+    },
+    {
+     "ref": "hose:250c54feb0",
+     "title": "NHA: Nhận được công văn của UBCKNN về tài liệu báo cáo kết quả phát hành CP để trả cổ tức"
+    },
+    {
+     "ref": "hose:0d54fb3232",
+     "title": "REE: Thông báo phát hành CP theo chương trình lựa chọn cho NLĐ"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1014036",
+   "title": "Chi tiêu hộ gia đình Nhật Bản giảm sốc 3,3% so với cùng kỳ (dự báo tăng 0,9%), giảm 6,4% so với tháng trước",
+   "translated": true,
+   "original_title": "JAPANESE ALL HOUSEHOLD SPENDING YOY ACTUAL -3.3% (FORECAST 0.9%, PREVIOUS -0.4%) $MACRO ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105593",
+   "title": "Giới phân tích dự báo RBA giữ nguyên lãi suất 4,35% trong cuộc họp thứ Ba",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Điểm tin RBA: Giới phân tích dự báo giữ nguyên lãi suất 4.35% vào thứ Ba Chi tiết xem tại: https://dubaotiente.net/tieu-diem/diem-tin-rba-gioi-phan-tich-du-bao-giu-nguyen-lai-suat-4-35-thu-ba-110924.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1014034",
+   "title": "Tòa án bang New Mexico (Mỹ) buộc Meta bồi thường 375 triệu USD tiền phạt và lập quỹ 567 triệu USD do sản phẩm gây khủng hoảng sức khỏe tâm thần trẻ vị thành niên",
+   "translated": true,
+   "original_title": "NEW MEXICO JURY ORDERS META TO PAY $375 MILLION IN PENALTIES, PLUS $567 MILLION COURT-ORDERED FUND ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:395774",
+   "title": "Căng thẳng địa chính trị đè nặng chứng khoán châu Á, giá dầu tăng cao làm dấy lên lo ngại lạm phát",
+   "translated": false,
+   "original_title": "▫️ Căng thẳng địa chính trị đè nặng lên chứng khoán châu Á, giá dầu tăng cao làm dấy lên lo ngại về lạm phát Thị trường chứng khoán châu Á dự kiến sẽ mở cửa giảm nhẹ vào thứ Sáu do căng thẳng địa chính trị gia tăng, ảnh hưởng tiêu cực đến cả thị trường chứng khoán và trái phiếu Mỹ. Giá dầu tăng mạnh, làm dấy lên lo ngại về lạm phát trước khi báo cáo việc làm quan trọng của Mỹ được công bố. Sự chú ",
+   "link": null
+  },
+  {
+   "ref": "reuters:9532fa1cfd",
+   "title": "Ngân hàng UOB (Singapore) báo lãi ròng quý 2 tăng 10% so với cùng kỳ",
+   "translated": true,
+   "original_title": "Singapore bank UOB second-quarter net profit rises 10% on year",
+   "link": "https://www.reuters.com/world/asia-pacific/singapore-bank-uob-second-quarter-net-profit-rises-10-year-2026-08-06/"
+  },
+  {
+   "ref": "reuters:8341c795a8",
+   "title": "OCBC (Singapore) nâng dự báo tăng trưởng tín dụng 2026, lãi ròng quý 2 tăng 22% lên mức kỷ lục",
+   "translated": true,
+   "original_title": "Singapore's OCBC raises 2026 loan growth outlook, Q2 profit jumps 22% to quarterly record",
+   "link": "https://www.reuters.com/world/asia-pacific/singapore-bank-ocbc-second-quarter-net-profit-jumps-22-on-year-record-2026-08-06/"
+  },
+  {
+   "ref": "reuters:e96e08cfa2",
+   "title": "Thống đốc Fed Musalem: Lẽ ra nên tăng lãi suất tại cuộc họp gần nhất",
+   "translated": true,
+   "original_title": "Fed's Musalem says central bank should have hiked rates at last meeting",
+   "link": "https://www.reuters.com/world/feds-musalem-argues-against-easy-policy-just-bolster-productivity-2026-08-06/"
+  },
+  {
+   "ref": "reuters:0afe0de3c6",
+   "title": "Nhật Bản cân nhắc nới lỏng quy định đầu tư cho quỹ hưu trí GPIF sau kết quả quý 1",
+   "translated": true,
+   "original_title": "Japan weighs greater investment flexibility for GPIF as fund reports Q1 results",
+   "link": "https://www.reuters.com/world/asia-pacific/japan-weighs-greater-investment-flexibility-gpif-fund-reports-q1-results-2026-08-06/"
+  },
+  {
+   "ref": "reuters:8910236ec0",
+   "title": "Ông Trump công bố loạt biện pháp thương mại nhằm cạnh tranh với Trung Quốc trong lĩnh vực pin mặt trời và chip bán dẫn",
+   "translated": true,
+   "original_title": "Trump unveils trade actions to compete with China on solar and chips",
+   "link": "https://www.reuters.com/world/asia-pacific/trump-signs-executive-order-protect-us-polysilicon-industry-2026-08-06/"
+  },
+  {
+   "ref": "reuters:27b42cc2e5",
+   "title": "Petrobras báo lợi nhuận ròng quý 2 tăng gần gấp đôi",
+   "translated": true,
+   "original_title": "Petrobras' net profit nearly doubles in the second quarter",
+   "link": "https://www.reuters.com/business/energy/petrobras-net-profit-nearly-doubles-second-quarter-2026-08-06/"
+  },
+  {
+   "ref": "bloomberg:5975781295",
+   "title": "Ngân hàng Trung Quốc mở rộng thanh toán trực tiếp nhằm thúc đẩy vai trò toàn cầu của đồng nhân dân tệ",
+   "translated": true,
+   "original_title": "Chinese Banks Expand Direct Settlement to Aid Yuan’s Global Role",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-06/chinese-banks-expand-direct-settlement-to-aid-yuan-s-global-role"
+  },
+  {
+   "ref": "bloomberg:d11ce14e81",
+   "title": "Nhật Bản chứng kiến làn sóng tìm 'lá chắn' điều khoản trái phiếu khi phát hành trái phiếu hạng BBB tăng mạnh",
+   "translated": true,
+   "original_title": "Japan Sees Rush for Covenant Shelter as BBB-Rated Bond Sales Fly",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-06/japan-sees-rush-for-covenant-shelter-as-bbb-rated-bond-sales-fly"
+  },
+  {
+   "ref": "reuters:2a7a00d686",
+   "title": "Airbnb vượt dự báo doanh thu nhờ nhu cầu du lịch toàn cầu và hiệu ứng World Cup",
+   "translated": true,
+   "original_title": "Airbnb tops revenue estimates on global travel demand, World Cup boost",
+   "link": "https://www.reuters.com/business/airbnb-posts-higher-quarterly-revenue-global-travel-demand-world-cup-boost-2026-08-06/"
+  },
+  {
+   "ref": "reuters:32b5995500",
+   "title": "Instacart báo hiệu quý kinh doanh khởi sắc, dự báo vượt ước tính nhờ nhu cầu giao hàng mạnh",
+   "translated": true,
+   "original_title": "Instacart signals strong quarter with forecasts above estimates on robust delivery demand",
+   "link": "https://www.reuters.com/business/retail-consumer/instacart-forecasts-key-quarterly-metrics-above-estimates-demand-strengthens-2026-08-06/"
+  },
+  {
+   "ref": "reuters:cec4a650f6",
+   "title": "Microchip Technology dự báo doanh thu quý tới khả quan nhờ nhu cầu bán dẫn mạnh",
+   "translated": true,
+   "original_title": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
+   "link": "https://www.reuters.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-2026-08-06/"
+  },
+  {
+   "ref": "tg-marketfeed:1014024",
+   "title": "Vàng giảm giá, cắt đứt chuỗi tăng 3 phiên, khi giá dầu tăng vọt làm dấy lên lo ngại lạm phát và căng thẳng Trung Đông leo thang; phe Houthi tuyên bố tấn công quy mô lớn",
+   "translated": true,
+   "original_title": "GOLD EDGED LOWER, SNAPPING A THREE-DAY ADVANCE, AS A RENEWED SURGE IN OIL PRICES FUELED INFLATION CONCERNS AND CLOUDED THE OUTLOOK FOR THE FED'S RATE PATH, WITH BULLION FALLING AS MUCH AS 0.5% AS OIL PRICES AND BOND YIELDS PUSHED HIGHER ON ESCALATING MIDDLE EAST TENSIONS AND A LACK OF CLARITY ON A DEAL TO REOPEN THE STRAIT OF HORMUZ, STOKING SPECULATION THE FED MAY NEED TO RAISE RATES. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:0fbe39fc2a",
+   "title": "Cloudflare nâng dự báo cả năm vượt ước tính thị trường nhờ nhu cầu AI",
+   "translated": true,
+   "original_title": "Cloudflare raises annual outlook above market estimates on AI-driven demand",
+   "link": "https://www.reuters.com/business/cloudflare-raises-annual-outlook-above-market-estimates-ai-driven-demand-2026-08-06/"
+  },
+  {
+   "ref": "reuters:6ddb28a93c",
+   "title": "Các bộ trưởng khu vực Thái Bình Dương tranh luận về tuyên bố liên quan tên lửa Trung Quốc",
+   "translated": true,
+   "original_title": "Pacific ministers to debate China missile statement",
+   "link": "https://www.reuters.com/world/china/pacific-ministers-debate-china-missile-statement-2026-08-06/"
+  },
+  {
+   "ref": "bloomberg:464d0cc9c4",
+   "title": "Cổ phiếu vốn hóa nhỏ Nhật Bản đối mặt cuộc đua sống còn khi làn sóng loại khỏi chỉ số Topix cận kề",
+   "translated": true,
+   "original_title": "Japan Small Caps Face Survival Race as Topix Cull Looms",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-06/japan-small-caps-face-survival-race-as-topix-cull-looms"
+  },
+  {
+   "ref": "reuters:4020eff234",
+   "title": "Akamai vượt ước tính lợi nhuận quý nhờ nhu cầu hạ tầng điện toán đám mây",
+   "translated": true,
+   "original_title": "Akamai beats quarterly estimates on cloud infrastructure demand",
+   "link": "https://www.reuters.com/technology/akamai-beats-quarterly-estimates-cloud-infrastructure-demand-2026-08-06/"
+  },
+  {
+   "ref": "reuters:d66c0489e8",
+   "title": "Lyft ghi nhận lượng đặt xe kỷ lục nhưng lợi nhuận thấp hơn dự báo do khuyến mãi tăng",
+   "translated": true,
+   "original_title": "Lyft posts record bookings, but higher promotions fuel profit miss",
+   "link": "https://www.reuters.com/business/autos-transportation/lyft-signals-steady-demand-second-quarter-revenue-tops-estimates-2026-08-06/"
+  },
+  {
+   "ref": "tg-vnwallstreet:395773",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust tăng nắm giữ thêm 0,571 tấn, nâng tổng khối lượng lên 1.014,719 tấn",
+   "translated": false,
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới - SPDR Gold Trust đã tăng 0,571 tấn so với phiên giao dịch trước, hiện có tổng khối lượng nắm giữ là 1.014,719 tấn. #vàng",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:3c64327ffe",
+   "title": "Lo ngại an ninh mạng sau các thử nghiệm AI của OpenAI và Anthropic",
+   "translated": false,
+   "original_title": "Lo ngại an ninh mạng sau các thử nghiệm AI của OpenAI và Anthropic",
+   "link": "https://bbw.vn/lo-ngai-an-ninh-mang-sau-cac-thu-nghiem-ai-cua-openai-va-anthropic-59619.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:81a2abdfa1",
+   "title": "CEO Uber: Chưa thấy người tiêu dùng thắt chặt chi tiêu",
+   "translated": false,
+   "original_title": "CEO Uber: Chưa thấy người tiêu dùng thắt chặt chi tiêu",
+   "link": "https://bbw.vn/ceo-uber-chua-thay-nguoi-tieu-dung-that-chat-chi-tieu-59618.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:59238ee206",
+   "title": "Đồng yen suy yếu thúc đẩy người Nhật đổ tiền vào trang sức",
+   "translated": false,
+   "original_title": "Đồng yen suy yếu thúc đẩy người Nhật đổ tiền vào trang sức",
+   "link": "https://bbw.vn/dong-yen-suy-yeu-thuc-day-nguoi-nhat-do-tien-vao-trang-suc-59617.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:36e8817ec8",
+   "title": "J&J gia nhập cuộc đua robot phẫu thuật với Ottava",
+   "translated": false,
+   "original_title": "J&J gia nhập cuộc đua robot phẫu thuật với Ottava",
+   "link": "https://bbw.vn/jj-gia-nhap-cuoc-dua-robot-phau-thuat-voi-ottava-59581.html"
+  },
+  {
+   "ref": "vneconomy:e0643cc147",
+   "title": "Iran và Oman đạt thỏa thuận về eo biển Hormuz",
+   "translated": false,
+   "original_title": "Iran và Oman đạt thỏa thuận về eo biển Hormuz",
+   "link": "https://vneconomy.vn/iran-va-oman-dat-thoa-thuan-ve-eo-bien-hormuz.htm"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:037db8974e",
+   "title": "Mỹ hoàn trả 100 tỷ USD tiền thuế quan sau phán quyết của Tòa án Tối cao",
+   "translated": false,
+   "original_title": "Mỹ hoàn trả 100 tỷ USD tiền thuế quan sau phán quyết của Tòa án Tối cao - tinnhanhchungkhoan.vn",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmhwNDM4SkUtcTNWRjYtZng1NzlGSHlkUHF2eWJoYi00eFVrMUFUZU96V015eGVBWm12WjFPQXYwQV9pQnVUdHBLazVQakdaQkdXZ2EyTS1WVC1EcFpjSmtRdXNVNVh1cWYzQmQxNnRIeGkzVjBOdncteWZOQjBjUk5Oc2J1VkZfdHVhMy1jN2l3Q2ZYRmduWVNIeWttR19maXJyZlNwalhncXdoM2RhWmFHUmt4TXotckdmanJ30gG6AUFVX3lxTFBzZlRMVHlMWjMxNUEtRDczVlY1VDdZQWdYU2xUdm94WFZUX1JpLThmRGZ0aVRVa0FGZkdhQWM1S1U4cF9CUUVELWtLM2tGY3phU2NlRUxKcjdQbkhHVExIUUVDVVN4eXRIN0FzdVBlNnd0emlFSWtzWHhnNkd3LWFpTFVpTUlMRTlnM3pPc2gzWFNjMUJlYkZXOWs5YmFRUDJ4czdZOVQ0cjBubjVua2NNRUxXWmp6ZzB2UQ?oc=5"
+  }
+ ],
+ "content_sha": "a80baa86605e4bbcd63f4114d533e47a92f20e5297d7cbfcf6138e445751f575"
+}
