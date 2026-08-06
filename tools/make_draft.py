@@ -23,6 +23,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCE_ORDER = ["CafeF", "Vietstock", "VnEconomy", "Tin nhanh Chứng khoán", "Báo Đầu tư",
                 "MarketTimes", "VnBusiness", "Tiền Phong", "Thời báo Ngân hàng",
                 "BNEWS", "HOSE"]
+# Thứ tự THẮNG khi trùng tin thế giới: nguồn chính chủ có permalink đứng trước
+# nguồn tiếp sóng (marketfeed vốn tiếp sóng headline Bloomberg).
+WORLD_ORDER = ["Bloomberg", "Reuters", "Market News Feed", "VN Wall Street", "Dubaotiente"]
 LEGAL_EXTRA = ["VnExpress", "Báo Thanh tra", "Google News Pháp lý"]
 TILE_ORDER = ["S&P 500", "Dow Jones", "Nasdaq", "Dầu WTI", "Dầu Brent",
               "Vàng thế giới", "Bitcoin", "DXY"]
@@ -138,8 +141,17 @@ def main():
             vn_pool.setdefault(item["source"], []).append(entry)
 
     flags = []
+    # Khử trùng thế giới với ưu tiên nguồn: xếp (nguồn chính chủ trước, mới trước)
+    # để bản Bloomberg/Reuters thắng bản tiếp sóng khi cùng một tin; hiển thị
+    # cuối cùng vẫn mới → cũ.
+    def world_rank(entry):
+        src = entry["_source"]
+        return WORLD_ORDER.index(src) if src in WORLD_ORDER else len(WORLD_ORDER)
+
     world.sort(key=lambda e: e["_at"], reverse=True)
+    world.sort(key=world_rank)
     world = dedup(world, [], flags, "thế giới")
+    world.sort(key=lambda e: e["_at"], reverse=True)
 
     # Khử trùng chéo: pháp lý xét trước (tin pháp lý phải nằm ở phần IV),
     # sau đó tới tin trong nước, ưu tiên báo đứng trước trong SOURCE_ORDER.
@@ -204,6 +216,8 @@ def main():
             "Giữ nguyên 'ref' của tin nào chọn — KHÔNG tự tạo ref, KHÔNG tự viết URL.",
             "Xoá các khoá bắt đầu bằng '_' (_source/_at/_url) trong bản cuối.",
             "world: giữ tối đa 30 tin nóng nhất, dịch tiêu đề sang tiếng Việt, đặt translated=true.",
+            "world hạn mức mềm sau khử trùng: Bloomberg ~5 + Reuters ~5 + Market News Feed ~8-10 + VNWS ~5-8 + DBT ~5-8; ngày đặc biệt được vượt.",
+            "world: nguồn Bloomberg/Reuters sẽ TỰ ĐỘNG có link bài gốc khi render; kênh Telegram không link — bạn không phải làm gì về link.",
             "vietnam: xoá tin PR/vụn, ưu tiên doanh nghiệp lớn, bỏ khối báo không còn tin.",
             "legal: giữ tối đa 10 tin, ưu tiên doanh nghiệp lớn và vụ án lớn.",
             "Khử trùng: một sự kiện chỉ giữ ở báo đứng trước trong thứ tự, xoá ở báo sau.",
