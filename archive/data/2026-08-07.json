@@ -653,5 +653,44 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmhwNDM4SkUtcTNWRjYtZng1NzlGSHlkUHF2eWJoYi00eFVrMUFUZU96V015eGVBWm12WjFPQXYwQV9pQnVUdHBLazVQakdaQkdXZ2EyTS1WVC1EcFpjSmtRdXNVNVh1cWYzQmQxNnRIeGkzVjBOdncteWZOQjBjUk5Oc2J1VkZfdHVhMy1jN2l3Q2ZYRmduWVNIeWttR19maXJyZlNwalhncXdoM2RhWmFHUmt4TXotckdmanJ30gG6AUFVX3lxTFBzZlRMVHlMWjMxNUEtRDczVlY1VDdZQWdYU2xUdm94WFZUX1JpLThmRGZ0aVRVa0FGZkdhQWM1S1U4cF9CUUVELWtLM2tGY3phU2NlRUxKcjdQbkhHVExIUUVDVVN4eXRIN0FzdVBlNnd0emlFSWtzWHhnNkd3LWFpTFVpTUlMRTlnM3pPc2gzWFNjMUJlYkZXOWs5YmFRUDJ4czdZOVQ0cjBubjVua2NNRUxXWmp6ZzB2UQ?oc=5"
   }
  ],
- "content_sha": "a80baa86605e4bbcd63f4114d533e47a92f20e5297d7cbfcf6138e445751f575"
+ "content_sha": "a80baa86605e4bbcd63f4114d533e47a92f20e5297d7cbfcf6138e445751f575",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "942e41218be5aa7fafb845ac7d1ad4ea8987a7e1",
+   "published_at": "2026-08-07T06:46:24+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "216",
+   "sent_at": "2026-08-07T06:46:26+07:00",
+   "content_sha": "a80baa86605e4bbcd63f4114d533e47a92f20e5297d7cbfcf6138e445751f575",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "216",
+     "sent_at": "2026-08-07T06:46:26+07:00",
+     "content_sha": "a80baa86605e4bbcd63f4114d533e47a92f20e5297d7cbfcf6138e445751f575"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "ef9aa03099de13874ac8",
+   "sent_at": "2026-08-07T06:46:28+07:00",
+   "content_sha": "a80baa86605e4bbcd63f4114d533e47a92f20e5297d7cbfcf6138e445751f575",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "ef9aa03099de13874ac8",
+     "sent_at": "2026-08-07T06:46:28+07:00",
+     "content_sha": "a80baa86605e4bbcd63f4114d533e47a92f20e5297d7cbfcf6138e445751f575"
+    }
+   ]
+  }
+ }
 }
