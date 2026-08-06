@@ -21,8 +21,8 @@ VN = timezone(timedelta(hours=7))
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SOURCE_ORDER = ["CafeF", "Vietstock", "VnEconomy", "Tin nhanh Chứng khoán", "Báo Đầu tư",
-                "MarketTimes", "VnBusiness", "Tiền Phong", "Thời báo Ngân hàng",
-                "BNEWS", "HOSE"]
+                "MarketTimes", "Bloomberg Businessweek VN", "VnBusiness", "Tiền Phong",
+                "Thời báo Ngân hàng", "BNEWS", "HOSE"]
 # Thứ tự THẮNG khi trùng tin thế giới: nguồn chính chủ có permalink đứng trước
 # nguồn tiếp sóng (marketfeed vốn tiếp sóng headline Bloomberg).
 WORLD_ORDER = ["Bloomberg", "Reuters", "Market News Feed", "VN Wall Street", "Dubaotiente"]
@@ -218,6 +218,8 @@ def main():
             "world: giữ tối đa 30 tin nóng nhất, dịch tiêu đề sang tiếng Việt, đặt translated=true.",
             "world hạn mức mềm sau khử trùng: Bloomberg ~5 + Reuters ~5 + Market News Feed ~8-10 + VNWS ~5-8 + DBT ~5-8; ngày đặc biệt được vượt.",
             "world: nguồn Bloomberg/Reuters sẽ TỰ ĐỘNG có link bài gốc khi render; kênh Telegram không link — bạn không phải làm gì về link.",
+            "Bloomberg Businessweek VN (khối báo Việt Nam): tiêu đề ĐÃ là tiếng Việt (bản dịch có bản quyền). Bài phân tích thị trường/kinh tế VN giữ ở khối báo này; bài dịch Bloomberg về thế giới (không dính thị trường VN) CHUYỂN ref sang world (translated=false, giữ nguyên tiêu đề) — link bbw.vn tự gắn.",
+            "CẢNH GIÁC trùng khác ngôn ngữ: máy KHÔNG bắt được trùng giữa tin Bloomberg tiếng Anh và bản dịch bbw.vn tiếng Việt — cùng sự kiện thì ưu tiên giữ bản bbw.vn (độc giả đọc được tiếng Việt), bỏ bản tiếng Anh.",
             "vietnam: xoá tin PR/vụn, ưu tiên doanh nghiệp lớn, bỏ khối báo không còn tin.",
             "legal: giữ tối đa 10 tin, ưu tiên doanh nghiệp lớn và vụ án lớn.",
             "Khử trùng: một sự kiện chỉ giữ ở báo đứng trước trong thứ tự, xoá ở báo sau.",
