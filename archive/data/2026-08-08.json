@@ -577,5 +577,44 @@
    "link": "https://bbw.vn/lo-ngai-an-ninh-mang-sau-cac-thu-nghiem-ai-cua-openai-va-anthropic-59619.html"
   }
  ],
- "content_sha": "fa2be2b695a6672c34d681dd10ace85e4645803d72e2122060fc202dc2617283"
+ "content_sha": "fa2be2b695a6672c34d681dd10ace85e4645803d72e2122060fc202dc2617283",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "16fce1f45c3fcc4b2595e434cdf388dc2dd2db5a",
+   "published_at": "2026-08-08T06:53:48+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "217",
+   "sent_at": "2026-08-08T06:53:49+07:00",
+   "content_sha": "fa2be2b695a6672c34d681dd10ace85e4645803d72e2122060fc202dc2617283",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "217",
+     "sent_at": "2026-08-08T06:53:49+07:00",
+     "content_sha": "fa2be2b695a6672c34d681dd10ace85e4645803d72e2122060fc202dc2617283"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "8e27154b7682fbdba294",
+   "sent_at": "2026-08-08T06:53:51+07:00",
+   "content_sha": "fa2be2b695a6672c34d681dd10ace85e4645803d72e2122060fc202dc2617283",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "8e27154b7682fbdba294",
+     "sent_at": "2026-08-08T06:53:51+07:00",
+     "content_sha": "fa2be2b695a6672c34d681dd10ace85e4645803d72e2122060fc202dc2617283"
+    }
+   ]
+  }
+ }
 }
