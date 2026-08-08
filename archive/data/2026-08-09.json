@@ -1,0 +1,171 @@
+{
+ "date": "2026-08-09",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "CPI Mỹ dự báo hạ nhiệt, thị trường kỳ vọng Fed sớm giảm lãi suất"
+  },
+  {
+   "source": "Reuters",
+   "text": "Căng thẳng eo biển Hormuz leo thang: Iran nói thỏa thuận sắp đạt nhưng chưa đủ mở lại tuyến hàng hải, dầu và vàng thế giới bật tăng mạnh"
+  },
+  {
+   "source": "NYT/Market News Feed",
+   "text": "NYT: Kho vũ khí Mỹ cạn kiệt vì chiến tranh với Iran, phải rút bớt khí tài dành cho châu Á - châu Âu"
+  },
+  {
+   "source": "Reuters",
+   "text": "Thượng viện Mỹ thông qua bước tiến cho dự luật tiền số trước kỳ nghỉ tháng 8"
+  },
+  {
+   "source": "FiinQuant",
+   "text": "VN-Index đóng cửa phiên 7/8 tăng nhẹ lên 1.768,06 điểm, thanh khoản HOSE ~14.540 tỷ đồng"
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+3,28 (+0,19%)",
+    "direction": "up",
+    "label": "VN-Index (7/8)",
+    "value": "1.768,06 điểm"
+   },
+   {
+    "change": "+0,80 (+0,27%)",
+    "direction": "up",
+    "label": "HNX-Index (7/8)",
+    "value": "293,44 điểm"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Thanh khoản HOSE (7/8)",
+    "value": "~14.540 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (7/8)",
+    "value": "Bán ròng ~76 tỷ đồng"
+   },
+   {
+    "change": "Đi ngang so với phiên trước",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "141,0 - 144,0 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 26.030 · Bán 26.410"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ tăng điểm cuối tuần với cả ba chỉ số cùng đi lên, Nasdaq dẫn đầu đà tăng nhờ nhóm công nghệ; giá dầu và vàng thế giới bật mạnh khi căng thẳng quân sự quanh eo biển Hormuz tiếp tục đẩy phí bảo hiểm rủi ro lên cao. Đồng USD suy yếu nhẹ trong khi Bitcoin gần như đi ngang. Trong nước, VN-Index đóng cửa phiên 7/8 tăng nhẹ lên 1.768,06 điểm, HNX-Index cũng tăng, thanh khoản HOSE đạt khoảng 14.540 tỷ đồng và khối ngoại bán ròng nhẹ. Giá vàng SJC và tỷ giá USD/VND tại Vietcombank giữ ổn định cuối tuần.",
+  "tiles": [
+   {
+    "change_pct": 0.62,
+    "label": "S&P 500",
+    "value": "7.757,6"
+   },
+   {
+    "change_pct": 0.28,
+    "label": "Dow Jones",
+    "value": "54.036,9"
+   },
+   {
+    "change_pct": 1.3,
+    "label": "Nasdaq",
+    "value": "26.690,6"
+   },
+   {
+    "change_pct": 1.15,
+    "label": "Dầu WTI",
+    "value": "78,2 USD"
+   },
+   {
+    "change_pct": 1.29,
+    "label": "Dầu Brent",
+    "value": "83,5 USD"
+   },
+   {
+    "change_pct": 3.72,
+    "label": "Vàng thế giới",
+    "value": "4.400 USD"
+   },
+   {
+    "change_pct": 0.02,
+    "label": "Bitcoin",
+    "value": "64.896 USD"
+   },
+   {
+    "change_pct": -0.37,
+    "label": "DXY",
+    "value": "99,60"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "bloomberg:9828e1930c",
+   "title": "CPI Mỹ được dự báo hạ nhiệt, củng cố kỳ vọng Fed sớm giảm lãi suất",
+   "translated": true,
+   "original_title": "US CPI to Show Inflationary Pressures Cooling Some",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-08/us-cpi-to-show-inflationary-pressures-cooling-some"
+  },
+  {
+   "ref": "reuters:f36ec99847",
+   "title": "Iran: Thỏa thuận về eo biển Hormuz sắp đạt được nhưng chưa đủ để tự mở lại tuyến hàng hải",
+   "translated": true,
+   "original_title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+   "link": "https://www.reuters.com/world/middle-east/iran-says-deal-strait-hormuz-is-close-will-not-open-waterway-by-itself-2026-08-08/"
+  },
+  {
+   "ref": "tg-marketfeed:1015089",
+   "title": "CENTCOM: Mỹ đã chuyển hướng 53 tàu thương mại, vô hiệu hóa 2 tàu khi siết phong tỏa quanh Iran, cho hơn 30 tàu nhân đạo đi qua",
+   "translated": true,
+   "original_title": "CENTCOM: AS OF AUG. 8, CENTCOM REDIRECTED 53 COMMERCIAL VESSELS, DISABLED 2, AND BOARDED 2. THE U.S. MILITARY HAS ALSO PERMITTED MORE THAN 30 SHIPS TO PASS THROUGH THE BLOCKADE FOR HUMANITARIAN AID. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1015078",
+   "title": "NYT: Kho vũ khí Mỹ cạn kiệt nghiêm trọng vì chiến tranh với Iran, phải rút bớt khí tài dành cho châu Á và châu Âu",
+   "translated": true,
+   "original_title": "NYT ON US OFFICIALS: WITHDRAWAL OF MUNITIONS EARMARKED FOR ASIA AND EUROPE AMID ALARMING DEPLETION OF STOCKPILES DUE TO THE IRAN WAR ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1015079",
+   "title": "NYT: Ông Trump quyết định phát động chiến tranh kỳ vọng kết thúc nhanh, bất chấp cảnh báo của Chủ tịch Hội đồng Tham mưu trưởng liên quân Mỹ về nguy cơ thiếu đạn dược",
+   "translated": true,
+   "original_title": "NYT ON OFFICIALS: TRUMP DECIDED TO WAGE WAR EXPECTING A SWIFT END TO IT DESPITE WARNINGS FROM THE CHAIRMAN OF THE JOINT CHIEFS OF STAFF REGARDING AMMUNITION ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:74705eb5e7",
+   "title": "Thượng viện Mỹ thông qua bước tiến quan trọng cho dự luật tiền số trước kỳ nghỉ tháng 8",
+   "translated": true,
+   "original_title": "US Senate advances landmark crypto bill before heading on August recess",
+   "link": "https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/"
+  },
+  {
+   "ref": "reuters:504c4da431",
+   "title": "Hiệp ước quốc phòng Thổ Nhĩ Kỳ - Pakistan - Saudi Arabia được ví như điều khoản phòng thủ chung của NATO",
+   "translated": true,
+   "original_title": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says",
+   "link": "https://www.reuters.com/world/asia-pacific/turkey-pakistan-saudi-arabia-defence-pact-technically-same-natos-article-5-2026-08-08/"
+  },
+  {
+   "ref": "reuters:406073adae",
+   "title": "Thổ Nhĩ Kỳ đề xuất Nga và Ukraine ngừng tấn công trên Biển Đen",
+   "translated": true,
+   "original_title": "Turquia sugere que Rússia e Ucrânia suspendam ataques no Mar Negro, diz ministro",
+   "link": "https://www.reuters.com/pt/mundo/OFBAI54O3BJEDH3DNUMV2MCJDE-2026-08-08/"
+  }
+ ],
+ "content_sha": "3f2670fe23dc9f93a2f3749d9fd829289d85c1acefa8ea2be6e0295d7510b5ad"
+}
