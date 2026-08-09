@@ -589,5 +589,68 @@
    "link": "https://www.reuters.com/business/environment/german-shippers-warn-rhine-could-be-split-two-by-low-water-2026-08-09/"
   }
  ],
- "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192"
+ "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "d03e2b235bd2b21469793290e8bbc7250bf620a9",
+   "published_at": "2026-08-10T06:45:42+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "220",
+   "sent_at": "2026-08-10T06:45:43+07:00",
+   "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "220",
+     "sent_at": "2026-08-10T06:45:43+07:00",
+     "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "2150fa565cefd0b689f9",
+   "sent_at": "2026-08-10T06:45:44+07:00",
+   "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "2150fa565cefd0b689f9",
+     "sent_at": "2026-08-10T06:45:44+07:00",
+     "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "714688702ec9a290fbdf",
+     "sent_at": "2026-08-10T06:45:45+07:00",
+     "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "651a1eb7b80e34576d18",
+     "sent_at": "2026-08-10T06:45:46+07:00",
+     "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "5d1745e1e3586f01364e",
+     "sent_at": "2026-08-10T06:45:48+07:00",
+     "content_sha": "348783dd641c059c6cc9a1cd2e0da4794272eb3c2cfbfbffbe45da0a76d1d192"
+    }
+   ]
+  }
+ }
 }
