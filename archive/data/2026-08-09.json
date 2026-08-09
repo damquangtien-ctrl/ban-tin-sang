@@ -171,8 +171,8 @@
  "delivery": {
   "publish": {
    "ok": true,
-   "commit": "7425f6cd00f1352ef4326e275002e5d8fc1d632f",
-   "published_at": "2026-08-09T06:40:10+07:00"
+   "commit": "280c7b8445bd6622a1ad800f981b8b04da25af84",
+   "published_at": "2026-08-09T12:07:53+07:00"
   },
   "telegram": {
    "ok": true,
@@ -202,6 +202,30 @@
      "ok": true,
      "message_id": "fcf951c18cce009759d8",
      "sent_at": "2026-08-09T06:40:13+07:00",
+     "content_sha": "3f2670fe23dc9f93a2f3749d9fd829289d85c1acefa8ea2be6e0295d7510b5ad"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "a376449176adfaf4a3bb",
+     "sent_at": "2026-08-09T12:07:58+07:00",
+     "content_sha": "3f2670fe23dc9f93a2f3749d9fd829289d85c1acefa8ea2be6e0295d7510b5ad"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "4af0cef3fbcf77962ed9",
+     "sent_at": "2026-08-09T12:07:59+07:00",
+     "content_sha": "3f2670fe23dc9f93a2f3749d9fd829289d85c1acefa8ea2be6e0295d7510b5ad"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "10b471dd44e1c8b891f7",
+     "sent_at": "2026-08-09T12:08:00+07:00",
      "content_sha": "3f2670fe23dc9f93a2f3749d9fd829289d85c1acefa8ea2be6e0295d7510b5ad"
     }
    ]
