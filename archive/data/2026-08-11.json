@@ -1,0 +1,620 @@
+{
+ "date": "2026-08-11",
+ "dividends": [
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 100%",
+   "record_date": "2026-08-11",
+   "ref": "cafef:ac28c4fa4c",
+   "ticker": "FOC"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 20%",
+   "record_date": "2026-08-11",
+   "ref": "cafef:ac28c4fa4c",
+   "ticker": "MCH"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 3%",
+   "record_date": "2026-08-12",
+   "ref": "cafef:ac28c4fa4c",
+   "ticker": "BSR"
+  },
+  {
+   "event": "Chia cổ tức bằng cổ phiếu tỷ lệ 100:15",
+   "record_date": "2026-08-12",
+   "ref": "cafef:ac28c4fa4c",
+   "ticker": "MBB"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 20%",
+   "record_date": "2026-08-12",
+   "ref": "cafef:ac28c4fa4c",
+   "ticker": "VGR"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Giá vàng thế giới vượt 4.400 USD/ounce, dầu WTI và Brent tăng vọt hơn 4% do lo ngại quanh eo biển Hormuz"
+  },
+  {
+   "source": "FiinQuant",
+   "text": "VN-Index tăng nhẹ 0,49% lên 1.776,77 điểm phiên 10/8, khối ngoại quay lại bán ròng gần 280 tỷ đồng"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Intel nhắm giá tối thiểu 95 USD/cổ phiếu trong đợt chào bán 20 tỷ USD, nhu cầu vượt 100 tỷ USD"
+  },
+  {
+   "source": "Vietstock",
+   "text": "NHNN chỉ đạo giảm tối thiểu 1% lãi suất cho vay với doanh nghiệp nhỏ và vừa"
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "BOJ đối mặt áp lực thị trường trái phiếu dưới thời Thủ tướng Takaichi, RBA dự kiến giữ nguyên lãi suất"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:5c0f4b4380",
+     "title": "Phạt ba doanh nghiệp 610 triệu đồng vì vi phạm công bố thông tin"
+    },
+    {
+     "ref": "vietstock:54a1f09ee0",
+     "title": "Tiếp tục vi phạm công bố thông tin, cổ phiếu HBS duy trì diện hạn chế giao dịch từ 12/08"
+    },
+    {
+     "ref": "vietstock:433fa4558c",
+     "title": "Bảo Tín Mạnh Hải, Mi Hồng và PNJ phản hồi kết luận Thanh tra Chính phủ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f00bb0eace",
+     "title": "COMA 18 (CIG) bị phạt 425 triệu đồng vì loạt vi phạm công bố thông tin - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:c654928e07",
+     "title": "Cựu thứ trưởng Nguyễn Bá Hoan nộp lại 15,8 tỷ đồng nhận hối lộ"
+    },
+    {
+     "ref": "vnexpress:5763d64d0a",
+     "title": "Chủ tịch tập đoàn Capel bị cáo buộc lừa 420 tỷ đồng của hàng nghìn người"
+    },
+    {
+     "ref": "vnexpress:472d284e0d",
+     "title": "Gần 9.000 người được triệu tập trong phiên tòa sếp GFDI lừa hơn 2.000 tỷ đồng"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+8,71 (+0,49%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.776,77"
+   },
+   {
+    "change": "-5,76 (-1,96%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "287,68"
+   },
+   {
+    "change": "KL 624,9 triệu cp",
+    "direction": "flat",
+    "label": "Thanh khoản HOSE",
+    "value": "15.599 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 279,9 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": "Mua CK 25.970",
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.350"
+   }
+  ],
+  "summary": "Phố Wall giảm nhẹ trong phiên qua đêm (S&P 500 -0,06%, Dow Jones -0,11%, Nasdaq -0,32%) khi giới đầu tư thận trọng trước lo ngại quanh eo biển Hormuz và triển vọng lạm phát, trong khi giá dầu bật tăng mạnh (WTI +4,94%, Brent +4,76%) và vàng vọt lên trên 4.400 USD/ounce (+2,62%). Trong nước, VN-Index đóng cửa phiên 10/8 tăng nhẹ 0,49% lên 1.776,77 điểm dù chịu áp lực từ nhóm cổ phiếu Vingroup, trong khi HNX-Index giảm 1,96% còn 287,68 điểm. Thanh khoản HOSE đạt khoảng 15.599 tỷ đồng, khối ngoại quay lại bán ròng gần 280 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.06,
+    "label": "S&P 500",
+    "value": "7.753,1"
+   },
+   {
+    "change_pct": -0.11,
+    "label": "Dow Jones",
+    "value": "53.976,0"
+   },
+   {
+    "change_pct": -0.32,
+    "label": "Nasdaq",
+    "value": "26.605,4"
+   },
+   {
+    "change_pct": 4.94,
+    "label": "Dầu WTI",
+    "value": "82,0 USD"
+   },
+   {
+    "change_pct": 4.76,
+    "label": "Dầu Brent",
+    "value": "87,5 USD"
+   },
+   {
+    "change_pct": 2.62,
+    "label": "Vàng thế giới",
+    "value": "4.455 USD"
+   },
+   {
+    "change_pct": -1.44,
+    "label": "Bitcoin",
+    "value": "63.910 USD"
+   },
+   {
+    "change_pct": 0.21,
+    "label": "DXY",
+    "value": "99,81"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:404a6b4f20",
+     "title": "Cơ cấu vốn tại doanh nghiệp Nhà nước tác động ra sao tới thị trường?"
+    },
+    {
+     "ref": "cafef:c3723c20c5",
+     "title": "Xuất hiện loạt tín hiệu tích cực cho thị trường chứng khoán"
+    },
+    {
+     "ref": "cafef:786e546d94",
+     "title": "Một quyết định mới đang kích hoạt \"sóng\" tăng mạnh ở loạt cổ phiếu"
+    },
+    {
+     "ref": "cafef:d074f183be",
+     "title": "Cổ phiếu của Chứng khoán Hòa Bình duy trì diện hạn chế giao dịch"
+    },
+    {
+     "ref": "cafef:9cca9619ed",
+     "title": "Lợi nhuận gần 7,8 tỷ đồng/ngày của Sở Giao dịch Chứng khoán đến từ đâu?"
+    },
+    {
+     "ref": "cafef:532507bc32",
+     "title": "'Doanh nghiệp đang rất thiếu vốn'"
+    },
+    {
+     "ref": "cafef:a973ba0ee6",
+     "title": "Cổ phiếu doanh nghiệp nhà nước 'đắt hàng'"
+    },
+    {
+     "ref": "cafef:ec28345310",
+     "title": "Vì sao chưa thể nhập khẩu vàng?"
+    },
+    {
+     "ref": "cafef:de2d0695af",
+     "title": "PC1 chuẩn bị chi 31,6% lượng tiền nắm giữ mua lại trái phiếu trước hạn"
+    },
+    {
+     "ref": "cafef:cb3e452986",
+     "title": "Hai cổ phiếu bất ngờ được tự doanh CTCK \"gom\" hàng trăm tỷ trong phiên đầu tuần"
+    },
+    {
+     "ref": "cafef:910b06294e",
+     "title": "FPT Telecom bổ nhiệm 4 Phó Tổng Giám đốc"
+    },
+    {
+     "ref": "cafef:561b7fb595",
+     "title": "Dự án tính thu hút 1,5 tỷ USD của Việt kiều Mỹ, 'đắp chiếu' 11 năm đã bị TP.HCM thu hồi đất"
+    },
+    {
+     "ref": "cafef:de5607da60",
+     "title": "Công ty của tỷ phú Nguyễn Đăng Quang hé lộ tham vọng với “mỏ vàng” vonfram: Tính xây nhà máy bột kim loại, làm cả tái chế"
+    },
+    {
+     "ref": "cafef:795db809f6",
+     "title": "Quang Hải trở thành cổ đông lớn của một doanh nghiệp vốn hóa nghìn tỷ"
+    },
+    {
+     "ref": "cafef:54cfd3f283",
+     "title": "Vốn hóa DMX vượt tập đoàn mẹ MWG"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:47d004e8de",
+     "title": "Cổ phiếu chứng khoán bị rút tiền mạnh"
+    },
+    {
+     "ref": "vietstock:ecc5d1e285",
+     "title": "Việt Nam quyết tâm gỡ “thẻ vàng” IUU trong năm 2026"
+    },
+    {
+     "ref": "vietstock:8c9f464087",
+     "title": "Xây dựng luật cho thị trường phái sinh hàng hóa"
+    },
+    {
+     "ref": "vietstock:d9d5a7c5b6",
+     "title": "Theo dấu dòng tiền cá mập 10/08: Khối ngoại, tự doanh ngược chiều giao dịch tại DMX"
+    },
+    {
+     "ref": "vietstock:4b1eed0960",
+     "title": "Thiên Long chuyển 49.49% vốn PNC về Evertrust"
+    },
+    {
+     "ref": "vietstock:0a606beb24",
+     "title": "Vietstock Daily 11/08/2026: Chưa hết giằng co?"
+    },
+    {
+     "ref": "vietstock:7c4a8e1b4c",
+     "title": "NHNN chỉ đạo giảm tối thiểu 1% lãi suất cho vay với doanh nghiệp nhỏ và vừa"
+    },
+    {
+     "ref": "vietstock:40e05887c5",
+     "title": "Đề xuất cơ chế đặc thù cho đô thị lấn biển từ 100 ngàn tỷ, nhà đầu tư được chuyển nhượng một phần dự án"
+    },
+    {
+     "ref": "vietstock:4b1938e4e1",
+     "title": "UBCKNN nhận được hồ sơ phát hành cổ phiếu để tăng vốn từ nguồn vốn chủ sở hữu của VietABank"
+    },
+    {
+     "ref": "vietstock:19e59c1f95",
+     "title": "Nhịp đập Thị trường 10/08: Cổ phiếu VIC và VHM kìm hãm đà phục hồi của VN-Index"
+    },
+    {
+     "ref": "vietstock:c23ea7439d",
+     "title": "Phó Thủ tướng: Ngân hàng không thể và cũng không nên là nguồn vốn duy nhất của nền kinh tế"
+    },
+    {
+     "ref": "vietstock:d8d9ca8df3",
+     "title": "Lãnh đạo và người thân tiếp tục gom cổ phiếu trong tuần đầu tháng 8"
+    },
+    {
+     "ref": "vietstock:6558b3c0e0",
+     "title": "Lợi nhuận lập đỉnh, cổ phiếu VPBank được giới phân tích đánh giá “hấp dẫn”"
+    },
+    {
+     "ref": "vietstock:477098a262",
+     "title": "Saigonres sắp phát hành 14 triệu cổ phiếu trả cổ tức"
+    },
+    {
+     "ref": "vietstock:7efe3059f5",
+     "title": "Thấy gì từ việc Moody's nâng xếp hạng tín nhiệm cho SeABank?"
+    },
+    {
+     "ref": "vietstock:038836bd49",
+     "title": "Ông Nguyễn Thái Huy muốn rút khỏi Janus Group, đăng ký bán toàn bộ gần 6.5 triệu cp"
+    },
+    {
+     "ref": "vietstock:4bd4e72dc5",
+     "title": "HPG, PVD và IDC có gì hấp dẫn?"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:4ba69b0186",
+     "title": "VN-Index sẽ chưa thể đột phá vùng 1750 - 1800 điểm"
+    },
+    {
+     "ref": "vneconomy:4b0f644fa7",
+     "title": "CEO JPMorgan Chase cảnh báo về mức độ sử dụng đòn bẩy lớn trên thị trường"
+    },
+    {
+     "ref": "vneconomy:f16034c2a8",
+     "title": "Khối ngoại lại \"quay xe\" bán ròng 446 tỷ đồng"
+    },
+    {
+     "ref": "vneconomy:743b7e4f1e",
+     "title": "6 tháng, VNX báo lãi sau thuế tăng 38% so với cùng kỳ"
+    },
+    {
+     "ref": "vneconomy:8d226d5969",
+     "title": "Trụ tiếp tục “chìm” sâu, cổ phiếu vẫn tăng bùng nổ"
+    },
+    {
+     "ref": "vneconomy:ba5b0ed373",
+     "title": "“Ôm” ba cổ phiếu giảm 22% trong tháng 7, “cá mập” Pyn Elite báo lỗ nặng"
+    },
+    {
+     "ref": "vneconomy:3f1db3925e",
+     "title": "Chuyên gia VinaCapital: Giai đoạn tâm lý yếu, thanh khoản thấp, định giá rẻ là cơ hội tốt để mua vào"
+    },
+    {
+     "ref": "vneconomy:b5db7df13e",
+     "title": "Có nên trông chờ vào dòng vốn P-Notes “ăn xổi”?"
+    },
+    {
+     "ref": "vneconomy:795aaa81fa",
+     "title": "Chứng khoán lao dốc, nhà đầu tư chán nản, tài khoản mở mới sụt về mức thấp nhất 5 tháng"
+    },
+    {
+     "ref": "vneconomy:9ff87863d4",
+     "title": "Giới siêu giàu Trung Quốc chấn động vì chiến dịch truy thu thuế"
+    },
+    {
+     "ref": "vneconomy:a0c7cc305d",
+     "title": "Vì sao khó tìm tuyến vận chuyển thay thế eo biển Hormuz?"
+    },
+    {
+     "ref": "vneconomy:a226901bfb",
+     "title": "Berkshire Hathaway thời hậu Buffett: Lợi nhuận ròng tăng gấp đôi, mua cổ phiếu mạnh tay"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:289eb59426",
+     "title": "Thuduc House (TDH) được gỡ bỏ lệnh ngăn chặn chuyển dịch, thế chấp tài sản - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ebf326900c",
+     "title": "Agribank triển khai chương trình tín dụng ưu đãi 70.000 tỷ đồng hướng đến các động lực tăng trưởng kinh tế - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e6c2dfc728",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 11/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ee12ca5767",
+     "title": "Nhận định thị trường phiên giao dịch ngày 11/8: Tập trung vào các doanh nghiệp đầu ngành - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:475e7a6406",
+     "title": "Cổ phiếu cần quan tâm ngày 11/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1de9811e04",
+     "title": "Bank- Chứng - Thép khởi sắc - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bd8cce0c9d",
+     "title": "TNH: Doanh thu tăng mạnh, lợi nhuận chưa theo kịp - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a2bd431e8e",
+     "title": "Nhà đầu tư ngoại bán ròng 275 tỷ đồng trong phiên 10/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2790ac738f",
+     "title": "Mỹ và Nhật Bản can thiệp hỗ trợ đồng yên, liệu vị thế của đồng đô la lung lay? - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:02cd8e1a9d",
+     "title": "Thị trường hàng hóa thế giới tuần từ 1-8/8: Vàng lên cao nhất 7 tuần, dầu thô giảm hơn 8% - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:556c92fa59",
+     "title": "NCB giảm 0,5% lãi suất cho vay trên mọi phân khúc, ưu tiên dòng vốn cho các động lực tăng trưởng kinh tế - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:8fb64a8bc7",
+     "title": "TP.HCM thu hồi hơn 51 ha đất “vàng” bỏ hoang của dự án Công viên Sài Gòn Silicon - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:0c73cd675d",
+     "title": "VINAFOR ký kết hợp đồng liên doanh ba bên, đẩy mạnh phát triển kinh tế xanh, kinh tế tuần hoàn - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:6fac9a7593",
+     "title": "Vietjet tiên phong kết nối Việt Nam với sân bay quốc tế mới nhất Australia, mở rộng động lực hợp tác hai nước - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:58bd3516b1",
+     "title": "Thủ tướng sắp làm việc với NHNN và các ngân hàng thương mại: Lãi suất sẽ hạ nhiệt? - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:d944331038",
+     "title": "Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+    },
+    {
+     "ref": "markettimes:81bf636261",
+     "title": "BIDV triển khai gói tín dụng ưu đãi 50.000 tỷ đồng cho khách hàng doanh nghiệp"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:879639ee2f",
+     "title": "Sẽ có Sở Giao dịch hàng hoá Đà Nẵng"
+    },
+    {
+     "ref": "ti-n-phong:c36e46e0d2",
+     "title": "Gần 3,9 triệu thẻ tín dụng ABBank bị đánh cắp thông tin"
+    },
+    {
+     "ref": "ti-n-phong:91c429b284",
+     "title": "Lãi suất huy động bất ngờ giảm"
+    },
+    {
+     "ref": "ti-n-phong:266efee909",
+     "title": "Vụ Grab bị phạt: Quyền dữ liệu của khách hàng bị xem nhẹ?"
+    },
+    {
+     "ref": "ti-n-phong:820ae4ab1a",
+     "title": "BSR xuất bán lô nhiên liệu Diesel sinh học B5 đầu tiên từ Nhà máy Lọc dầu Dung Quất"
+    },
+    {
+     "ref": "ti-n-phong:2aa828d587",
+     "title": "BSR phát hành Hồ sơ mời đề xuất tài trợ vốn dự án nâng cấp mở rộng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:6a3bf80246",
+     "title": "Thu hút vốn nước ngoài đầu tư phát triển hạ tầng điện - bnews.vn"
+    },
+    {
+     "ref": "bnews:67572dbade",
+     "title": "Chứng khoán hôm nay 10/8: Có 5 doanh nghiệp giao dịch cổ phiếu số lượng lớn - bnews.vn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:81f2ff9d08",
+     "title": "TDM: Báo cáo kết quả thực hiện quyền mua cổ phiếu của Người nội bộ Trần Thế Hưng"
+    },
+    {
+     "ref": "hose:57a39b89c4",
+     "title": "FIT: Nghị quyết HĐQT thông qua việc bảo lãnh doanh nghiệp của Công ty"
+    },
+    {
+     "ref": "hose:47f48b6998",
+     "title": "MHC: Nghị quyết HĐQT về việc nhận chuyển nhượng phần vốn góp tại doanh nghiệp khác"
+    },
+    {
+     "ref": "hose:540de6f8f4",
+     "title": "BSI: Quyết định của HĐQT về việc phê duyệt hạn mức tín dụng tại Agribank"
+    },
+    {
+     "ref": "hose:1d89c013a4",
+     "title": "MIG: Báo cáo tiến độ sử dụng vốn thu được từ đợt phát hành"
+    },
+    {
+     "ref": "hose:c05e671da5",
+     "title": "VAB: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:b7daed6670",
+   "title": "Cháy bể chứa dầu diesel tại kho dầu Zawiya của Libya",
+   "translated": true,
+   "original_title": "Fire breaks out at diesel tank at Libya's Zawiya oil depot - statement",
+   "link": "https://www.reuters.com/world/fire-breaks-out-diesel-tank-libyas-zawiya-oil-depot-statement-2026-08-10/"
+  },
+  {
+   "ref": "reuters:478fb81eab",
+   "title": "Ủy ban Chứng khoán Mỹ (SEC) miễn trừ một số trái phiếu trung tâm dữ liệu khỏi quy định chứng khoán hóa then chốt",
+   "translated": true,
+   "original_title": "US SEC exempts certain data center bonds from key securitization rules",
+   "link": "https://www.reuters.com/legal/government/us-sec-exempts-certain-data-center-bonds-key-securitization-rules-2026-08-10/"
+  },
+  {
+   "ref": "reuters:fa52a227a7",
+   "title": "RBC và BMO bán Moneris cho Francisco Partners trong thương vụ 1,44 tỷ USD",
+   "translated": true,
+   "original_title": "RBC, BMO to sell Moneris to Francisco Partners in $1.44 billion deal",
+   "link": "https://www.reuters.com/legal/transactional/rbc-bmo-sell-moneris-francisco-partners-144-billion-deal-2026-08-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1016038",
+   "title": "Intel nhắm mức giá tối thiểu 95 USD/cổ phiếu trong đợt chào bán 20 tỷ USD, nhu cầu vượt 100 tỷ USD",
+   "translated": true,
+   "original_title": "INTEL IS TARGETING AT LEAST $95 A SHARE IN ITS $20 BILLION SHARE SALE, AN UPSIZED OFFERING THAT DREW MORE THAN $100 BILLION IN DEMAND, WITH SHARES SAID TO BE PRICED AT ROUGHLY A 6.5% DISCOUNT. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:92dd0d40a6",
+   "title": "Giá dầu tăng vọt, Phố Wall giảm điểm khi thị trường tập trung vào Hormuz và lạm phát",
+   "translated": true,
+   "original_title": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus",
+   "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-10/"
+  },
+  {
+   "ref": "tg-dubaotiente:105680",
+   "title": "Đồng yên dễ tổn thương khi Tokyo chọn chiến lược can thiệp thụ động",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Đồng yên dễ tổn thương khi Tokyo chọn chiến lược thụ động, bỏ lỡ cơ hội tận dụng lợi thế can thiệp Chi tiết xem tại: https://dubaotiente.net/tieu-diem/dong-yen-de-ton-thuong-khi-tokyo-chon-chien-luoc-thu-dong-bo-lo-co-hoi-can-thiep-110999.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:4556ad8333",
+   "title": "Lộ trình tăng lãi suất của BOJ vấp phải vấn đề thị trường trái phiếu dưới thời Thủ tướng Takaichi",
+   "translated": true,
+   "original_title": "BOJ's rate-hike path runs into Takaichi's bond market problems",
+   "link": "https://www.reuters.com/world/asia-pacific/bojs-rate-hike-path-runs-into-takaichis-bond-market-problems-2026-08-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1016032",
+   "title": "Vàng vượt mốc 4.400 USD/ounce",
+   "translated": true,
+   "original_title": "JUST IN: GOLD RECLAIMS $4,400 ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:e939dd8e26",
+   "title": "Giới đầu tư đổ xô mua quyền chọn đô la Đài Loan, đặt cược khả năng phục hồi",
+   "translated": true,
+   "original_title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound"
+  },
+  {
+   "ref": "reuters:ce7197cb4d",
+   "title": "BP bán 20% cổ phần mỏ khí Manakin cho NGC của Trinidad",
+   "translated": true,
+   "original_title": "BP to sell 20% stake in Manakin gas field to Trinidad's NGC",
+   "link": "https://www.reuters.com/business/energy/bp-sell-20-stake-venezuelas-cocuina-gas-field-trinidads-ngc-sources-say-2026-08-10/"
+  },
+  {
+   "ref": "tg-dubaotiente:105679",
+   "title": "RBA dự kiến giữ nguyên lãi suất hôm nay, thị trường chú ý các chi tiết đi kèm",
+   "translated": true,
+   "original_title": "(Tiêu điểm) RBA dự kiến giữ nguyên lãi suất hôm nay, nhưng thị trường sẽ chú ý vào các chi tiết Chi tiết xem tại: https://dubaotiente.net/tieu-diem/rba-du-kien-giu-nguyen-lai-suat-thi-truong-cho-doi-chi-tiet-110998.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:939c133eca",
+   "title": "Apple mở rộng sản xuất iPhone tại Ấn Độ để giảm phụ thuộc Trung Quốc",
+   "translated": false,
+   "original_title": "Apple mở rộng sản xuất iPhone tại Ấn Độ để giảm phụ thuộc Trung Quốc",
+   "link": "https://bbw.vn/apple-mo-rong-san-xuat-iphone-tai-an-do-de-giam-phu-thuoc-trung-quoc-59661.html"
+  }
+ ],
+ "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6"
+}
