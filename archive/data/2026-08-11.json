@@ -616,5 +616,68 @@
    "link": "https://bbw.vn/apple-mo-rong-san-xuat-iphone-tai-an-do-de-giam-phu-thuoc-trung-quoc-59661.html"
   }
  ],
- "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6"
+ "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "6e86d4013c2550c023faa63607394e7da5e6b49e",
+   "published_at": "2026-08-11T06:46:22+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "221",
+   "sent_at": "2026-08-11T06:46:22+07:00",
+   "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "221",
+     "sent_at": "2026-08-11T06:46:22+07:00",
+     "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "fb3033043ba1b4f8edb7",
+   "sent_at": "2026-08-11T06:46:25+07:00",
+   "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "fb3033043ba1b4f8edb7",
+     "sent_at": "2026-08-11T06:46:25+07:00",
+     "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "fdb0094a01ef8eb6d7f9",
+     "sent_at": "2026-08-11T06:46:27+07:00",
+     "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "1395579f5e3ad163882c",
+     "sent_at": "2026-08-11T06:46:29+07:00",
+     "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "a6e765576cf2e3abbae4",
+     "sent_at": "2026-08-11T06:46:30+07:00",
+     "content_sha": "d5e9683ceb5bcf190b4ec1450da0417eaa36e2cce313f06b2ebbe5cf0b1a69e6"
+    }
+   ]
+  }
+ }
 }
