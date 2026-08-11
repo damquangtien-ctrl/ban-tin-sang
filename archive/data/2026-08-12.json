@@ -1,0 +1,586 @@
+{
+ "date": "2026-08-12",
+ "dividends": [
+  {
+   "event": "Tạm ứng cổ tức đợt 1/2026 bằng tiền mặt tỷ lệ 10% (1.000 đồng/CP)",
+   "record_date": "2026-08-19",
+   "ref": "cafef:e6e0a024d2",
+   "ticker": "QNS"
+  },
+  {
+   "event": "Chốt danh sách cổ đông nhận cổ tức tiền mặt tỷ lệ 13,35% (1.335 đồng/CP), mức cao kỷ lục của công ty",
+   "record_date": "2026-08-21",
+   "ref": "cafef:d56a1fd96e",
+   "ticker": "THN"
+  },
+  {
+   "event": "Tạm ứng cổ tức đợt 1/2026 bằng tiền mặt tỷ lệ 50% (5.000 đồng/CP)",
+   "record_date": "2026-08-14",
+   "ref": "cafef:f243663fab",
+   "ticker": "HGM"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "FiinQuant",
+   "text": "VN-Index giảm nhẹ về 1.773,41 điểm phiên 11/8, khối ngoại bán ròng gần 769 tỷ đồng, gấp gần 3 lần phiên trước"
+  },
+  {
+   "source": "Reuters",
+   "text": "Giá dầu tăng, chứng khoán Mỹ giảm điểm do nghi ngờ thỏa thuận Mỹ-Iran; Triều Tiên phóng tên lửa đạn đạo"
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "VietinBank (CTG): Lợi nhuận trước thuế 6 tháng tăng 36,7%, tổng tài sản vượt 2,9 triệu tỷ đồng"
+  },
+  {
+   "source": "Tiền Phong",
+   "text": "Tỷ phú Phạm Nhật Vượng 'bắt tay' Elon Musk đưa vệ tinh lên quỹ đạo năm 2027"
+  },
+  {
+   "source": "SJC / Yahoo Finance",
+   "text": "Giá vàng SJC giảm 2 triệu đồng/lượng còn 140,5-143,5 triệu đồng/lượng; vàng thế giới tăng 1,58%"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:26dd3cc7bb",
+     "title": "1,6 triệu lượt khách hàng dừng giao dịch nghi lừa đảo, 'cứu' 5.500 tỷ đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:f85c83c1a1",
+     "title": "Điều tra bổ sung vụ lừa góp vốn vào dự án trồng sâm Ngọc Linh - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:bea6651c98",
+     "title": "Nhân viên ngân hàng dùng hồ sơ khách cũ để lừa vay 10 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:1a6950e2fd",
+     "title": "48 người lừa đảo qua sàn Lazada giả, chiếm đoạt hơn 71 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:9afecfa041",
+     "title": "Tội phạm mạng tạo 9.000 website giả, đánh cắp thông tin gần 4 triệu thẻ tín dụng"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:52772503f0",
+     "title": "Vi phạm nghĩa vụ công bố thông tin, 4 doanh nghiệp bị xử phạt - Thời báo Tài chính Việt Nam"
+    },
+    {
+     "ref": "google-news-ph-p-l:cf8614524b",
+     "title": "Hai doanh nghiệp xây dựng bị phạt vì chậm công bố thông tin - markettimes.vn"
+    },
+    {
+     "ref": "google-news-ph-p-l:a423f0b6dd",
+     "title": "Khởi tố 2 nhân viên chiếm đoạt hơn 8,4 tỷ đồng của doanh nghiệp FDI tại Hưng Yên - Báo Pháp Luật Việt Nam"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-3,36 điểm (-0,19%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.773,41 điểm"
+   },
+   {
+    "change": "+3,23 điểm (+1,12%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "290,91 điểm"
+   },
+   {
+    "change": "-8,95% so với phiên trước",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "14.203 tỷ đồng"
+   },
+   {
+    "change": "gấp gần 2,8 lần phiên trước",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 769 tỷ đồng"
+   },
+   {
+    "change": "-2 triệu đồng/lượng",
+    "direction": "down",
+    "label": "Vàng SJC",
+    "value": "140,5 - 143,5 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.320 đồng/USD"
+   }
+  ],
+  "summary": "Phiên qua đêm tại Mỹ, ba chỉ số chính đồng loạt giảm (S&P 500 -0,32%, Dow Jones -0,34%, Nasdaq -0,60%) khi nghi ngờ về khả năng đạt thỏa thuận Mỹ-Iran đẩy giá dầu WTI và Brent tăng lần lượt 1,67% và 1,80%, trong khi vàng thế giới tăng 1,58% lên quanh 4.430 USD/ounce nhờ nhu cầu trú ẩn. Tại thị trường trong nước, phiên 11/8 VN-Index giảm nhẹ 3,36 điểm còn 1.773,41 điểm dù HNX-Index tăng 1,12% lên 290,91 điểm; thanh khoản HOSE giảm gần 9% xuống 14.203 tỷ đồng và khối ngoại bán ròng gần 769 tỷ đồng, gấp gần 3 lần phiên trước. Giá vàng SJC trong nước giảm 2 triệu đồng/lượng còn 140,5 - 143,5 triệu đồng/lượng, còn tỷ giá USD/VND bán ra tại Vietcombank ở mức 26.320 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.32,
+    "label": "S&P 500",
+    "value": "7.728,2"
+   },
+   {
+    "change_pct": -0.34,
+    "label": "Dow Jones",
+    "value": "53.791,8"
+   },
+   {
+    "change_pct": -0.6,
+    "label": "Nasdaq",
+    "value": "26.445,4"
+   },
+   {
+    "change_pct": 1.67,
+    "label": "Dầu WTI",
+    "value": "83,5 USD"
+   },
+   {
+    "change_pct": 1.8,
+    "label": "Dầu Brent",
+    "value": "89,3 USD"
+   },
+   {
+    "change_pct": 1.58,
+    "label": "Vàng thế giới",
+    "value": "4.430 USD"
+   },
+   {
+    "change_pct": -0.6,
+    "label": "Bitcoin",
+    "value": "63.525 USD"
+   },
+   {
+    "change_pct": 0.0,
+    "label": "DXY",
+    "value": "99,81"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:6601d4bb03",
+     "title": "Loạt NHTW, các quỹ ETF, \"trùm\" Stablecoin đồng loạt mua vàng ngay trước sóng tăng"
+    },
+    {
+     "ref": "cafef:991c37d393",
+     "title": "VN-Index có thể hướng tới vùng 1.850-1.950 điểm, CTCK chỉ ra loạt cổ phiếu có câu chuyện riêng"
+    },
+    {
+     "ref": "cafef:2d2f93eeda",
+     "title": "Một biến số có thể khiến chứng khoán rung lắc mạnh"
+    },
+    {
+     "ref": "cafef:9f1b770d73",
+     "title": "\"Đãi cát tìm vàng\" từ KQKD quý 2: Gọi tên các \"siêu cổ phiếu\" tiềm năng với biên lãi gộp tăng trưởng liên tục"
+    },
+    {
+     "ref": "cafef:0f162a64a1",
+     "title": "SGI Capital: Chứng khoán đối diện “bài test” lớn, giai đoạn biến động mạnh có thể vẫn ở phía trước"
+    },
+    {
+     "ref": "cafef:e572fb6544",
+     "title": "Vừa nhận cổ tức tiền mặt hơn 90%, cổ đông doanh nghiệp này lại sắp nhận thêm 1.200 đồng/cổ phiếu"
+    },
+    {
+     "ref": "cafef:a3f789132e",
+     "title": "Hai mã ngân hàng cùng một cổ phiếu Bluechips được tự doanh CTCK gom mạnh phiên giảm điểm"
+    },
+    {
+     "ref": "cafef:e6e0a024d2",
+     "title": "Vừa báo lãi nghìn tỷ, \"vua\" sữa đậu nành Fami dốc hầu bao chi gần 400 tỷ đồng cổ tức tiền mặt"
+    },
+    {
+     "ref": "cafef:55cdb6d9e4",
+     "title": "Một cổ phiếu chứng khoán phá đỉnh lịch sử, vốn hóa kỷ lục 35.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:d56a1fd96e",
+     "title": "Một doanh nghiệp sắp \"lăn chốt\" cổ tức tiền mặt cao kỷ lục ngay tháng 8, lãnh đạo ồ ạt đăng ký mua cổ phiếu"
+    },
+    {
+     "ref": "cafef:49aac5772c",
+     "title": "Địa phương cùng giám sát phát hành trái phiếu doanh nghiệp: Có lo chồng chéo?"
+    },
+    {
+     "ref": "cafef:7caba370dd",
+     "title": "Doanh nghiệp đang đổ tiền vào mã chứng khoán nào?"
+    },
+    {
+     "ref": "cafef:d11518f27c",
+     "title": "Người nội bộ HSC bán thành công 600.000 cổ phiếu HCM"
+    },
+    {
+     "ref": "cafef:c0bed83a22",
+     "title": "Phiên 11/8: Khối ngoại tiếp đà bán ròng gần 800 tỷ đồng, một cổ phiếu ngân hàng bị \"xả\" mạnh"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:43222376be",
+     "title": "Vì sao giá USD lao dốc?"
+    },
+    {
+     "ref": "vietstock:872cffe5fe",
+     "title": "Đề xuất mới về thuế TNDN bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu"
+    },
+    {
+     "ref": "vietstock:3046304eab",
+     "title": "Khung pháp lý - Điểm đột phá của VIFC-HCMC"
+    },
+    {
+     "ref": "vietstock:3641eef5c1",
+     "title": "Trung Quốc có tháng mua vàng mạnh nhất trong gần 3 năm"
+    },
+    {
+     "ref": "vietstock:f5ada4504e",
+     "title": "Vì sao vợ Chủ tịch PVR muốn thoái toàn bộ gần 12.5 triệu cp?"
+    },
+    {
+     "ref": "vietstock:762b6b95fa",
+     "title": "VIB sắp phát hành thêm 323 triệu cổ cp, nâng vốn điều lệ lên 37,274 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:948b41a415",
+     "title": "Giá USD tự do xuống dưới 26.000 đồng"
+    },
+    {
+     "ref": "vietstock:1ad6d98dfa",
+     "title": "EVS sắp có Quyền Tổng Giám đốc sinh năm 1996, gia đình sở hữu 14.68% vốn"
+    },
+    {
+     "ref": "vietstock:30727892de",
+     "title": "Chứng khoán BIDV phê duyệt hạn mức vay 3 ngàn tỷ tại Agribank"
+    },
+    {
+     "ref": "vietstock:e477a05c34",
+     "title": "Bài toán giữ tiền của các công ty chứng khoán Việt Nam"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:6d8e1289cc",
+     "title": "Xu hướng VN-Index chỉ có thể cải thiện khi vượt lên kháng cự quanh 1800 điểm"
+    },
+    {
+     "ref": "vneconomy:456f13e9b8",
+     "title": "DatVietVAC lên kế hoạch IPO hơn 11 triệu cổ phiếu"
+    },
+    {
+     "ref": "vneconomy:0936ee934b",
+     "title": "Dòng tiền vẫn kiên trì với cổ phiếu vừa và nhỏ"
+    },
+    {
+     "ref": "vneconomy:6b20e80e2e",
+     "title": "Dòng tiền tiết kiệm của người dân đang định hình lại thị trường chứng khoán châu Á"
+    },
+    {
+     "ref": "vneconomy:bed65dba9b",
+     "title": "Khối margin 446 nghìn tỷ: Vốn vay không còn là công cụ đòn bẩy cho giao dịch ngắn hạn thông thường"
+    },
+    {
+     "ref": "vneconomy:f3cdca3f6d",
+     "title": "Các ETF lại đổi xu hướng rút ròng trong tuần qua"
+    },
+    {
+     "ref": "vneconomy:69c75909d8",
+     "title": "214 cổ phiếu đang giao dịch dưới mức đáy định giá của đợt điều chỉnh do thuế quan năm 2025"
+    },
+    {
+     "ref": "vneconomy:1c4c3b09b2",
+     "title": "Tháng 7/2026 huy động 18.603 tỷ đồng Trái phiếu Chính phủ qua đấu thầu"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fcb37b6f6d",
+     "title": "Cổ phiếu cần quan tâm ngày 12/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:66c2ae7645",
+     "title": "Hé lộ phương án đầu tư tuyến đường sắt Vũng Áng - Mụ Giạ vốn 45.501 tỷ đồng - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:04731269f8",
+     "title": "Doanh nghiệp bảo hiểm phi nhân thọ tiếp tục kiến nghị chia sẻ dữ liệu để siết chặt giám định, chống gian lận - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ff2e04263a",
+     "title": "F88 (F88) chính thức hủy hơn 11 triệu cổ phiếu nhà đầu tư không mua trong đợt IPO - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:911eb2e4bd",
+     "title": "VietinBank (CTG): Lợi nhuận trước thuế 6 tháng tăng 36,7%, tổng tài sản vượt 2,9 triệu tỷ đồng - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2695f0fa92",
+     "title": "Sau 6 tháng, tổng vốn cam kết vào VIFC - HCM đạt khoảng 20 tỷ USD - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:676b12026d",
+     "title": "Doanh nghiệp FDI tăng nhập khẩu hàng công nghệ, máy móc thiết bị mở rộng sản xuất - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:cf57f87fba",
+     "title": "Định hình Điều lệ Tập đoàn Đường sắt Quốc gia Việt Nam - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:b5e8f037b4",
+     "title": "KIS Việt Nam nộp ngân sách 395 tỷ đồng năm 2025, tăng gần 23%"
+    },
+    {
+     "ref": "markettimes:8f9bcd57af",
+     "title": "Một Phó Tổng giám đốc ngân hàng xin từ nhiệm sau 3 tháng nhậm chức"
+    },
+    {
+     "ref": "markettimes:6a62b5c463",
+     "title": "Lãi suất ngân hàng 11/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+    },
+    {
+     "ref": "markettimes:5d25dd5ead",
+     "title": "Mặt bằng lãi suất cho vay có tín hiệu hạ nhiệt, ngân hàng được yêu cầu giảm chi phí vốn"
+    },
+    {
+     "ref": "markettimes:ae8386f46e",
+     "title": "IPA chuẩn bị phát hành hơn 32 triệu cổ phiếu thưởng, tăng vốn thêm hơn 320 tỷ đồng"
+    },
+    {
+     "ref": "markettimes:5671431048",
+     "title": "Cổ phiếu Gelex Electric (GEE) bất ngờ “cháy hàng” giữa phiên thị trường phân hóa mạnh"
+    },
+    {
+     "ref": "markettimes:1230cc816f",
+     "title": "LPBank lập cú đúp thăng hạng, khẳng định vị thế ngân hàng tư nhân hàng đầu"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:087682fa6d",
+     "title": "Lợi nhuận ngân hàng quý II/2026 phân hoá ra sao?"
+    },
+    {
+     "ref": "vnbusiness:5d3d26d7ee",
+     "title": "4 điểm nghẽn chính sách đang cản trở phát triển ngành năng lượng Việt Nam"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:b545781073",
+     "title": "Cao tốc trọng điểm của Bầu Hiển tại Tây Nguyên có thêm khoản tín dụng gần 5.000 tỷ đồng"
+    },
+    {
+     "ref": "ti-n-phong:9c03b5eba4",
+     "title": "Hơn 190 triệu tỷ đồng giao dịch không tiền mặt trong 6 tháng"
+    },
+    {
+     "ref": "ti-n-phong:6f980f0db3",
+     "title": "Trung Quốc chi 2,5 tỷ USD mua rau quả Việt"
+    },
+    {
+     "ref": "ti-n-phong:df1a2b1eca",
+     "title": "Tỷ phú Phạm Nhật Vượng 'bắt tay' Elon Musk đưa vệ tinh lên quỹ đạo năm 2027"
+    },
+    {
+     "ref": "ti-n-phong:2929ea47ce",
+     "title": "Ngân hàng NCB giảm đồng loạt lãi suất các gói vay, hướng dòng vốn vào sản xuất kinh doanh và các lĩnh vực ưu tiên"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:e6b4ba03c5",
+     "title": "Hoàn thiện chính sách để ngành năng lượng đáp ứng mục tiêu tăng trưởng kinh tế hai con số - bnews.vn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:4d698b2d2b",
+     "title": "GIL: Đơn từ nhiệm Giám đốc tài chính và Kế toán trưởng - bà Nguyễn Thị Minh Hiếu"
+    },
+    {
+     "ref": "hose:8c33191ce6",
+     "title": "YEG: Thông báo thay đổi nhân sự (kèm Nghị quyết)"
+    },
+    {
+     "ref": "hose:c7fc79f390",
+     "title": "DXS: Thông báo thay đổi nhân sự"
+    },
+    {
+     "ref": "hose:1e70df4de8",
+     "title": "MIG: Đính chính BCTC Quý 2 năm 2026 (lần 2)"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:4cb2ba14c6",
+   "title": "CoreWeave nâng kế hoạch chi tiêu năm 2026, vượt dự báo doanh thu quý nhờ nhu cầu AI tăng mạnh",
+   "translated": true,
+   "original_title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
+   "link": "https://www.reuters.com/technology/coreweave-edges-past-quarterly-revenue-estimates-2026-08-11/"
+  },
+  {
+   "ref": "reuters:e7ad5ff3b2",
+   "title": "Giá dầu tiếp tục tăng do nghi ngờ về thỏa thuận Mỹ-Iran, chứng khoán Mỹ giảm điểm",
+   "translated": true,
+   "original_title": "Oil prices continue climb on US-Iran deal doubts; stocks retreat",
+   "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-11/"
+  },
+  {
+   "ref": "reuters:dfc176067c",
+   "title": "Niềm tin doanh nghiệp Nhật Bản tăng nhờ cơn sốt bán dẫn thúc đẩy ngành sản xuất: khảo sát Reuters",
+   "translated": true,
+   "original_title": "Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll",
+   "link": "https://www.reuters.com/world/asia-pacific/japan-business-mood-rises-semiconductor-boom-lifts-manufacturers-2026-08-11/"
+  },
+  {
+   "ref": "bloomberg:5b1f72f0f9",
+   "title": "Thị trường bất động sản Trung Quốc chạy đua tháo ngòi nổ khoản nợ 148 tỷ USD",
+   "translated": true,
+   "original_title": "China's Real Estate Market Races to Defuse a $148 Billion Time Bomb",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-real-estate-market-races-to-defuse-a-148-billion-time-bomb"
+  },
+  {
+   "ref": "bloomberg:52a582f349",
+   "title": "Nhà đầu tư toàn cầu ưu tiên chứng khoán Đài Loan hơn Hàn Quốc sau đợt bán tháo cổ phiếu AI",
+   "translated": true,
+   "original_title": "Global Investors Favor Taiwan Over Korea Stocks After AI Selloff",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-11/global-investors-favor-taiwan-over-korea-stocks-after-ai-selloff"
+  },
+  {
+   "ref": "reuters:096006fc46",
+   "title": "4 thủy thủ và 2 nhân viên cứu hộ thiệt mạng trong vụ tấn công ở Biển Đỏ; ghi nhận tên lửa tấn công tại Vùng Vịnh",
+   "translated": true,
+   "original_title": "Four crew, two rescuers killed in Red Sea attack; missile strike reported in Gulf",
+   "link": "https://www.reuters.com/world/china/three-killed-attacks-ships-red-sea-gulf-sources-say-2026-08-11/"
+  },
+  {
+   "ref": "reuters:3905d784b6",
+   "title": "Thất nghiệp thanh niên toàn cầu tăng do tạo việc làm chậm lại và rủi ro từ AI, cơ quan lao động LHQ cảnh báo",
+   "translated": true,
+   "original_title": "Global youth unemployment rises amid sluggish job creation and looming AI risk, UN labour agency says",
+   "link": "https://www.reuters.com/world/global-youth-unemployment-rises-amid-sluggish-job-creation-looming-ai-risk-un-2026-08-11/"
+  },
+  {
+   "ref": "tg-marketfeed:1016691",
+   "title": "OpenAI và AWS mở rộng thỏa thuận hợp tác, bổ sung các mô hình AI an ninh mạng tiên tiến; OpenAI đưa Daybreak lên nền tảng Amazon Bedrock",
+   "translated": true,
+   "original_title": "OPENAI AND AWS SAY THEY WILL EXPAND THEIR AGREEMENT TO INCLUDE FRONTIER CYBER MODELS, WITH OPENAI BRINGING DAYBREAK ACCESS TO AMAZON BEDROCK ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:2ae8bfa964",
+   "title": "Triều Tiên phóng tên lửa đạn đạo, quân đội Hàn Quốc cho biết",
+   "translated": true,
+   "original_title": "North Korea fired a ballistic missile, South Korean military says",
+   "link": "https://www.reuters.com/world/asia-pacific/north-korea-fires-unidentified-projectile-media-says-2026-08-11/"
+  },
+  {
+   "ref": "reuters:3813ee216d",
+   "title": "Canada tiếp tục đàm phán thương mại với Mỹ khi hạn chót áp thuế đến gần",
+   "translated": true,
+   "original_title": "Canada holds more trade talks with US as tariff deadline approaches",
+   "link": "https://www.reuters.com/world/canadas-minister-responsible-us-trade-meet-ustrs-greer-tuesday-2026-08-11/"
+  },
+  {
+   "ref": "tg-marketfeed:1016699",
+   "title": "Tổng thống Trump cân nhắc hạ thuế suất thuế lãi vốn (capital gains tax)",
+   "translated": true,
+   "original_title": "JUST IN: 🇺🇸 PRESIDENT TRUMP CONSIDERS LOWERING CAPITAL GAINS TAX. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105738",
+   "title": "RBA giữ nguyên lãi suất 4,35%, để ngỏ khả năng tăng thêm - góc nhìn phân tích",
+   "translated": false,
+   "original_title": "(Tiêu điểm) RBA giữ nguyên lãi suất 4.35%, để ngỏ khả năng tăng thêm – góc nhìn phân tích Chi tiết xem tại: https://dubaotiente.net/tieu-diem/rba-giu-nguyen-lai-suat-4-35-de-ngo-kha-nang-tang-them-111050.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396108",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust tăng nắm giữ thêm 1.712 tấn, tổng khối lượng đạt 1.022.672 tấn",
+   "translated": false,
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới - SPDR Gold Trust đã tăng 1.712 tấn so với ngày trước, hiện có tổng khối lượng nắm giữ là 1022.672 tấn. #vàng #SPDR_Gold_Trust",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:cda9ed24a1",
+   "title": "Trung Quốc đang chơi một ván cờ AI bằng cách khác",
+   "translated": false,
+   "original_title": "Trung Quốc đang chơi một ván cờ AI bằng cách khác",
+   "link": "https://bbw.vn/trung-quoc-dang-choi-mot-van-co-ai-bang-cach-khac-59693.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:a99f5bba4a",
+   "title": "Nắng nóng cực đoan khiến các sông lớn nhất châu Âu cạn kiệt",
+   "translated": false,
+   "original_title": "Nắng nóng cực đoan khiến các sông lớn nhất châu Âu cạn kiệt",
+   "link": "https://bbw.vn/nang-nong-cuc-doan-khien-cac-song-lon-nhat-chau-au-can-kiet-59688.html"
+  },
+  {
+   "ref": "vneconomy:3ab60d611f",
+   "title": "Tác dụng của can thiệp yếu dần, đồng yên Nhật Bản lại trượt giá",
+   "translated": false,
+   "original_title": "Tác dụng của can thiệp yếu dần, đồng yên Nhật Bản lại trượt giá",
+   "link": "https://vneconomy.vn/tac-dung-cua-can-thiep-yeu-dan-dong-yen-nhat-ban-lai-truot-gia.htm"
+  }
+ ],
+ "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f"
+}
