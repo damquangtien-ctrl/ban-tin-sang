@@ -582,5 +582,68 @@
    "link": "https://vneconomy.vn/tac-dung-cua-can-thiep-yeu-dan-dong-yen-nhat-ban-lai-truot-gia.htm"
   }
  ],
- "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f"
+ "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "9887f6dd433a1a4ffcb39d70a228eb24a518d46e",
+   "published_at": "2026-08-12T06:46:21+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "222",
+   "sent_at": "2026-08-12T06:46:22+07:00",
+   "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "222",
+     "sent_at": "2026-08-12T06:46:22+07:00",
+     "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "a7f6be2811a09ff9c6b6",
+   "sent_at": "2026-08-12T06:46:23+07:00",
+   "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "a7f6be2811a09ff9c6b6",
+     "sent_at": "2026-08-12T06:46:23+07:00",
+     "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "1b84e8e2466ac833917c",
+     "sent_at": "2026-08-12T06:46:25+07:00",
+     "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "fbdfb5c5184d9614cf5b",
+     "sent_at": "2026-08-12T06:46:27+07:00",
+     "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "766158baf5327b6b2224",
+     "sent_at": "2026-08-12T06:46:30+07:00",
+     "content_sha": "499cf3bd896430961f5075496c8800d56fa20874e4cb75dd29c18b14b3f40c9f"
+    }
+   ]
+  }
+ }
 }
