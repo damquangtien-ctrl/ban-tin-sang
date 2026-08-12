@@ -1,0 +1,637 @@
+{
+ "date": "2026-08-13",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "VN-Index chốt phiên 12/8 tăng 19,77 điểm (+1,11%) lên 1.793,18 điểm, tiến sát mốc 1.800 điểm."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Giá vàng thế giới ổn định sau dữ liệu lạm phát Mỹ tháng 7 tăng chậm, làm giảm kỳ vọng Fed tăng lãi suất tháng 9."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Khối ngoại quay lại mua ròng 314 tỷ đồng trên HOSE, chấm dứt chuỗi bán ròng trước đó."
+  },
+  {
+   "source": "CafeF",
+   "text": "Masan Consumer chính thức lọt rổ VN30 chỉ sau hơn 7 tháng chuyển niêm yết sang HoSE."
+  },
+  {
+   "source": "Reuters",
+   "text": "Ford sẽ chuyển sản xuất một số mẫu xe Lincoln từ Trung Quốc về Mỹ, phản ánh xu hướng dịch chuyển chuỗi cung ứng."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:57b89afa69",
+     "title": "FECON đặt cược lớn vào metro và khu công nghiệp, Chủ tịch nói gì về kết luận thanh tra tại sân bay Long Thành?"
+    },
+    {
+     "ref": "vietstock:45d3416de6",
+     "title": "Bà Nguyễn Thị Thanh Nhàn nhận thêm bản án 10 năm tù trong vụ Công ty AIC ở Cà Mau"
+    },
+    {
+     "ref": "vietstock:dae4573e8c",
+     "title": "VE8 và CJSC2 bị UBCKNN phạt vì lỗi công bố thông tin"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:b6c940aca5",
+     "title": "CTCP Tập đoàn ST8 cải chính thông tin theo quyết định xử phạt vi phạm hành chính số 423/QĐ-XPHC"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:893e002525",
+     "title": "Bị cáo buộc tham ô, mẹ 'đại gia kim cương' nộp 99 tỷ đồng khắc phục"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:fc0b939662",
+     "title": "Nhà thầu xây dựng lên tiếng sau kết luận thanh tra phanh phui loạt sai phạm tại sân bay Long Thành - nguoiquansat.vn"
+    },
+    {
+     "ref": "google-news-ph-p-l:57e06817dd",
+     "title": "Thao túng cổ phiếu DPG, một cá nhân bị thu hồi chứng chỉ hành nghề chứng khoán - Thời báo Tài chính Việt Nam"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+19,77 (+1,11%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.793,18"
+   },
+   {
+    "change": "-2,46 (-0,85%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "288,45"
+   },
+   {
+    "change": "-2.436 tỷ so với phiên trước",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "11.766 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng 314 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.270"
+   }
+  ],
+  "summary": "Thị trường Mỹ đêm qua diễn biến trái chiều: S&P 500 và Nasdaq tăng nhờ kết quả kinh doanh CoreWeave thúc đẩy lạc quan về AI, trong khi Dow Jones giảm nhẹ; giá vàng thế giới đi lên sau khi lạm phát Mỹ tháng 7 tăng chậm hơn dự báo, làm giảm kỳ vọng Fed tăng lãi suất trong tháng 9, còn giá dầu WTI và Brent giảm nhẹ. Trong nước, VN-Index đóng cửa phiên 12/8 tăng 19,77 điểm (+1,11%) lên 1.793,18 điểm, tiến sát vùng đỉnh cũ 1.800 điểm nhờ dòng tiền gom mạnh vào nhóm cổ phiếu ngân hàng và bất động sản khu công nghiệp như BCM, trong khi HNX-Index giảm 0,85% xuống 288,45 điểm. Thanh khoản HOSE đạt 11.766 tỷ đồng, thấp hơn phiên trước; khối ngoại quay lại mua ròng 314 tỷ đồng sau chuỗi bán ròng.",
+  "tiles": [
+   {
+    "change_pct": 0.26,
+    "label": "S&P 500",
+    "value": "7.748,5"
+   },
+   {
+    "change_pct": -0.04,
+    "label": "Dow Jones",
+    "value": "53.770,3"
+   },
+   {
+    "change_pct": 0.54,
+    "label": "Nasdaq",
+    "value": "26.588,5"
+   },
+   {
+    "change_pct": -0.54,
+    "label": "Dầu WTI",
+    "value": "82,8 USD"
+   },
+   {
+    "change_pct": -0.39,
+    "label": "Dầu Brent",
+    "value": "88,6 USD"
+   },
+   {
+    "change_pct": 1.9,
+    "label": "Vàng thế giới",
+    "value": "4.466 USD"
+   },
+   {
+    "change_pct": -0.27,
+    "label": "Bitcoin",
+    "value": "63.378 USD"
+   },
+   {
+    "change_pct": 0.17,
+    "label": "DXY",
+    "value": "99,98"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:16786a6088",
+     "title": "Nhóm ngành nào \"vô địch\" tăng trưởng lợi nhuận quý 2/2026?"
+    },
+    {
+     "ref": "cafef:f628a8958f",
+     "title": "CTCK điểm tên 10 cổ phiếu triển vọng tích cực, phù hợp để \"xuống tiền\" nắm giữ trung, dài hạn"
+    },
+    {
+     "ref": "cafef:917d52923c",
+     "title": "Gần 40.000 tỷ đồng sắp đổ vào chứng khoán, CTCK hé lộ danh mục cổ phiếu có thể hưởng lợi"
+    },
+    {
+     "ref": "cafef:19bd7b3b09",
+     "title": "PGS.TS Trần Đình Thiên chỉ ra nghịch lý: Nền kinh tế tăng trưởng cao nhưng khu vực doanh nghiệp nội địa vẫn gặp nhiều khó khăn"
+    },
+    {
+     "ref": "cafef:6c87a8c5b0",
+     "title": "Xuất khẩu 1 triệu container mỗi năm, doanh nghiệp thủy sản đau đầu về chi phí logistics: Cước vận chuyển sang Mỹ có lúc tăng vọt gần 10.000 USD/container"
+    },
+    {
+     "ref": "cafef:5ca27f4dd9",
+     "title": "Một thế lực bất ngờ \"tung\" hơn 1.000 tỷ đồng gom cổ phiếu Việt Nam phiên 12/8"
+    },
+    {
+     "ref": "cafef:22659402ed",
+     "title": "Điện khí hơn 3.400 đồng/kWh: Cú hích đầu tư, sức ép giá điện?"
+    },
+    {
+     "ref": "cafef:a83f4ac526",
+     "title": "ROX Key Holdings chốt ngày trả cổ tức bằng tiền và cổ phiếu tổng tỷ lệ 15%"
+    },
+    {
+     "ref": "cafef:1f8cb1ae33",
+     "title": "Tài sản tài chính cá nhân ở Việt Nam dự báo vượt 600 tỷ USD"
+    },
+    {
+     "ref": "cafef:1385d82dfd",
+     "title": "Cổ phiếu HPA giảm 28% sau 6 tháng lên sàn, liên tục dò đáy mới"
+    },
+    {
+     "ref": "cafef:efd3483aba",
+     "title": "VN-Index tiến sát 1.800 điểm, thêm cổ phiếu ngân hàng lên sàn"
+    },
+    {
+     "ref": "cafef:ce11a7777a",
+     "title": "Cổ phiếu BCM tăng trần, \"cháy hàng\" trong ngày VN-Index áp sát mốc 1.800 điểm"
+    },
+    {
+     "ref": "cafef:993ca20a8e",
+     "title": "3 cổ phiếu được khối ngoại \"rót\" gần 500 tỷ đồng trong phiên VN-Index bứt phá"
+    },
+    {
+     "ref": "cafef:a58cec77ab",
+     "title": "Vốn hóa Vingroup tăng thêm 54.000 tỷ đồng sau khi đổi logo"
+    },
+    {
+     "ref": "cafef:df4d10c94e",
+     "title": "DN Nhà nước tăng vốn 163% lên 50.000 tỷ đồng, đang nắm hàng loạt cổ phần của Vinamilk, Vietnam Airlines,..."
+    },
+    {
+     "ref": "cafef:e9c9877ca2",
+     "title": "Masan Consumer lọt vào VN30 chỉ sau hơn 7 tháng chuyển sang HoSE"
+    },
+    {
+     "ref": "cafef:ea5f0174e3",
+     "title": "Sự chuyển mình của thị trường quản lý tài sản tại Việt Nam"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:9c2480c272",
+     "title": "IEA tiếp tục hạ dự báo nhu cầu dầu mỏ năm 2026"
+    },
+    {
+     "ref": "vietstock:da7f83fc15",
+     "title": "CPI Mỹ tăng chậm lại trong tháng 7, Fed có lý do để hoãn tăng lãi suất"
+    },
+    {
+     "ref": "vietstock:cecaf7d269",
+     "title": "Tổng Công ty Bảo hiểm Quân đội sắp chi 212 tỷ đồng trả cổ tức"
+    },
+    {
+     "ref": "vietstock:ecf50655ca",
+     "title": "Thị trường chứng quyền ngày 13/08/2026: Tiếp tục phân hóa"
+    },
+    {
+     "ref": "vietstock:9682c9aa19",
+     "title": "Tập đoàn TH thâu tóm Mía Đường Cao Bằng"
+    },
+    {
+     "ref": "vietstock:ca91d3eedf",
+     "title": "Góc nhìn 13/08: Tiến tới 1,800 điểm"
+    },
+    {
+     "ref": "vietstock:dc1ad1fe90",
+     "title": "Chứng khoán phái sinh ngày 13/08/2026: Tiếp tục thận trọng?"
+    },
+    {
+     "ref": "vietstock:a8d9aa78e5",
+     "title": "Theo dấu dòng tiền cá mập 12/08: Tự doanh gom ròng trên ngàn tỷ, khối ngoại chấm dứt chuỗi bán ròng"
+    },
+    {
+     "ref": "vietstock:94ae3915c6",
+     "title": "ACV bổ nhiệm hai Phó Tổng Giám đốc mới"
+    },
+    {
+     "ref": "vietstock:055aea36b4",
+     "title": "Giá cổ phiếu PCB tăng 15% phiên đầu lên sàn UPCoM"
+    },
+    {
+     "ref": "vietstock:6d17a3d4b7",
+     "title": "FDC sắp họp ĐHCĐ bất thường 2026 trình phương án tăng vốn mới"
+    },
+    {
+     "ref": "vietstock:8d17c60067",
+     "title": "Nhịp đập Thị trường 12/08: Tiếp tục giằng co, cổ phiếu VIC và VHM góp hơn 13.5 điểm tăng cho VN-Index"
+    },
+    {
+     "ref": "vietstock:7a05be2459",
+     "title": "Sonadezi Long Thành sắp chia cổ tức bằng cổ phiếu tỷ lệ 70%"
+    },
+    {
+     "ref": "vietstock:17f364d840",
+     "title": "Vàng 'tàu lượn' từ 5.600 xuống dưới 4.000 USD: Kịch bản nào cho cuối năm?"
+    },
+    {
+     "ref": "vietstock:ec08170d93",
+     "title": "Nhà ở Xã hội Thuận Thành chưa thoát lỗ, hơn 320 tỷ đồng lãi phải trả trái chủ chưa hạch toán"
+    },
+    {
+     "ref": "vietstock:20490f0060",
+     "title": "HFIC chi hơn 300 tỷ thực hiện quyền mua cổ phiếu HCM"
+    },
+    {
+     "ref": "vietstock:dafdc648c0",
+     "title": "Nữ đại gia từng rót hàng trăm tỷ vào NRC bán dồn dập sau 5 năm"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:f089f80848",
+     "title": "VN-Index tiến gần vùng đỉnh cũ 1800-1810 điểm"
+    },
+    {
+     "ref": "vneconomy:d7c73c2752",
+     "title": "Nhà đầu tư cá nhân chốt lời bán ròng gần 800 tỷ đồng"
+    },
+    {
+     "ref": "vneconomy:755c7c216b",
+     "title": "Sở hữu chung cư có thời hạn, cơ hội cho nhóm cổ phiếu bất động sản nào lên ngôi?"
+    },
+    {
+     "ref": "vneconomy:8ffbc6977c",
+     "title": "Áp lực đáo hạn trái phiếu gia tăng trong 12 tháng tới, giá trị 242 nghìn tỷ"
+    },
+    {
+     "ref": "vneconomy:a54d3a2187",
+     "title": "Ưu tiên theo dõi những cổ phiếu nào sau Nghị quyết 40 tái cấu trúc vốn doanh nghiệp Nhà nước?"
+    },
+    {
+     "ref": "vneconomy:242f9a1f25",
+     "title": "Đồng nhân dân tệ có thể sắp tăng giá trở lại so với USD"
+    },
+    {
+     "ref": "vneconomy:da829f8f55",
+     "title": "Nhà đầu tư toàn cầu chuộng cổ phiếu Đài Loan hơn Hàn Quốc sau đợt bán tháo cổ phiếu AI"
+    },
+    {
+     "ref": "vneconomy:d14641664f",
+     "title": "Thanh khoản cực thấp, khối ngoại quay lại mua ròng"
+    },
+    {
+     "ref": "vneconomy:182f0bd2cd",
+     "title": "Danh mục 20 cổ phiếu lợi nhuận tăng trưởng tốt và có câu chuyện riêng trong bối cảnh định giá rẻ"
+    },
+    {
+     "ref": "vneconomy:cf1e55fe3e",
+     "title": "Đồng yên trượt giá về gần ngưỡng có thể kích hoạt can thiệp"
+    },
+    {
+     "ref": "vneconomy:2c14b13c9f",
+     "title": "65,4% doanh nghiệp trên HoSE chưa hoàn thành kế hoạch kinh doanh trong nửa đầu năm 2026"
+    },
+    {
+     "ref": "vneconomy:c9ab55fd88",
+     "title": "Lộ trình chi tiết các quỹ mua ròng 34 cổ phiếu dự kiến vào rổ FTSE GEIS"
+    },
+    {
+     "ref": "vneconomy:6eb743beaa",
+     "title": "Bài học từ vụ việc 1,2 triệu tài khoản \"call margin\", 400 nghìn tài khoản mất trắng trên thị trường chứng khoán Hàn Quốc"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6d35a9e3e8",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 13/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:dfb4ba64d5",
+     "title": "Nhận định thị trường phiên giao dịch ngày 13/8: Mua tại các nhịp điều chỉnh thay vì mua đuổi - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f3d764645b",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 13/8: Kiểm định vùng 1.800 điểm - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e0c8e18db3",
+     "title": "Thị trường tài chính 24h: Cơ hội tìm kiếm các cổ phiếu có nền tảng cơ bản tốt - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d573edd919",
+     "title": "Cổ phiếu cần quan tâm ngày 13/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4503a8d475",
+     "title": "Thái Lan miễn thuế từ lợi nhuận giao dịch tài sản mã hóa cho nhà đầu tư trong vòng 5 năm - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0e58645605",
+     "title": "Gom mạnh cổ phiếu chứng khoán, khối ngoại mua ròng 333 tỷ đồng trong phiên 12/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:75d09f2125",
+     "title": "Phí qua kênh đào Panama tăng mạnh bởi gián đoạn tại eo biển Hormuz và El Nino - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a05e9551cd",
+     "title": "Thị trường phân hóa, VN-Index vẫn tăng gần 20 điểm - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9a6ca6311f",
+     "title": "Nhập siêu 32,4 tỷ USD từ Hàn Quốc - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6748d7f3c4",
+     "title": "Đường sắt Lào Cai - Hà Nội - Hải Phòng đội vốn có nguyên nhân chủ quan - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:47a3eb1857",
+     "title": "Hà Nội siết quản lý thị trường vàng, bạc, ngoại tệ - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:59b7b552a5",
+     "title": "Thị trường vốn: Không thiếu tiền, chỉ thiếu hàng hóa - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:56e3220587",
+     "title": "4 điểm nghẽn chính sách đang cản trở phát triển ngành năng lượng Việt Nam - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:d81157a180",
+     "title": "Các công ty quản lý quỹ về tay hệ sinh thái ngân hàng - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:5118cdfa95",
+     "title": "Những ngân hàng nào hút tiền gửi nhất Việt Nam hiện nay?"
+    },
+    {
+     "ref": "markettimes:b99e8c3037",
+     "title": "Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+    },
+    {
+     "ref": "markettimes:7cbb3f55cf",
+     "title": "Một ngân hàng vừa tăng mạnh lãi suất tiết kiệm"
+    },
+    {
+     "ref": "markettimes:04f6ae62f0",
+     "title": "Ngân hàng thông báo quy định mới từ 5/10: Liên quan đến việc phong tỏa tiền trong tài khoản khách hàng"
+    },
+    {
+     "ref": "markettimes:31f3600088",
+     "title": "Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng"
+    },
+    {
+     "ref": "markettimes:610e955258",
+     "title": "Một ngân hàng áp dụng lãi suất tham chiếu mới 9,2%/năm"
+    },
+    {
+     "ref": "markettimes:ca19b26e09",
+     "title": "Cổ phiếu VMD của Vimedimex bị đưa vào diện kiểm soát từ 17/8"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:e9b18d6ba0",
+     "title": "Việt Nam không thiếu vốn cho hạ tầng, chỉ thiếu dự án sẵn sàng"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:d6dfa7d5f9",
+     "title": "FDI và bài toán tăng trưởng hai con số: Nhìn từ kinh nghiệm các nước đang phát triển"
+    },
+    {
+     "ref": "vnbusiness:f8773fad2a",
+     "title": "Tổng Giám đốc đăng ký mua 1 triệu cổ phiếu, KSB tăng trần, thanh khoản gấp 7 lần, dư mua hơn 1 triệu đơn vị"
+    },
+    {
+     "ref": "vnbusiness:ccc5cae2c1",
+     "title": "\"Mưa\" tín dụng ưu đãi hơn 250.000 tỷ, doanh nghiệp nhỏ và vừa có thể vay ngân hàng nào?"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:cbd38b9701",
+     "title": "Mở 'room tín dụng' cho 35 dự án, ngân hàng lấy tiền đâu cho vay?"
+    },
+    {
+     "ref": "ti-n-phong:891d96216a",
+     "title": "Vàng đang có lực mua khá tốt"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:35507d44b1",
+     "title": "MIG: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm tài chính 2025 bằng tiền"
+    },
+    {
+     "ref": "hose:547fdea6de",
+     "title": "BSI: Nghị quyết HĐQT về việc phê duyệt hủy danh sách người SHCK thực hiện quyền lấy ý kiến cổ đông bằng văn bản 2026"
+    },
+    {
+     "ref": "hose:322dfb8b4a",
+     "title": "LHG: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2025 bằng tiền"
+    },
+    {
+     "ref": "hose:6de44e6961",
+     "title": "SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Vo Long Nhi, Fergus Macdonald Clark, Hosford Matthew Sander"
+    },
+    {
+     "ref": "hose:dc239ed880",
+     "title": "SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Lê Quốc Long, Trần Thi Thanh Thủy, Khúc Thị Quỳnh Lâm"
+    },
+    {
+     "ref": "hose:22da8fbb08",
+     "title": "HUB: Nghị quyết HĐQT về việc triển khai phương án chi trả cổ tức bằng tiền và phát hành cổ phiếu để trả cổ tức 2025"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:59ed320ba4",
+   "title": "Vàng ổn định sau khi dữ liệu lạm phát Mỹ ôn hòa làm giảm kỳ vọng Fed tăng lãi suất",
+   "translated": true,
+   "original_title": "Gold Steadies After Tame US Inflation Data Eases Rate-Hike Bets",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-12/gold-steadies-after-tame-us-inflation-data-eases-rate-hike-bets"
+  },
+  {
+   "ref": "bloomberg:31aa7d46bd",
+   "title": "Origin Energy báo lãi vượt dự báo nhờ nhu cầu xe điện và pin tăng tại Australia",
+   "translated": true,
+   "original_title": "Origin Profit Beats Estimates on Australian EV, Battery Uptake",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-12/origin-profit-beats-estimates-on-australian-ev-battery-uptake"
+  },
+  {
+   "ref": "reuters:ca9344317e",
+   "title": "Ngân hàng ngoại nhắm vai trò lớn hơn tại Việt Nam khi tham vọng tăng trưởng gây áp lực nguồn vốn",
+   "translated": true,
+   "original_title": "Foreign banks eye bigger Vietnam role as growth ambitions fuel funding crunch",
+   "link": "https://www.reuters.com/world/asia-pacific/foreign-banks-eye-bigger-vietnam-role-growth-ambitions-fuel-funding-crunch-2026-08-12/"
+  },
+  {
+   "ref": "reuters:9c1f9c5fca",
+   "title": "Ford chuyển sản xuất một số mẫu xe Lincoln từ Trung Quốc về Mỹ",
+   "translated": true,
+   "original_title": "Ford to move production of some Lincoln models from China to US",
+   "link": "https://www.reuters.com/business/autos-transportation/automaker-ford-move-production-some-lincoln-models-china-us-2026-08-12/"
+  },
+  {
+   "ref": "reuters:d637700af7",
+   "title": "Doanh số xe điện toàn cầu tăng trong tháng 7 nhờ châu Âu bù đắp sự suy yếu tại Trung Quốc và Bắc Mỹ",
+   "translated": true,
+   "original_title": "Global EV sales rise in July as Europe offsets weakness in China and North America",
+   "link": "https://www.reuters.com/business/autos-transportation/global-ev-sales-rise-july-europe-offsets-weakness-china-north-america-2026-08-12/"
+  },
+  {
+   "ref": "reuters:49b6dcd81f",
+   "title": "S&P 500 tăng điểm nhờ kết quả kinh doanh CoreWeave thúc đẩy lạc quan về AI",
+   "translated": true,
+   "original_title": "S&P 500 ends higher as CoreWeave results fuel AI optimism",
+   "link": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12/"
+  },
+  {
+   "ref": "reuters:ca8537d541",
+   "title": "Lạm phát Venezuela tăng vọt gần 20% trong tháng 7, theo ngân hàng trung ương",
+   "translated": true,
+   "original_title": "Venezuela inflation surges to near 20% in July, central bank says",
+   "link": "https://www.reuters.com/world/americas/venezuela-inflation-grows-199-july-central-bank-says-2026-08-12/"
+  },
+  {
+   "ref": "reuters:5087e85846",
+   "title": "Australia chi 1,76 tỷ USD để duy trì hoạt động nhà máy luyện nhôm của Rio Tinto",
+   "translated": true,
+   "original_title": "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open",
+   "link": "https://www.reuters.com/business/energy/australia-commits-176-billion-keep-rio-tinto-aluminium-smelter-open-2026-08-12/"
+  },
+  {
+   "ref": "reuters:38090e835b",
+   "title": "Telstra (Australia) báo lãi năm tăng 3,2%, công bố thêm chương trình mua lại cổ phiếu 706 triệu USD",
+   "translated": true,
+   "original_title": "Australia's Telstra posts 3.2% rise in annual profit, unveils further $706 million buyback",
+   "link": "https://www.reuters.com/business/australias-telstra-posts-32-rise-annual-profit-unveils-further-706-million-2026-08-12/"
+  },
+  {
+   "ref": "reuters:33e1101c0e",
+   "title": "Treasury Wine giảm 42% lợi nhuận năm do mảng kinh doanh tại châu Mỹ suy yếu",
+   "translated": true,
+   "original_title": "Treasury Wine hurt by weak Americas business, posts 42% drop in annual profit",
+   "link": "https://www.reuters.com/world/asia-pacific/treasury-wine-hurt-by-weak-americas-business-posts-42-drop-annual-profit-2026-08-12/"
+  },
+  {
+   "ref": "reuters:256a104c8c",
+   "title": "ANZ: Thay đổi thuế bất động sản ảnh hưởng nhu cầu vay mua nhà, lợi nhuận vẫn tăng nhẹ",
+   "translated": true,
+   "original_title": "ANZ says property tax changes hit mortgage demand, posts slightly higher profit",
+   "link": "https://www.reuters.com/business/finance/anz-says-property-tax-changes-hit-mortgage-demand-posts-slightly-higher-profit-2026-08-12/"
+  },
+  {
+   "ref": "tg-marketfeed:1017383",
+   "title": "Mỹ dự kiến rút toàn bộ lực lượng khỏi Iraq trước 30/9, chấm dứt hiện diện quân sự kể từ năm 2003",
+   "translated": true,
+   "original_title": "US ON TRACK TO WITHDRAW ALL FORCES FROM IRAQ BY SEPTEMBER 30, ENDING ITS MILITARY PRESENCE THERE SINCE THE 2003 INVASION, AS IRAQI FORCES TAKE FULL RESPONSIBILITY FOR COUNTERING ISIS, ABC NEWS REPORTS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105795",
+   "title": "(Tiêu điểm) Apple đàm phán trả tiền cho nhà xuất bản để cấp nội dung cho Siri AI, theo WSJ",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Apple đàm phán trả tiền cho nhà xuất bản để cấp nội dung cho Siri AI, theo WSJ Chi tiết xem tại: https://dubaotiente.net/tieu-diem/apple-dam-phan-tra-tien-cho-nha-xuat-ban-cap-noi-dung-siri-ai-wsj-111102.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105794",
+   "title": "(Tiêu điểm) UBS: Lãi suất thực giảm sẽ hồi sinh nhu cầu vàng, coi nhịp điều chỉnh là cơ hội mua",
+   "translated": false,
+   "original_title": "(Tiêu điểm) UBS: Lãi suất thực giảm sẽ hồi sinh nhu cầu vàng, coi nhịp điều chỉnh là cơ hội mua Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ubs-lai-suat-thuc-giam-se-hoi-sinh-nhu-cau-vang-coi-nhip-dieu-chinh-la-co-hoi-mua-111101.html",
+   "link": null
+  }
+ ],
+ "content_sha": "9b5b9115fc6b820c59370107143902461d40a5394b7a5cf7ad6f8404acea08fd"
+}
