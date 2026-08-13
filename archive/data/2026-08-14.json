@@ -782,5 +782,68 @@
    "link": "https://bbw.vn/tho-nhi-ky-tim-cach-canh-tranh-voi-dubai-trong-cuoc-dua-hut-gioi-sieu-giau-59733.html"
   }
  ],
- "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b"
+ "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "003b107f322ece91b3ef6bcdebcf29e55f602ea2",
+   "published_at": "2026-08-14T06:53:46+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "224",
+   "sent_at": "2026-08-14T06:53:47+07:00",
+   "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "224",
+     "sent_at": "2026-08-14T06:53:47+07:00",
+     "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "47da6d960f588f01d64e",
+   "sent_at": "2026-08-14T06:53:48+07:00",
+   "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "47da6d960f588f01d64e",
+     "sent_at": "2026-08-14T06:53:48+07:00",
+     "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "45fb8454e69a66c33f8c",
+     "sent_at": "2026-08-14T06:53:50+07:00",
+     "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "ddf603ad6e63ee3ab775",
+     "sent_at": "2026-08-14T06:53:52+07:00",
+     "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "b36257903a5eba07e348",
+     "sent_at": "2026-08-14T06:53:53+07:00",
+     "content_sha": "a8cc0c2ea47fc19e3915c9cfff6a368aead4a8e31b0be6424891ac80f0f4378b"
+    }
+   ]
+  }
+ }
 }
