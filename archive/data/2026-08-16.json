@@ -321,5 +321,68 @@
    "link": "https://bbw.vn/yie-hsin-hung-dau-tu-ai-co-the-can-3-nam-de-phat-huy-day-du-hieu-qua-59735.html"
   }
  ],
- "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6"
+ "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "fa4560b85fcd68bceb248839d0195247c6f6ec59",
+   "published_at": "2026-08-16T06:44:46+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "226",
+   "sent_at": "2026-08-16T06:44:47+07:00",
+   "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "226",
+     "sent_at": "2026-08-16T06:44:47+07:00",
+     "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "6f77519b2ce1aeb8f7f7",
+   "sent_at": "2026-08-16T06:44:48+07:00",
+   "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "6f77519b2ce1aeb8f7f7",
+     "sent_at": "2026-08-16T06:44:48+07:00",
+     "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "3100e1139c691e30477f",
+     "sent_at": "2026-08-16T06:44:50+07:00",
+     "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "bf17a532d8485a11035e",
+     "sent_at": "2026-08-16T06:44:51+07:00",
+     "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "7dc5ee75920f10564919",
+     "sent_at": "2026-08-16T06:44:52+07:00",
+     "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6"
+    }
+   ]
+  }
+ }
 }
