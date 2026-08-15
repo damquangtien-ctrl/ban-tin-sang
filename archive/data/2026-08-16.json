@@ -1,0 +1,325 @@
+{
+ "date": "2026-08-16",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Dubaotiente",
+   "text": "Bán lẻ Mỹ tháng 7 bất ngờ giảm 0,6% so với dự báo tăng 0,1%, khiến USD rơi xuống đáy nhiều tuần và giới đầu tư giảm cược Fed sẽ tăng lãi suất."
+  },
+  {
+   "source": "Reuters",
+   "text": "Nvidia cân nhắc rót 3 tỷ USD vào SB Energy cho trung tâm dữ liệu OpenAI, trong khi WSJ nói cam kết chi tổng thể đã bị cắt từ 250 tỷ USD xuống dưới 120 tỷ USD."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Căng thẳng eo biển Hormuz leo thang: UAE tố Iran tấn công tàu ADNOC lần 3 trong chưa đầy một tuần, cùng lúc Iran và Oman thông báo đạt thỏa thuận về tuyến hàng hải qua eo biển này."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Doanh thu quý II của Anthropic vượt 11,5 tỷ USD, tăng ít nhất 14 lần so với cùng kỳ, giữa lúc OpenAI cũng báo doanh thu theo năm vượt 40 tỷ USD."
+  },
+  {
+   "source": "Reuters",
+   "text": "Israel không kích miền nam Lebanon khiến ít nhất 11 người thiệt mạng, rủi ro địa chính trị Trung Đông tiếp tục gây sức ép lên giá dầu và vàng."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-36,55 (-2,07%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.729,08 điểm"
+   },
+   {
+    "change": "-3,35 (-1,18%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "279,99 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~16.163 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng 878,1 tỷ đồng"
+   },
+   {
+    "change": "+700.000 đồng",
+    "direction": "up",
+    "label": "Vàng SJC",
+    "value": "141,00 - 144,00 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.950 · Bán 26.330"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua giảm nhẹ (S&P 500 -0,17%, Dow Jones -0,20%, Nasdaq -0,28%) khi doanh số bán lẻ và niềm tin tiêu dùng yếu hơn dự báo làm dấy lên lo ngại tăng trưởng, trong khi giá dầu và vàng cùng tăng trước rủi ro địa chính trị tại eo biển Hormuz. Tại thị trường trong nước, phiên gần nhất (14/8) VN-Index giảm 36,55 điểm (-2,07%) còn 1.729,08 điểm, HNX-Index giảm 1,18% còn 279,99 điểm; thanh khoản HOSE khoảng 16.163 tỷ đồng và khối ngoại bán ròng 878,1 tỷ đồng. Giá vàng SJC sáng nay tăng 700.000 đồng/lượng lên 141,00 - 144,00 triệu đồng/lượng, tỷ giá USD/VND tại Vietcombank niêm yết mua vào 25.950 - bán ra 26.330 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.17,
+    "label": "S&P 500",
+    "value": "7.785,8"
+   },
+   {
+    "change_pct": -0.2,
+    "label": "Dow Jones",
+    "value": "53.732,4"
+   },
+   {
+    "change_pct": -0.28,
+    "label": "Nasdaq",
+    "value": "26.729,2"
+   },
+   {
+    "change_pct": 1.42,
+    "label": "Dầu WTI",
+    "value": "82,4 USD"
+   },
+   {
+    "change_pct": 1.67,
+    "label": "Dầu Brent",
+    "value": "88,5 USD"
+   },
+   {
+    "change_pct": 1.69,
+    "label": "Vàng thế giới",
+    "value": "4.437 USD"
+   },
+   {
+    "change_pct": 0.09,
+    "label": "Bitcoin",
+    "value": "63.035 USD"
+   },
+   {
+    "change_pct": -0.32,
+    "label": "DXY",
+    "value": "99,64"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "bloomberg:2aaf32a2d0",
+   "title": "Kinh tế thế giới: CPI Mỹ hạ nhiệt, kinh tế Anh tăng trưởng",
+   "translated": true,
+   "original_title": "World Economy Latest: US CPI Softens, UK Economy Expands",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-15/world-economy-latest-us-cpi-softens-uk-economy-expands"
+  },
+  {
+   "ref": "bloomberg:9138b8382c",
+   "title": "Lạm phát Mỹ đang hạ nhiệt, nhưng mục tiêu 2% liệu có còn xa vời?",
+   "translated": true,
+   "original_title": "Inflation Is Cooling. But is 2% Out of Reach?",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-15/inflation-is-cooling-but-is-2-out-of-reach-video"
+  },
+  {
+   "ref": "tg-dubaotiente:105863",
+   "title": "Doanh số bán lẻ Mỹ tháng 7 giảm 0,6%, trái ngược dự báo tăng 0,1%",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Doanh số bán lẻ của Mỹ tháng 7 giảm 0.6% so với dự báo tăng 0.1% Chi tiết xem tại: https://dubaotiente.net/tieu-diem/doanh-so-ban-le-cua-my-thang-7-giam-0-6-vs-du-bao-tang-0-1-111157.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396444",
+   "title": "USD có thể giảm liên tiếp 6 tuần khi kỳ vọng Fed tăng lãi suất hạ nhiệt sau số liệu bán lẻ yếu",
+   "translated": false,
+   "original_title": "▫️ USD có khả năng giảm liên tiếp sáu tuần do kỳ vọng lãi suất giảm Chỉ số USD (DXY) đã giảm xuống mức thấp nhất kể từ tháng 5, do dữ liệu bán lẻ của Mỹ bất ngờ yếu kém, khiến các nhà giao dịch giảm kỳ vọng về việc tăng lãi suất trong năm nay. Sau khi công bố dữ liệu kinh tế này, các nhà giao dịch trái phiếu đã rút lại cược về việc Cục Dự trữ Liên bang sẽ tăng chi phí vay mượn vào năm 2026, điều n",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105866",
+   "title": "Niềm tin tiêu dùng Mỹ (UMich) sơ bộ tháng 8 chỉ đạt 51,0, thấp hơn nhiều so với dự báo 54,5",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Chỉ số niềm tin tiêu dùng UMich sơ bộ tháng 8 của Mỹ: 51.0 so với dự báo 54.5 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/chi-so-niem-tin-tieu-dung-umich-so-bo-thang-8-my-111160.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396453",
+   "title": "Chủ tịch Fed Chicago Goolsbee: cần thêm bằng chứng mới xác nhận lạm phát đang giảm",
+   "translated": false,
+   "original_title": "▫️ Phát biểu của Chủ tịch Fed Chicago: Cần thêm bằng chứng để xác nhận lạm phát giảm Chủ tịch Chicago Fed, Goolsbee, cho biết dữ liệu CPI gần đây là tích cực, nhưng lạm phát trong tháng Năm và Sáu vẫn cao. Ông nhấn mạnh cần thêm ba đến bốn tháng để xác nhận giá cả đang dần trở về mục tiêu 2%. Ông ủng hộ việc giữ nguyên lãi suất trong tháng Bảy, cho rằng lạm phát vẫn là mối quan tâm lớn nhất, trong",
+   "link": null
+  },
+  {
+   "ref": "reuters:15c5c544c5",
+   "title": "Mỹ sẽ yêu cầu các đối tác chọn phe trong cuộc đua AI với Trung Quốc",
+   "translated": true,
+   "original_title": "US to tell partners they must pick sides in AI race with China",
+   "link": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/"
+  },
+  {
+   "ref": "reuters:c1c6a3e722",
+   "title": "Nvidia cân nhắc đầu tư 3 tỷ USD vào SB Energy trong thỏa thuận trung tâm dữ liệu cho OpenAI",
+   "translated": true,
+   "original_title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
+   "link": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15/"
+  },
+  {
+   "ref": "tg-marketfeed:1018961",
+   "title": "WSJ: Nvidia cắt giảm cam kết trung tâm dữ liệu với OpenAI từ 250 tỷ USD xuống dưới 120 tỷ USD, giảm bớt lo ngại về chi tiêu vốn AI",
+   "translated": true,
+   "original_title": "🌅 Market News Digest Aug 14-15, 2026 EST 🔥 Top Stories • Hormuz risk spikes — Iran and Trump trade threats as an ADNOC-linked vessel is hit; shipping through the strait is now the key crude-market flashpoint • Nvidia trims OpenAI exposure — WSJ says the $250B data-center commitment is being cut to under $120B, easing investor concerns on AI capex • Jane Street hit hard — Reuters/FT say July tradin",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:c5bd7cdded",
+   "title": "Giới đầu tư trái phiếu lo ngại về 70 tỷ USD bảo lãnh tín dụng ngầm của các công ty AI",
+   "translated": true,
+   "original_title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops"
+  },
+  {
+   "ref": "bloomberg:e6de3aa2ce",
+   "title": "'Lạm phát vì chip AI' bắt đầu ảnh hưởng tới kinh tế Anh",
+   "translated": true,
+   "original_title": "AI ‘Chipflation’ Washes Ashore in the UK Economy",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-15/ai-chipflation-washes-ashore-in-the-uk-economy"
+  },
+  {
+   "ref": "tg-vnwallstreet:396440",
+   "title": "SK Hynix tăng đầu tư thiết bị hơn 70% trong nửa đầu năm để mở rộng năng lực lưu trữ AI",
+   "translated": false,
+   "original_title": "▫️ SK Hynix tăng đầu tư thiết bị hơn 70% trong nửa đầu năm, mở rộng năng lực lưu trữ AI Theo báo chí Hàn Quốc, SK Hynix đã tăng mạnh đầu tư thiết bị và nghiên cứu trong nửa đầu năm nay để đáp ứng nhu cầu lưu trữ AI ngày càng tăng. Chi tiêu tiền mặt cho tài sản hữu hình vượt 18 triệu tỷ won, tăng hơn 70% so với cùng kỳ năm ngoái. Theo báo cáo nửa năm được SK Hynix công bố vào ngày 14, chi tiêu tiền",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396431",
+   "title": "Bill Gates cùng SK Group, HD Hyundai bàn hợp tác điện hạt nhân nhằm đáp ứng nhu cầu điện cho AI",
+   "translated": false,
+   "original_title": "▫️ Gates và SK, HD Hyundai thảo luận hợp tác năng lượng hạt nhân, nhắm đến nhu cầu điện từ AI Theo báo chí Hàn Quốc, vào ngày 14 tháng 8, Bill Gates, đồng sáng lập Microsoft và là người sáng lập công ty năng lượng hạt nhân thế hệ tiếp theo TerraPower, đã có một loạt cuộc gặp với Chủ tịch SK Group Choi Tae-won, Chủ tịch HD Hyundai Chung Ki-sun và các nhân vật quan trọng khác trong giới chính trị và",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396458",
+   "title": "SoftBank giảm 71,5% cổ phần tại TSMC, mua vào cổ phiếu Capital One",
+   "translated": false,
+   "original_title": "▫️ SoftBank giảm mạnh cổ phần TSMC, mua vào Capital One SoftBank đã công bố trong tài liệu quản lý SEC mới nhất rằng họ đã mua lại cổ phiếu của Capital One trong quý II. Tính đến ngày 30 tháng 6, SoftBank đã mua 276,811 cổ phiếu, với giá trị khoảng 55.5 triệu USD. Đồng thời, SoftBank đã giảm 71.5% cổ phần tại TSMC, bán ra 1.4 triệu cổ phiếu và thu về khoảng 269.8 triệu USD. Trong quý này, SoftBank",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105832",
+   "title": "OpenAI: doanh thu chạy theo năm vượt 40 tỷ USD giữa cuộc đua với Anthropic",
+   "translated": false,
+   "original_title": "(Tiêu điểm) OpenAI: Doanh thu chạy theo năm vượt 40 tỷ USD giữa cuộc đua với Anthropic Chi tiết xem tại: https://dubaotiente.net/tieu-diem/openai-doanh-thu-chay-theo-nam-vuot-40-ty-usd-111133.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396470",
+   "title": "Doanh thu quý II của Anthropic vượt 11,5 tỷ USD, tăng ít nhất 14 lần so với cùng kỳ",
+   "translated": false,
+   "original_title": "▫️ Doanh thu quý II của Anthropic vượt 11,5 tỷ USD, tăng ít nhất 14 lần so với năm trước Theo báo cáo từ Bloomberg, doanh thu quý II của Anthropic đạt hơn 11,5 tỷ USD, tăng ít nhất 14 lần so với 787 triệu USD cùng kỳ năm trước, và cao hơn cả 4,73 tỷ USD của quý I năm nay. Công ty đã ghi nhận lợi nhuận hoạt động điều chỉnh dương trong quý này. Anthropic từng ở vị trí theo sau trong cuộc đua AI, như",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396463",
+   "title": "Trump: sẽ sớm tuyên bố eo biển Hormuz là 'lãnh thổ Mỹ'",
+   "translated": false,
+   "original_title": "🔴 Trump: Sẽ sớm công bố eo biển Hormuz là \"lãnh thổ Mỹ\" Tổng thống Mỹ Donald Trump cho biết sẽ sớm công bố eo biển Hormuz là \"lãnh thổ của Mỹ\" sau khi đánh bại Iran. Ông mô tả việc phong tỏa Iran là \"một bức tường thép\" và khẳng định Mỹ đã sẵn sàng đối phó với Iran, không cho phép nước này tiếp tục các hành động liên quan và sở hữu vũ khí hạt nhân. Trump cho biết người dân Mỹ sẽ phải \"trả một cái ",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1018969",
+   "title": "UAE tố Iran tấn công tàu ADNOC lần thứ ba trong chưa đầy một tuần tại eo biển Hormuz",
+   "translated": true,
+   "original_title": "UAE ACCUSES IRAN OF THIRD ADNOC ATTACK THE UAE SAYS IRAN ATTACKED ANOTHER ADNOC VESSEL TRANSITING THE STRAIT OF HORMUZ ON FRIDAY, MARKING THE THIRD SUCH INCIDENT IN LESS THAN A WEEK. NO INJURIES WERE REPORTED. ABU DHABI URGED TEHRAN TO HALT THE ATTACKS AND FULLY REOPEN HORMUZ, WHILE WARNING IT WILL DEFEND ITS NAVIGATION RIGHTS AND NATIONAL INTERESTS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396487",
+   "title": "Iran và Oman đạt thỏa thuận về tuyến hàng hải qua eo biển Hormuz",
+   "translated": false,
+   "original_title": "🔴 Iran và Oman đạt thỏa thuận về tuyến hàng hải qua eo biển Hormuz Iran và Oman đã đạt được thỏa thuận về tuyến đường hàng hải qua eo biển Hormuz. Theo thông tin từ các phương tiện truyền thông, hai nước đang tiến tới một thỏa thuận quản lý eo biển này, với việc thống nhất một \"bản đồ hàng hải\" như một phần của thỏa thuận rộng hơn. Phát ngôn viên Bộ Ngoại giao Iran, Baghaei, cho biết thỏa thuận nà",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396456",
+   "title": "Houthi dùng drone tấn công cơ sở của Saudi Aramco tại tỉnh Najran, Ả Rập Xê Út",
+   "translated": false,
+   "original_title": "🔴 Hãng thông tấn Saba do lực lượng Houthi kiểm soát cho biết, lực lượng này đã sử dụng máy bay không người lái để tấn công cơ sở của Saudi Aramco tại tỉnh Najran, Ả Rập Xê Út. #dầu #Ả_Rập_Xê_Út",
+   "link": null
+  },
+  {
+   "ref": "reuters:e86ecf195b",
+   "title": "Lebanon: không kích của Israel ở miền nam nước này khiến ít nhất 11 người thiệt mạng",
+   "translated": true,
+   "original_title": "Lebanon says Israeli strikes in south of the country kill at least 11​​​",
+   "link": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-nine-south-lebanon-state-news-reports-2026-08-15/"
+  },
+  {
+   "ref": "bloomberg:eb054d74e9",
+   "title": "Nguy cơ chiến tranh Mỹ-Iran có thể lặp lại thành nhiều vòng xung đột",
+   "translated": true,
+   "original_title": "US-Iran War Risks Repeated Cycles of Fighting",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-15/us-iran-war-risks-repeated-cycles-of-fighting-video"
+  },
+  {
+   "ref": "bloomberg:32866cb7a2",
+   "title": "Lệnh trừng phạt Iran có thể khiến thương mại dầu mỏ Iran-Trung Quốc bị chú ý",
+   "translated": true,
+   "original_title": "Iran Sanctions Could Put China Oil Trade in Focus",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-15/iran-sanctions-could-put-china-oil-trade-in-focus-video"
+  },
+  {
+   "ref": "tg-dubaotiente:105844",
+   "title": "Vàng tiếp tục điều chỉnh từ đỉnh 2 tháng khi rủi ro Iran lấn át kỳ vọng Fed giảm lãi suất",
+   "translated": false,
+   "original_title": "Vàng tiếp tục điều chỉnh từ đỉnh hai tháng khi rủi ro Iran lấn át kỳ vọng Fed giảm lãi suất Vàng chịu áp lực bán phiên thứ hai liên tiếp trong ngày thứ Sáu. Rủi ro địa chính trị hỗ trợ USD trú ẩn an toàn, gây sức ép lên giá vàng. Kỳ vọng Fed tăng lãi suất suy yếu có thể giúp hạn chế đà giảm của vàng, tài sản không sinh lãi. Chi tiết xem tại: https://dubaotiente.net/vang-tiep-tuc-dieu-chinh-tu-dinh",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105857",
+   "title": "Tín dụng ngân hàng mới của Trung Quốc lại giảm trong tháng 7, lần thứ hai trong năm",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Tín dụng ngân hàng mới của Trung Quốc lại giảm trong tháng 7 – lần thứ hai trong năm nay Chi tiết xem tại: https://dubaotiente.net/tieu-diem/tin-dung-ngan-hang-moi-cua-trung-quoc-lai-giam-trong-thang-7-lan-thu-hai-trong-nam-111151.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105848",
+   "title": "BOJ được cho là sẵn sàng tăng lãi suất vào tháng 9, cân nhắc đẩy nhanh tốc độ thắt chặt",
+   "translated": false,
+   "original_title": "(Tiêu điểm) BOJ được cho là sẵn sàng tăng lãi suất vào tháng 9, cân nhắc đẩy nhanh tốc độ thắt chặt Chi tiết xem tại: https://dubaotiente.net/tieu-diem/boj-du-kien-tang-lai-suat-thang-9-day-nhanh-toc-do-that-chat-111144.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:781e929dd5",
+   "title": "Mỹ và Canada vẫn còn bất đồng trước hạn chót thuế quan 50%",
+   "translated": true,
+   "original_title": "US, Canada Still See Sticking Points Before Deadline for 50% Tariffs",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-15/us-canada-still-see-sticking-points-before-deadline-for-50-tariffs"
+  },
+  {
+   "ref": "tg-dubaotiente:105840",
+   "title": "Trung Quốc thiếu tàu chở ô tô xuất khẩu, giá thuê tàu tăng vọt",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Trung Quốc thiếu tàu chở xe xuất khẩu, giá thuê tàu tăng vọt Chi tiết xem tại: https://dubaotiente.net/tieu-diem/trung-quoc-thieu-tau-cho-xe-xuat-khau-gia-thue-tau-tang-vot-111138.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:e71c63213e",
+   "title": "\"Mùa đông tiền số\" có thể sắp kết thúc",
+   "translated": false,
+   "original_title": "\"Mùa đông tiền số\" có thể sắp kết thúc",
+   "link": "https://bbw.vn/mua-dong-tien-so-co-the-sap-ket-thuc-59737.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:4ae1d1ac83",
+   "title": "Yie-Hsin Hung: Đầu tư AI có thể cần 3 năm để phát huy đầy đủ hiệu quả",
+   "translated": false,
+   "original_title": "Yie-Hsin Hung: Đầu tư AI có thể cần 3 năm để phát huy đầy đủ hiệu quả",
+   "link": "https://bbw.vn/yie-hsin-hung-dau-tu-ai-co-the-can-3-nam-de-phat-huy-day-du-hieu-qua-59735.html"
+  }
+ ],
+ "content_sha": "054fc9492ed56c43f752c1e4bba1f1208585545386d99d39de90c8cd8c33cdb6"
+}
