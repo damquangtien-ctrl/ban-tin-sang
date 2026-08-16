@@ -1,0 +1,668 @@
+{
+ "date": "2026-08-17",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Vận chuyển qua eo biển Hormuz tiếp tục chậm lại sau các vụ tấn công tàu chở dầu, giá dầu Brent tiến gần 89 USD/thùng"
+  },
+  {
+   "source": "Vietstock",
+   "text": "Ngân hàng Nhà nước phát hiện vi phạm kinh tế hơn 562.468 tỷ đồng qua công tác thanh tra"
+  },
+  {
+   "source": "FiinQuant",
+   "text": "VN-Index phiên 14/8 giảm 2,07% về 1.729,08 điểm, khối ngoại bán ròng gần 878 tỷ đồng trên HOSE"
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "Indonesia tăng tốc đầu tư vào Việt Nam với thương vụ M&A trị giá hơn 1,7 tỷ USD"
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "Thủ tướng chỉ đạo điều hành linh hoạt lãi suất, tăng thanh khoản, giảm chi phí vốn và hạ lãi vay"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:61688c69a4",
+     "title": "Vạch trần đường dây lừa đảo hơn 110 tỷ: Giả danh nhân viên ngân hàng, \"đo ni đóng giày\" kịch bản cho từng nạn nhân, có nhóm chuyên rửa tiền"
+    },
+    {
+     "ref": "cafef:ebb8fc45b6",
+     "title": "Khởi tố giám đốc Phạm Hữu Khải và Trưởng phòng Kỹ thuật Mai Văn Dũng"
+    },
+    {
+     "ref": "cafef:05ccedf48c",
+     "title": "Khởi tố Giám đốc Công ty TNHH Franking Việt Nam"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:f08460ca96",
+     "title": "Ngân hàng Nhà nước phát hiện vi phạm kinh tế 562.468 tỷ đồng qua thanh tra"
+    },
+    {
+     "ref": "vietstock:acef427af2",
+     "title": "Giám đốc Ban Quản lý dự án ở Huế bị bắt"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:e90354f2b3",
+     "title": "Siết minh bạch giá thuốc, hàng loạt doanh nghiệp bị xử phạt"
+    },
+    {
+     "ref": "b-o-u-t:c6b59b3d51",
+     "title": "Khởi tố thêm 6 đối tượng trong vụ làm giả hồ sơ thí nghiệm vật liệu xây dựng"
+    },
+    {
+     "ref": "b-o-u-t:2bbdcf0f89",
+     "title": "Loạt sai phạm tại dự án xử lý rác, giám đốc Ban bị khởi tố"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:ceaab02edd",
+     "title": "Đề xuất xử phạt cây xăng tự ý giảm lượng bán"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:e43ee88c87",
+     "title": "Đường dây rút trộm hàng trăm nghìn lít dầu diesel tại ga Vinh bị triệt phá"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-36,55 điểm (-2,07%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.729,08 điểm"
+   },
+   {
+    "change": "-3,35 điểm (-1,18%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "279,99 điểm"
+   },
+   {
+    "change": "KLGD 636,5 triệu cp",
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "16.162,7 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 878,1 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "Mua 141 - Bán 144 triệu đồng/lượng"
+   },
+   {
+    "change": "Mua CK 25.950",
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.330 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm 16/8 đồng loạt giảm nhẹ, với S&P 500 mất 0,17%, Dow Jones giảm 0,20% và Nasdaq giảm 0,28%, trong bối cảnh nhà đầu tư theo dõi sát diễn biến căng thẳng tại eo biển Hormuz. Giá dầu và vàng cùng đi lên: dầu Brent tăng lên 88,7 USD/thùng (+0,21%), dầu WTI đạt 82,4 USD/thùng (+0,05%), vàng thế giới tăng 1,24% lên 4.435 USD/ounce. Trong nước, phiên giao dịch gần nhất - thứ Sáu 14/8 - VN-Index giảm 2,07% (36,55 điểm) về 1.729,08 điểm, HNX-Index giảm 1,18% về 279,99 điểm; thanh khoản HOSE đạt khoảng 16.162,7 tỷ đồng và khối ngoại bán ròng gần 878,1 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.17,
+    "label": "S&P 500",
+    "value": "7.785,8"
+   },
+   {
+    "change_pct": -0.2,
+    "label": "Dow Jones",
+    "value": "53.732,4"
+   },
+   {
+    "change_pct": -0.28,
+    "label": "Nasdaq",
+    "value": "26.729,2"
+   },
+   {
+    "change_pct": 0.05,
+    "label": "Dầu WTI",
+    "value": "82,4 USD"
+   },
+   {
+    "change_pct": 0.21,
+    "label": "Dầu Brent",
+    "value": "88,7 USD"
+   },
+   {
+    "change_pct": 1.24,
+    "label": "Vàng thế giới",
+    "value": "4.435 USD"
+   },
+   {
+    "change_pct": -0.39,
+    "label": "Bitcoin",
+    "value": "62.776 USD"
+   },
+   {
+    "change_pct": -0.08,
+    "label": "DXY",
+    "value": "99,59"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:6a636f513b",
+     "title": "Doanh nghiệp bán Sâm nhung bổ thận vượt kế hoạch lợi nhuận cả năm chỉ sau 6 tháng, sẵn gần 500 tỷ tiền ròng"
+    },
+    {
+     "ref": "cafef:3f6db78226",
+     "title": "Chứng khoán tuần tới sẽ giằng co quanh 1.720 điểm, nhà đầu tư cần làm gì?"
+    },
+    {
+     "ref": "cafef:cdc3c3ea8b",
+     "title": "Nghịch lý định giá trên thị trường chứng khoán: 1+1 không bằng 2!"
+    },
+    {
+     "ref": "cafef:b7bbf11b0a",
+     "title": "Một doanh nghiệp cao su chuẩn bị chốt ngày thưởng cổ phiếu tỷ lệ 300%"
+    },
+    {
+     "ref": "cafef:f58a747d2a",
+     "title": "Chuyên gia Mirae Asset gọi tên loạt cổ phiếu đáng chú ý giữa lúc thị trường rung lắc"
+    },
+    {
+     "ref": "cafef:77dfd1aa87",
+     "title": "Ngay trong tuần này, chứng khoán Việt Nam có một \"cuộc hẹn\" quan trọng"
+    },
+    {
+     "ref": "cafef:ac73f0e25d",
+     "title": "Bidiphar chốt ngày chia cổ tức bằng tiền mặt tỷ lệ 20%"
+    },
+    {
+     "ref": "cafef:8d16285d6e",
+     "title": "Chứng khoán thất bại trước mốc 1.800 điểm, điều gì chờ đợi tuần tới?"
+    },
+    {
+     "ref": "cafef:b784c0e8b2",
+     "title": "Góc nhìn chuyên gia: Rung lắc tiếp diễn, chưa có cơ sở để VN-Index phục hồi bền vững"
+    },
+    {
+     "ref": "cafef:f5ae7c480c",
+     "title": "Quốc Cường Gia Lai thay người đại diện phần vốn tại chủ đầu tư Marina Complex"
+    },
+    {
+     "ref": "cafef:c458f18f41",
+     "title": "Fecon bị nhắc nhở vì chậm công bố thông tin thay đổi nhân sự"
+    },
+    {
+     "ref": "cafef:5b1fb7c611",
+     "title": "Hóa chất Đức Giang bổ nhiệm nhiều nhân sự cấp cao"
+    },
+    {
+     "ref": "cafef:6a0f090cec",
+     "title": "Nike vẫn tăng sản xuất tại Việt Nam, thuê gần 460.000 lao động, được hoàn thuế gần 1 tỷ USD"
+    },
+    {
+     "ref": "cafef:5963e95544",
+     "title": "Nhóm CII tiếp tục tăng sở hữu lên hơn 12% vốn tại PC1"
+    },
+    {
+     "ref": "cafef:bd93d0b785",
+     "title": "Chủ tịch công ty bán cổ phiếu thu trăm tỷ"
+    },
+    {
+     "ref": "cafef:3dd371f1e5",
+     "title": "Tỷ phú Phạm Nhật Vượng đang tạo việc làm cho hơn 400.000 nhân sự trên toàn cầu: \"Sự thật\" của con số này là gì?"
+    },
+    {
+     "ref": "cafef:2b6a0bb4f0",
+     "title": "HD Hyundai Eco Vina đầu tư thêm 116 triệu USD mở rộng sản xuất tại Quảng Ngãi"
+    },
+    {
+     "ref": "cafef:1eae031188",
+     "title": "Phía sau mức lợi nhuận tăng 300% của 'đại gia' sản xuất điện lớn thứ 2 Việt Nam"
+    },
+    {
+     "ref": "cafef:604a9a2de6",
+     "title": "Lịch chốt quyền cổ tức tuần 17-21/8: Cổ tức tiền mặt cao nhất 44%, một \"ông lớn\" sắp chi hơn 5.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:2085036b0c",
+     "title": "Giám đốc cấp cao Dragon Capital: Nhà đầu tư không hoảng loạn bán tháo sẽ có \"phần thưởng\" xứng đáng"
+    },
+    {
+     "ref": "cafef:49552a09ca",
+     "title": "Nhà đầu tư chứng khoán chú ý: Một loạt thay đổi quan trọng vừa được đề xuất"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:aae6faaa82",
+     "title": "VietinBank Tower sắp về tay \"doanh nghiệp bất động sản hàng đầu trong nước\"?"
+    },
+    {
+     "ref": "vietstock:44cc505f1e",
+     "title": "Góc nhìn tuần 17-21/08: Bên mua có giữ được mốc 1,700 điểm?"
+    },
+    {
+     "ref": "vietstock:4f9f279f9b",
+     "title": "Thị trường chứng quyền tuần 17-21/08/2026: Sự bi quan vẫn còn"
+    },
+    {
+     "ref": "vietstock:dfc237420b",
+     "title": "Nhóm CII nắm hơn 12% PC1, khối cổ phiếu trị giá hơn 1 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:6b7aa47273",
+     "title": "Vietstock Weekly 17-21/08/2026: Mất đà phục hồi?"
+    },
+    {
+     "ref": "vietstock:1be2cb7495",
+     "title": "Ngân hàng không chấp hành chỉ đạo về lãi suất có thể bị xử lý"
+    },
+    {
+     "ref": "vietstock:2fd02ab8ab",
+     "title": "Tuần 17-21/08: Nổi bật khoản cổ tức hơn 5 ngàn tỷ của tân binh HOSE"
+    },
+    {
+     "ref": "vietstock:30c8de3432",
+     "title": "Canada: Sản xuất đạt mức cao kỷ lục bất chấp thuế quan"
+    },
+    {
+     "ref": "vietstock:b8951c9ad6",
+     "title": "Báo cáo Tiền ảo tháng 08/2026 (Kỳ 1): Rủi ro ngắn hạn gia tăng"
+    },
+    {
+     "ref": "vietstock:f80056bbd8",
+     "title": "Vàng lội ngược dòng, bật tăng dữ dội: 'Cá mập' nào đang gom vàng?"
+    },
+    {
+     "ref": "vietstock:143a892922",
+     "title": "Thuế chống bán phá giá cá tra đối với Nam Việt, Caseamex cao hơn mức sơ bộ gần 4 lần"
+    },
+    {
+     "ref": "vietstock:1327f0b470",
+     "title": "Hơn 90% vốn QNT đổi chủ chỉ trong 2 ngày, bộ máy lãnh đạo xáo trộn"
+    },
+    {
+     "ref": "vietstock:59d6d2ddd4",
+     "title": "TPHCM thu hồi hơn 4.000m² đất tại An Lạc của doanh nghiệp do DLG và ông Bùi Pháp sáng lập"
+    },
+    {
+     "ref": "vietstock:9377a983f1",
+     "title": "Chứng khoán phái sinh tuần 17-21/08/2026: Rủi ro ngắn hạn gia tăng"
+    },
+    {
+     "ref": "vietstock:6966d510a4",
+     "title": "Hà Nội siết quản lý thị trường vàng, bạc, ngoại tệ"
+    },
+    {
+     "ref": "vietstock:6f40acb13b",
+     "title": "CEO Nhâm Hà Hải được đề cử vào HĐQT VPBankS"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:d402f53677",
+     "title": "Dấu ấn kinh tế thế giới tuần 8-15/8/2026: Eo biển Hormuz vẫn đóng, kỳ vọng lãi suất Fed dịch chuyển"
+    },
+    {
+     "ref": "vneconomy:c7fa85bc08",
+     "title": "Lãi suất còn neo cao, lạm phát chưa phải là rủi ro lớn"
+    },
+    {
+     "ref": "vneconomy:31330ff42a",
+     "title": "Xu thế dòng tiền: Nhịp hồi kỹ thuật kết thúc, VN-Index có nguy cơ \"thủng đáy\" tháng 7?"
+    },
+    {
+     "ref": "vneconomy:69f024d4c1",
+     "title": "Dòng tiền bắt đáy tham gia chưa rõ ràng, khả năng cao thị trường tiếp tục xu hướng điều chỉnh"
+    },
+    {
+     "ref": "vneconomy:ea256f46e5",
+     "title": "HNX bổ nhiệm thêm Phó Tổng giám đốc"
+    },
+    {
+     "ref": "vneconomy:064f5861a4",
+     "title": "\"Thị trường khá hấp dẫn nhưng rủi ro lãi suất, thuế quan vẫn cần theo dõi\""
+    },
+    {
+     "ref": "vneconomy:cc26e32421",
+     "title": "Hàn Quốc yêu cầu nhà đầu tư mới phải học trước khi giao dịch quỹ ETF đòn bẩy"
+    },
+    {
+     "ref": "vneconomy:4f6c3ab9d1",
+     "title": "Cá nhân bắt đáy mua ròng gần 1.300 tỷ đồng phiên cuối tuần"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:90ec5166e8",
+     "title": "Nhận định thị trường phiên giao dịch ngày 17/8: Ưu tiên quản trị rủi ro"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c2822de238",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 17/8: Rủi ro ngắn hạn đang tương đối cao"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c9e10b924f",
+     "title": "Cổ phiếu cần quan tâm ngày 17/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f289852461",
+     "title": "\"Mua trước tin\": Dòng tiền sẽ tìm đến đâu?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:402907ff65",
+     "title": "Thúc đẩy trao đổi thương mại nông sản Việt Nam - Ấn Độ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:62bac50930",
+     "title": "Quảng Yên và Vân Đồn - động lực tăng trưởng của kinh tế Quảng Ninh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0097276ae7",
+     "title": "Đẩy mạnh xuất khẩu cuối năm, kiểm soát cán cân thương mại"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b61b5baf0b",
+     "title": "Thủ tướng: Điều hành linh hoạt lãi suất, tăng thanh khoản, giảm chi phí vốn và hạ lãi vay"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:330aea9c43",
+     "title": "Sửa Luật Chứng khoán: 6 nhóm nội dung sửa đổi đáng chú ý"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5b660f74ac",
+     "title": "Mở cánh cửa cho chu kỳ đầu tư mới từ Australia"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:66c27eb17a",
+     "title": "Indonesia bất ngờ tăng tốc đầu tư vào Việt Nam, thực hiện thương vụ M&A trị giá hơn 1,7 tỷ USD"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7d5bdbb650",
+     "title": "Công ty cổ phần Thuận Đức (TDP): Thông báo điều chỉnh lần 2 thời gian đăng ký và nhận tiền mua trái phiếu (Kỳ 2)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:124551b51a",
+     "title": "Vũ khí bí mật của Trung Quốc trong cuộc cạnh tranh ngành chip bán dẫn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9d709a9d5e",
+     "title": "Dự trữ dầu chiến lược Mỹ giảm sâu dẫn tới lo ngại về khả năng vận hành"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ec964abb18",
+     "title": "Thị trường nhà liền thổ Hà Nội suy yếu do vắng bóng nguồn cung từ các đại dự án"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fadeb2ffcd",
+     "title": "Chứng khoán Capital muốn IPO 12 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:83c6f75da7",
+     "title": "Top 10 cổ phiếu tăng/giảm mạnh nhất tuần: Cơ hội ngắn hạn trên thị trường là không nhiều"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:98c1805531",
+     "title": "Thay đổi tương quan cạnh tranh vì chênh lệch thuế"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:86809e7521",
+     "title": "Hơn 1.000 dự án đã được khởi công, tổng vốn đầu tư vượt 5,7 triệu tỷ đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:8c740cc01b",
+     "title": "Các Quỹ đầu tư quan tâm dự án thép ray 700.000 tấn/năm của Hòa Phát"
+    },
+    {
+     "ref": "b-o-u-t:549056c511",
+     "title": "Góc nhìn TTCK tuần 17/8 - 21/8: Kỳ vọng hiệu ứng tâm lý giúp cải thiện dòng tiền"
+    },
+    {
+     "ref": "b-o-u-t:e7471eeed5",
+     "title": "Bộ Tài chính nêu quan điểm về đầu tư cao tốc Pleiku - Lệ Thanh vốn 17.041 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:ec737b8dbe",
+     "title": "Dư địa lớn thúc đẩy thương mại với Australia, New Zealand"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:2a07d3f271",
+     "title": "VinFast có động thái mới tại quốc gia đông dân thứ 4 thế giới"
+    },
+    {
+     "ref": "markettimes:43be397df2",
+     "title": "Tài chính tuần qua: Ngân hàng đồng loạt giảm lãi suất cho vay, tung gói tín dụng ưu đãi"
+    },
+    {
+     "ref": "markettimes:68ad70962d",
+     "title": "Chứng khoán tuần qua: Đầu tuần hồi phục, cuối tuần \"lao dốc\""
+    },
+    {
+     "ref": "markettimes:4e3170adc0",
+     "title": "Đề xuất sửa đổi quy định về hồ sơ xác định đối tượng không chịu thuế"
+    },
+    {
+     "ref": "markettimes:a467c71f05",
+     "title": "Cơ quan Thuế thông báo tạm hoãn xuất cảnh với các cá nhân nợ thuế trong danh sách công bố"
+    },
+    {
+     "ref": "markettimes:0d02d7a3a1",
+     "title": "Quỹ vàng lớn nhất thế giới mua gần 3 tạ vàng"
+    },
+    {
+     "ref": "markettimes:8418e2f950",
+     "title": "Lãnh đạo cấp cao Bamboo Capital xin từ nhiệm sau 8 tháng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:8b32de86d2",
+     "title": "Cảnh báo cơn sốt tỷ đô: Đừng để sầu riêng một mình!"
+    },
+    {
+     "ref": "ti-n-phong:87e76ad620",
+     "title": "Tủ lạnh, máy giặt 'cũ làm mới' từ EU, Anh sẽ dễ vào Việt Nam?"
+    },
+    {
+     "ref": "ti-n-phong:fb754a386c",
+     "title": "Cận cảnh cầu 1.600 tỷ nối khu thương mại tự do với cảng Nam Đồ Sơn"
+    },
+    {
+     "ref": "ti-n-phong:675b7c4886",
+     "title": "Ngân hàng rao bán bất động sản từ vài tỷ đến hàng trăm tỷ đồng"
+    },
+    {
+     "ref": "ti-n-phong:b8eaf12b1a",
+     "title": "Tiền gửi ngân hàng tăng kỷ lục, nguồn vốn khổng lồ đang chảy về đâu?"
+    },
+    {
+     "ref": "ti-n-phong:be6b400d28",
+     "title": "Cường đô la rời khỏi dự án đắc địa ở Đà Nẵng"
+    },
+    {
+     "ref": "ti-n-phong:2c87e2e77c",
+     "title": "Nhập siêu hơn 20 tỷ USD: Áp lực đến từ đâu?"
+    },
+    {
+     "ref": "ti-n-phong:6009871bcc",
+     "title": "Điện Máy Xanh hoạt động như 'ngân hàng ngầm'?"
+    },
+    {
+     "ref": "ti-n-phong:86872a3401",
+     "title": "Giảm lãi suất ngân hàng: Phải đến được người vay cuối cùng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:64d7dff4ac",
+     "title": "Bộ Tài chính thi đua thực hiện mục tiêu tăng trưởng bền vững \"2 con số\" giai đoạn 2026-2030"
+    },
+    {
+     "ref": "bnews:819e448b89",
+     "title": "Bộ Tài chính đồng loạt giảm chi phí, tiếp sức doanh nghiệp tăng trưởng"
+    },
+    {
+     "ref": "bnews:bdb8fa3eec",
+     "title": "Lãi suất hạ nhiệt, bài toán chi phí vốn còn nhiều áp lực"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:396501",
+   "title": "Đầu tư vàng cần tránh mua vào mù quáng, ẩn số lớn nhất nằm ở chính sách lãi suất của Fed",
+   "translated": true,
+   "original_title": "▫️ Báo Chứng khoán: Đầu tư vàng cần tránh việc mua vào mù quáng Bài viết cho biết, sự không chắc chắn lớn nhất về xu hướng giá vàng hiện nay vẫn nằm ở chính sách tiền tệ của Cục Dự trữ Liên bang Mỹ (Fed). Đợt tăng giá vàng này chủ yếu do nền kinh tế Mỹ yếu đi và chu kỳ tăng lãi suất kết thúc, nhưng xu hướng lạm phát vẫn còn nhiều biến số. Nếu lạm phát bất ngờ tăng trở lại, Fed có thể duy trì chính",
+   "link": null
+  },
+  {
+   "ref": "reuters:fac29f245e",
+   "title": "Vận chuyển qua eo biển Hormuz chậm lại sau các vụ tấn công tàu chở dầu",
+   "translated": true,
+   "original_title": "Shipping via Hormuz strait slows after tanker attacks, data shows",
+   "link": "https://www.reuters.com/world/middle-east/shipping-via-hormuz-strait-slows-after-tanker-attacks-data-shows-2026-08-16/"
+  },
+  {
+   "ref": "reuters:4f787acbc1",
+   "title": "Trump chỉ đạo Lầu Năm Góc giảm quy mô tập trận quân sự với Hàn Quốc",
+   "translated": true,
+   "original_title": "Trump instructs Pentagon to reduce military exercises with South Korea",
+   "link": "https://www.reuters.com/world/china/trump-instructs-pentagon-reduce-military-exercises-with-south-korea-2026-08-16/"
+  },
+  {
+   "ref": "tg-dubaotiente:105878",
+   "title": "Mỹ tính siết kinh tế Iran nhưng ràng buộc với nhà máy lọc dầu Trung Quốc khiến lựa chọn bị hạn chế",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Mỹ tính siết kinh tế Iran, nhưng ràng buộc với nhà máy lọc dầu Trung Quốc hạn chế lựa chọn Chi tiết xem tại: https://dubaotiente.net/tieu-diem/my-tinh-siet-kinh-te-iran-nhung-rang-buoc-voi-nha-may-loc-dau-trung-quoc-han-che-lua-chon-111174.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:a62345547d",
+   "title": "Cổ phiếu WuXi AppTec tăng gấp đôi bất chấp căng thẳng địa chính trị",
+   "translated": true,
+   "original_title": "WuXi AppTec’s 100% Stock Rally Defies Geopolitical Headwinds",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-16/wuxi-apptec-s-100-stock-rally-defies-geopolitical-headwinds"
+  },
+  {
+   "ref": "tg-marketfeed:1019409",
+   "title": "Chính quyền Trump lập kênh liên lạc bí mật với IRGC của Iran qua Tổng thống Kurdistan Barzani, theo Axios",
+   "translated": true,
+   "original_title": "THE TRUMP ADMINISTRATION ESTABLISHED A SECRET BACKCHANNEL TO IRAN'S IRGC, WITH TRUMP USING KURDISTAN PRESIDENT BARZANI TO REACH AN IRGC COMMANDER AND IRAQ'S BARZANI OFFERING TO HELP RESTART US-IRAN NEGOTIATIONS - AXIOS CORRESPONDENT BARAK RAVID ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1019406",
+   "title": "Giá dầu ổn định khi giao tranh Israel - Hezbollah tái diễn và các vụ tấn công tàu tại Hormuz kéo dài, Brent gần 89 USD, WTI quanh 83 USD",
+   "translated": true,
+   "original_title": "OIL STEADIED AS RENEWED ISRAEL-HEZBOLLAH FIGHTING IN LEBANON AND CONTINUED HORMUZ TANKER ATTACKS RAISED DOUBTS OVER A QUICK U.S.-IRAN RESOLUTION, WITH BRENT NEAR $89 A BARREL AND WTI AROUND $83 AFTER CRUDE GAINED MORE THAN 40% THIS YEAR. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1019407",
+   "title": "Iran và Oman tiến gần thỏa thuận quản lý eo biển Hormuz, Mỹ muốn khôi phục quyền đi lại tự do, Bộ trưởng Tài chính Bessent úp mở lệnh trừng phạt mới",
+   "translated": true,
+   "original_title": "IRAN AND OMAN APPEAR CLOSER TO A DEAL ON MANAGING THE STRAIT, BUT THE U.S. — NOT PART OF THE TALKS — WANTS UNRESTRICTED PASSAGE RESTORED, AS TRUMP PREPARES TOUGHER MEASURES AND BESSENT SIGNALED NEW SANCTIONS COULD COME THIS WEEK. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1019408",
+   "title": "Các nhà máy lọc dầu châu Á đẩy mạnh mua dầu thô giao xa, Nga đối mặt thiếu hụt nhiên liệu do Ukraine tấn công nhà máy lọc dầu",
+   "translated": true,
+   "original_title": "ASIAN REFINERS ARE SECURING CRUDE FURTHER AHEAD, WITH INDIAN BUYERS SEEKING NOVEMBER CARGOES, WHILE RUSSIA FACES FUEL SHORTAGES FROM UKRAINIAN REFINERY ATTACKS, LEAVING PHYSICAL FLOWS RESILIENT BUT UPSIDE PRICE RISK HIGH. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105876",
+   "title": "Trung Quốc hoãn công bố dữ liệu kinh tế tháng 7 sang phiên chiều",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Trung Quốc hoãn công bố dữ liệu kinh tế tháng 7 sang phiên chiều Chi tiết xem tại: https://dubaotiente.net/tieu-diem/trung-quoc-hoan-cong-bo-du-lieu-kinh-te-thang-7-111172.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105875",
+   "title": "Globex mở cửa tuần mới, giá dầu nhích nhẹ",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Globex mở cửa tuần mới, dầu nhích nhẹ Chi tiết xem tại: https://dubaotiente.net/tieu-diem/globex-mo-cua-tuan-moi-dau-nhich-nhe-111171.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:75f9598bdf",
+   "title": "Giá dầu nhích lên khi căng thẳng Trung Đông kéo dài",
+   "translated": true,
+   "original_title": "Oil Edges Higher as Middle East Tensions Linger: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-marketfeed:1019401",
+   "title": "Ingenic Semiconductor chào bán cổ phiếu H với giá tối đa 102,80 HKD/cổ phiếu trong đợt IPO toàn cầu",
+   "translated": true,
+   "original_title": "INGENIC SEMICONDUCTOR CO: MAXIMUM BID UNDER GLOBAL OFFERING HK$102.80 PER H SHARE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1019399",
+   "title": "OpenAI giải thể nhóm đánh giá rủi ro thảm khốc từ các mô hình AI, theo Financial Times",
+   "translated": true,
+   "original_title": "JUST IN: OPENAI SHUTS DOWN TEAM RESPONSIBLE FOR ASSESSING WHETHER ITS AI MODELS COULD POSE \"CATASTROPHIC RISKS,\" FT REPORTS. ...",
+   "link": null
+  }
+ ],
+ "content_sha": "81e942c915589278cc22bbe0820bb5c88241adb5866af2b6ecd81cba5f41b6a1"
+}
