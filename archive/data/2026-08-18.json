@@ -602,5 +602,68 @@
    "link": null
   }
  ],
- "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647"
+ "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "37afbda2848d207e3ef871ef0b6b924db366471a",
+   "published_at": "2026-08-18T06:45:16+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "228",
+   "sent_at": "2026-08-18T06:45:17+07:00",
+   "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "228",
+     "sent_at": "2026-08-18T06:45:17+07:00",
+     "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "d861cbefe8626d3b3474",
+   "sent_at": "2026-08-18T06:45:18+07:00",
+   "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "d861cbefe8626d3b3474",
+     "sent_at": "2026-08-18T06:45:18+07:00",
+     "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "cb9281efa562203b7974",
+     "sent_at": "2026-08-18T06:45:20+07:00",
+     "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "73033fbd1b309e69c726",
+     "sent_at": "2026-08-18T06:45:22+07:00",
+     "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "54c6c5a5e02865713c3e",
+     "sent_at": "2026-08-18T06:45:23+07:00",
+     "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647"
+    }
+   ]
+  }
+ }
 }

@@ -1,0 +1,39 @@
+
+########## CHAY LUC 2026-08-18 06:44:20 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-18, ban daily)
+   the gioi 15 tin · Viet Nam 65 tin / 10 bao · phap ly 7 tin · chot quyen 4 ma
+   THAT BAI: 2 loi
+      [C1] bulletin.market_data.domestic[2].change: chuỗi quá dài (42 > 30)
+      [C9] legal: khối 'Tin nhanh Chứng khoán' phải đứng trước 'Google News Pháp lý' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-08-18 06:44:42 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-18, ban daily)
+   the gioi 15 tin · Viet Nam 65 tin / 10 bao · phap ly 7 tin · chot quyen 4 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-18 · the gioi 15 · Viet Nam 65 · phap ly 7
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-18.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-08-18: commit 37afbda2848d · sha noi dung 0c7d37856f2ec1fa
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 18/08 | content_sha e025bdc26c03 | commit 37afbda2848d
+   telegram user/928f6fc4179d OK message_id=228
+   zalo     user/593dd2adbb87 OK message_id=d861cbefe8626d3b3474
+   zalo     group/8fddff299f5f OK message_id=cb9281efa562203b7974
+   zalo     group/240eac12bc5e OK message_id=73033fbd1b309e69c726
+   zalo     group/8b7b62566b6c OK message_id=54c6c5a5e02865713c3e
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-08-18.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-08-18 06:45:23 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
