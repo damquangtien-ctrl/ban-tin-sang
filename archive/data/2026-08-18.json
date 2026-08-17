@@ -1,0 +1,606 @@
+{
+ "date": "2026-08-18",
+ "dividends": [
+  {
+   "event": "Chi cổ tức tiền mặt tỷ lệ 12,25%/cp (khoảng 1.225 đồng/cp)",
+   "record_date": "2026-08-25",
+   "ref": "vietstock:ed5ef8bbb9",
+   "ticker": "TSJ"
+  },
+  {
+   "event": "Chi cổ tức tiền mặt tỷ lệ 19,64%/cp (1.964 đồng/cp)",
+   "record_date": "2026-08-25",
+   "ref": "vietstock:57b810747e",
+   "ticker": "PMC"
+  },
+  {
+   "event": "Chi cổ tức tiền mặt tỷ lệ 20%/cp (2.000 đồng/cp)",
+   "record_date": "2026-08-27",
+   "ref": "vietstock:c78115c815",
+   "ticker": "DBD"
+  },
+  {
+   "event": "Chi cổ tức tiền mặt tỷ lệ 14,27%/cp (1.427 đồng/cp)",
+   "record_date": "2026-08-28",
+   "ref": "vietstock:442fe9a5d5",
+   "ticker": "ILB"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VnEconomy",
+   "text": "VN-Index giảm nhẹ về 1.727,46 điểm, thanh khoản HOSE co hẹp mạnh, khối ngoại bán ròng gần 603 tỷ đồng phiên 17/8"
+  },
+  {
+   "source": "Reuters",
+   "text": "Giá dầu thế giới tăng khoảng 3% khi căng thẳng Mỹ - Iran leo thang, Iran đe dọa mở đợt tấn công mới"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Vàng thế giới duy trì đà tăng phiên thứ hai, quỹ SPDR Gold Trust ghi nhận dòng vốn vào mạnh nhất kể từ 18/6"
+  },
+  {
+   "source": "Vietstock",
+   "text": "TPBank sắp phát hành hơn 416 triệu cổ phiếu trả cổ tức, nâng vốn điều lệ lên gần 31.901 tỷ đồng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Doanh thu quy đổi theo năm của Anthropic vượt 65 tỷ USD giữa lúc dòng vốn tiếp tục đổ vào lĩnh vực AI"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:8ef0bae053",
+     "title": "ĐHĐCĐ DGC: Miễn nhiệm dàn lãnh đạo bị khởi tố"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2625e60833",
+     "title": "Gây khó khăn, buộc doanh nghiệp chi hơn 30 tỷ đồng, nhiều cựu lãnh đạo, cán bộ Bộ LĐ-TB&XH hầu tòa"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:a9cbc0af26",
+     "title": "Chứng khoán DNSE (DSE) của Chủ tịch Nguyễn Hoàng Giang bị phạt"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:56e476fe75",
+     "title": "Cựu thứ trưởng Nguyễn Bá Hoan ra tòa trong vụ 'vòi' doanh nghiệp 31 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:7411f06e63",
+     "title": "Ông Lê Thanh Thản tiếp tục bị truy tố sau 8 lần điều tra bổ sung"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:695dfb7fd4",
+     "title": "Thao túng cổ phiếu VPI của Bất động sản Văn Phú, hai cá nhân bị phạt 1.5 tỷ đồng - baove.congly.vn"
+    },
+    {
+     "ref": "google-news-ph-p-l:4707c35bf6",
+     "title": "Công ty Recess, đơn vị vận hành Lazada tại Việt Nam bị phạt 350 triệu đồng"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-1,62 (-0,09%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.727,46"
+   },
+   {
+    "change": "-1,35 (-0,48%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "278,64"
+   },
+   {
+    "change": "giảm mạnh so phiên trước",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "10.577,7 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 602,6 tỷ đồng"
+   },
+   {
+    "change": "đi ngang so với phiên trước",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "144,2 triệu đ/lượng (bán ra)"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.400 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đồng loạt giảm nhẹ trong phiên 17/8 khi giá dầu tăng khoảng 3% do căng thẳng Mỹ - Iran leo thang, trong khi vàng duy trì đà tăng phiên thứ hai nhờ kỳ vọng Fed giảm tốc độ tăng lãi suất. Tại thị trường trong nước, VN-Index giảm nhẹ 1,62 điểm (-0,09%) xuống 1.727,46 điểm trong phiên 17/8, thanh khoản HOSE co hẹp mạnh còn khoảng 10.577,7 tỷ đồng so với phiên trước. Khối ngoại tiếp tục bán ròng gần 602,6 tỷ đồng trên HOSE, trong khi giá vàng SJC và tỷ giá USD/VND giữ ổn định so với phiên trước.",
+  "tiles": [
+   {
+    "change_pct": -0.52,
+    "label": "S&P 500",
+    "value": "7.745,1"
+   },
+   {
+    "change_pct": -0.51,
+    "label": "Dow Jones",
+    "value": "53.459,8"
+   },
+   {
+    "change_pct": -0.32,
+    "label": "Nasdaq",
+    "value": "26.644,9"
+   },
+   {
+    "change_pct": 3.13,
+    "label": "Dầu WTI",
+    "value": "85,0 USD"
+   },
+   {
+    "change_pct": 3.05,
+    "label": "Dầu Brent",
+    "value": "91,2 USD"
+   },
+   {
+    "change_pct": 2.12,
+    "label": "Vàng thế giới",
+    "value": "4.473 USD"
+   },
+   {
+    "change_pct": 2.67,
+    "label": "Bitcoin",
+    "value": "64.495 USD"
+   },
+   {
+    "change_pct": -0.09,
+    "label": "DXY",
+    "value": "99,58"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:65bd70d9ac",
+     "title": "Doanh nghiệp của ông Nguyễn Hùng Cường sắp trả cổ tức"
+    },
+    {
+     "ref": "cafef:b76538c645",
+     "title": "DN có cổ phiếu đắt nhất sàn chứng khoán dự chi 480 tỷ thâu tóm công ty nắm khu đất 25.000 m2 tại TP Hồ Chí Minh"
+    },
+    {
+     "ref": "cafef:7da4151185",
+     "title": "Tiền mất hút trước \"giờ G\" nâng hạng chứng khoán, điều gì đang xảy ra?"
+    },
+    {
+     "ref": "cafef:5b760555bd",
+     "title": "CTCK chỉ ra cơ hội đầu tư từ việc thoái vốn Nhà nước"
+    },
+    {
+     "ref": "cafef:1ac8166182",
+     "title": "Novaland bán đi một công ty 5.400 tỷ đồng: Xuất hiện Chủ tịch sinh năm 1997"
+    },
+    {
+     "ref": "cafef:c317b3469c",
+     "title": "Ban Quản lý Khu kinh tế Gia Lai yêu cầu Tổng giám đốc Phát Đạt xử lý dứt điểm tồn tại của dự án đô thị 23.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:6028bcf3d1",
+     "title": "HOSE cắt margin 3 cổ phiếu do thua lỗ"
+    },
+    {
+     "ref": "cafef:bf6e62c0c6",
+     "title": "Cựu giảng viên Đại học Kinh tế Quốc dân từ nhiệm ghế Chủ tịch một doanh nghiệp trên HoSE sau 1 năm"
+    },
+    {
+     "ref": "cafef:800bb5b686",
+     "title": "Hoàn thiện thước đo rủi ro thị trường trái phiếu"
+    },
+    {
+     "ref": "cafef:1ab01ed741",
+     "title": "Công ty nông nghiệp của bầu Đức chính thức triển khai IPO, điểm sáng trong ngành nông nghiệp Việt Nam"
+    },
+    {
+     "ref": "cafef:a8ed9b058b",
+     "title": "Cú hích nâng hạng: Dòng tiền gọi tên ai?"
+    },
+    {
+     "ref": "cafef:ae1b7271c7",
+     "title": "Sàn tài sản mã hóa: Vì sao chưa thể hẹn ngày vận hành?"
+    },
+    {
+     "ref": "cafef:032e9e7504",
+     "title": "Cổ phiếu bất động sản 'nổi sóng' sau thông tin đấu giá đất Thủ Thiêm"
+    },
+    {
+     "ref": "cafef:8d21dcbb71",
+     "title": "Một thế lực tung hơn 200 tỷ đồng mua cổ phiếu HOSE phiên đầu tuần"
+    },
+    {
+     "ref": "cafef:ed54895240",
+     "title": "Chứng khoán ngày 17/8: VN-Index giảm nhẹ"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:1b790471b4",
+     "title": "Ra mắt hệ thống đăng ký thành viên Trung tâm Tài chính quốc tế Việt Nam"
+    },
+    {
+     "ref": "vietstock:345df0bc2e",
+     "title": "Bộ trưởng Xây dựng yêu cầu không để giải ngân dồn vào những tháng cuối năm"
+    },
+    {
+     "ref": "vietstock:962d012f56",
+     "title": "Dòng tiền phân hóa ở nhóm bất động sản"
+    },
+    {
+     "ref": "vietstock:81fcac9e52",
+     "title": "Góc nhìn 18/08: Cân bằng chưa đồng nghĩa hồi phục"
+    },
+    {
+     "ref": "vietstock:8ead533320",
+     "title": "Petrolimex muốn bán hơn 23 triệu cp quỹ để đáp ứng điều kiện công ty đại chúng"
+    },
+    {
+     "ref": "vietstock:72b54c8b34",
+     "title": "Theo dấu dòng tiền cá mập 17/08: Khối ngoại và tự doanh trái chiều"
+    },
+    {
+     "ref": "vietstock:a61c5b76dc",
+     "title": "MBS: Cảng Gemalink đang khai thác vượt xa công suất thiết kế"
+    },
+    {
+     "ref": "vietstock:c105f5524d",
+     "title": "Nữ Chủ tịch Rox Key Holdings bất ngờ xin từ nhiệm"
+    },
+    {
+     "ref": "vietstock:98bdb9bc3e",
+     "title": "Vietstock Daily 18/08/2026: Giằng co trong thận trọng"
+    },
+    {
+     "ref": "vietstock:ed5ef8bbb9",
+     "title": "TSJ sắp chi gần 92 tỷ trả cổ tức tiền mặt, 2 cổ đông lớn bỏ túi 78 tỷ"
+    },
+    {
+     "ref": "vietstock:68cc273b91",
+     "title": "NAV chi tạm ứng cổ tức đ​ợt 1/2026 với tỷ lệ 8%"
+    },
+    {
+     "ref": "vietstock:d0fd8c791b",
+     "title": "DPM thành lập công ty hóa chất vốn 220 tỷ"
+    },
+    {
+     "ref": "vietstock:03060b20c2",
+     "title": "Hơn 43% vốn Xuân Mai Corp đổi chủ, muốn thay tên sau 12 năm"
+    },
+    {
+     "ref": "vietstock:4d9a10fb35",
+     "title": "Vừa nhận ghế Tổng Giám đốc, ông Nguyễn Thế An đăng ký mua 1 triệu cp TCO"
+    },
+    {
+     "ref": "vietstock:9958fb6dc0",
+     "title": "Dời nhà máy khỏi \"đất vàng\", Thuốc lá Việt Nam nhận lãi ròng bán niên cao nhất trong 10 năm"
+    },
+    {
+     "ref": "vietstock:7806b674fe",
+     "title": "Lãnh đạo mua bán cổ phiếu: Loạt thương vụ đáng chú ý"
+    },
+    {
+     "ref": "vietstock:57b810747e",
+     "title": "PMC chốt chi cổ tức tỷ lệ gần 20%"
+    },
+    {
+     "ref": "vietstock:71264b5c08",
+     "title": "Nam A Bank nâng quy mô hợp tác với BlueOrchard lên 100 triệu USD, tiếp tục mở rộng tín dụng với các đối tác Thụy Sĩ"
+    },
+    {
+     "ref": "vietstock:442fe9a5d5",
+     "title": "ILB sắp chi hơn 54 tỷ cổ tức tiền mặt, Tân Cảng Sài Gòn nhận gần 28 tỷ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:3c33636287",
+     "title": "Khối ngoại tiếp tục xả hàng mạnh, cổ phiếu nào bị bán nhiều nhất?"
+    },
+    {
+     "ref": "vneconomy:1a3332f206",
+     "title": "Mua bán đều chán nản, thanh khoản rơi xuống mức thấp kỷ lục"
+    },
+    {
+     "ref": "vneconomy:da308ba550",
+     "title": "Không ghi nhận hoạt động mua lại trái phiếu trước hạn của nhóm bất động sản trong tháng 7"
+    },
+    {
+     "ref": "vneconomy:fb72631899",
+     "title": "Tín hiệu kỹ thuật suy yếu diện rộng, điểm chú ý là tuần này sẽ lộ diện danh mục FTSE GEIS"
+    },
+    {
+     "ref": "vneconomy:07b93d684f",
+     "title": "Dòng tiền rời nhóm vốn hóa lớn, lực cầu trong nước \"cân\" lệnh xả của khối ngoại"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:15764c23f1",
+     "title": "Nhận định thị trường phiên giao dịch ngày 18/8: Các cổ phiếu chất lượng sẽ dần phục hồi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4c840afa15",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 18/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4e5fc34d61",
+     "title": "Thị trường tài chính 24h: Mặt bằng lãi suất cho vay có tín hiệu hạ nhiệt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a6820ba2d4",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 18/8: Rủi ro giảm điểm vẫn đang chiếm ưu thế"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:09cba43522",
+     "title": "Cổ phiếu cần quan tâm ngày 18/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6c479a77d9",
+     "title": "Tài sản mã hóa: Thanh khoản trên sàn tập trung xuống đáy gần 3 năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0052432533",
+     "title": "Miễn, giảm thuế có phải là giải pháp tối ưu để doanh nghiệp lớn lên?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:72c09e0d95",
+     "title": "Làn sóng IPO trở lại, bài toán hấp thụ cổ phiếu mới ngày càng khó"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4c0d9b81bd",
+     "title": "Vàng bạc Đá quý Phú Nhuận (PNJ): Tổng giám đốc mua vào 1 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b6263537b6",
+     "title": "Thị trường hàng hóa thế giới tuần từ 8-15/8: Vàng tiến gần 4.500 USD/ounce, dầu thô tiếp tục đi lên"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c0eaacf763",
+     "title": "Xuất khẩu sang EU phải tuân thủ tiêu chuẩn khắt khe về bao bì"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:6918b33c43",
+     "title": "Sau giày dép, đến lượt ngành thủy sản kiến nghị gỡ khó cấp C/O"
+    },
+    {
+     "ref": "b-o-u-t:3350243c1f",
+     "title": "Miền Bắc lo điện cho năm 2027 khi phụ tải dự báo tăng trên 12%"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:701014a34c",
+     "title": "CII sắp huy động 6.720 tỷ đồng từ cổ đông: Trái phiếu 25 năm, lãi suất lên tới 14,5%/năm"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:7de6566032",
+     "title": "Vietcombank rót vốn vào siêu dự án sân bay Phú Quốc, hé lộ khoản thu bất thường nghìn tỷ"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:897dc3e6e0",
+     "title": "Phía sau 11 triệu tỷ đồng đang gửi trong ngân hàng"
+    },
+    {
+     "ref": "ti-n-phong:e1ae3c01f1",
+     "title": "Thông tin mới nhất về việc điều chỉnh tiền lương"
+    },
+    {
+     "ref": "ti-n-phong:acc94977d5",
+     "title": "Dòng tiền khổng lồ đổ vào ngân hàng, sao doanh nghiệp không thể tiếp cận?"
+    },
+    {
+     "ref": "ti-n-phong:7f5569bd0d",
+     "title": "Việt Nam sản xuất hơn nửa lượng giày toàn cầu của Nike"
+    },
+    {
+     "ref": "ti-n-phong:158f949f19",
+     "title": "Cổ đông ngân hàng nhận cổ tức khủng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:6a1235bb82",
+     "title": "Nắng nóng đẩy phụ tải điện toàn quốc tăng 8,8%"
+    },
+    {
+     "ref": "bnews:f85a11684e",
+     "title": ". Tháo gỡ \"điểm nghẽn\" về mã số vùng trồng cho ngành hàng sầu riêng"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:b4d6da3391",
+     "title": "DIG: Quyết định của HĐQT về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng cổ phiếu"
+    },
+    {
+     "ref": "hose:83525a0adc",
+     "title": "YBM: Báo cáo tiến độ sử dụng vốn thu được từ đợt phát hành"
+    },
+    {
+     "ref": "hose:3f67f01923",
+     "title": "SRF: Nghị quyết HĐQT về việc phê duyệt chi trả cổ tức năm 2025 bằng tiền"
+    },
+    {
+     "ref": "hose:c0863004ac",
+     "title": "ITC: Thông báo về ngày đăng ký cuối cùng chia cổ tức bằng cổ phiếu và chia cổ tức năm 2025 bằng tiền mặt"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:52f4c0de1f",
+   "title": "Vàng duy trì đà tăng phiên thứ hai nhờ kỳ vọng Fed giảm tốc độ tăng lãi suất",
+   "translated": true,
+   "original_title": "Gold Holds Two-Day Gain on Reduced Rate-Hike Expectations",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations"
+  },
+  {
+   "ref": "bloomberg:37d4d365a4",
+   "title": "Dầu tăng giá vì căng thẳng Trung Đông, trái phiếu Kho bạc Mỹ bị bán tháo",
+   "translated": true,
+   "original_title": "Oil Advances on Middle East, Treasuries Sell Off: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "bloomberg:d7cd16d7b2",
+   "title": "Triển vọng đàm phán Mỹ - Iran mờ nhạt khi Trump không vội đạt thỏa thuận",
+   "translated": true,
+   "original_title": "US-Iran Prospects Dim as Trump Seems in No Hurry to Reach Deal",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-17/trump-likes-the-idea-of-declaring-hormuz-a-territory-video"
+  },
+  {
+   "ref": "bloomberg:6b6cad9a56",
+   "title": "AI bắt đầu tạo việc làm tại Anh, theo khảo sát của Lloyds",
+   "translated": true,
+   "original_title": "AI Is Starting to Create Jobs in the UK, Lloyds Survey Finds",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-starting-to-create-jobs-in-the-uk-lloyds-survey-finds"
+  },
+  {
+   "ref": "bloomberg:f8e92d5838",
+   "title": "Ưu đãi thuế cho quỹ đầu cơ khiến Hong Kong lo ngại làn sóng ngân hàng rời đi",
+   "translated": true,
+   "original_title": "Hedge Fund Tax Break Grips Hong Kong as Banks Fear Exodus",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-17/hedge-fund-tax-break-grips-hong-kong-as-banks-fear-exodus"
+  },
+  {
+   "ref": "reuters:2649d3b341",
+   "title": "Iran đe dọa mở đợt tấn công mới, Mỹ bác khả năng gia hạn thỏa thuận ngừng bắn",
+   "translated": true,
+   "original_title": "Iran threatens new offensive while US rules out extending ceasefire deal",
+   "link": "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/"
+  },
+  {
+   "ref": "reuters:a74fadeaf8",
+   "title": "Erdogan kêu gọi Trump tiếp tục đàm phán với Iran, đề nghị hỗ trợ",
+   "translated": true,
+   "original_title": "Erdogan urges Trump to pursue talks with Iran, offers support",
+   "link": "https://www.reuters.com/world/asia-pacific/erdogan-urges-trump-pursue-talks-with-iran-offers-support-2026-08-17/"
+  },
+  {
+   "ref": "reuters:e1f53e436d",
+   "title": "Chứng khoán Mỹ giảm điểm khi giá dầu tăng, nhà đầu tư chờ kết quả kinh doanh ngành bán lẻ",
+   "translated": true,
+   "original_title": "Wall Street indexes slip as oil prices rise, retail results awaited",
+   "link": "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17/"
+  },
+  {
+   "ref": "reuters:f2aac26ee3",
+   "title": "Doanh thu quy đổi theo năm của Anthropic vượt 65 tỷ USD, nguồn tin cho biết",
+   "translated": true,
+   "original_title": "Receita anualizada da Anthropic ultrapassa US$65 bilhões, diz fonte",
+   "link": "https://www.reuters.com/pt/tecnologia/WCDY4NPFMZLUFPCMK5Z5M7CQZQ-2026-08-17/"
+  },
+  {
+   "ref": "reuters:47853bdd25",
+   "title": "Nhà xuất bản âm nhạc kiện Anthropic và Suno vì dùng nhạc để huấn luyện AI",
+   "translated": true,
+   "original_title": "Music publisher sues Anthropic, Suno over AI training",
+   "link": "https://www.reuters.com/legal/legalindustry/music-publisher-sues-anthropic-suno-over-ai-training-2026-08-17/"
+  },
+  {
+   "ref": "reuters:7c1e03b511",
+   "title": "Paramount yêu cầu các bang và Nghiệp đoàn Biên kịch đặt cọc 1,88 tỷ USD trong vụ kiện thương vụ sáp nhập Warner Bros. Discovery 81 tỷ USD",
+   "translated": true,
+   "original_title": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit",
+   "link": "https://www.reuters.com/world/paramount-seeks-188-billion-bond-state-ags-over-merger-lawsuit-2026-08-17/"
+  },
+  {
+   "ref": "tg-vnwallstreet:396572",
+   "title": "Giá đồng tăng mạnh giúp lợi nhuận tài chính năm của BHP tăng 30%",
+   "original_title": "▫️ Giá đồng tăng, lợi nhuận tài chính năm của BHP tăng 30% Giá đồng tăng mạnh giúp BHP đạt lợi nhuận tài chính năm tăng 30%. Nhờ vào sự gia tăng giá hàng hóa, lợi nhuận cơ bản của BHP đạt 13,2 tỷ USD, vượt kỳ vọng của các nhà phân tích. Công ty cũng công bố cổ tức cuối cùng 0,99 USD, tương đương tỷ lệ chi trả 72%. Trong năm tài chính qua, giá đồng đã đạt mức cao kỷ lục, trong khi sản phẩm cốt lõi ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396569",
+   "title": "Nhật Bản giảm nắm giữ trái phiếu Mỹ trong tháng 6, khó có khả năng tiếp tục giảm",
+   "original_title": "▫️ Nhật Bản giảm nắm giữ trái phiếu Mỹ trong tháng 6, không có khả năng tiếp tục giảm Trong tháng 6, quy mô nắm giữ trái phiếu chính phủ Mỹ của các nhà đầu tư nước ngoài đã giảm, chủ yếu do Nhật Bản và Trung Quốc giảm nắm giữ. Theo dữ liệu từ Bộ Tài chính Mỹ công bố hôm thứ Hai, nắm giữ trái phiếu của nước ngoài giảm 72,1 tỷ USD xuống còn 9,3 triệu tỷ USD. Sau khi đạt đỉnh lịch sử vào tháng 2, quy",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:396563",
+   "title": "SPDR Gold Trust tăng nắm giữ mạnh nhất kể từ 18/6, tổng khối lượng đạt 1.030,66 tấn",
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới - SPDR Gold Trust đã tăng 7.132 tấn trong ngày, mức tăng lớn nhất kể từ ngày 18 tháng 6, hiện có tổng lượng nắm giữ là 1030.66 tấn. #vàng #SPDR_Gold_Trust",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:105927",
+   "title": "Westpac: Can thiệp chung Mỹ - Nhật mất tác dụng, USD/JPY trở lại trên 159",
+   "original_title": "(Tiêu điểm) Westpac: Can thiệp chung Mỹ - Nhật mất tác dụng, USD/JPY trở lại trên 159 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/westpac-can-thiep-chung-my-nhat-mat-tac-dung-usd-jpy-tro-lai-tren-159-111223.html",
+   "link": null
+  }
+ ],
+ "content_sha": "e025bdc26c03d7d504e89d73078901009c49fdd9cb8a8835c47a14a675f20647"
+}
