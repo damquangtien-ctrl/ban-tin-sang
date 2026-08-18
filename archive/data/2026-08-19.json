@@ -1,0 +1,515 @@
+{
+ "date": "2026-08-19",
+ "dividends": [
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 35% (3.500 đồng/cp)",
+   "record_date": "2026-08-20",
+   "ref": "cafef:62c6361079",
+   "ticker": "ND2"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt 30% và cổ phiếu 10% (tổng 40%)",
+   "record_date": "2026-08-20",
+   "ref": "cafef:b835b50cd7",
+   "ticker": "HCC"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VN-Index",
+   "text": "VN-Index tăng nhẹ lên 1.732,02 điểm (+0,26%), khối ngoại tiếp tục bán ròng hơn 768 tỷ đồng trên HOSE"
+  },
+  {
+   "source": "Phố Wall",
+   "text": "Chứng khoán Mỹ giảm điểm khi cổ phiếu công nghệ bị bán tháo, lợi suất trái phiếu tăng; S&P 500 giảm 0,69%, Nasdaq giảm 1,33%"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Chỉ còn 3 ngày nữa FTSE công bố danh mục, VN-Index liệu có đảo chiều bùng nổ?"
+  },
+  {
+   "source": "CafeF",
+   "text": "Bầu Đức tung cam kết cổ tức tiền mặt 50%, cổ phiếu có thể chia 1:1 trước thềm IPO HGI"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Mỹ và Iran không gia hạn thỏa thuận ngừng bắn, giao thông tại eo biển Hormuz tê liệt"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:3635238983",
+     "title": "Một doanh nghiệp bị xử phạt do \"ém\" thông tin tài chính, quản trị"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:086f73e7c7",
+     "title": "Vợ chồng Chủ tịch Công ty Hoàng Long thừa nhận để ngoài sổ kế toán 1.206 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:dc24ac51eb",
+     "title": "UBCKNN phạt nhiều doanh nghiệp vì lỗi công bố thông tin, giao dịch với bên liên quan"
+    },
+    {
+     "ref": "vietstock:e6bf60d66d",
+     "title": "Chuỗi cưỡng chế thuế giữa lúc doanh thu lao dốc của Việt Phát"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:9504a6325d",
+     "title": "48 người đi tù vì lừa hơn 71 tỷ đồng qua sàn Lazada giả"
+    },
+    {
+     "ref": "vnexpress:fc47f8be16",
+     "title": "Cựu thứ trưởng Nguyễn Bá Hoan: Nhận hối lộ nhưng vẫn làm đúng"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+4,56 (+0,26%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.732,02"
+   },
+   {
+    "change": "+3,68 (+1,32%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "282,32"
+   },
+   {
+    "change": "+9,2% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "11.556 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 768,3 tỷ đồng"
+   },
+   {
+    "change": "Đi ngang so với hôm qua",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "141,30 - 144,30 tr.đ/lượng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.380"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ giảm điểm trong phiên qua đêm khi cổ phiếu công nghệ bị bán tháo và lợi suất trái phiếu tăng, S&P 500 giảm 0,69%, Nasdaq giảm 1,33%; giá dầu Brent và WTI đi lên trong bối cảnh căng thẳng tại Trung Đông, còn vàng thế giới giảm 0,67%. Tại thị trường trong nước, VN-Index đóng cửa phiên 18/8 tăng nhẹ lên 1.732,02 điểm (+0,26%), HNX-Index tăng 1,32% lên 282,32 điểm, thanh khoản HOSE đạt hơn 11.556 tỷ đồng, tăng khoảng 9% so với phiên trước. Khối ngoại tiếp tục bán ròng hơn 768 tỷ đồng trên HOSE. Giá vàng SJC trong nước đi ngang ở mức 141,3-144,3 triệu đồng/lượng, còn tỷ giá USD/VND tại Vietcombank niêm yết bán ra 26.380 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.69,
+    "label": "S&P 500",
+    "value": "7.691,8"
+   },
+   {
+    "change_pct": -0.22,
+    "label": "Dow Jones",
+    "value": "53.343,4"
+   },
+   {
+    "change_pct": -1.33,
+    "label": "Nasdaq",
+    "value": "26.289,7"
+   },
+   {
+    "change_pct": 0.01,
+    "label": "Dầu WTI",
+    "value": "84,5 USD"
+   },
+   {
+    "change_pct": 0.56,
+    "label": "Dầu Brent",
+    "value": "91,4 USD"
+   },
+   {
+    "change_pct": -0.67,
+    "label": "Vàng thế giới",
+    "value": "4.388 USD"
+   },
+   {
+    "change_pct": 0.29,
+    "label": "Bitcoin",
+    "value": "64.694 USD"
+   },
+   {
+    "change_pct": 0.0,
+    "label": "DXY",
+    "value": "99,64"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:c0ffe3e9ec",
+     "title": "Bầu Đức giải thích mức giá 60.600 đồng/cp gấp 2,5 lần giá sổ sách của \"gà vàng\" sắp chào bán"
+    },
+    {
+     "ref": "cafef:87c9cde54d",
+     "title": "\"Dòng tiền lớn\" bán ròng 80.000 tỷ đồng cổ phiếu từ đầu năm, chuyên gia lý giải nguyên nhân"
+    },
+    {
+     "ref": "cafef:8d4f068a77",
+     "title": "Một doanh nghiệp dầu khí đứng trước \"núi việc\" 7 tỷ USD, lợi nhuận sẽ ra sao?"
+    },
+    {
+     "ref": "cafef:d8d5d66d48",
+     "title": "Cổ phiếu dầu khí bùng nổ, dòng tiền nhà đầu tư vẫn thận trọng"
+    },
+    {
+     "ref": "cafef:0b3f19614d",
+     "title": "Xây dựng 1369 (C69) hoàn tất giải ngân 300 tỷ đồng từ đợt tăng vốn"
+    },
+    {
+     "ref": "cafef:1bf9142b5a",
+     "title": "Bầu Đức tung \"cam kết khủng\" trước thềm IPO HGI: Cổ tức tiền mặt 50%, cổ phiếu có thể chia 1:1"
+    },
+    {
+     "ref": "cafef:806979c713",
+     "title": "Cen Land tiếp tục bán vốn một công ty con"
+    },
+    {
+     "ref": "cafef:afe46db915",
+     "title": "Lãi suất trái phiếu bất động sản cao hơn gửi tiết kiệm ngân hàng"
+    },
+    {
+     "ref": "cafef:78ef7793fe",
+     "title": "Một doanh nghiệp sắp trả cổ tức tiền mặt cao nhất lịch sử, hơn nửa thập kỷ không \"lỡ hẹn\" với cổ đông"
+    },
+    {
+     "ref": "cafef:7b4b0223c8",
+     "title": "VN-Index xanh điểm, cổ phiếu đỏ sàn vẫn chiếm ưu thế"
+    },
+    {
+     "ref": "cafef:50e90a8bdf",
+     "title": "Khối ngoại tiếp đà bán ròng hơn 700 tỷ đồng phiên VN-Index rung lắc, cổ phiếu nào bị \"xả\" mạnh?"
+    },
+    {
+     "ref": "cafef:5377c01d17",
+     "title": "Chân dung đế chế F&B sở hữu Katinat, Phê La, Si Mer... mà Vietcap vừa chi gần 390 tỷ đồng đầu tư"
+    },
+    {
+     "ref": "cafef:a7f4a13721",
+     "title": "Thống nhất trình Quốc hội xem xét, thông qua dự thảo Luật Dầu khí (sửa đổi)"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:7ee4730fe1",
+     "title": "Thủ tướng yêu cầu sớm hoàn thiện 12 dự án luật, nghị quyết quan trọng dự kiến trình Quốc hội"
+    },
+    {
+     "ref": "vietstock:6cccf177b9",
+     "title": "Ông Lê Thái Sâm làm Tổng Giám đốc Bamboo Airways Cargo"
+    },
+    {
+     "ref": "vietstock:fbf838a22a",
+     "title": "Thị trường chứng quyền ngày 19/08/2026: Sự bi quan vẫn còn"
+    },
+    {
+     "ref": "vietstock:ddc55e6699",
+     "title": "Theo dấu dòng tiền cá mập 18/08: Tự doanh và khối ngoại bán ròng mạnh, \"sang tay\" một mã chứng chỉ quỹ"
+    },
+    {
+     "ref": "vietstock:209f8b875a",
+     "title": "Góc nhìn 19/08: Giằng co trong biên độ hẹp?"
+    },
+    {
+     "ref": "vietstock:718e16eaff",
+     "title": "Chứng khoán phái sinh ngày 19/08/2026: Tiếp tục thận trọng?"
+    },
+    {
+     "ref": "vietstock:5b9a9438f0",
+     "title": "\"Tắc\" giấy chứng nhận xuất xứ hàng hóa, Bộ Công Thương giải quyết ra sao?"
+    },
+    {
+     "ref": "vietstock:5002ff6598",
+     "title": "Dự thảo thay thế Thông tư 119 về hoạt động lưu ký, bù trừ chứng khoán tiếp thu nhiều kiến nghị từ thị trường"
+    },
+    {
+     "ref": "vietstock:c6f18bc36b",
+     "title": "Vietstock Daily 19/08/2026: Chưa hết rung lắc?"
+    },
+    {
+     "ref": "vietstock:c5153ec0e1",
+     "title": "TNP chốt chia cổ tức tỷ lệ 26% sau kỳ nghỉ lễ 02/09"
+    },
+    {
+     "ref": "vietstock:4e60aadeea",
+     "title": "Tổng Giám đốc PNJ hoàn tất mua 1 triệu cổ phiếu"
+    },
+    {
+     "ref": "vietstock:cc55310286",
+     "title": "M&A Việt Nam tháng 7/2026: Hạ tầng và bất động sản sôi động"
+    },
+    {
+     "ref": "vietstock:01777b6b6c",
+     "title": "Nhịp đập Thị trường 18/08: Lực bán ở nhóm tài chính gia tăng"
+    },
+    {
+     "ref": "vietstock:c70da1409d",
+     "title": "Eximbank triệu tập ĐHĐCĐ bất thường vào tháng 10"
+    },
+    {
+     "ref": "vietstock:2a95cb459c",
+     "title": "Chủ đầu tư Casa Del Rio tiếp tục lỗ, 100 tỷ giao cho 2 cá nhân gây chú ý"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:185b9f4339",
+     "title": "Xác suất cao VN-Index có thể dần tìm lại điểm cân bằng quanh khu vực 1730"
+    },
+    {
+     "ref": "vneconomy:bf4e7bfc9e",
+     "title": "Chỉ còn 3 ngày nữa FTSE chính thức công bố danh mục, VN-Index liệu có đảo chiều bùng nổ?"
+    },
+    {
+     "ref": "vneconomy:bace06108b",
+     "title": "Cá nhân mua ròng gần 1.000 tỷ, cổ phiếu nào được gom nhiều nhất?"
+    },
+    {
+     "ref": "vneconomy:a0868af09a",
+     "title": "Giới chuyên gia dự báo Fed giữ nguyên lãi suất trong năm nay"
+    },
+    {
+     "ref": "vneconomy:56b8c0aaeb",
+     "title": "Fubon FTSE rút ròng hơn 3.000 tỷ từ đầu năm"
+    },
+    {
+     "ref": "vneconomy:3ee5712f79",
+     "title": "HOSE cắt margin 3 cổ phiếu do lỗ quý 2/2026"
+    },
+    {
+     "ref": "vneconomy:24364ef7e9",
+     "title": "Blog chứng khoán: Cân bằng mong manh"
+    },
+    {
+     "ref": "vneconomy:7b83383005",
+     "title": "Thanh khoản \"khô kiệt\", phục hồi thất bại"
+    },
+    {
+     "ref": "vneconomy:f947192971",
+     "title": "HSBC: Tăng trưởng cao, tỷ giá và lãi suất tìm \"điểm cân bằng\" giai đoạn cuối 2026"
+    },
+    {
+     "ref": "vneconomy:ce8029cc3d",
+     "title": "Đồng USD trượt giá xuống mức thấp nhất 2 tháng rưỡi"
+    },
+    {
+     "ref": "vneconomy:3dd7785b64",
+     "title": "Mặt bằng định giá của thị trường chứng khoán Việt Nam đã quay trở lại vùng hấp dẫn"
+    },
+    {
+     "ref": "vneconomy:aa5b81d2ae",
+     "title": "Vàng có thể đang lấy lại địa vị \"hầm trú ẩn\""
+    },
+    {
+     "ref": "vneconomy:126f66a5cc",
+     "title": "Mỹ và Iran không gia hạn thỏa thuận ngừng bắn, giao thông ở Hormuz tê liệt"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:c3ebc906b6",
+     "title": "VNG lên kế hoạch nắm 99,99% vốn doanh nghiệp đang sở hữu quỹ đất 25.463,5 m2 tại TP.HCM"
+    },
+    {
+     "ref": "markettimes:eefee71347",
+     "title": "DIC Corp chốt ngày nhận quyền phân bổ gần 48 triệu cổ phiếu trả cổ tức"
+    },
+    {
+     "ref": "markettimes:0659d102de",
+     "title": "Hơn 1,4 tỷ cổ phiếu LPS chính thức lên HoSE, Chứng khoán LPBank gia nhập nhóm vốn hóa lớn nhất ngành"
+    },
+    {
+     "ref": "markettimes:8e8708df3f",
+     "title": "Một yếu tố có thể giúp \"đại gia\" dầu khí BSR lãi gấp 4 lần"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:e57f053de9",
+     "title": "FPT gia nhập thị trường trung gian dữ liệu: Đặt cược vào hạ tầng của kinh tế AI"
+    },
+    {
+     "ref": "ti-n-phong:3db6ef39b3",
+     "title": "NCB muốn tăng gấp đôi vốn điều lệ lên gần 62.280 tỷ đồng trong năm tới"
+    },
+    {
+     "ref": "ti-n-phong:62dd3e892c",
+     "title": "Vàng hưởng lợi khi lãi suất thấp"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:02cfd4307e",
+     "title": "FTS: Quyết định về việc vay vốn Techcombank"
+    },
+    {
+     "ref": "hose:25e516fe9e",
+     "title": "ADS: Thông báo giao dịch cổ phiếu của Người nội bộ Vũ Huy Đông"
+    },
+    {
+     "ref": "hose:c3aef44dfe",
+     "title": "MBB: Báo cáo kết quả phát hành cổ phiếu để trả cổ tức"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1020752",
+   "title": "Trump ra lệnh dừng đàm phán với Iran, chuyển sang chiến lược gây sức ép kinh tế và quân sự dài hạn để \"siết chặt\" Tehran",
+   "translated": true,
+   "original_title": "TRUMP HAS ORDERED HIS TOP ENVOYS TO HALT TALKS WITH IRAN, SIGNALING A MAJOR SHIFT IN STRATEGY, WITH THE ADMINISTRATION MOVING AWAY FROM TRYING TO 'HAMMER IRAN ASAP' AND TOWARD A LONGER-TERM EFFORT TO 'STRANGLE' TEHRAN THROUGH SUSTAINED ECONOMIC AND MILITARY PRESSURE, WITH THE GOAL APPEARING TO BE INCREASING PRESSURE OVER TIME UNTIL IRAN IS MORE WILLING TO ACCEPT TRUMP'S TERMS - CNN ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:53a4f4093f",
+   "title": "Hãng thiết kế chip Velaura AI được định giá hơn 1 tỷ USD sau vòng gọi vốn",
+   "translated": true,
+   "original_title": "Chip designer Velaura AI valued at more than $1 billion in funding round",
+   "link": "https://www.reuters.com/legal/transactional/chip-designer-velaura-ai-valued-more-than-1-billion-after-funding-round-2026-08-18/"
+  },
+  {
+   "ref": "reuters:b1c784ff67",
+   "title": "Doanh nghiệp Anh tăng lương chậm nhất trong 10 tháng",
+   "translated": true,
+   "original_title": "UK employers raise pay by least in 10 months, Brightmine says",
+   "link": "https://www.reuters.com/business/world-at-work/uk-employers-raise-pay-by-least-10-months-brightmine-says-2026-08-18/"
+  },
+  {
+   "ref": "reuters:b489ba9960",
+   "title": "Giá dầu đóng cửa cao nhất 3 tuần khi hy vọng thỏa thuận hòa bình Mỹ - Iran tan biến",
+   "translated": true,
+   "original_title": "Petróleo fecha em máxima de 3 semanas, conforme se esvaem esperanças de acordo de paz EUA-Irã",
+   "link": "https://www.reuters.com/pt/negocio/S4IJ26KWWVJGJLTZSC3BQTSXEI-2026-08-18/"
+  },
+  {
+   "ref": "tg-dubaotiente:105979",
+   "title": "Iraq mở tuyến xuất khẩu dầu mới để né nút thắt Hormuz",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Iraq mở tuyến xuất khẩu dầu mới để né nút thắt Hormuz Chi tiết xem tại: https://dubaotiente.net/tieu-diem/iraq-mo-tuyen-xuat-khau-dau-moi-de-ne-nut-that-hormuz-111274.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:1b3ae879cd",
+   "title": "Đường cong lợi suất trái phiếu Trung Quốc phẳng hơn, hé lộ khác biệt chính sách với các nước",
+   "translated": true,
+   "original_title": "China’s Flatter Bond Curve Shows Deeper Policy Divide With Peers",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers"
+  },
+  {
+   "ref": "bloomberg:8a3460ea36",
+   "title": "Mảng phi cổ phiếu của Sở giao dịch Hong Kong được xem là chìa khóa thúc đẩy cổ phiếu",
+   "translated": true,
+   "original_title": "Hong Kong Exchanges’ Non-Equity Push Seen as Key for Stock Boost",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-exchanges-non-equity-push-seen-as-key-for-stock-boost"
+  },
+  {
+   "ref": "reuters:4843c36762",
+   "title": "Cổ phiếu công nghệ bị bán tháo kéo Phố Wall giảm điểm khi lợi suất trái phiếu tăng",
+   "translated": true,
+   "original_title": "Tech selloff weighs down Wall Street as bond yields climb",
+   "link": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/"
+  },
+  {
+   "ref": "reuters:b987aced7e",
+   "title": "Cơ quan quản lý vận tải Mỹ nối lại xem xét thương vụ sáp nhập Union Pacific - Norfolk Southern",
+   "translated": true,
+   "original_title": "US transport regulator resumes review of Union Pacific's proposed Norfolk merger",
+   "link": "https://www.reuters.com/business/us-transport-regulator-resumes-review-union-pacifics-proposed-norfolk-merger-2026-08-18/"
+  },
+  {
+   "ref": "bloomberg:69fb1c5425",
+   "title": "Lợi nhuận doanh nghiệp Nhật Bản vượt dự báo, thúc đẩy kỳ vọng đà tăng lan rộng",
+   "translated": true,
+   "original_title": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-18/japan-s-earnings-surprise-analysts-to-fuel-bets-for-broad-rally"
+  },
+  {
+   "ref": "tg-marketfeed:1020725",
+   "title": "Chứng khoán châu Á chịu sức ép: hợp đồng tương lai Kospi 200 giảm 4,3%, dầu Brent tăng, S&P 500 giảm 0,7% do cổ phiếu công nghệ dẫn dắt đà giảm",
+   "translated": true,
+   "original_title": "SOUTH KOREA STOCKS TO WATCH INCLUDE CLASSYS, LG ENERGY, POSCO AND SK HYNIX, WITH KOSPI 200 FUTURES CLOSING DOWN 4.3% AT 1,032.0, BRENT CRUDE UP 0.2% AT $91.02 A BARREL AND THE S&P 500 DOWN 0.7% AT 7,691.8 AS U.S. STOCKS DROPPED, LED BY TECH, ON A BOND-YIELD SPIKE. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1020724",
+   "title": "Doanh thu Anthropic tăng hơn gấp đôi lên 11,6 tỷ USD, vượt OpenAI lần đầu tiên nhờ Claude Code",
+   "translated": true,
+   "original_title": "ANTHROPIC REVENUE MORE THAN DOUBLES TO $11.6 BILLION, SURPASSING OPENAI FOR THE FIRST TIME AS CLAUDE CODE FUELS ITS RAPID EXPANSION. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1020723",
+   "title": "Doanh thu OpenAI tăng 18% lên 6,7 tỷ USD trong quý 2, lỗ tiếp tục nới rộng khi tăng trưởng thua Anthropic",
+   "translated": true,
+   "original_title": "OPENAI REVENUE RISES 18% TO $6.7 BILLION IN Q2, BUT LOSSES DEEPEN AS GROWTH TRAILS ANTHROPIC. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:79a20a9579",
+   "title": "JBS tìm cách nắm toàn quyền kiểm soát Pilgrim's Pride",
+   "translated": true,
+   "original_title": "JBS seeks full control of Pilgrim's Pride",
+   "link": "https://www.reuters.com/business/retail-consumer/jbs-seeks-full-control-pilgrims-pride-2026-08-18/"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:f6eb925155",
+   "title": "Donald Trump dựng lại hàng rào thuế quan",
+   "translated": false,
+   "original_title": "Donald Trump dựng lại hàng rào thuế quan",
+   "link": "https://bbw.vn/donald-trump-dung-lai-hang-rao-thue-quan-59821.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:804fd8e5e0",
+   "title": "Công nhân Ấn Độ \"dạy\" robot học cách con người làm việc",
+   "translated": false,
+   "original_title": "Công nhân Ấn Độ \"dạy\" robot học cách con người làm việc",
+   "link": "https://bbw.vn/cong-nhan-an-do-day-robot-hoc-cach-con-nguoi-lam-viec-59820.html"
+  }
+ ],
+ "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3"
+}
