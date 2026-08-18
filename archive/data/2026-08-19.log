@@ -1,0 +1,39 @@
+
+########## CHAY LUC 2026-08-19 06:41:33 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-19, ban daily)
+   the gioi 16 tin · Viet Nam 51 tin / 6 bao · phap ly 6 tin · chot quyen 2 ma
+   THAT BAI: 2 loi
+      [C1] bulletin.market_data.domestic[4].value: chuỗi quá dài (42 > 40)
+      [C9] legal: khối 'CafeF' phải đứng trước 'Vietstock' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-08-19 06:41:54 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-19, ban daily)
+   the gioi 16 tin · Viet Nam 51 tin / 6 bao · phap ly 6 tin · chot quyen 2 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-19 · the gioi 16 · Viet Nam 51 · phap ly 6
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-19.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-08-19: commit 359eaf636ae2 · sha noi dung e0271500d5be4af9
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 19/08 | content_sha 4ea08441c9fe | commit 359eaf636ae2
+   telegram user/928f6fc4179d OK message_id=229
+   zalo     user/593dd2adbb87 OK message_id=fc4cfbbf144d9014c95b
+   zalo     group/8fddff299f5f OK message_id=fc9f9c2d73dff786aec9
+   zalo     group/240eac12bc5e OK message_id=d484b45d5aafdef687b9
+   zalo     group/8b7b62566b6c OK message_id=bef61073fe817ad82397
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-08-19.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-08-19 06:42:34 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

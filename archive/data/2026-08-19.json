@@ -511,5 +511,68 @@
    "link": "https://bbw.vn/cong-nhan-an-do-day-robot-hoc-cach-con-nguoi-lam-viec-59820.html"
   }
  ],
- "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3"
+ "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "359eaf636ae21f453dd1c44cb2dbc10f29600926",
+   "published_at": "2026-08-19T06:42:28+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "229",
+   "sent_at": "2026-08-19T06:42:28+07:00",
+   "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "229",
+     "sent_at": "2026-08-19T06:42:28+07:00",
+     "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "fc4cfbbf144d9014c95b",
+   "sent_at": "2026-08-19T06:42:30+07:00",
+   "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "fc4cfbbf144d9014c95b",
+     "sent_at": "2026-08-19T06:42:30+07:00",
+     "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "fc9f9c2d73dff786aec9",
+     "sent_at": "2026-08-19T06:42:31+07:00",
+     "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "d484b45d5aafdef687b9",
+     "sent_at": "2026-08-19T06:42:33+07:00",
+     "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "bef61073fe817ad82397",
+     "sent_at": "2026-08-19T06:42:34+07:00",
+     "content_sha": "4ea08441c9fe2304baeb1a3c6ebfd4dc6af5651d253456327a373f18329014b3"
+    }
+   ]
+  }
+ }
 }
