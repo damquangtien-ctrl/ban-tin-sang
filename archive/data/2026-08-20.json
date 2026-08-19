@@ -1,0 +1,552 @@
+{
+ "date": "2026-08-20",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Dubaotiente",
+   "text": "Trump tuyên bố chiến dịch kinh tế khốc liệt nhằm vào Iran, cảnh báo cả đồng minh"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Tỷ lệ sở hữu của nhà đầu tư nước ngoài trên thị trường Việt Nam về mức thấp kỷ lục"
+  },
+  {
+   "source": "CafeF",
+   "text": "Novaland sẽ dùng hơn 8.000 tỷ đồng từ chào bán cổ phiếu vào mục đích gì?"
+  },
+  {
+   "source": "Reuters",
+   "text": "Nợ công Mỹ vượt ngưỡng 40.000 tỷ USD sau khi tăng gấp đôi dưới thời Trump và Biden"
+  },
+  {
+   "source": "CafeF",
+   "text": "Doanh nghiệp nhà nước sở hữu 117.000 tỷ đồng tài sản bổ nhiệm Chủ tịch mới giữa lúc Bộ Công an điều tra đại án 500kV"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:004f6a7c49",
+     "title": "Doanh nghiệp nhà nước sở hữu 117.000 tỷ đồng tài sản bổ nhiệm Chủ tịch mới giữa lúc Bộ Công an điều tra đại án 500kV"
+    },
+    {
+     "ref": "cafef:6103ecbc9f",
+     "title": "Tổng Giám đốc một doanh nghiệp bị cấm giao dịch 18 tháng vì \"mua chui\" hàng triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:72860d1d21",
+     "title": "Loạt doanh nghiệp bị phạt nặng vì chậm công bố nhiều báo cáo, giao dịch \"chui\" với bên liên quan"
+    },
+    {
+     "ref": "cafef:d241a2acae",
+     "title": "Tập đoàn Phú Cường lên tiếng về vụ án ở Phú Thọ"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:d664673cd4",
+     "title": "Tổng Công ty Tư vấn Xây dựng Thủy lợi Việt Nam bị UBCKNN xử phạt"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:02d6e6150b",
+     "title": "Vụ Phú Lê: Bóc chiêu giấu doanh thu trăm tỷ đồng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:c1c66a6ce4",
+     "title": "Ngân hàng bị nhiều cán bộ chiếm đoạt hơn 17 tỷ đồng"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:d91367e9b9",
+     "title": "Điện nhẹ viễn thông bị phạt 322,5 triệu đồng do vi phạm quy định chứng khoán"
+    },
+    {
+     "ref": "google-news-ph-p-l:80ef603256",
+     "title": "Khởi tố Giám đốc Trần Lê Foods, lộ đường dây sản xuất 65 tấn khô bò giả"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-5,33 (-0,31%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.726,69"
+   },
+   {
+    "change": "-2,34 (-0,83%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "279,98"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "10.040 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng 711,5 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.990 · Bán 26.370"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ tăng điểm phiên qua đêm khi lợi suất trái phiếu hạ nhiệt, với S&P 500 tăng 0,21%, Dow Jones tăng 0,22% và Nasdaq tăng 0,16%; trong khi đó vàng thế giới bật tăng mạnh 4,8% và Bitcoin tăng 7,12% giữa lúc căng thẳng Mỹ-Iran leo thang và giới đầu tư theo dõi sát tính độc lập của Fed. Tại thị trường trong nước, VN-Index giảm 0,31% xuống 1.726,69 điểm, HNX-Index giảm 0,83% còn 279,98 điểm, thanh khoản HOSE chỉ đạt hơn 10.040 tỷ đồng - vùng thấp nhất nhiều phiên. Khối ngoại tiếp tục bán ròng hơn 711 tỷ đồng trên HOSE trong phiên 19/8.",
+  "tiles": [
+   {
+    "change_pct": 0.21,
+    "label": "S&P 500",
+    "value": "7.708,0"
+   },
+   {
+    "change_pct": 0.22,
+    "label": "Dow Jones",
+    "value": "53.463,1"
+   },
+   {
+    "change_pct": 0.16,
+    "label": "Nasdaq",
+    "value": "26.331,1"
+   },
+   {
+    "change_pct": -0.48,
+    "label": "Dầu WTI",
+    "value": "84,5 USD"
+   },
+   {
+    "change_pct": 0.77,
+    "label": "Dầu Brent",
+    "value": "91,7 USD"
+   },
+   {
+    "change_pct": 4.8,
+    "label": "Vàng thế giới",
+    "value": "4.576 USD"
+   },
+   {
+    "change_pct": 7.12,
+    "label": "Bitcoin",
+    "value": "69.288 USD"
+   },
+   {
+    "change_pct": -0.89,
+    "label": "DXY",
+    "value": "98,77"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:f3138b31df",
+     "title": "Hãng hàng không của tỷ phú Nguyễn Thị Phương Thảo rót 285 tỷ đồng lập công ty mới"
+    },
+    {
+     "ref": "cafef:af61c281f6",
+     "title": "Doanh nghiệp 95.000 lao động chuyên khai thác “kho báu” dưới lòng đất Việt Nam được trao cơ chế đặc thù"
+    },
+    {
+     "ref": "cafef:95483799c7",
+     "title": "Tập đoàn Bảo việt và các doanh nghiệp thành viên để số tiền tương đương hơn 1,38 tỷ USD tại BAOVIET Bank"
+    },
+    {
+     "ref": "cafef:f8e0d45260",
+     "title": "Vietcap dự phóng lợi nhuận một \"đại gia\" Việt có thể đạt hơn 13.000 tỷ đồng năm 2026"
+    },
+    {
+     "ref": "cafef:f0e9da1f50",
+     "title": "Xuất khẩu đồ ăn sang Bắc Mỹ tăng trưởng 45% lên hơn 100 triệu USD, một doanh nghiệp trên sàn báo lợi nhuận nửa đầu 2026 tăng 2,4 lần"
+    },
+    {
+     "ref": "cafef:d987c27a8e",
+     "title": "HoSE thông báo ngày chốt quyền mua gần 67,2 triệu trái phiếu chuyển đổi của CII"
+    },
+    {
+     "ref": "cafef:302a502384",
+     "title": "Sau khi bắt tay với Elon Musk, tỷ phú Phạm Nhật Vượng tìm nhân tài đưa vệ tinh VN lên quỹ đạo bằng tên lửa"
+    },
+    {
+     "ref": "cafef:20bb1e0e8f",
+     "title": "Từng có hơn 4.000 công nhân, 5 nhà máy, 70 dây chuyền, một 'ông lớn' dệt may giờ chỉ còn 27 nhân viên"
+    },
+    {
+     "ref": "cafef:03c10a858f",
+     "title": "Một công ty chứng khoán \"rót\" gần 1.000 tỷ đồng vào một mã ngân hàng, tạm lãi hơn trăm tỷ"
+    },
+    {
+     "ref": "cafef:5ecf9d9d5e",
+     "title": "Novaland sẽ dùng hơn 8.000 tỷ đồng từ chào bán cổ phiếu vào mục đích gì?"
+    },
+    {
+     "ref": "cafef:b1cc826b9d",
+     "title": "‘Đại gia’ đứng sau Nhà máy điện rác lớn nhất miền Trung vừa khởi công: Đang gom cổ phần loạt dự án điện rác, năng lượng khắp cả nước"
+    },
+    {
+     "ref": "cafef:43473d5772",
+     "title": "VETC và ePass đang thống lĩnh mảng thu phí không dừng, ai đứng sau?"
+    },
+    {
+     "ref": "cafef:b4a9097ce5",
+     "title": "Tăng 60% sau 2 phiên, vốn hóa gấp đôi chủ thương hiệu Everon, doanh nghiệp chăn ga gối đệm vừa lên sàn đang sở hữu những gì?"
+    },
+    {
+     "ref": "cafef:fab7d47f5c",
+     "title": "Sắc đỏ bao phủ thị trường chứng khoán, thanh khoản tiếp tục “teo tóp”"
+    },
+    {
+     "ref": "cafef:21c9de35e4",
+     "title": "Một thế lực vẫn tung hàng trăm tỷ mua ròng cổ phiếu phiên 19/8"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:0b116781b3",
+     "title": "Kita Invest thay Chủ tịch"
+    },
+    {
+     "ref": "vietstock:4abf29ce8d",
+     "title": "Đề xuất đánh thuế bất động sản 'ngủ im' hàng chục năm"
+    },
+    {
+     "ref": "vietstock:94678515cf",
+     "title": "Theo dấu dòng tiền cá mập 19/08: Tự doanh dè dặt, khối ngoại tiếp tục bán ròng"
+    },
+    {
+     "ref": "vietstock:51a3fc4ebf",
+     "title": "Tiến độ mới về siêu nhà máy điện gió ngoài khơi Cần Giờ 6,000MW do Xuân Cầu Holdings - Trung Nam đề xuất"
+    },
+    {
+     "ref": "vietstock:7eea9335c0",
+     "title": "Novaland cập nhật tiến độ triển khai Aqua City và nguồn vốn giai đoạn 2026-2027"
+    },
+    {
+     "ref": "vietstock:31da895d0c",
+     "title": "PVT Logistics nhận tàu hàng rời 61,000 DWT"
+    },
+    {
+     "ref": "vietstock:a4ff6d4faf",
+     "title": "Cân bằng dòng vốn và lãi suất: Ngành ngân hàng tìm điểm tựa nửa cuối năm 2026?"
+    },
+    {
+     "ref": "vietstock:3782b39f16",
+     "title": "Diễn biến mới tại HBS: Phó Tổng muốn thoái hết vốn, cựu Chủ tịch làm Kế toán trưởng"
+    },
+    {
+     "ref": "vietstock:6f6b4110e1",
+     "title": "DIG sắp phát hành gần 48 triệu cổ phiếu trả cổ tức"
+    },
+    {
+     "ref": "vietstock:c4aab81c16",
+     "title": "Viconship thế chấp 100% vốn Green Port cho lô trái phiếu 500 tỷ"
+    },
+    {
+     "ref": "vietstock:2cca5c54a8",
+     "title": "VAB chốt quyền phát hành cổ phiếu thưởng tỷ lệ 10.5%, tiến gần mục tiêu tăng vốn năm 2026"
+    },
+    {
+     "ref": "vietstock:fd39ef5404",
+     "title": "Cá tra tỷ USD của Việt Nam gặp khó tại Mỹ, tăng tốc ở thị trường Trung Quốc"
+    },
+    {
+     "ref": "vietstock:4c1dfcbd01",
+     "title": "Kinh Bắc muốn huy động 700 tỷ từ trái phiếu khi nợ vay lập đỉnh"
+    },
+    {
+     "ref": "vietstock:b92b82b243",
+     "title": "MB hoàn tất phát hành 1.2 tỷ cp trả cổ tức, nâng vốn lên hơn 92,600 tỷ, sắp bước vào đợt chào bán tiếp theo"
+    },
+    {
+     "ref": "vietstock:da861f35b2",
+     "title": "Doanh thu và lợi nhuận kỷ lục, HCC sắp trả cổ tức tổng tỷ lệ 40%"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:8886e20dce",
+     "title": "Tỷ lệ sở hữu của nhà đầu tư nước ngoài trên thị trường Việt Nam về mức thấp kỷ lục"
+    },
+    {
+     "ref": "vneconomy:f93eb542c7",
+     "title": "Thanh khoản thấp kỷ lục 50 phiên"
+    },
+    {
+     "ref": "vneconomy:426866b3db",
+     "title": "Dòng tiền tiếp tục đổ vào các ETF Mỹ khi lợi suất trái phiếu neo cao, Việt Nam ghi nhận rút ròng"
+    },
+    {
+     "ref": "vneconomy:b3c79a8796",
+     "title": "Dòng vốn nâng hạng vào đợt đầu 150 triệu USD chưa đủ lớn, điểm danh ba cổ phiếu hút tiền nhất"
+    },
+    {
+     "ref": "vneconomy:7843603136",
+     "title": "ROX Key Holdings tăng trưởng mạnh, sắp trả cổ tức bằng tiền mặt"
+    },
+    {
+     "ref": "vneconomy:39bd0accc8",
+     "title": "Công ty nông nghiệp của Bầu Đức IPO 18,8 triệu cổ phiếu, giá 60.600 đồng/cổ phiếu"
+    },
+    {
+     "ref": "vneconomy:d818e3219d",
+     "title": "Sáu doanh nghiệp rời khỏi danh sách vốn hóa tỷ USD trong tháng 7/2026"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e436cf858a",
+     "title": "Chuẩn bị sửa Luật Đất đai: Giá đất do Nhà nước quyết định dựa trên dữ liệu công khai"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9ac5de4c6e",
+     "title": "Đề xuất luật hoá việc cấp mã định danh điện tử cho bất động sản"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c37199891f",
+     "title": "Sửa Luật Nhà ở: Đề xuất quy định \"chung cư có thời hạn\""
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6edc4cc518",
+     "title": "Land Saigon (LSG) muốn giảm lượng chào bán cổ phiếu cho cổ đông hiện hữu để huy động 1.650 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:65d781d226",
+     "title": "Quỹ đầu tư lớn thứ 2 thế giới trở thành cổ đông lớn tại PNJ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:91096e8b69",
+     "title": "Bảo hiểm nhân thọ vẫn trong giai đoạn “vượt khó”"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b178e5ec78",
+     "title": "Giải bài toán bảo vệ đồng nội tệ"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:8d9d6bdf7b",
+     "title": "TP.HCM cho Evolution thuê gần 5 ha đất để đầu tư trung tâm dữ liệu"
+    },
+    {
+     "ref": "b-o-u-t:29f196f8d5",
+     "title": "Cà Mau chấp thuận chủ trương đầu tư 3 dự án điện gió, tổng vốn hơn 6.040 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:d124a88ad8",
+     "title": "Hơn 1.600 tỷ đồng chờ giải ngân: VPB thành tâm điểm nhóm ngân hàng hậu nâng hạng"
+    },
+    {
+     "ref": "b-o-u-t:93d25f5e99",
+     "title": "Lợi nhuận 0 đồng, chủ đầu tư Sapphire Coast bị cảnh báo về nợ vay"
+    },
+    {
+     "ref": "b-o-u-t:009923ec1e",
+     "title": "Doanh nghiệp chuẩn bị hồ sơ, dữ liệu về thép không gỉ xuất khẩu sang Đài Loan"
+    },
+    {
+     "ref": "b-o-u-t:97d6eb1f1c",
+     "title": "Đắk Lắk áp dụng cơ chế sandbox cho công nghệ số và AI"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:ac13762dd4",
+     "title": "Khởi đầu “như mơ”, điều gì đang diễn ra với cổ phiếu PVcomBank (PCB)?"
+    },
+    {
+     "ref": "markettimes:327ea52f7b",
+     "title": "Công bố 20 Ngân hàng nộp ngân sách lớn nhất và Top 20 Ngân hàng tư nhân nộp ngân sách lớn nhất Việt Nam 2026"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:de3c7360b4",
+     "title": "FDI chất lượng cao đặt ra chuẩn mới cho hạ tầng KCN"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:d35a046414",
+     "title": "Sầu riêng xuất khẩu: Kết nối “sợi dây vàng” tại thị trường tiềm năng Trung Quốc"
+    },
+    {
+     "ref": "vnbusiness:59fa7a009e",
+     "title": "Chuyên gia HSBC: Áp lực tỷ giá cuối năm không đến từ một phía"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:d9cb468f90",
+     "title": "Nghiên cứu nâng ngưỡng kê khai thuế lên 10 tỷ đồng"
+    },
+    {
+     "ref": "ti-n-phong:6c1fc76dcb",
+     "title": "Hơn 155.000 doanh nghiệp rút khỏi thị trường: Tứ bề sức ép?"
+    },
+    {
+     "ref": "ti-n-phong:388233960e",
+     "title": "Từ khai thác đến tái chế vonfram: Bài toán nâng giá trị tài nguyên chiến lược Việt"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:8fd9a2671e",
+     "title": "VAB: Giải trình biến động LNST bán niên năm 2026 so với cùng kỳ năm trước"
+    },
+    {
+     "ref": "hose:682d86f7d0",
+     "title": "VHM: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:75b60b1216",
+   "title": "Lợi nhuận hãng khai khoáng Fortescue giảm do thách thức từ Trung Quốc kéo dài",
+   "translated": true,
+   "original_title": "Miner Fortescue’s Profit Falls as China Challenges Persist",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-19/miner-fortescue-s-profit-falls-as-china-challenges-persist"
+  },
+  {
+   "ref": "tg-dubaotiente:106024",
+   "title": "Trump tuyên bố chiến dịch kinh tế khốc liệt nhằm vào Iran, cảnh báo cả đồng minh",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Trump tuyên bố chiến dịch kinh tế khốc liệt nhằm vào Iran, cảnh báo cả đồng minh Chi tiết xem tại: https://dubaotiente.net/tieu-diem/trump-tuyen-bo-chien-dich-kinh-te-khoc-liet-nham-vao-iran-canh-bao-ca-dong-minh-111316.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:555ba990cc",
+   "title": "Mỹ có thể cắt giảm thuế quan chủ chốt trong thỏa thuận thương mại với Canada",
+   "translated": true,
+   "original_title": "US could cut key tariffs as part of proposed Canada deal, source says",
+   "link": "https://www.reuters.com/world/us-canada-trade-negotiators-meet-after-trump-sets-new-tariff-deadline-2026-08-19/"
+  },
+  {
+   "ref": "reuters:6c4ae06a43",
+   "title": "Nợ công Mỹ vượt ngưỡng 40.000 tỷ USD sau khi tăng gấp đôi dưới thời Trump và Biden",
+   "translated": true,
+   "original_title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden",
+   "link": "https://www.reuters.com/world/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-biden-2026-08-19/"
+  },
+  {
+   "ref": "bloomberg:dc05adea6f",
+   "title": "Phiên đấu giá trái phiếu kỳ hạn 20 năm của Nhật đối mặt phép thử khi lợi suất toàn cầu tăng vọt",
+   "translated": true,
+   "original_title": "Japan’s 20-Year Bond Auction Faces Test as Global Yields Surge",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-19/japan-s-20-year-bond-auction-faces-test-as-global-yields-surge"
+  },
+  {
+   "ref": "reuters:076b6ada34",
+   "title": "Lợi suất trái phiếu toàn cầu giảm sau khi Bộ Tài chính Mỹ tăng quy mô mua lại nợ",
+   "translated": true,
+   "original_title": "Global yields fall after US Treasury boosts debt buybacks",
+   "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/"
+  },
+  {
+   "ref": "tg-dubaotiente:106023",
+   "title": "Tính độc lập của Fed vào tầm ngắm khi Thượng viện chất vấn khoảng trống lịch làm việc của Warsh",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Tính độc lập của Fed vào tầm ngắm khi Thượng viện chất vấn khoảng trống lịch làm việc của Warsh Chi tiết xem tại: https://dubaotiente.net/tieu-diem/tinh-doc-lap-cua-fed-vao-tam-ngam-khi-thuong-vien-chat-van-khoang-trong-lich-lam-viec-cua-warsh-111315.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:18843b6d39",
+   "title": "Phố Wall tăng điểm khi lợi suất hạ nhiệt, cổ phiếu Moderna kéo nhóm y tế đi lên",
+   "translated": true,
+   "original_title": "Wall St rises as yields ease, Moderna lifts healthcare stocks",
+   "link": "https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/"
+  },
+  {
+   "ref": "tg-marketfeed:1021424",
+   "title": "Nga tấn công tên lửa quy mô lớn vào Kyiv trong đêm với nhiều đợt tên lửa đạn đạo và siêu vượt âm",
+   "translated": true,
+   "original_title": "A MASSIVE RUSSIAN MISSILE ATTACK STRUCK KYIV OVERNIGHT WITH MULTIPLE WAVES OF BALLISTIC AND HYPERSONIC MISSILES, WITH RESIDENTS DESCRIBING 'ENDLESS' EXPLOSIONS AMONG THE LOUDEST OF THE WAR. ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:af0a83e369",
+   "title": "Phía sau biến động chóng mặt của thị trường trái phiếu và sự can thiệp của Bộ trưởng Tài chính Mỹ Bessent",
+   "translated": true,
+   "original_title": "Behind the Bond Market Rollercoaster and Bessent’s Treasury Intervention",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-19/behind-the-bond-market-rollercoaster-and-bessent-s-treasury-intervention"
+  },
+  {
+   "ref": "reuters:974189fe57",
+   "title": "Stripe mua lại nền tảng OpenRouter trong bước tiến vào mảng AI",
+   "translated": true,
+   "original_title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+   "link": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19/"
+  },
+  {
+   "ref": "tg-vnwallstreet:396839",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust tăng nắm giữ thêm 9,4 tấn, tổng đạt 1.034,7 tấn",
+   "translated": false,
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới - SPDR Gold Trust đã tăng 9.414 tấn so với ngày trước, hiện có tổng lượng nắm giữ là 1.034,654 tấn. #vàng",
+   "link": null
+  }
+ ],
+ "content_sha": "ce3853359bfe5eec3a730881f89edb17c3a69daf3f69dab78b004ed5dce6c1ca"
+}
