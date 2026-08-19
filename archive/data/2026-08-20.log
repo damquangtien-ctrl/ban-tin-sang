@@ -1,0 +1,57 @@
+
+########## CHAY LUC 2026-08-20 06:44:42 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-20, ban daily)
+   the gioi 12 tin · Viet Nam 60 tin / 10 bao · phap ly 9 tin · chot quyen 0 ma
+   THAT BAI: 20 loi
+      [C1] bulletin.highlights[0]: thiếu trường bắt buộc 'text'
+      [C1] bulletin.highlights[0]: thiếu trường bắt buộc 'source'
+      [C1] bulletin.highlights[0]: trường lạ 'ref'
+      [C1] bulletin.highlights[0]: trường lạ 'title'
+      [C1] bulletin.highlights[1]: thiếu trường bắt buộc 'text'
+      [C1] bulletin.highlights[1]: thiếu trường bắt buộc 'source'
+      [C1] bulletin.highlights[1]: trường lạ 'ref'
+      [C1] bulletin.highlights[1]: trường lạ 'title'
+      [C1] bulletin.highlights[2]: thiếu trường bắt buộc 'text'
+      [C1] bulletin.highlights[2]: thiếu trường bắt buộc 'source'
+      [C1] bulletin.highlights[2]: trường lạ 'ref'
+      [C1] bulletin.highlights[2]: trường lạ 'title'
+      [C1] bulletin.highlights[3]: thiếu trường bắt buộc 'text'
+      [C1] bulletin.highlights[3]: thiếu trường bắt buộc 'source'
+      [C1] bulletin.highlights[3]: trường lạ 'ref'
+      [C1] bulletin.highlights[3]: trường lạ 'title'
+      [C1] bulletin.highlights[4]: thiếu trường bắt buộc 'text'
+      [C1] bulletin.highlights[4]: thiếu trường bắt buộc 'source'
+      [C1] bulletin.highlights[4]: trường lạ 'ref'
+      [C1] bulletin.highlights[4]: trường lạ 'title'
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-08-20 06:45:01 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-20, ban daily)
+   the gioi 12 tin · Viet Nam 60 tin / 10 bao · phap ly 9 tin · chot quyen 0 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-20 · the gioi 12 · Viet Nam 60 · phap ly 9
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-20.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-08-20: commit cb2cb3e433a0 · sha noi dung cd6cd75216d5a07b
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 20/08 | content_sha ce3853359bfe | commit cb2cb3e433a0
+   telegram user/928f6fc4179d OK message_id=230
+   zalo     user/593dd2adbb87 OK message_id=9793468cc25f45061c49
+   zalo     group/8fddff299f5f OK message_id=fd0bd6c65215d54c8c03
+   zalo     group/240eac12bc5e OK message_id=4f7a7707f2d4758d2cc2
+   zalo     group/8b7b62566b6c OK message_id=53eed0e35530d2698b26
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-08-20.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-08-20 06:45:40 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
