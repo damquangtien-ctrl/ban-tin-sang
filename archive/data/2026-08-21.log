@@ -1,0 +1,49 @@
+
+########## CHAY LUC 2026-08-21 06:46:35 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-21, ban daily)
+   the gioi 18 tin · Viet Nam 41 tin / 8 bao · phap ly 6 tin · chot quyen 1 ma
+   CANH BAO [C7] vietnam[7].items[0] và vietnam[7].items[1] có thể trùng sự kiện (giống 80%)
+   CANH BAO [C7] vietnam[7].items[0] và vietnam[7].items[2] có thể trùng sự kiện (giống 80%)
+   CANH BAO [C7] vietnam[7].items[1] và vietnam[7].items[2] có thể trùng sự kiện (giống 80%)
+   DAT: khong loi, 3 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-21 · the gioi 18 · Viet Nam 41 · phap ly 6
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-21.html
+
+=== 3/5 XUAT BAN ===
+
+########## CHAY LUC 2026-08-21 06:52:29 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-21, ban daily)
+   the gioi 18 tin · Viet Nam 41 tin / 8 bao · phap ly 6 tin · chot quyen 1 ma
+   CANH BAO [C7] vietnam[7].items[0] và vietnam[7].items[1] có thể trùng sự kiện (giống 80%)
+   CANH BAO [C7] vietnam[7].items[0] và vietnam[7].items[2] có thể trùng sự kiện (giống 80%)
+   CANH BAO [C7] vietnam[7].items[1] và vietnam[7].items[2] có thể trùng sự kiện (giống 80%)
+   DAT: khong loi, 3 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-21 · the gioi 18 · Viet Nam 41 · phap ly 6
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-21.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-08-21: commit ddb1bde65dda · sha noi dung 8a7d84ac519b1034
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 21/08 | content_sha f46fe857c966 | commit ddb1bde65dda
+   telegram user/928f6fc4179d OK message_id=231
+   zalo     user/593dd2adbb87 OK message_id=7c10e109d43d52640b2b
+   zalo     group/8fddff299f5f OK message_id=4b6432070733816ad825
+   zalo     group/240eac12bc5e OK message_id=89d2c913fd277b7e2231
+   zalo     group/8b7b62566b6c OK message_id=5d9c40b57481f2d8ab97
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-08-21.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-08-21 06:53:08 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

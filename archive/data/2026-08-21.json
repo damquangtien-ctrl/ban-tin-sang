@@ -494,5 +494,68 @@
    "link": "https://bbw.vn/drone-giup-nha-giao-dich-nang-luong-kiem-loi-nho-du-bao-thoi-tiet-chinh-xac-hon-59856.html"
   }
  ],
- "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075"
+ "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "ddb1bde65dda0c11d74b412ffcaf5028f54dd62a",
+   "published_at": "2026-08-21T06:53:03+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "231",
+   "sent_at": "2026-08-21T06:53:03+07:00",
+   "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "231",
+     "sent_at": "2026-08-21T06:53:03+07:00",
+     "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "7c10e109d43d52640b2b",
+   "sent_at": "2026-08-21T06:53:05+07:00",
+   "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "7c10e109d43d52640b2b",
+     "sent_at": "2026-08-21T06:53:05+07:00",
+     "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "4b6432070733816ad825",
+     "sent_at": "2026-08-21T06:53:06+07:00",
+     "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "89d2c913fd277b7e2231",
+     "sent_at": "2026-08-21T06:53:07+07:00",
+     "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "5d9c40b57481f2d8ab97",
+     "sent_at": "2026-08-21T06:53:08+07:00",
+     "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075"
+    }
+   ]
+  }
+ }
 }
