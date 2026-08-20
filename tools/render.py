@@ -70,8 +70,23 @@ def replace_block(doc, name, content):
     return pattern.sub(lambda m: m.group(1) + "\n" + content + "\n" + m.group(3), doc, count=1)
 
 
+# Chữ viết tắt hay đứng đầu tiêu đề nhưng KHÔNG phải mã cổ phiếu — không in đậm.
+NOT_TICKER = {"CEO", "CFO", "GDP", "CPI", "PMI", "USD", "VND", "VAT", "FED", "ETF",
+              "IPO", "SBV", "NHNN", "TTCK"}
+TICKER_RE = re.compile(r"^([A-Z][A-Z0-9]{2,4}):\s")
+
+
+def bold_ticker(escaped_title):
+    """In đậm mã CK mở đầu tiêu đề ('PVS: ...') cho dễ quét — quy tắc 8 runbook.
+    Chỉ chạy trên chuỗi ĐÃ escape; tiêu đề không có mã thì giữ nguyên."""
+    m = TICKER_RE.match(escaped_title)
+    if not m or m.group(1) in NOT_TICKER:
+        return escaped_title
+    return "<b>%s:</b> %s" % (m.group(1), escaped_title[m.end():])
+
+
 def news_li(number, title, url, time_text, legal=False):
-    label = ("🚨 " if legal else "") + esc(title)
+    label = ("🚨 " if legal else "") + bold_ticker(esc(title))
     body = '<a href="%s">%s</a>' % (esc(url), label) if url else label
     meta = '<div class="meta">%s</div>' % esc(time_text) if time_text else ""
     return ('<li%s><span class="n">%d.</span><div class="t">%s%s</div></li>'
