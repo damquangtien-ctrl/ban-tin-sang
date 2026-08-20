@@ -37,7 +37,10 @@ LEGAL_RE = re.compile(
 DIVIDEND_RE = re.compile(r"cổ tức|chốt quyền|ĐKCC|ngày đăng ký cuối cùng", re.I)
 NOISE_RE = re.compile(
     r"^(ảnh|video|infographic|emagazine|photo)\b|giải trí|showbiz|sao việt|"
-    r"tử vi|bóng đá|thời trang|làm đẹp|du lịch hè", re.I)
+    r"tử vi|bóng đá|thời trang|làm đẹp|du lịch hè|"
+    # Chuyên mục điểm dòng tiền lặp lại hàng ngày (chủ hệ thống yêu cầu bỏ 20/8):
+    # số tự doanh/khối ngoại đã có ở bảng Phần I, bài điểm tin này chỉ là nhiễu.
+    r"theo dấu dòng tiền|dòng tiền cá mập", re.I)
 # Tin THUẦN GIÁ hàng hoá/tỷ giá: đã nằm ở Phần I số liệu nên không vào Phần III.
 # Chỉ khớp tin bản thân nó là bản tin giá, không đụng tin ngành (vd. giá thép HRC).
 PRICE_TICK_RE = re.compile(
@@ -230,6 +233,8 @@ def main():
             "Bloomberg Businessweek VN (khối báo Việt Nam): tiêu đề ĐÃ là tiếng Việt (bản dịch có bản quyền). Bài phân tích thị trường/kinh tế VN giữ ở khối báo này; bài dịch Bloomberg về thế giới (không dính thị trường VN) CHUYỂN ref sang world (translated=false, giữ nguyên tiêu đề) — link bbw.vn tự gắn.",
             "CẢNH GIÁC trùng khác ngôn ngữ: máy KHÔNG bắt được trùng giữa tin Bloomberg tiếng Anh và bản dịch bbw.vn tiếng Việt — cùng sự kiện thì ưu tiên giữ bản bbw.vn (độc giả đọc được tiếng Việt), bỏ bản tiếng Anh.",
             "vietnam: xoá tin PR/vụn, ưu tiên doanh nghiệp lớn, bỏ khối báo không còn tin.",
+            "LOẠI HẲN tin điểm dòng tiền phiên lặp lại hàng ngày (tự doanh mua/bán ròng, khối ngoại mua/bán ròng phiên X, 'dòng tiền cá mập'...) — số liệu này đã có ở bảng Phần I; chỉ giữ khi có sự kiện bất thường thật sự (vd. bán ròng kỷ lục nhiều năm).",
+            "TIÊU ĐỀ tin doanh nghiệp (vietnam + legal): PHẢI bắt đầu bằng mã cổ phiếu dạng 'PVS: ...' — ví dụ 'PVS: Doanh nghiệp dầu khí đứng trước \"núi việc\" 7 tỷ USD'. Nguồn để mã ở giữa/cuối hay chỉ ghi tên công ty niêm yết thì tra mã và đưa lên đầu; tin không gắn với một mã cụ thể (chính sách, ngành, vĩ mô) thì giữ nguyên tiêu đề.",
             "legal: giữ tối đa 10 tin, ưu tiên doanh nghiệp lớn và vụ án lớn.",
             "Khử trùng: một sự kiện chỉ giữ ở báo đứng trước trong thứ tự, xoá ở báo sau.",
             "Điền market_data (8 ô đúng thứ tự, đúng số liệu tra được), highlights 3-5 tin.",
