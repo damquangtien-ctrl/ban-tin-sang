@@ -1,0 +1,498 @@
+{
+ "date": "2026-08-21",
+ "dividends": [
+  {
+   "event": "Tạm ứng cổ tức đợt 1/2026 tỷ lệ 8% bằng tiền (800 đồng/CP)",
+   "record_date": "2026-08-28",
+   "ref": "tin-nhanh-ch-ng-kho-n:41c8611004",
+   "ticker": "NAV"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "CTCK gọi tên 28 cổ phiếu có thể hút hàng tỷ USD trước thềm FTSE công bố thông tin nâng hạng"
+  },
+  {
+   "source": "CafeF",
+   "text": "VHM: Vinhomes nhân đôi vốn điều lệ, vượt 82.000 tỷ đồng sau đợt chia cổ tức 'khủng'"
+  },
+  {
+   "source": "Reuters",
+   "text": "Biên bản họp Fed cho thấy khả năng tăng lãi suất tháng 9 vẫn còn để ngỏ"
+  },
+  {
+   "source": "Reuters",
+   "text": "Broadcom tìm khoản vay hơn 60 tỷ USD cho thương vụ nợ AI, tổng vốn có thể lên 100 tỷ USD"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Bitcoin vượt mốc 73.000 USD, dòng vốn ETF giao ngay vượt 5,3 tỷ USD trong ngày"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:189cfbf2a8",
+     "title": "CMF: Bị phạt và truy thu thuế 3,6 tỷ đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bf33b702e6",
+     "title": "Đồng Nai: Hơn 7.000 doanh nghiệp cả nước liên quan mua bán, dùng hóa đơn trái phép - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:a9c433bdf7",
+     "title": "STB: Thiếu chứng cứ xác định 5 người chiếm đoạt hơn 17 tỷ đồng của Sacombank"
+    },
+    {
+     "ref": "vnexpress:9cebfd7d38",
+     "title": "Cựu thứ trưởng Nguyễn Bá Hoan bị đề nghị 12-13 năm tù"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:0c15c74d5a",
+     "title": "Xử phạt lãnh đạo mua chui cổ phiếu và cá nhân thao túng giá - Báo Thanh Niên"
+    },
+    {
+     "ref": "google-news-ph-p-l:bb2adc7942",
+     "title": "PBC: Tổng Giám đốc bị phạt hơn 523 triệu đồng, đình chỉ giao dịch 18 tháng"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+7,55 (+0,44%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.734,24 điểm"
+   },
+   {
+    "change": "-1,43 (-0,51%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "278,55 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "9.796,5 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng 617 tỷ đồng"
+   },
+   {
+    "change": "+3,3 triệu đồng",
+    "direction": "up",
+    "label": "Vàng SJC",
+    "value": "142,5 - 145,5 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "25.930 - 26.310 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ giảm điểm trong phiên qua đêm sau khi biên bản họp Fed cho thấy khả năng tăng lãi suất tháng 9 vẫn còn để ngỏ, với S&P 500 giảm 0,87%, Dow Jones giảm 1,32% và Nasdaq giảm 1%. Giá dầu tăng trước căng thẳng liên quan Iran và eo biển Hormuz, trong khi vàng thế giới tăng mạnh 2,14% lên 4.585 USD và Bitcoin vọt hơn 5,7% lên trên 73.000 USD. Tại thị trường trong nước, VN-Index đóng cửa phiên 20/8 tăng 7,55 điểm (+0,44%) lên 1.734,24 điểm, HNX-Index giảm 0,51% xuống 278,55 điểm, thanh khoản HOSE đạt khoảng 9.796,5 tỷ đồng và khối ngoại tiếp tục bán ròng hơn 617 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.87,
+    "label": "S&P 500",
+    "value": "7.641,2"
+   },
+   {
+    "change_pct": -1.32,
+    "label": "Dow Jones",
+    "value": "52.759,2"
+   },
+   {
+    "change_pct": -1.0,
+    "label": "Nasdaq",
+    "value": "26.067,2"
+   },
+   {
+    "change_pct": 0.56,
+    "label": "Dầu WTI",
+    "value": "86,3 USD"
+   },
+   {
+    "change_pct": 1.86,
+    "label": "Dầu Brent",
+    "value": "93,3 USD"
+   },
+   {
+    "change_pct": 2.14,
+    "label": "Vàng thế giới",
+    "value": "4.585 USD"
+   },
+   {
+    "change_pct": 5.79,
+    "label": "Bitcoin",
+    "value": "73.279 USD"
+   },
+   {
+    "change_pct": 0.01,
+    "label": "DXY",
+    "value": "98,84"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:51c72cbc6b",
+     "title": "ĐH của tỷ phú Phạm Nhật Vượng vừa nhận nhiệm vụ đặc biệt từ Chính phủ"
+    },
+    {
+     "ref": "cafef:2aa4449eee",
+     "title": "Điều gì có thể khiến dòng vốn ngoại đảo chiều trong nửa cuối năm?"
+    },
+    {
+     "ref": "cafef:366bc3d63b",
+     "title": "CTCK chỉ ra chất xúc tác quan trọng giúp VN-Index tiến lên vùng 2.000 điểm"
+    },
+    {
+     "ref": "cafef:c91b461be2",
+     "title": "Đúng 1 ngày nữa FTSE công bố thông tin quan trọng, CTCK gọi tên 28 cổ phiếu có thể hút hàng tỷ USD"
+    },
+    {
+     "ref": "cafef:bbc156bb69",
+     "title": "SSI: Sếp SSI đăng ký mua 5 triệu cổ phiếu ngay trước thềm nâng hạng"
+    },
+    {
+     "ref": "cafef:88bacbfbe7",
+     "title": "PNJ: Cổ phiếu PNJ 'nóng' trước buổi họp bất thường"
+    },
+    {
+     "ref": "cafef:b962a8e551",
+     "title": "Nhóm CTCK tung 600 tỷ đồng gom cổ phiếu phiên đáo hạn phái sinh, mã nào là tâm điểm?"
+    },
+    {
+     "ref": "cafef:b8e2d5a5b0",
+     "title": "DGC: Công ty con của Hóa chất Đức Giang đón tin vui"
+    },
+    {
+     "ref": "cafef:6d23e4540e",
+     "title": "PNJ: Thêm một nhóm quỹ ngoại trở thành cổ đông lớn"
+    },
+    {
+     "ref": "cafef:1aa4d7f854",
+     "title": "BBT: Miễn nhiệm Tổng giám đốc Nguyễn Khánh Linh"
+    },
+    {
+     "ref": "cafef:7769fd4168",
+     "title": "GMD: Nhóm quỹ ngoại rời ghế cổ đông lớn tại 'ông lớn' cảng biển"
+    },
+    {
+     "ref": "cafef:b0ba756c12",
+     "title": "VHM: Nhân đôi vốn điều lệ, vượt 82.000 tỷ đồng sau đợt chia cổ tức 'khủng'"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:1999a4a2de",
+     "title": "NVL: Thoái toàn bộ vốn hơn 5.400 tỷ đồng tại Ngôi Nhà Mega cho ai?"
+    },
+    {
+     "ref": "vietstock:0252265c14",
+     "title": "Trung Quốc phê duyệt thêm nhiều mã số vùng trồng, cơ sở đóng gói nông sản Việt Nam"
+    },
+    {
+     "ref": "vietstock:eab7b37c53",
+     "title": "CRE: Sau khi liên tiếp bán tài sản, Cen Land muốn vay ngắn hạn 600 tỷ từ doanh nghiệp cùng ngành"
+    },
+    {
+     "ref": "vietstock:e4cc259efe",
+     "title": "BID: Huy động gần 4.334 tỷ đồng qua chào bán trái phiếu ra công chúng đợt 3"
+    },
+    {
+     "ref": "vietstock:e642e06ff0",
+     "title": "VJC: Lập công ty mới vốn 300 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:87fe37983b",
+     "title": "GGG: Phát hành 20 triệu cổ phiếu, đón cổ đông lớn từ nhóm Kita Group"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:692cee721c",
+     "title": "VN-Index có khả năng thử thách ngưỡng 1750 điểm?"
+    },
+    {
+     "ref": "vneconomy:6d153c5a38",
+     "title": "91/91 quỹ cổ phiếu đồng loạt báo lỗ nặng trong tháng 7, dòng tiền rút ra mạnh"
+    },
+    {
+     "ref": "vneconomy:787908ed52",
+     "title": "Công bố Dự thảo Nghị định kinh doanh xăng dầu: Những doanh nghiệp nào được hưởng lợi?"
+    },
+    {
+     "ref": "vneconomy:533c7cd52f",
+     "title": "Khối ngoại bán ròng hơn 91 nghìn tỷ trong 7 tháng nhưng tiền vẫn luân chuyển ở Việt Nam"
+    },
+    {
+     "ref": "vneconomy:cd41040ddd",
+     "title": "Giám đốc của VinaCapital: Nhiều yếu tố hỗ trợ thị trường phục hồi"
+    },
+    {
+     "ref": "vneconomy:47222fd775",
+     "title": "Hai ETF ngoại gần 1 tỷ USD sắp mua mới hàng triệu cổ phiếu chứng khoán"
+    },
+    {
+     "ref": "vneconomy:1b19042bf5",
+     "title": "Sửa đổi Luật Dầu khí: Các doanh nghiệp niêm yết hưởng lợi thế nào?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:22d3e9a46e",
+     "title": "PAT: Ra khỏi danh sách cảnh báo"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5533dd2adb",
+     "title": "LTG: Chính thức bị hủy giao dịch trên UPCoM từ ngày 25/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:be487de8e0",
+     "title": "Xuất khẩu sang Canada tăng hơn 20%, vượt mốc 5 tỷ USD - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1301ca9c6e",
+     "title": "TP.HCM yêu cầu thi công cầu Phú Mỹ 2, cầu Cần Giờ từ tháng 9/2026 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9491e7a755",
+     "title": "VETC ngừng thu phí quản lý tài khoản giao thông - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:99833cfbba",
+     "title": "Thêm 3 lô đất tại Thủ Thiêm sắp đấu giá, có lô khởi điểm hơn 5.600 tỷ đồng - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:70b6b429de",
+     "title": "Việt Nam kiên quyết ngăn chặn gian lận xuất xứ, trung chuyển hàng hóa bất hợp pháp - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:7bc67f584a",
+     "title": "Cả nước đang triển khai 875 dự án nhà ở xã hội với quy mô hơn 773.000 căn - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:88fde7518f",
+     "title": "VinaCapital và Chứng khoán MB hợp tác mở rộng kênh phân phối quỹ mở - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:5c06344a5d",
+     "title": "Cuộc chơi KCN: Khi nhà đầu tư nâng mức đặt cược"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:61530bc2bc",
+     "title": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp có doanh thu dưới 10 tỷ đồng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:c239d56759",
+     "title": "VTP: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:26f65ef9bd",
+     "title": "FPT: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:fbc4aa85a1",
+     "title": "STK: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:081be4720b",
+     "title": "MBB: Thông báo giao dịch quyền mua cổ phiếu của tổ chức có liên quan đến Người nội bộ Tập đoàn Công nghiệp - Viễn thông Quân đội"
+    },
+    {
+     "ref": "hose:c960df66b2",
+     "title": "EVF: Danh sách và thông tin ứng cử viên bầu bổ sung Thành viên độc lập HĐQT nhiệm kỳ 2023-2028"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:3cd31fb30c",
+   "title": "Biên bản họp Fed: khả năng tăng lãi suất tháng 9 vẫn còn để ngỏ",
+   "translated": true,
+   "original_title": "Fed minutes show September rate hike still on the table",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/fed-minutes-show-september-rate-hike-still-table-2026-08-20/"
+  },
+  {
+   "ref": "tg-marketfeed:1022208",
+   "title": "Nhật Bản: CPI lõi tháng 7 tăng 1,8% so với cùng kỳ, đúng dự báo và cao hơn mức 1,6% trước đó; CPI toàn phần tăng 2,0%",
+   "translated": true,
+   "original_title": "JAPAN'S JULY NATIONWIDE CORE CPI ROSE 1.8% YEAR-ON-YEAR, IN LINE WITH THE POLL AND UP FROM 1.6%, WITH THE OVERALL CPI UP 2.0% VERSUS A 1.9% FORECAST AND CPI EXCLUDING FRESH FOOD AND ENERGY ALSO UP 1.8% ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:c7bc3a697a",
+   "title": "Broadcom tìm khoản vay hơn 60 tỷ USD cho thương vụ nợ AI mới nhất",
+   "translated": true,
+   "original_title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
+   "link": "https://www.reuters.com/technology/broadcom-seeks-more-than-60-billion-latest-ai-debt-deal-bloomberg-news-reports-2026-08-20/"
+  },
+  {
+   "ref": "reuters:f89605cca0",
+   "title": "Bessent: Mỹ sẽ áp lệnh trừng phạt 'khắc nghiệt nhất' lên Iran, kêu gọi Trung Quốc hợp tác",
+   "translated": true,
+   "original_title": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate",
+   "link": "https://www.reuters.com/world/middle-east/us-treasury-secretary-bessent-hold-press-conference-iran-on-monday-2026-08-20/"
+  },
+  {
+   "ref": "tg-marketfeed:1022179",
+   "title": "Trump: Iran chỉ còn năng lực hạn chế về tên lửa, drone; Mỹ đã và sẽ sớm kiểm soát hoàn toàn eo biển Hormuz",
+   "translated": true,
+   "original_title": "TRUMP SAYS IRAN HAS SOME MISSILES AND DRONES BUT LIMITED PRODUCTION CAPACITY, ADDING THAT THE U.S. ESSENTIALLY CONTROLS THE STRAIT OF HORMUZ AND WILL SOON FULLY CONTROL IT ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:bafb9363b8",
+   "title": "Abbott trả 670 triệu USD để dàn xếp một số vụ kiện liên quan sữa công thức cho trẻ sinh non",
+   "translated": true,
+   "original_title": "Abbott to pay $670 million to settle some preterm infant formula cases",
+   "link": "https://www.reuters.com/legal/litigation/abbott-agrees-670-million-settlement-infant-formula-cases-2026-08-20/"
+  },
+  {
+   "ref": "reuters:d37aef63a7",
+   "title": "Fidelity International dự tính rút khỏi công ty quỹ sở hữu toàn phần tại Trung Quốc",
+   "translated": true,
+   "original_title": "Fidelity International plans to pull out of wholly owned China fund unit, sources say",
+   "link": "https://www.reuters.com/world/china/fidelity-international-plans-pull-out-wholly-owned-china-fund-unit-sources-say-2026-08-20/"
+  },
+  {
+   "ref": "bloomberg:fa10c52a01",
+   "title": "Hua Hong, Kingboard, Zijin Gold có thể được thêm vào chỉ số chứng khoán Hong Kong",
+   "translated": true,
+   "original_title": "Hua Hong, Kingboard, Zijin Gold May Join Hong Kong’s Stock Index",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-20/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index"
+  },
+  {
+   "ref": "tg-marketfeed:1022183",
+   "title": "Khối lượng giao dịch ETF Bitcoin giao ngay vượt 5,3 tỷ USD trong ngày, dẫn đầu là BlackRock với hơn 4,4 tỷ USD",
+   "translated": true,
+   "original_title": "JUST IN: SPOT BITCOIN ETF VOLUME SURPASSES $5.3 BILLION TODAY. • BLACKROCK: $4,438,272,142 • FIDELITY: $438,039,722 • GRAYSCALE: $208,761,824 • BITWISE: $106,828,983 • ARK INVEST: $72,899,488 • VANECK: $32,844,242 • MORGAN STANLEY: $14,801,590 • FRANKLIN: $11,174,730 • INVESCO: $5,593,417 • VALKYRIE: $1,502,450 • WISDOMTREE: $600,123 • HASHDEX: $269,014 ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1022195",
+   "title": "Bitcoin vượt mốc 73.000 USD khi tỷ lệ nắm giữ dài hạn chiếm 83% nguồn cung, cao nhất kể từ tháng 12/2023",
+   "translated": true,
+   "original_title": "BITCOIN BREAKS ABOVE $73,000 AS LONG-TERM HOLDERS CONTROL 83% OF SUPPLY, THE HIGHEST SHARE SINCE DECEMBER 2023. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:12ceab7467",
+   "title": "AI định hình lại các hợp đồng ngành dịch vụ CNTT của Ấn Độ khi khách hàng đòi hỏi nhiều hơn với chi phí thấp hơn",
+   "translated": true,
+   "original_title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+   "link": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/"
+  },
+  {
+   "ref": "reuters:08a6fbbf55",
+   "title": "Hai nhân viên Binance bị tạm giữ tại UAE trong những tuần gần đây, theo NYT",
+   "translated": true,
+   "original_title": "Two Binance employees were detained in UAE in recent weeks, NYT reports",
+   "link": "https://www.reuters.com/world/americas/two-binance-employees-were-detained-uae-recent-weeks-nyt-reports-2026-08-20/"
+  },
+  {
+   "ref": "reuters:70d13b1697",
+   "title": "Delta và Aeromexico thắng kiện tại tòa Mỹ, được giữ liên doanh chung",
+   "translated": true,
+   "original_title": "Delta, Aeromexico win US court battle to keep joint venture",
+   "link": "https://www.reuters.com/world/delta-aeromexico-win-court-battle-keep-joint-venture-2026-08-20/"
+  },
+  {
+   "ref": "reuters:f272891697",
+   "title": "Kênh đào Panama giới hạn số lượt tàu qua mỗi ngày trước nguy cơ El Nino nghiêm trọng",
+   "translated": true,
+   "original_title": "Panama Canal to cap daily transits, anticipating severe El Niño",
+   "link": "https://www.reuters.com/business/environment/panama-canal-cap-daily-transits-anticipating-severe-el-nio-2026-08-20/"
+  },
+  {
+   "ref": "reuters:5610487af3",
+   "title": "Vụ mùa đậu tương 2026/27 của Brazil có thể giảm nhẹ do El Nino, theo lãnh đạo COFCO",
+   "translated": true,
+   "original_title": "La cosecha de soja de Brasil 2026/27 podría bajar levemente por El Niño: directivo de COFCO",
+   "link": "https://www.reuters.com/es/negocio/6OLBGVXHYVLY5B4CZ2Y6ENTTQM-2026-08-20/"
+  },
+  {
+   "ref": "tg-marketfeed:1022176",
+   "title": "Thụy Sĩ - Trung Quốc cập nhật hiệp định thương mại tự do 2014, mở rộng khả năng tiếp cận của nhà đầu tư Thụy Sĩ vào Trung Quốc; cổ phiếu Swatch, Richemont tăng",
+   "translated": true,
+   "original_title": "THE AGREEMENT UPDATES THE COUNTRIES' 2014 FREE-TRADE DEAL AND IMPROVES SWISS INVESTOR ACCESS TO CHINA — SWITZERLAND'S THIRD-LARGEST TRADING PARTNER, WITH BILATERAL TRADE OF AROUND 34 BLN SWISS FRANCS ($43 BLN) LAST YEAR — AS SWISS STOCKS INCLUDING SWATCH AND RICHEMONT ROSE. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:106073",
+   "title": "Citi: Giao dịch mất giá tiền tệ cần lối thoát mới, thị trường sẽ quay lại vàng",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Citi: Giao dịch mất giá tiền tệ cần lối thoát mới, thị trường sẽ quay lại vàng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/citi-giao-dich-mat-gia-tien-te-can-loi-thoat-moi-thi-truong-se-quay-lai-vang-111351.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:06f3871e05",
+   "title": "Drone giúp nhà giao dịch năng lượng kiếm lời nhờ dự báo thời tiết chính xác hơn",
+   "translated": false,
+   "original_title": "Drone giúp nhà giao dịch năng lượng kiếm lời nhờ dự báo thời tiết chính xác hơn",
+   "link": "https://bbw.vn/drone-giup-nha-giao-dich-nang-luong-kiem-loi-nho-du-bao-thoi-tiet-chinh-xac-hon-59856.html"
+  }
+ ],
+ "content_sha": "f46fe857c966be656f227a7b9cec1566bed6c773bc0cd49fa6815690a11dd075"
+}
