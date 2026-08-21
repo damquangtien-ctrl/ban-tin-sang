@@ -476,5 +476,68 @@
    "link": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/"
   }
  ],
- "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011"
+ "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "75bd3f16044efa5e4140cd7c7e6fc4ef8948ceaf",
+   "published_at": "2026-08-22T06:45:51+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "232",
+   "sent_at": "2026-08-22T06:45:52+07:00",
+   "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "232",
+     "sent_at": "2026-08-22T06:45:52+07:00",
+     "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "9b6e9cbf4daad4f38dbc",
+   "sent_at": "2026-08-22T06:45:53+07:00",
+   "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "9b6e9cbf4daad4f38dbc",
+     "sent_at": "2026-08-22T06:45:53+07:00",
+     "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "fc9c0ec0dfd5468c1fc3",
+     "sent_at": "2026-08-22T06:45:55+07:00",
+     "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "e80c878c5599ccc0958f",
+     "sent_at": "2026-08-22T06:45:56+07:00",
+     "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "94d43ea3ecb675ef2ca0",
+     "sent_at": "2026-08-22T06:45:57+07:00",
+     "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011"
+    }
+   ]
+  }
+ }
 }
