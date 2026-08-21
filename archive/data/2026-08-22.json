@@ -1,0 +1,480 @@
+{
+ "date": "2026-08-22",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "FTSE Russell chính thức đưa 27 cổ phiếu Việt Nam vào rổ FTSE Global Equity Index Series, đánh dấu bước tiến quan trọng hướng tới nâng hạng thị trường."
+  },
+  {
+   "source": "VN-Index",
+   "text": "VN-Index bứt phá 33,88 điểm (+1,95%) lên 1.768,12 điểm trong phiên 21/8, thanh khoản HOSE vọt lên hơn 15.500 tỷ đồng."
+  },
+  {
+   "source": "Reuters",
+   "text": "Iran đe dọa đáp trả quân sự sau khi Mỹ tuyên bố áp lệnh trừng phạt nghiêm khắc nhất lịch sử, rủi ro địa chính trị gia tăng."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Bộ trưởng Tài chính Mỹ Bessent tự quyết định tăng gấp đôi kế hoạch mua lại trái phiếu kho bạc, không theo chỉ đạo của Tổng thống Trump."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Samsung chi kỷ lục 80 tỷ USD để trả cổ tức và mua lại cổ phiếu quỹ."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:fc67aca549",
+     "title": "Khởi tố chủ cơ sở bán thiết bị vệ sinh, doanh thu hơn 80 tỷ đồng nhưng trốn thuế"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:6164c2c536",
+     "title": "Phó giám đốc Co-opBank chi nhánh Thanh Hóa lập sổ tiết kiệm giả để chiếm đoạt tiền"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:f73af58686",
+     "title": "Cựu chủ tịch tỉnh Bạc Liêu bị đề nghị truy tố"
+    },
+    {
+     "ref": "vnexpress:1205c006a2",
+     "title": "VKSND TP HCM vào cuộc xử lý hơn 5.800 doanh nghiệp nợ BHXH"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+33,88 (+1,95%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.768,12 điểm"
+   },
+   {
+    "change": "+5,52 (+1,98%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "284,07 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "15.509,4 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng 39,6 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "25.900 - 26.280 đồng"
+   }
+  ],
+  "summary": "Phiên đêm qua, Phố Wall tăng điểm nhưng vẫn giảm tính chung cả tuần khi lợi suất trái phiếu và căng thẳng Iran phủ bóng tâm lý nhà đầu tư; giá dầu, vàng và Bitcoin đều tăng mạnh. Trong nước, VN-Index bứt phá 33,88 điểm (+1,95%) lên 1.768,12 điểm trong phiên 21/8, thanh khoản HOSE vọt lên hơn 15.500 tỷ đồng và khối ngoại trở lại mua ròng nhẹ hơn 39 tỷ đồng. HNX-Index cũng tăng 1,98% lên 284,07 điểm. Thông tin FTSE Russell chính thức đưa 27 cổ phiếu Việt Nam vào rổ FTSE Global Equity Index Series được xem là động lực chính thúc đẩy dòng tiền vào nhóm cổ phiếu chứng khoán và ngân hàng.",
+  "tiles": [
+   {
+    "change_pct": 0.43,
+    "label": "S&P 500",
+    "value": "7.674,4"
+   },
+   {
+    "change_pct": 0.98,
+    "label": "Dow Jones",
+    "value": "53.277,0"
+   },
+   {
+    "change_pct": 0.43,
+    "label": "Nasdaq",
+    "value": "26.180,5"
+   },
+   {
+    "change_pct": -1.35,
+    "label": "Dầu WTI",
+    "value": "86,6 USD"
+   },
+   {
+    "change_pct": 0.1,
+    "label": "Dầu Brent",
+    "value": "93,9 USD"
+   },
+   {
+    "change_pct": 3.22,
+    "label": "Vàng thế giới",
+    "value": "4.662 USD"
+   },
+   {
+    "change_pct": 7.4,
+    "label": "Bitcoin",
+    "value": "78.436 USD"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "DXY",
+    "value": "98,84"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:44d5209baa",
+     "title": "Loạt cổ phiếu bị khối ngoại bán ròng mạnh trước thời điểm công bố thông tin quan trọng về nâng hạng"
+    },
+    {
+     "ref": "cafef:cf0eaa8683",
+     "title": "Bao nhiêu cổ phiếu ngân hàng lọt rổ FTSE Global Equity Index Series (GEIS)?"
+    },
+    {
+     "ref": "cafef:4b1b1dae11",
+     "title": "Đúng 1 tháng nữa, Việt Nam sẽ chính thức sánh ngang Trung Quốc, Ấn Độ"
+    },
+    {
+     "ref": "cafef:2ae1863ad9",
+     "title": "Một công ty tài chính nới room ngoại lên 50%"
+    },
+    {
+     "ref": "cafef:9fe2530555",
+     "title": "BSR: Nhà máy lọc dầu 3 tỷ USD báo doanh thu 7 tháng đầu năm đạt 120.000 tỷ đồng, lãi trước thuế gần 19.000 tỷ"
+    },
+    {
+     "ref": "cafef:a4d751776a",
+     "title": "Chính thức công bố danh sách cổ phiếu Việt Nam lọt FTSE Global Equity Index Series"
+    },
+    {
+     "ref": "cafef:e93f4c5e58",
+     "title": "Dòng tiền ồ ạt vào nhóm chứng khoán trước giờ đón tin nâng hạng"
+    },
+    {
+     "ref": "cafef:5d70dd735f",
+     "title": "PNJ: Phản hồi vụ buôn lậu kim cương xuyên quốc gia, nhấn mạnh một chi tiết quan trọng"
+    },
+    {
+     "ref": "cafef:b2e217a2a0",
+     "title": "FPT: Tạo việc làm cho 88.553 người, đứng Top 2 khối doanh nghiệp tư nhân"
+    },
+    {
+     "ref": "cafef:205df8bc95",
+     "title": "Viettel sắp chi hơn 1.184 tỷ đồng mua 118 triệu cổ phiếu một ngân hàng"
+    },
+    {
+     "ref": "cafef:153ce8bac7",
+     "title": "Từ hôm nay, một cổ phiếu trong hệ sinh thái Hóa chất Đức Giang bị cắt margin"
+    },
+    {
+     "ref": "cafef:7c7e0ec683",
+     "title": "4 thương vụ IPO Việt Nam huy động 830 triệu USD, tất cả đều lọt Top 10 Đông Nam Á"
+    },
+    {
+     "ref": "cafef:238802d799",
+     "title": "Đề xuất giảm 30% thuế cho cá nhân, hộ kinh doanh và doanh nghiệp doanh thu đến 10 tỷ đồng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:eb08725844",
+     "title": "Hóa đơn thôi chưa đủ: Vì sao mỗi lô hàng sang EU giờ phải kèm theo một con số phát thải?"
+    },
+    {
+     "ref": "vietstock:5d33c6683b",
+     "title": "Thêm một công ty chứng khoán muốn IPO và niêm yết lên HOSE"
+    },
+    {
+     "ref": "vietstock:c404895dd0",
+     "title": "BSR: Fitch Ratings tiếp tục duy trì xếp hạng tín nhiệm BB+/Stable"
+    },
+    {
+     "ref": "vietstock:d964411ba2",
+     "title": "DGC: HOSE gỡ một lý do cảnh báo, cổ phiếu vẫn kẹt trong diện hạn chế giao dịch"
+    },
+    {
+     "ref": "vietstock:545b9a2f27",
+     "title": "Chứng khoán Tuần 17-21/08/2026: Dòng tiền trở lại?"
+    },
+    {
+     "ref": "vietstock:7447128de7",
+     "title": "Samsung chi kỷ lục 80 tỷ USD để trả cổ tức và mua cổ phiếu quỹ"
+    },
+    {
+     "ref": "vietstock:3679c83b39",
+     "title": "Hóa An nộp thừa thuế khai thác khoáng sản hàng chục tỷ đồng, ông chủ lớn FICO muốn gia tăng lợi ích"
+    },
+    {
+     "ref": "vietstock:d0bf3537b7",
+     "title": "VIB: Tiếp tục kế hoạch tăng vốn, chuẩn bị phát hành thêm cổ phiếu thưởng ESOP cho người lao động"
+    },
+    {
+     "ref": "vietstock:3514744669",
+     "title": "SMC: Muốn hoán đổi gần 300 tỷ đồng nợ thành cổ phiếu, thoái vốn khỏi SMC Tân Tạo"
+    },
+    {
+     "ref": "vietstock:892e91a41a",
+     "title": "ACB: Nhận giấy phép thành lập công ty bảo hiểm phi nhân thọ vốn điều lệ 500 tỷ"
+    },
+    {
+     "ref": "vietstock:f0c1fe93a2",
+     "title": "ABB: ĐHĐCĐ thông qua phương án tăng vốn điều lệ lên gần 27.000 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:01f96945f8",
+     "title": "ST8: Tăng lỗ sau đính chính"
+    },
+    {
+     "ref": "vietstock:2e88d70a28",
+     "title": "HAP: Công ty riêng của lãnh đạo thiết lập vị thế cổ đông lớn"
+    },
+    {
+     "ref": "vietstock:406e5520fb",
+     "title": "EVF: Mở room ngoại, tăng vốn và củng cố quản trị cho giai đoạn phát triển mới"
+    },
+    {
+     "ref": "vietstock:2feebd743d",
+     "title": "SSI: Sếp dự chi 100 tỷ đồng gom cổ phiếu"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:9354e0f08d",
+     "title": "Mặt bằng lãi suất duy trì trạng thái ổn định, cổ phiếu ngân hàng tích cực trong dài hạn"
+    },
+    {
+     "ref": "vneconomy:6d153c5a38",
+     "title": "91/91 quỹ cổ phiếu đồng loạt báo lỗ nặng trong tháng 7, dòng tiền rút ra mạnh"
+    },
+    {
+     "ref": "vneconomy:787908ed52",
+     "title": "Công bố Dự thảo Nghị định kinh doanh xăng dầu: Những doanh nghiệp nào được hưởng lợi?"
+    },
+    {
+     "ref": "vneconomy:533c7cd52f",
+     "title": "Khối ngoại bán ròng hơn 91 nghìn tỷ trong 7 tháng nhưng tiền vẫn luân chuyển ở Việt Nam"
+    },
+    {
+     "ref": "vneconomy:cd41040ddd",
+     "title": "Giám đốc của VinaCapital: Nhiều yếu tố hỗ trợ thị trường phục hồi"
+    },
+    {
+     "ref": "vneconomy:47222fd775",
+     "title": "Hai ETF ngoại gần 1 tỷ USD sắp mua mới hàng triệu cổ phiếu chứng khoán"
+    },
+    {
+     "ref": "vneconomy:1b19042bf5",
+     "title": "Sửa đổi Luật Dầu khí: Các doanh nghiệp niêm yết hưởng lợi thế nào?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c18545bfdd",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 22/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0710b11cdf",
+     "title": "Chứng khoán ACB (ACBS) thông báo phát hành 7 mã chứng quyền có bảo đảm mới (Kỳ 1)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:44c29608c4",
+     "title": "SZC: Lợi nhuận nửa đầu năm sụt giảm 83% so với cùng kỳ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0b3926a5d9",
+     "title": "FRT: Lợi nhuận bán niên sau soát xét tăng trưởng 123% so với cùng kỳ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d07e8da02d",
+     "title": "Nhìn lại diễn biến nhóm cổ phiếu được các công ty chứng khoán khuyến nghị tuần qua"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9710d5c55a",
+     "title": "Phân hóa bức tranh Lợi nhuận ngành bảo hiểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:aaf7eea181",
+     "title": "DHG: 6 tháng hoàn thành 70% kế hoạch lợi nhuận năm, chốt quyền chia cổ tức 50% bằng tiền"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:fb53c0925f",
+     "title": "Giá bán căn hộ chung cư bình quân tại Hà Nội khoảng 123 triệu đồng/m²"
+    },
+    {
+     "ref": "b-o-u-t:398d88be77",
+     "title": "Bất động sản quý II/2026: Nguồn cung tăng, thanh khoản giảm"
+    },
+    {
+     "ref": "b-o-u-t:664b900ef3",
+     "title": "BRG Group nằm trong Top 4 doanh nghiệp bất động sản nộp ngân sách lớn nhất Việt Nam"
+    },
+    {
+     "ref": "b-o-u-t:837f5299d1",
+     "title": "Bamboo Airways ưu tiên nguồn lực để xử lý các yêu cầu hoàn tiền của hành khách"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:eaaeb98a43",
+     "title": "Ngành ngân hàng nửa đầu năm 2026: Tín dụng tăng 8,7%, nhưng nợ xấu đang \"gõ cửa\""
+    },
+    {
+     "ref": "markettimes:56b0d93580",
+     "title": "Cơ quan Thuế yêu cầu Vietcombank, Agribank, BIDV, VietinBank... trích tiền từ tài khoản ngân hàng của loạt người nộp thuế có tên sau"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:5c06344a5d",
+     "title": "Cuộc chơi KCN: Khi nhà đầu tư nâng mức đặt cược"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:297b9f63ba",
+     "title": "FPT: Cùng PVFCCo-Phú Mỹ hoàn thành triển khai Digital Twin tại Nhà máy Đạm Phú Mỹ"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:45f5ce70ff",
+     "title": "Ngân hàng cho vay bất động sản hơn 2,5 triệu tỷ đồng trong 6 tháng"
+    },
+    {
+     "ref": "ti-n-phong:009dc1bd38",
+     "title": "Giá chung cư, đất nền 'hạ nhiệt'"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:3c75c7e18f",
+     "title": "SZC: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền nhận cổ tức bằng tiền năm 2025"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1022779",
+   "title": "Trump: Bộ trưởng Tài chính Bessent tự quyết định tăng gấp đôi kế hoạch mua lại trái phiếu kho bạc, không theo chỉ đạo của Tổng thống",
+   "translated": true,
+   "original_title": "TRUMP SAYS BESSENT ACTED ALONE ON TREASURY BUYBACKS PRESIDENT TRUMP SAYS HE DID NOT DIRECT TREASURY SECRETARY SCOTT BESSENT TO INTERVENE IN BOND MARKETS. BESSENT INDEPENDENTLY DOUBLED PLANNED TREASURY BUYBACKS AND SIGNALED PURCHASES COULD INCREASE FURTHER. THE MOVE INITIALLY PUSHED YIELDS LOWER, BUT MOST OF THE DECLINE WAS REVERSED BY FRIDAY AS CONCERNS OVER U.S. DEBT AND INFLATION PERSISTED. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1022777",
+   "title": "CENTCOM: Quân đội Mỹ đã chuyển hướng 68 tàu thương mại, vô hiệu hóa 3 tàu và lên khám 2 tàu để thực thi phong tỏa Iran",
+   "translated": true,
+   "original_title": "CENTCOM: U.S. FORCES HAVE DIVERTED 68 COMMERCIAL SHIPS, DISABLED 3 AND BOARDED 2 TO ENFORCE BLOCKADE AGAINST IRAN ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:6df983bd1e",
+   "title": "Tesla và các hãng xe khác bắt đầu đợt triệu hồi xe kỷ lục tại Trung Quốc",
+   "translated": true,
+   "original_title": "Tesla and others begin record vehicle recall in China",
+   "link": "https://www.reuters.com/world/tesla-fix-software-millions-china-made-imported-evs-china-2026-08-21/"
+  },
+  {
+   "ref": "reuters:462bf861d4",
+   "title": "Phố Wall tăng điểm trong phiên nhưng giảm cả tuần; lợi suất trái phiếu và căng thẳng Iran là tâm điểm",
+   "translated": true,
+   "original_title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
+   "link": "https://www.reuters.com/business/us-stock-futures-rise-after-sharp-losses-prior-session-2026-08-21/"
+  },
+  {
+   "ref": "reuters:8906bb6943",
+   "title": "Kỹ sư và nhân viên kỹ thuật Boeing bác bỏ đề nghị hợp đồng lao động mới",
+   "translated": true,
+   "original_title": "Boeing engineers, technical workers reject contract offer",
+   "link": "https://www.reuters.com/legal/litigation/boeing-white-collar-union-contract-vote-results-expected-today-2026-08-21/"
+  },
+  {
+   "ref": "reuters:6cede9c325",
+   "title": "Iran đe dọa đáp trả quân sự trước lệnh trừng phạt của Mỹ",
+   "translated": true,
+   "original_title": "Iran threatens military response to US sanctions",
+   "link": "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/"
+  },
+  {
+   "ref": "tg-marketfeed:1022775",
+   "title": "Khối lượng giao dịch ETF Bitcoin và Ethereum giao ngay vượt 7,5 tỷ USD trong ngày",
+   "translated": true,
+   "original_title": "JUST IN: SPOT BITCOIN & ETHEREUM ETF VOLUME SURPASSES $7.5 BILLION TODAY. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:623913ac99",
+   "title": "Đoàn đàm phán thương mại Mỹ - Canada tiếp tục họp khi hạn chót thuế quan cận kề",
+   "translated": true,
+   "original_title": "US, Canadian trade teams meet again as tariffs deadline looms",
+   "link": "https://www.reuters.com/world/americas/us-canadian-trade-teams-meet-again-tariffs-deadline-looms-2026-08-21/"
+  },
+  {
+   "ref": "reuters:fa9cbae85e",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent sẽ họp báo vào thứ Hai",
+   "translated": true,
+   "original_title": "US Treasury Secretary Bessent to hold press conference on Monday",
+   "link": "https://www.reuters.com/world/us-treasury-secretary-bessent-to-hold-press-conference-monday-2026-08-21/"
+  },
+  {
+   "ref": "reuters:70d5c7b23f",
+   "title": "OpenAI giảm hơn 20% giá cho nhà phát triển sử dụng mô hình GPT-5.6 Sol",
+   "translated": true,
+   "original_title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+   "link": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/"
+  }
+ ],
+ "content_sha": "a914539f394f4d0739d1beed02c196d789dea781310e392fe7160baa3aa6b011"
+}
