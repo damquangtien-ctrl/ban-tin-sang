@@ -1,0 +1,171 @@
+{
+ "date": "2026-08-23",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Kevin Warsh có bài phát biểu đầu tiên trên cương vị Chủ tịch Fed tại Jackson Hole ngày 27/8"
+  },
+  {
+   "source": "Reuters",
+   "text": "Nvidia thông báo giá máy chủ AI có thể tăng hơn 15% do chi phí bộ nhớ tăng vọt"
+  },
+  {
+   "source": "Reuters",
+   "text": "Canada công bố thuế trả đũa lên thép, điện tử, nhiều mặt hàng Mỹ từ 8/9 sau khi đàm phán đình trệ"
+  },
+  {
+   "source": "Market Data",
+   "text": "Vàng thế giới tăng vọt hơn 3,6% lên quanh 4.680 USD/ounce, Bitcoin lùi về khoảng 77.000 USD"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Rộ tin Apple cân nhắc dùng chip nhớ CXMT của Trung Quốc cho sản phẩm bán tại thị trường này"
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+33,88 (+1,95%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.768,12 điểm"
+   },
+   {
+    "change": "+5,52 (+1,98%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "284,07 điểm"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Thanh khoản HOSE",
+    "value": "15.509,4 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng 39,6 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "144,60 - 147,60 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "25.930 - 26.310 đồng"
+   }
+  ],
+  "summary": "Ấn bản Chủ Nhật rút gọn: thị trường Việt Nam nghỉ giao dịch cuối tuần, phiên gần nhất (21/8) VN-Index tăng 1,95% lên 1.768,12 điểm. Qua đêm, chứng khoán Mỹ tăng điểm, vàng thế giới bứt phá hơn 3,6% lên quanh 4.680 USD/ounce trong khi Bitcoin lùi về khoảng 77.000 USD; giới đầu tư hướng sự chú ý tới hội nghị Jackson Hole tuần tới.",
+  "tiles": [
+   {
+    "change_pct": 0.43,
+    "label": "S&P 500",
+    "value": "7.674,4"
+   },
+   {
+    "change_pct": 0.98,
+    "label": "Dow Jones",
+    "value": "53.277,0"
+   },
+   {
+    "change_pct": 0.43,
+    "label": "Nasdaq",
+    "value": "26.180,5"
+   },
+   {
+    "change_pct": -0.88,
+    "label": "Dầu WTI",
+    "value": "87,1 USD"
+   },
+   {
+    "change_pct": 0.65,
+    "label": "Dầu Brent",
+    "value": "94,4 USD"
+   },
+   {
+    "change_pct": 3.64,
+    "label": "Vàng thế giới",
+    "value": "4.681 USD"
+   },
+   {
+    "change_pct": -1.76,
+    "label": "Bitcoin",
+    "value": "76.960 USD"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "DXY",
+    "value": "98,84"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "bloomberg:d4416aa8fe",
+   "title": "Kevin Warsh có bài phát biểu đầu tiên tại Jackson Hole trên cương vị Chủ tịch Fed",
+   "translated": true,
+   "original_title": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair"
+  },
+  {
+   "ref": "reuters:031824cc99",
+   "title": "Nvidia thông báo khách hàng giá máy chủ AI có thể tăng hơn 15%, theo Bloomberg",
+   "translated": true,
+   "original_title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+   "link": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/"
+  },
+  {
+   "ref": "reuters:8e8e8c4f02",
+   "title": "Canada áp thuế trả đũa lên thép, điện tử và nhiều mặt hàng Mỹ, Thủ tướng Carney tuyên bố",
+   "translated": true,
+   "original_title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says",
+   "link": "https://www.reuters.com/business/carney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22/"
+  },
+  {
+   "ref": "reuters:3b0fe75ba7",
+   "title": "Thủ tướng Đức Merz thúc nội các đẩy nhanh cải cách thúc đẩy tăng trưởng",
+   "translated": true,
+   "original_title": "Germany's Merz to press cabinet for faster pro-growth reforms",
+   "link": "https://www.reuters.com/business/germanys-merz-press-cabinet-faster-pro-growth-reforms-2026-08-22/"
+  },
+  {
+   "ref": "reuters:340f5ce72d",
+   "title": "Iran lên án kế hoạch công bố lệnh trừng phạt mới của Mỹ",
+   "translated": true,
+   "original_title": "Iran condemns US plans to announce new sanctions",
+   "link": "https://www.reuters.com/world/middle-east/us-iran-keep-up-hostile-rhetoric-ahead-new-sanctions-2026-08-22/"
+  },
+  {
+   "ref": "tg-vnwallstreet:396960",
+   "title": "Một số công ty AI Mỹ giảm giá sử dụng mô hình lớn giữa cạnh tranh gia tăng",
+   "translated": false,
+   "original_title": "▫️ Một số công ty trí tuệ nhân tạo Mỹ giảm giá sử dụng mô hình lớn Gần đây, giá sử dụng các mô hình lớn trong lĩnh vực trí tuệ nhân tạo tại Mỹ đang giảm mạnh do cạnh tranh gia tăng. OpenAI thông báo từ ngày 21 tháng 8, họ sẽ giảm giá mô hình GPT-5.6 Sol dành cho nhà phát triển hơn 20%, với mức giá ưu đãi có hiệu lực trong ba tháng. Cuối tháng trước, OpenAI cũng đã giảm giá cho các mô hình khác, tr",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1023130",
+   "title": "Rộ tin Apple cân nhắc dùng chip nhớ Trung Quốc (CXMT) cho sản phẩm bán tại Trung Quốc",
+   "translated": true,
+   "original_title": "$AAPL OKAY… SO THE PICTURE HERE IS THAT APPLE COULD START USING CXMT AFTER TRUMP AND XI MEET? RUMOR: APPLE IS ACTIVELY LOOKING TO USE CHINESE-MADE MEMORY IN ITS HARDWARE PRODUCTS, SPECIFICALLY FOR PRODUCTS SOLD IN CHINA. IN FACT, THE MEMORY HAS APPARENTLY ALREADY GONE THROUGH TESTING. - JUKAN ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:b7c70f4577",
+   "title": "Lợi suất hấp dẫn hút dòng tiền trái phiếu rác vào nợ AI hạng đầu tư",
+   "translated": true,
+   "original_title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt"
+  }
+ ],
+ "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423"
+}
