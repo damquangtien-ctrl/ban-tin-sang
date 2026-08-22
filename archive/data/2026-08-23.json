@@ -167,5 +167,68 @@
    "link": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt"
   }
  ],
- "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423"
+ "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "df2038074542a7bbdc5bfff7f314bd59f3b511c9",
+   "published_at": "2026-08-23T06:37:57+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "233",
+   "sent_at": "2026-08-23T06:37:58+07:00",
+   "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "233",
+     "sent_at": "2026-08-23T06:37:58+07:00",
+     "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "73b9da741b108349da06",
+   "sent_at": "2026-08-23T06:37:59+07:00",
+   "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "73b9da741b108349da06",
+     "sent_at": "2026-08-23T06:37:59+07:00",
+     "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "8e93cf340e509609cf46",
+     "sent_at": "2026-08-23T06:38:01+07:00",
+     "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "703b343bf55f6d063449",
+     "sent_at": "2026-08-23T06:38:02+07:00",
+     "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "d40bda3a1b5e8307da48",
+     "sent_at": "2026-08-23T06:38:04+07:00",
+     "content_sha": "1b4ea743f529e279ab683aaf3d25952146d9c8949cab6da9163d7931ac9f6423"
+    }
+   ]
+  }
+ }
 }
