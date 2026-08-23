@@ -1,0 +1,543 @@
+{
+ "date": "2026-08-24",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "MarketTimes",
+   "text": "Thị trường bùng nổ phiên cuối tuần, 27 cổ phiếu Việt Nam được thêm mới vào rổ FTSE All-Cap."
+  },
+  {
+   "source": "Reuters",
+   "text": "Shein được định giá tới 27 tỷ USD trong đợt IPO tại Hong Kong."
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "Mỹ chuẩn bị tung lệnh trừng phạt Iran \"khắc nghiệt nhất lịch sử\", Iran dọa ngừng toàn bộ xuất khẩu dầu vùng Vịnh."
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "SHB chính thức được thêm vào rổ chỉ số toàn cầu FTSE Global All Cap."
+  },
+  {
+   "source": "Reuters",
+   "text": "Alibaba huy động 10 tỷ USD qua đợt phát hành cổ phiếu tại Hong Kong để rót vốn cho AI."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e6af84eadf",
+     "title": "Định danh rõ và thiết lập cơ chế phát hiện, xử lý hành vi thao túng thị trường bất động sản - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:69310250c3",
+     "title": "Một công ty chứng khoán phải giải trình với UBCKNN"
+    }
+   ],
+   "source": "MarketTimes"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+33,88 (+1,95%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.768,12 điểm"
+   },
+   {
+    "change": "+5,52 (+1,98%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "284,07 điểm"
+   },
+   {
+    "change": "+38% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "~18.356 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~39,55 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "144,6 – 147,6 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "Mua CK 25.930 · Bán 26.310"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua đồng loạt tăng, S&P 500 +0,43%, Dow Jones +0,98%, Nasdaq +0,43%; dầu WTI và Brent giảm hơn 1% trước tin Mỹ chuẩn bị siết trừng phạt Iran, trong khi vàng thế giới tăng 0,96% lên 4.669 USD/ounce. Tại Việt Nam, phiên gần nhất (21/8) VN-Index tăng 33,88 điểm (+1,95%) lên 1.768,12 điểm, HNX-Index tăng 5,52 điểm (+1,98%) lên 284,07 điểm; thanh khoản HOSE đạt khoảng 18.356 tỷ đồng, tăng hơn 38% so với phiên trước, khối ngoại quay lại mua ròng khoảng 39,55 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": 0.43,
+    "label": "S&P 500",
+    "value": "7.674,4"
+   },
+   {
+    "change_pct": 0.98,
+    "label": "Dow Jones",
+    "value": "53.277,0"
+   },
+   {
+    "change_pct": 0.43,
+    "label": "Nasdaq",
+    "value": "26.180,5"
+   },
+   {
+    "change_pct": -1.08,
+    "label": "Dầu WTI",
+    "value": "86,1 USD"
+   },
+   {
+    "change_pct": -1.01,
+    "label": "Dầu Brent",
+    "value": "93,4 USD"
+   },
+   {
+    "change_pct": 0.96,
+    "label": "Vàng thế giới",
+    "value": "4.669 USD"
+   },
+   {
+    "change_pct": 0.92,
+    "label": "Bitcoin",
+    "value": "77.790 USD"
+   },
+   {
+    "change_pct": 0.06,
+    "label": "DXY",
+    "value": "98,86"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:a5013bd256",
+     "title": "Hiếm có: Người dân trong nước được mua vàng sát giá thế giới"
+    },
+    {
+     "ref": "cafef:51139ae59a",
+     "title": "Maybank gọi tên 10 DN triển vọng trong các tháng cuối năm: Nhóm ngân hàng, công nghệ, năng lượng góp mặt"
+    },
+    {
+     "ref": "cafef:25f50b64c7",
+     "title": "Nhóm chứng khoán đứng trước cơ hội \"tái định giá\", CTCK gọi tên cổ phiếu đáng chú ý"
+    },
+    {
+     "ref": "cafef:0d539598d4",
+     "title": "Chuyên gia chỉ điểm hai mốc dòng tiền lớn thực sự trở lại sàn chứng khoán"
+    },
+    {
+     "ref": "cafef:048b854fb2",
+     "title": "Vì sao nhiều tên tuổi quen mặt như MWG, TCB, REE...không được vào rổ nâng hạng của FTSE?"
+    },
+    {
+     "ref": "cafef:08d1db08fb",
+     "title": "Ngành ngân hàng nửa đầu 2026: Tăng trưởng mạnh nhưng NIM chịu sức ép"
+    },
+    {
+     "ref": "cafef:0fbe99c855",
+     "title": "EVN dự kiến giá trần điện rác năm 2026 ở mức 2.378,39 đồng/kWh, thấp hơn 7,64% so với năm 2025"
+    },
+    {
+     "ref": "cafef:40d325efdf",
+     "title": "Góc nhìn chuyên gia: Index chinh phục lại 1.800 điểm, chờ nhịp rung lắc để giải ngân thay vì mua đuổi"
+    },
+    {
+     "ref": "cafef:6e9276403b",
+     "title": "Chứng khoán ra sao trước kỳ nghỉ 2/9?"
+    },
+    {
+     "ref": "cafef:0e876e6a60",
+     "title": "SZC: Sonadezi Châu Đức chốt ngày chia cổ tức tiền mặt tỷ lệ 10%"
+    },
+    {
+     "ref": "cafef:7d5a935d93",
+     "title": "FTSE vừa có 1 thay đổi, Vietcap nâng dự phóng dòng vốn chảy vào Việt Nam lên gần 80.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:c36d986f07",
+     "title": "SJ Group lên kế hoạch tăng vốn điều lệ vượt 5.200 tỷ đồng"
+    },
+    {
+     "ref": "cafef:e1244be9eb",
+     "title": "PNJ: Lý do Tổng Giám đốc mua 1 triệu cổ phiếu công ty"
+    },
+    {
+     "ref": "cafef:e4a2b3dcc0",
+     "title": "TCBS: Chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 20%"
+    },
+    {
+     "ref": "cafef:6c4c1a99a4",
+     "title": "SMC: Tổng Giám đốc muốn \"xả hàng\" gần 5 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:ccbd660b2c",
+     "title": "Một tín hiệu \"đáng mừng\" với vàng vừa diễn ra"
+    },
+    {
+     "ref": "cafef:4a3f1e97a8",
+     "title": "Giảm 30% thuế, đại đa số doanh nghiệp nhỏ và hộ kinh doanh được hưởng lợi"
+    },
+    {
+     "ref": "cafef:37e8dffef8",
+     "title": "BSR: Fitch Ratings tiếp tục duy trì xếp hạng tín nhiệm BB+/Stable"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:e678dcea22",
+     "title": "Góc nhìn tuần 24-28/08: Một phiên tăng mạnh chưa đủ để xuống tiền?"
+    },
+    {
+     "ref": "vietstock:86cc45bb25",
+     "title": "Thị trường chứng quyền tuần 24-28/08/2026: Sắc xanh áp đảo"
+    },
+    {
+     "ref": "vietstock:bafdf4953a",
+     "title": "Mỹ áp thuế hàng Canada, nguy cơ tác động ngược đến kinh tế trong nước"
+    },
+    {
+     "ref": "vietstock:1883d89c0a",
+     "title": "Vietstock Weekly 24-28/08/2026: Tìm lại động lực?"
+    },
+    {
+     "ref": "vietstock:d9e464fd6f",
+     "title": "Mỏ dầu khí nhỏ, nước sâu, xa bờ được thêm ưu đãi"
+    },
+    {
+     "ref": "vietstock:6eb6235332",
+     "title": "Cổ tức cao nhất 25% trong tuần trước nghỉ Lễ"
+    },
+    {
+     "ref": "vietstock:59c5c9fe58",
+     "title": "Luật Hải quan mới siết quản lý hàng qua sàn thương mại điện tử"
+    },
+    {
+     "ref": "vietstock:dea11490ce",
+     "title": "PNJ: Tổ chức ngoại xây vị thế cổ đông lớn (Điểm nóng chuyển động quỹ tuần 17-21/08)"
+    },
+    {
+     "ref": "vietstock:954165bac3",
+     "title": "Chứng khoán phái sinh tuần 24-28/08/2026: Phe Long lên ngôi"
+    },
+    {
+     "ref": "vietstock:5871570fbd",
+     "title": "FPT và DPM hoàn thành triển khai Digital Twin tại Nhà máy Đạm Phú Mỹ"
+    },
+    {
+     "ref": "vietstock:873be81660",
+     "title": "KBC: Công ty liên quan ông Đặng Thành Tâm gom thêm 10 triệu cổ phiếu"
+    },
+    {
+     "ref": "vietstock:76bfb1494b",
+     "title": "CII: Nhóm CII đề xuất làm đường ven biển Lâm Đồng, thanh toán bằng 500ha đất"
+    },
+    {
+     "ref": "vietstock:a30c4ca423",
+     "title": "Tuần 17-21/08: USD quốc tế suy yếu, tỷ giá trung tâm tiếp đà tăng"
+    },
+    {
+     "ref": "vietstock:04b6d1d29c",
+     "title": "FTS: Chọn tăng trưởng có kiểm soát giữa cuộc đua khốc liệt"
+    },
+    {
+     "ref": "vietstock:c1391af152",
+     "title": "PDN: Cảng Đồng Nai sắp chi tiếp 111 tỷ đồng trả cổ tức"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:0adbaa2a41",
+     "title": "Công ty chứng khoán nhận định gì sau phiên tăng đột biến cuối tuần?"
+    },
+    {
+     "ref": "vneconomy:5b11d30547",
+     "title": "Xu thế dòng tiền: Kỳ vọng gì từ đột biến tăng mạnh cuối tuần?"
+    },
+    {
+     "ref": "vneconomy:ab820b9592",
+     "title": "Hiệu suất các quỹ trái phiếu rất thấp, dòng tiền tiếp tục rút ra"
+    },
+    {
+     "ref": "vneconomy:f7e948f582",
+     "title": "“Sai lầm” của tự doanh và khối ngoại là bán ròng toàn cổ phiếu trong nhóm FTSE GEIS, đặc biệt xả SSI"
+    },
+    {
+     "ref": "vneconomy:48747d573f",
+     "title": "Dữ liệu và AI đang thay đổi ngành chứng khoán như thế nào?"
+    },
+    {
+     "ref": "vneconomy:22a03811d0",
+     "title": "Nhà đầu tư lùi dự báo về thời điểm Mỹ và Anh tăng lãi suất"
+    },
+    {
+     "ref": "vneconomy:55e266069d",
+     "title": "Ray Dalio cảnh báo về khủng hoảng nợ Mỹ, khuyên nhà đầu tư giữ vàng và bitcoin"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a2bad58936",
+     "title": "Nhận định thị trường phiên giao dịch ngày 24/8: Nắm giữ cổ phiếu đang thu hút dòng tiền - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:884e00a9c5",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 24/8: Triển vọng ngắn hạn đang tích cực hơn - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:312d06367a",
+     "title": "Cổ phiếu cần quan tâm ngày 24/8 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:acbbc3ba9c",
+     "title": "Chuyên gia điểm tên nhóm cổ phiếu có khả năng dẫn dắt thị trường sau công bố của FTSE - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:33d0ecc8e7",
+     "title": "NVL: Novaland trở lại thị trường khu Đông TP.HCM với dự án Tropic Tower"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d58a73fb82",
+     "title": "Hơn nửa triệu tỷ đồng tiếp tục chảy vào bất động sản, phát hành trái phiếu chững lại - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7740eb7b17",
+     "title": "Đề xuất đầu tư 2.900 tỷ đồng nâng cấp tuyến đường sắt Hà Nội - TP.HCM - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5b7684cb7f",
+     "title": "Từ 1/3/2027, nhiều quy định mới về hải quan có hiệu lực - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d2626bc044",
+     "title": "Chứng khoán ACB (ACBS) thông báo phát hành 7 mã chứng quyền có bảo đảm mới (Kỳ 3) - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7e462e1b23",
+     "title": "G36: Vay 252 tỷ đồng từ em trai Chủ tịch với lãi suất 9,4%/năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7e3968fb8d",
+     "title": "SHB: Chính thức vào rổ chỉ số toàn cầu FTSE Global All Cap"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5fbe5ee914",
+     "title": "Nhìn lại dự báo chứng khoán tuần qua - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:be0a9d1bd6",
+     "title": "Hoàn thiện khung pháp lý về quản lý, phát triển thị trường công cụ nợ - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:0aaa9171ef",
+     "title": "Góc nhìn TTCK tuần 24/8 - 28/8: Kỳ vọng VN-Index xác lập xu hướng mới - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:c72445aa3b",
+     "title": "PVN: Thông qua Luật Dầu khí sửa đổi, phân quyền mạnh mẽ cho PVN"
+    },
+    {
+     "ref": "b-o-u-t:42f5e0d43a",
+     "title": "Mở đường cho thoái vốn doanh nghiệp nhà nước - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:5df09bfc32",
+     "title": "Lịch chốt quyền cổ tức tuần 24-28/8: Gần 30 doanh nghiệp \"lăn chốt\", cổ tức tiền mặt cao nhất 25%"
+    },
+    {
+     "ref": "markettimes:f56f53091d",
+     "title": "Không chỉ chứng khoán, nhóm cổ phiếu này được dự báo hưởng lợi kép sau nâng hạng"
+    },
+    {
+     "ref": "markettimes:b2d63bbe3d",
+     "title": "Soi định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng"
+    },
+    {
+     "ref": "markettimes:01e5aa6669",
+     "title": "Chứng khoán tuần qua: Thị trường “bùng nổ” phiên cuối tuần, 27 cổ phiếu được thêm mới vào FTSE All-Cap"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:a80df8edb1",
+     "title": "Bất động sản thế chấp lớn không đồng nghĩa rủi ro tín dụng tăng"
+    },
+    {
+     "ref": "ti-n-phong:995ae13c14",
+     "title": "Ngân hàng SCB tăng lãi suất gây choáng"
+    },
+    {
+     "ref": "ti-n-phong:c22cebbc51",
+     "title": "Xuất khẩu thủy sản tháng 7 đạt 1,1 tỷ USD, thị trường lớn hiện ra sao?"
+    },
+    {
+     "ref": "ti-n-phong:ac89b4728f",
+     "title": "Thủ tướng: Xử lý dứt điểm hơn 4.600 dự án, đất đai vướng mắc"
+    },
+    {
+     "ref": "ti-n-phong:3a9eb26680",
+     "title": "Bộ trưởng Tài chính: Dự án khu đô thị lấn biển từ 100.000 - 200.000 tỷ"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:d829e6e71b",
+     "title": "VTP: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:c713f94fc7",
+     "title": "BWE: Thông báo giao dịch thực hiện quyền mua cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty TNHH Thương mại N.T.P"
+    },
+    {
+     "ref": "hose:b4cb4f741b",
+     "title": "ANT: Quyết định của HĐQT về việc bổ sung, điều chỉnh nội dung tài liệu lấy ý kiến cổ đông bằng văn bản lần 2 và bộ tài liệu kèm theo"
+    },
+    {
+     "ref": "hose:3cae1e973d",
+     "title": "MCH: Báo cáo về tình hình sử dụng số tiền thu được từ đợt phát hành ESOP 2026 đã kiểm toán"
+    },
+    {
+     "ref": "hose:d944ea0905",
+     "title": "DCM: Tài liệu họp ĐHĐCĐ bất thường năm 2026"
+    },
+    {
+     "ref": "hose:fc72c3b16d",
+     "title": "VSH: Giải trình biến động lợi nhuận trên BCTC soát xét 6 tháng đầu năm so với cùng kỳ năm trước"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:ea53ff0ca0",
+   "title": "Giá dầu giảm 1% trước khi Mỹ công bố thêm các lệnh trừng phạt nhắm vào Iran",
+   "translated": true,
+   "original_title": "Oil falls 1% ahead of US announcement to impose further sanctions on Iran",
+   "link": "https://www.reuters.com/world/asia-pacific/oil-falls-1-ahead-us-announcement-impose-further-sanctions-iran-2026-08-23/"
+  },
+  {
+   "ref": "reuters:a1811912a4",
+   "title": "Hãng thời trang nhanh Shein được định giá tới 27 tỷ USD trong đợt IPO tại Hong Kong",
+   "translated": true,
+   "original_title": "Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO",
+   "link": "https://www.reuters.com/business/retail-consumer/shein-launches-up-18-billion-hong-kong-ipo-2026-08-23/"
+  },
+  {
+   "ref": "reuters:1adc9d8dab",
+   "title": "Khủng hoảng bất động sản Trung Quốc tiếp tục kéo dài sau bản án dành cho Evergrande",
+   "translated": true,
+   "original_title": "China's property crisis grinds on after Evergrande sentencing",
+   "link": "https://www.reuters.com/world/china/chinas-property-crisis-grinds-after-evergrande-sentencing-2026-08-23/"
+  },
+  {
+   "ref": "reuters:eb4bcaf44d",
+   "title": "Alibaba phát hành cổ phiếu huy động 10 tỷ USD tại Hong Kong để rót vốn cho AI",
+   "translated": true,
+   "original_title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+   "link": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/"
+  },
+  {
+   "ref": "reuters:c1a3bc807b",
+   "title": "Ampol (Australia) ghi nhận lợi nhuận nửa đầu năm kỷ lục, tăng hơn gấp 4 lần",
+   "translated": true,
+   "original_title": "Australia's Ampol logs record half-year profit with more than four-fold rise",
+   "link": "https://www.reuters.com/business/energy/australias-ampol-logs-record-half-year-profit-with-more-than-four-fold-rise-2026-08-23/"
+  },
+  {
+   "ref": "bloomberg:5163e4c51e",
+   "title": "Giới phân tích: Đà phục hồi của đồng Đài tệ trong tháng 8 đang trở nên mong manh",
+   "translated": true,
+   "original_title": "Taiwan Dollar’s August Rebound Is Looking Fragile, Analysts Say",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-23/taiwan-dollar-s-august-rebound-is-looking-fragile-analysts-say"
+  },
+  {
+   "ref": "bloomberg:9506c7cfd6",
+   "title": "Canada từ chối thỏa thuận thuế quan với Mỹ, giờ phải trả giá về kinh tế",
+   "translated": true,
+   "original_title": "Canada Turned Down a US Tariff Deal. Now Comes the Economic Cost",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-23/canada-turned-down-a-us-tariff-deal-now-comes-the-economic-cost"
+  },
+  {
+   "ref": "bloomberg:e02b719852",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ giảm nhẹ khi thị trường tập trung vào chi tiêu cho AI",
+   "translated": true,
+   "original_title": "US Futures Edge Lower With AI Spending in Focus: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:8fb6023d03",
+   "title": "Walmart hụt kỳ vọng khi doanh số dược phẩm suy yếu",
+   "translated": false,
+   "original_title": "Walmart hụt kỳ vọng khi doanh số dược phẩm suy yếu",
+   "link": "https://bbw.vn/walmart-hut-ky-vong-khi-doanh-so-duoc-pham-suy-yeu-59890.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:06b4f0d219",
+   "title": "\"Nữ hoàng công nghệ sinh học\" Ấn Độ và sứ mệnh đưa thuốc đến bệnh nhân",
+   "translated": false,
+   "original_title": "\"Nữ hoàng công nghệ sinh học\" Ấn Độ và sứ mệnh đưa thuốc đến bệnh nhân",
+   "link": "https://bbw.vn/nu-hoang-cong-nghe-sinh-hoc-an-do-va-su-menh-dua-thuoc-den-benh-nhan-59889.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:bc546017d5",
+   "title": "Kim cương nhân tạo làm rung chuyển ngành kim cương toàn cầu",
+   "translated": false,
+   "original_title": "Kim cương nhân tạo làm rung chuyển ngành kim cương toàn cầu",
+   "link": "https://bbw.vn/walmart-ghi-nhan-ket-qua-kinh-doanh-thap-hon-ky-vong-chu-yeu-do-doanh-so-mang-duoc-pham-suy-yeu-trong-boi-canh-cac-cuoc-dam-phan-cap-lien-bang-nham-giam-gia-thuoc-tai-my-dang-tac-dong-den-hoat-dong-kinh-doanh-theo-poonam-goyal-cua-bloomberg-day-co-59888.html"
+  },
+  {
+   "ref": "tg-dubaotiente:106140",
+   "title": "Bessent sắp công bố lệnh trừng phạt Iran \"khắc nghiệt nhất lịch sử\", Tehran dọa ngừng toàn bộ xuất khẩu dầu vùng Vịnh",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Bessent sắp công bố lệnh trừng phạt Iran \"khắc nghiệt nhất lịch sử\", Tehran doạ ngừng toàn bộ xuất khẩu dầu vùng Vịnh Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bessent-sap-cong-bo-lenh-trung-phat-iran-khac-nghiet-nhat-lich-su-tehran-doa-ngung-toan-bo-xuat-khau-dau-vung-vinh-111404.html",
+   "link": null
+  }
+ ],
+ "content_sha": "8c12a284b3ad9802623f84623bb9bef7bee6dfd9c7b83f23ee9e449fba3b3f5f"
+}
