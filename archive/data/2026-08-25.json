@@ -515,5 +515,68 @@
    "link": "https://bbw.vn/dieu-gi-dang-dung-sau-lan-song-ban-thao-trai-phieu-toan-cau-59891.html"
   }
  ],
- "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1"
+ "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "4f31cee9b9b8bf47d7562cd802aed82d6e7cc47f",
+   "published_at": "2026-08-25T06:45:59+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "235",
+   "sent_at": "2026-08-25T06:46:00+07:00",
+   "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "235",
+     "sent_at": "2026-08-25T06:46:00+07:00",
+     "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "b9f45e2dd6ad4df414bb",
+   "sent_at": "2026-08-25T06:46:02+07:00",
+   "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "b9f45e2dd6ad4df414bb",
+     "sent_at": "2026-08-25T06:46:02+07:00",
+     "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "aa10017b88fb13a24aed",
+     "sent_at": "2026-08-25T06:46:03+07:00",
+     "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "f465419dc81d53440a0b",
+     "sent_at": "2026-08-25T06:46:04+07:00",
+     "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "bf2abe193899a3c0fa8f",
+     "sent_at": "2026-08-25T06:46:05+07:00",
+     "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1"
+    }
+   ]
+  }
+ }
 }
