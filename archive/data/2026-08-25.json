@@ -1,0 +1,519 @@
+{
+ "date": "2026-08-25",
+ "dividends": [
+  {
+   "event": "Cổ tức tiền mặt tỷ lệ 2%",
+   "record_date": "2026-08-25",
+   "ref": "cafef:9a6a6d8bce",
+   "ticker": "VSN"
+  },
+  {
+   "event": "Cổ tức tiền mặt tỷ lệ 10%",
+   "record_date": "2026-08-26",
+   "ref": "cafef:9a6a6d8bce",
+   "ticker": "MIG"
+  },
+  {
+   "event": "Cổ tức tiền mặt 5% và cổ phiếu tỷ lệ 100:10",
+   "record_date": "2026-08-27",
+   "ref": "cafef:9a6a6d8bce",
+   "ticker": "TN1"
+  },
+  {
+   "event": "Cổ tức tiền mặt tỷ lệ 10%",
+   "record_date": "2026-08-28",
+   "ref": "cafef:9a6a6d8bce",
+   "ticker": "VIM"
+  },
+  {
+   "event": "Cổ tức tiền mặt tỷ lệ 14,27%",
+   "record_date": "2026-08-28",
+   "ref": "cafef:9a6a6d8bce",
+   "ticker": "ILB"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "HOSE/CafeF",
+   "text": "VN-Index tăng 20,66 điểm (+1,17%) lên 1.788,78 điểm, tiến sát mốc 1.800 điểm; khối ngoại mua ròng gần 200 tỷ đồng."
+  },
+  {
+   "source": "Reuters",
+   "text": "Phố Wall giảm điểm vì cổ phiếu công nghệ bị bán tháo, nhà đầu tư theo dõi căng thẳng Mỹ - Iran; vàng thế giới tăng 2,34% lên hơn 4.732 USD/ounce."
+  },
+  {
+   "source": "Vietstock",
+   "text": "FTSE công bố danh mục cơ cấu, SSI Research đưa kịch bản dòng vốn thụ động 4,3 tỷ USD chảy vào chứng khoán Việt Nam."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Techcombank (TCB) chia cổ tức bằng cổ phiếu để tăng vốn, dẫn đầu nhóm ngân hàng tư nhân."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Quốc hội thông qua Luật Đầu tư sửa đổi, cắt giảm 62 ngành nghề kinh doanh có điều kiện và bổ sung quy định về tài sản mã hoá."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:e1f43e8c15",
+     "title": "BIC: BIC chi trả 14 triệu đồng cho khách hàng bị lừa đảo qua website giả mạo"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:a58d3eafb5",
+     "title": "Becamex Real bị xử phạt do chậm công bố thông tin - An ninh Tiền tệ"
+    },
+    {
+     "ref": "google-news-ph-p-l:026ec8911e",
+     "title": "Thanh tra Chứng khoán Nhà nước vừa xử phạt 3 doanh nghiệp vì chậm công bố thông tin - nguoiquansat.vn"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+20,66 (+1,17%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.788,78"
+   },
+   {
+    "change": "-0,88 (-0,31%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "283,19"
+   },
+   {
+    "change": "KL 669,8 triệu cp",
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "15.280 tỷ đồng"
+   },
+   {
+    "change": "gấp 3 lần phiên trước",
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~200 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": "Mua CK 25.980",
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.360"
+   }
+  ],
+  "summary": "Phố Wall giảm điểm phiên đầu tuần khi nhóm cổ phiếu công nghệ bị bán tháo, S&P 500 mất 0,28% và Nasdaq giảm 0,76% trong khi Dow Jones tăng nhẹ 0,26%; giá dầu WTI và Brent đồng loạt giảm hơn 2% còn vàng thế giới tăng mạnh 2,34% lên hơn 4.732 USD/ounce giữa lúc căng thẳng liên quan Iran gia tăng. Trong nước, VN-Index đóng cửa phiên 24/8 tại 1.788,78 điểm, tăng 20,66 điểm (+1,17%), tiến sát mốc 1.800 điểm, trong khi HNX-Index giảm nhẹ 0,31% xuống 283,19 điểm. Thanh khoản HOSE đạt khoảng 15.280 tỷ đồng, khối ngoại mua ròng gần 200 tỷ đồng, gấp 3 lần phiên liền trước. Tỷ giá USD/VND tại Vietcombank niêm yết 25.980 - 26.360 đồng, giá vàng SJC trong nước chưa cập nhật được do nguồn dữ liệu lỗi.",
+  "tiles": [
+   {
+    "change_pct": -0.28,
+    "label": "S&P 500",
+    "value": "7.652,9"
+   },
+   {
+    "change_pct": 0.26,
+    "label": "Dow Jones",
+    "value": "53.417,2"
+   },
+   {
+    "change_pct": -0.76,
+    "label": "Nasdaq",
+    "value": "25.980,2"
+   },
+   {
+    "change_pct": -2.16,
+    "label": "Dầu WTI",
+    "value": "85,2 USD"
+   },
+   {
+    "change_pct": -2.39,
+    "label": "Dầu Brent",
+    "value": "92,1 USD"
+   },
+   {
+    "change_pct": 2.34,
+    "label": "Vàng thế giới",
+    "value": "4.732 USD"
+   },
+   {
+    "change_pct": 1.5,
+    "label": "Bitcoin",
+    "value": "78.918 USD"
+   },
+   {
+    "change_pct": 0.19,
+    "label": "DXY",
+    "value": "98,98"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:46fe11e8eb",
+     "title": "Ngành điện Việt Nam đứng trước thay đổi lớn, CTCK gọi tên doanh nghiệp được kỳ vọng"
+    },
+    {
+     "ref": "cafef:15e848c8f2",
+     "title": "PSI: Chứng khoán Dầu khí sắp bầu thay thế thành viên HĐQT"
+    },
+    {
+     "ref": "cafef:331b553480",
+     "title": "Dự án điện hạt nhân Ninh Thuận được tách thành 3 dự án độc lập"
+    },
+    {
+     "ref": "cafef:6684282978",
+     "title": "SAM: Chứng khoán Quốc gia muốn \"gom\" 12 triệu cổ phiếu SAM"
+    },
+    {
+     "ref": "cafef:d4ccac417a",
+     "title": "PVI: PVI tăng vốn điều lệ lên hơn 2.500 tỷ đồng sau đợt trả cổ tức"
+    },
+    {
+     "ref": "cafef:b4a6a97534",
+     "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index"
+    },
+    {
+     "ref": "cafef:926e55a8df",
+     "title": "Ông Nguyễn Duy Hưng: Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng"
+    },
+    {
+     "ref": "cafef:4b9bc34aa6",
+     "title": "Quỹ vàng lớn nhất Châu Âu “ráo riết” mua vàng"
+    },
+    {
+     "ref": "cafef:c7c9ec7ad0",
+     "title": "NVL: Công ty con của Novaland mua lại hơn 400 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "cafef:0ea87fd038",
+     "title": "LPS: Chứng khoán LPBank đổi tên"
+    },
+    {
+     "ref": "cafef:5d6bb08edd",
+     "title": "CTCK chỉ ra nhóm doanh nghiệp tác động từ Luật Dầu khí (sửa đổi), có cả công ty của tỷ phú Phạm Nhật Vượng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:a7d38012d9",
+     "title": "Quốc hội thông qua Luật Đầu tư sửa đổi: Cắt giảm 62 ngành, nghề, thêm tài sản mã hóa"
+    },
+    {
+     "ref": "vietstock:17052a8ff7",
+     "title": "Kỷ nguyên tiền đắt (Kỳ 3): Ngăn vòng xoáy tự hủy trên thị trường nợ"
+    },
+    {
+     "ref": "vietstock:7f12122dcc",
+     "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán"
+    },
+    {
+     "ref": "vietstock:bb3c8de359",
+     "title": "SJS chào bán 200 triệu cp để rót vốn vào dự án The Vista Van La"
+    },
+    {
+     "ref": "vietstock:9ab05be14f",
+     "title": "DP1 sắp chia cổ tức 2,500 đồng/cp, cao nhất lịch sử"
+    },
+    {
+     "ref": "vietstock:a31b9f94d0",
+     "title": "BSR: Khởi động triển khai hợp đồng EPC Dự án nâng cấp, mở rộng NMLD Dung Quất"
+    },
+    {
+     "ref": "vietstock:3356736cac",
+     "title": "HSG: Hoa Sen \"đổi ý\" với Hoa Sen Sài Gòn, rót thêm 300 tỷ đồng, nâng sở hữu lên gần 78%"
+    },
+    {
+     "ref": "vietstock:84f4841e28",
+     "title": "TCB: Techcombank chia cổ tức bằng cổ phiếu để tăng vốn dẫn đầu nhóm ngân hàng tư nhân"
+    },
+    {
+     "ref": "vietstock:3390f0e981",
+     "title": "Quốc hội thông qua 3 Luật sửa đổi, bổ sung một số điều về lĩnh vực ngân hàng"
+    },
+    {
+     "ref": "vietstock:b32b286f68",
+     "title": "HCM: Thành viên HĐQT độc lập liên tục muốn bán cổ phiếu giữa lúc giá lập đỉnh lịch sử"
+    },
+    {
+     "ref": "vietstock:d4b31fdfb9",
+     "title": "FTSE công bố danh mục, SSI Research đưa ra kịch bản 4.3 tỷ USD chảy vào chứng khoán Việt"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:4560178794",
+     "title": "Dòng tiền chưa đủ lớn để đột phá, cổ phiếu bất động sản nóng trở lại"
+    },
+    {
+     "ref": "vneconomy:78b109a92d",
+     "title": "Tập đoàn BIG mở rộng thêm quỹ đất, nhận cam kết rót vốn từ quỹ ngoại"
+    },
+    {
+     "ref": "vneconomy:4c35554eb4",
+     "title": "VIC: VIC và VHM có thể được các quỹ mua vào gần 23.500 tỷ đồng"
+    },
+    {
+     "ref": "vneconomy:c85e5504af",
+     "title": "Định giá cổ phiếu ngân hàng xuống thấp nhất trong nhiều năm: Cái tên nào đáng xuống tiền?"
+    },
+    {
+     "ref": "vneconomy:9119033494",
+     "title": "Vì sao bitcoin tăng giá mạnh?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:482909ae55",
+     "title": "Chốt đầu tư hơn 286.000 tỷ đồng làm đường Vành đai 5 - Vùng Thủ đô"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:17d5a7ba66",
+     "title": "Bổ sung cơ chế miễn trách nhiệm hình sự đối với một số vi phạm kinh tế"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2696056a3f",
+     "title": "HGI: Hé lộ quỹ đầu tư ngoại ở châu Á đang là cổ đông của Đầu tư Quốc tế Hoàng Anh Gia Lai"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1157ff9054",
+     "title": "Chính thức luật hoá \"khu thương mại tự do\", \"trung tâm tài chính quốc tế\" với nhiều ưu đãi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:08a80df1be",
+     "title": "Bảo hiểm nhân thọ LP Life chính thức đổi tên thành Sacom Life"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:47af244ba1",
+     "title": "Điều chỉnh thuế chống bán phá giá thép hình chữ H nhập vào Việt Nam"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:ced90928fa",
+     "title": "Vì sao lương tối thiểu được đề xuất tăng 7,8% từ năm 2027?"
+    },
+    {
+     "ref": "b-o-u-t:51ddcee770",
+     "title": "Sau 2/9, Việt Nam đón hàng trăm nhà mua hàng toàn cầu \"săn\" nguồn cung"
+    },
+    {
+     "ref": "b-o-u-t:113bcf346c",
+     "title": "Đà Nẵng thử nghiệm có kiểm soát giải pháp chuyển đổi tài sản số sang tiền pháp định"
+    },
+    {
+     "ref": "b-o-u-t:acd82d088b",
+     "title": "Phê duyệt chủ trương đầu tư Chương trình Mục tiêu Quốc gia mới, nguồn lực 808.558 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:5d5f86181a",
+     "title": "Tạm dừng thông quan qua cửa khẩu Chi Ma do sự cố hạ tầng phía Trung Quốc"
+    },
+    {
+     "ref": "b-o-u-t:dcc9ca0917",
+     "title": "Quốc hội \"chốt\" tăng thêm 86.100 tỷ đồng cho dự án đường sắt Lào Cai - Hà Nội - Hải Phòng"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:ff171a2960",
+     "title": "PNJ: Cổ phiếu PNJ \"cháy hàng\", LPS \"trắng bên mua\" trong phiên VN-Index tăng hơn 20 điểm"
+    },
+    {
+     "ref": "markettimes:fc695954c1",
+     "title": "Chính thức từ hôm nay, hộ kinh doanh, doanh nghiệp có doanh thu tối đa 10 tỷ đồng sẽ được giảm 30% thuế trong hai năm 2026 và 2027"
+    },
+    {
+     "ref": "markettimes:22f4349429",
+     "title": "F88: F88 sắp có 1.000 cửa hàng, lợi nhuận trước thuế 8 tháng đạt 1.077 tỷ đồng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:36132b2cd0",
+     "title": "Khi EVN được \"nhẹ gánh\""
+    },
+    {
+     "ref": "bloomberg-businessweek-vn:2262c9da0c",
+     "title": "Lưới điện đang cản Việt Nam hút vốn vào AI và data center"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:88c74ab96d",
+     "title": "ABB: ĐHĐCĐ ABBank thông qua phương án tăng vốn điều lệ lên gần 27.000 tỷ đồng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:81832cd50c",
+     "title": "VNL: Báo cáo kết quả phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty"
+    },
+    {
+     "ref": "hose:522336473f",
+     "title": "SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Hoàng Mạnh Phú, Nguyễn Thị Thu Hương, Nguyễn Tuấn Cường, Vũ Đình Khoán"
+    },
+    {
+     "ref": "hose:b4c30cc763",
+     "title": "TMT: Nhận được công văn của UBCKNN về hồ sơ thông báo tỷ lệ sở hữu nước ngoài tối đa"
+    },
+    {
+     "ref": "hose:213b78d148",
+     "title": "PDN: Thông báo ngày ĐKCC chi trả cổ tức đợt 2 năm 2025 bằng tiền"
+    },
+    {
+     "ref": "hose:bc06f3d903",
+     "title": "TIP: Thông báo ngày ĐKCC thực hiện quyền tạm ứng cổ tức đợt 1 năm 2026 bằng tiền"
+    },
+    {
+     "ref": "hose:c03e3c468f",
+     "title": "SAM: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Chứng khoán Quốc Gia"
+    },
+    {
+     "ref": "hose:7d92d2ddbb",
+     "title": "LDG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 23 và thay đổi tên miền email"
+    },
+    {
+     "ref": "hose:bdf849fe24",
+     "title": "SGR: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết đang lưu hành"
+    },
+    {
+     "ref": "hose:32c8e326f4",
+     "title": "TIP: Nghị quyết HĐQT số 17 ngày 24/08/2026"
+    },
+    {
+     "ref": "hose:e1d1ab10e7",
+     "title": "REE: Giải trình chênh lệch LNST soát xét bán niên năm 2026 so với cùng kỳ năm trước"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:b9c9046c1f",
+   "title": "Phố Wall giảm điểm vì cổ phiếu công nghệ, nhà đầu tư theo dõi động thái của Mỹ với Iran",
+   "translated": true,
+   "original_title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+   "link": "https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24/"
+  },
+  {
+   "ref": "tg-marketfeed:1024146",
+   "title": "Trump: Iran không thể có vũ khí hạt nhân, Mỹ đang \"đánh bại Iran rất mạnh\", giá xăng sẽ giảm",
+   "translated": true,
+   "original_title": "TRUMP SAYS IRAN CANNOT HAVE A NUCLEAR WEAPON AND THAT THE U.S. IS 'BEATING IRAN VERY BADLY', ADDING THAT GASOLINE PRICES ARE GOING TO FALL ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:06357aa342",
+   "title": "Tàu chở dầu trúng vật thể lạ ngoài khơi Oman",
+   "translated": true,
+   "original_title": "Petroleiro é atingido por projétil não identificado na costa de Omã",
+   "link": "https://www.reuters.com/pt/mundo/6VW67U3XCVMTHDOH4VQQEDEZHY-2026-08-24/"
+  },
+  {
+   "ref": "reuters:5b9f16fc67",
+   "title": "Mỹ cảnh báo các nước làm ăn với Iran, tạm chưa áp lệnh trừng phạt",
+   "translated": true,
+   "original_title": "US threatens countries doing business with Iran, but holds off on penalties for now",
+   "link": "https://www.reuters.com/world/middle-east/us-treasury-broaden-scope-secondary-sanctions-iran-source-says-2026-08-24/"
+  },
+  {
+   "ref": "reuters:a1811912a4",
+   "title": "Shein hạ định giá IPO Hong Kong xuống còn tối đa 27 tỷ USD",
+   "translated": true,
+   "original_title": "Fast-fashion giant Shein shrinks value to up to $27 billion in Hong Kong IPO",
+   "link": "https://www.reuters.com/business/retail-consumer/shein-launches-up-18-billion-hong-kong-ipo-2026-08-23/"
+  },
+  {
+   "ref": "reuters:87a80b500e",
+   "title": "Hãng cung cấp điện Aggreko nộp hồ sơ IPO tại Mỹ giữa làn sóng bùng nổ trung tâm dữ liệu",
+   "translated": true,
+   "original_title": "Power supply firm Aggreko files for US IPO amid data center boom",
+   "link": "https://www.reuters.com/business/energy/power-supply-firm-aggreko-files-us-ipo-2026-08-24/"
+  },
+  {
+   "ref": "tg-marketfeed:1024131",
+   "title": "AMD lần đầu vượt mốc 30% thị phần CPU máy tính x86",
+   "translated": true,
+   "original_title": "AMD HAS CROSSED 30% OF THE X86 PC CPU MARKET FOR THE FIRST TIME. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:f5786114c4",
+   "title": "SEC Mỹ triệu tập các ngân hàng Phố Wall liên quan vụ sụp đổ \"Situational Awareness\"",
+   "translated": true,
+   "original_title": "US SEC subpoenas Wall Street lenders over Situational Awareness meltdown, source says",
+   "link": "https://www.reuters.com/legal/government/us-sec-sends-subpoenas-wall-street-banks-over-situational-awareness-nyt-reports-2026-08-24/"
+  },
+  {
+   "ref": "tg-marketfeed:1024139",
+   "title": "Meta chuẩn bị ra mắt nền tảng AI agent mang tên \"Hatch\" trong vài tuần tới",
+   "translated": true,
+   "original_title": "META PLANS TO LAUNCH “HATCH,” A NEW AI AGENT PLATFORM, IN THE COMING WEEKS, THE INFORMATION REPORTS. HATCH IS EXPECTED TO LET AI AGENTS PERFORM MULTI-STEP TASKS MORE AUTONOMOUSLY, STRENGTHENING META’S PUSH INTO THE FAST-GROWING AI AGENT MARKET. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:397052",
+   "title": "OECD: Tăng trưởng kinh tế G7 giảm xuống 0,3% trong quý II",
+   "translated": true,
+   "original_title": "▫️ OECD: Tăng trưởng kinh tế G7 giảm xuống 0,3% trong quý II Tổ chức Hợp tác và Phát triển Kinh tế (OECD) vừa công bố dữ liệu sơ bộ cho thấy, trong quý II năm 2026, GDP của các nền kinh tế thành viên OECD tăng 0,5% so với quý trước, cao hơn một chút so với mức 0,4% của quý I. Tuy nhiên, tăng trưởng GDP của nhóm G7 đã chậm lại, chỉ đạt 0,3% trong quý II, giảm so với 0,4% của quý I. Cụ thể, tăng trư",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:e98f81ec4c",
+   "title": "Canada cứng rắn khi căng thẳng thương mại với Mỹ leo thang",
+   "translated": false,
+   "original_title": "Canada cứng rắn khi căng thẳng thương mại với Mỹ leo thang",
+   "link": "https://bbw.vn/canada-cung-ran-khi-cang-thang-thuong-mai-voi-my-leo-thang-59909.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:2bb88eeb14",
+   "title": "Điều gì đang đứng sau làn sóng bán tháo trái phiếu toàn cầu?",
+   "translated": false,
+   "original_title": "Điều gì đang đứng sau làn sóng bán tháo trái phiếu toàn cầu?",
+   "link": "https://bbw.vn/dieu-gi-dang-dung-sau-lan-song-ban-thao-trai-phieu-toan-cau-59891.html"
+  }
+ ],
+ "content_sha": "106ef63e959b2c3fa9df9803cae9d850ab4a1bf0219072ad876bd87b2bcf16a1"
+}
