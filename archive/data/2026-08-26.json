@@ -576,5 +576,68 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUxoaG1weENnVnlYQlRCV0FySjFzUlR5d0VMTzl2RDZJXzZyV1pJZTlVSF9saFM5bHktbGlEMGRwcF9GbVozVnNzS2Z5YVBLRWlmX0JTX3VsQ2ZMUkpuMTBERF9fUk1PdHBFMlVWMTliQnhBRnZUUndCSWphZUFFb0FJMA?oc=5"
   }
  ],
- "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da"
+ "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "e38e7b916822a9e121f1b73ebb1570dcaf485930",
+   "published_at": "2026-08-26T06:46:12+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "236",
+   "sent_at": "2026-08-26T06:46:13+07:00",
+   "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "236",
+     "sent_at": "2026-08-26T06:46:13+07:00",
+     "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "d675d362ec8776de2f91",
+   "sent_at": "2026-08-26T06:46:15+07:00",
+   "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "d675d362ec8776de2f91",
+     "sent_at": "2026-08-26T06:46:15+07:00",
+     "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "84a71d2622c3b89ae1d5",
+     "sent_at": "2026-08-26T06:46:16+07:00",
+     "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "e6c810932e76b42fed60",
+     "sent_at": "2026-08-26T06:46:17+07:00",
+     "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "5aabbc99827c1825416a",
+     "sent_at": "2026-08-26T06:46:19+07:00",
+     "content_sha": "cbd6ba38b8934ec4f66fc5848f93695115250d01f10ec416eeab1567754720da"
+    }
+   ]
+  }
+ }
 }
