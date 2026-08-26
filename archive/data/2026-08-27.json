@@ -569,5 +569,68 @@
    "link": "https://www.reuters.com/legal/litigation/us-preparing-ease-environmental-reviews-alaska-oil-gas-drilling-2026-08-26/"
   }
  ],
- "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb"
+ "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "c0eea24c568ee2133501c78db1d5c89448d77028",
+   "published_at": "2026-08-27T06:49:20+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "237",
+   "sent_at": "2026-08-27T06:49:21+07:00",
+   "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "237",
+     "sent_at": "2026-08-27T06:49:21+07:00",
+     "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "dd322e3769fff4a6ade9",
+   "sent_at": "2026-08-27T06:49:23+07:00",
+   "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "dd322e3769fff4a6ade9",
+     "sent_at": "2026-08-27T06:49:23+07:00",
+     "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "d19fa3e7fb2f66763f39",
+     "sent_at": "2026-08-27T06:49:24+07:00",
+     "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "cdbb65bd3d75a02cf963",
+     "sent_at": "2026-08-27T06:49:26+07:00",
+     "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "539d5d3e05f698afc1e0",
+     "sent_at": "2026-08-27T06:49:27+07:00",
+     "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb"
+    }
+   ]
+  }
+ }
 }
