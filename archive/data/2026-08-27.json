@@ -1,0 +1,573 @@
+{
+ "date": "2026-08-27",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "VN-Index tăng phiên thứ 5 liên tiếp, vượt 1.820 điểm nhờ TCB và BCM dẫn dắt"
+  },
+  {
+   "source": "Vietstock",
+   "text": "TCB tăng kịch trần trước tin đàm phán bán 15% cổ phần cho nhà đầu tư ngoại, thương vụ có thể đạt 2 tỷ USD"
+  },
+  {
+   "source": "Reuters",
+   "text": "Phố Wall giảm nhẹ sau dữ liệu lạm phát PCE nóng hơn dự báo, giới đầu tư chờ báo cáo Nvidia"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Fed Governor Lisa Cook bác cáo buộc sai phạm khi Tổng thống Trump tái thúc đẩy sa thải bà"
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "UBS nâng dự báo giá vàng lên 5.400 USD/ounce, ủng hộ xu hướng phi đô la hóa toàn cầu"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:2d71d28c8b",
+     "title": "TEG: Xử phạt nhà đầu tư thao túng cổ phiếu của Tập đoàn Giáo dục Trí Việt"
+    },
+    {
+     "ref": "cafef:37ddf2c931",
+     "title": "Đúng 1 tuần nữa, ngày 3/9, hàng chục triệu cổ phiếu chứng khoán này bị đình chỉ giao dịch"
+    },
+    {
+     "ref": "cafef:a144d0cfc9",
+     "title": "Công an Hưng Yên triệt phá đường dây đánh bạc xuyên quốc gia quy mô 500 tỷ đồng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:89fe5e3bcb",
+     "title": "Từ nay, cá nhân dùng tài khoản ngân hàng, chứng khoán, ví điện tử vi phạm điều này có thể bị phạt đến 100 triệu đồng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:aac4b0e6d4",
+     "title": "CAR: Thao túng cổ phiếu, một cá nhân bị phạt 1,5 tỷ đồng và cấm giao dịch 3 năm"
+    },
+    {
+     "ref": "google-news-ph-p-l:92f0bf3e19",
+     "title": "Hải Sapa TV bị khởi tố: 30 tỷ đồng thịt trâu sấy khô tẩm hóa chất được mua từ doanh nghiệp nào?"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+29,91 (+1,67%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.821,32"
+   },
+   {
+    "change": "-0,69 (-0,24%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "281,96"
+   },
+   {
+    "change": "-6,0% so với phiên trước",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "16.414 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~35,6 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.300 đồng"
+   }
+  ],
+  "summary": "Phiên 26/8, VN-Index tăng 29,91 điểm (+1,67%) lên 1.821,32 điểm, đánh dấu phiên tăng thứ 5 liên tiếp nhờ lực kéo từ nhóm ngân hàng và bất động sản, trong khi HNX-Index giảm nhẹ 0,24% xuống 281,96 điểm. Thanh khoản HOSE đạt hơn 16.414 tỷ đồng, giảm khoảng 6% so với phiên trước do tâm lý nghỉ lễ sớm. Khối ngoại bán ròng nhẹ khoảng 35,6 tỷ đồng trên HOSE. Đêm qua, chứng khoán Mỹ giảm nhẹ sau dữ liệu lạm phát PCE tháng 7 cao hơn dự báo, trong khi giá dầu và vàng thế giới biến động trái chiều trước thềm báo cáo kết quả kinh doanh của Nvidia.",
+  "tiles": [
+   {
+    "change_pct": -0.02,
+    "label": "S&P 500",
+    "value": "7.675,7"
+   },
+   {
+    "change_pct": -0.21,
+    "label": "Dow Jones",
+    "value": "53.463,9"
+   },
+   {
+    "change_pct": -0.08,
+    "label": "Nasdaq",
+    "value": "26.130,2"
+   },
+   {
+    "change_pct": -0.64,
+    "label": "Dầu WTI",
+    "value": "81,8 USD"
+   },
+   {
+    "change_pct": -2.25,
+    "label": "Dầu Brent",
+    "value": "86,6 USD"
+   },
+   {
+    "change_pct": 0.82,
+    "label": "Vàng thế giới",
+    "value": "4.676 USD"
+   },
+   {
+    "change_pct": 0.43,
+    "label": "Bitcoin",
+    "value": "78.904 USD"
+   },
+   {
+    "change_pct": 0.22,
+    "label": "DXY",
+    "value": "99,13"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:1555de5634",
+     "title": "TCB: Từng ôm hàng triệu cổ phiếu trị giá hơn 300 tỷ, một 'ông trùm' đã bán sạch trước tháng 6"
+    },
+    {
+     "ref": "cafef:d16206da3b",
+     "title": "Gần 5.600 tỷ đồng có thể chảy vào chứng khoán Việt Nam trong tháng tới, CTCK chỉ ra 3 bluechip 'hút tiền' mạnh nhất"
+    },
+    {
+     "ref": "cafef:6e27eb5c23",
+     "title": "SRF: Từ nhà xưởng đến kho vận, Searefico triển khai gần 9,6ha dự án công nghiệp - logistics"
+    },
+    {
+     "ref": "cafef:0b72b9ee71",
+     "title": "Đề xuất lương CEO Cơ quan điều hành Trung tâm Tài chính quốc tế tại TPHCM đến 850 triệu đồng/tháng"
+    },
+    {
+     "ref": "cafef:201f07d0ca",
+     "title": "Home Credit Việt Nam báo lãi nửa đầu năm tăng 15%, dư nợ trái phiếu 7.400 tỷ đồng"
+    },
+    {
+     "ref": "cafef:58c153be8e",
+     "title": "Từng muốn phát triển 1.000 trạm sạc cho Vingroup, 'ông lớn' năng lượng bắt tay đối tác Đài Loan nhắm 'cuộc chơi' pin lưu trữ"
+    },
+    {
+     "ref": "cafef:a065df71ad",
+     "title": "Quant Trading bước vào 'cuộc chơi' mới khi dữ liệu, AI và công nghệ định hình lại cách tiếp cận thị trường"
+    },
+    {
+     "ref": "cafef:d4a86291c4",
+     "title": "CKA: Chuẩn bị 'lăn chốt' cổ tức 120% bằng tiền mặt, cao gấp 6 lần sau 6 năm"
+    },
+    {
+     "ref": "cafef:1a6b71dd5b",
+     "title": "Chứng khoán ngày 26/8: VN-Index vượt 1.820 điểm"
+    },
+    {
+     "ref": "cafef:67dfcd1528",
+     "title": "DVP: Cảng Đình Vũ sắp chi 120 tỷ đồng trả cổ tức cho cổ đông"
+    },
+    {
+     "ref": "cafef:67dd3696b5",
+     "title": "PHR: Cao su Phước Hòa sắp chi 190 tỷ đồng trả cổ tức, thưởng cổ phiếu tỷ lệ 80%"
+    },
+    {
+     "ref": "cafef:9c3890e39e",
+     "title": "TCB: Ngân hàng Hàn Quốc KB Kookmin lên tiếng về việc mua 15%, nói chỉ là một trong số hàng chục ứng viên tiềm năng"
+    },
+    {
+     "ref": "cafef:6ac81ba2cb",
+     "title": "TCB: Lai lịch 2 tổ chức nước ngoài đang đàm phán mua 15% cổ phần"
+    },
+    {
+     "ref": "cafef:e5b5a402fb",
+     "title": "PVS: Chốt ngày phát hành hơn 102 triệu cổ phiếu trả cổ tức"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:b9ae617d0a",
+     "title": "Vietstock Daily 27/08/2026: Đà tăng rộng mở?"
+    },
+    {
+     "ref": "vietstock:43239225b3",
+     "title": "RTB: Không đạt điều kiện đại chúng, còn 1 năm để giải quyết"
+    },
+    {
+     "ref": "vietstock:246a54a2e1",
+     "title": "SBS: Vừa huy động vốn, chi gần 40 tỷ để trở thành cổ đông lớn TNT"
+    },
+    {
+     "ref": "vietstock:bfbde35d5c",
+     "title": "AST: Sojitz muốn thành cổ đông lớn thứ hai tại Taseco Airs"
+    },
+    {
+     "ref": "vietstock:7c587e96b7",
+     "title": "PDR: Chủ tịch Phát Đạt chi hơn 240 tỷ gom 20 triệu cổ phiếu ở giá đáy 3 năm"
+    },
+    {
+     "ref": "vietstock:6d536881af",
+     "title": "CDN: Đề xuất đầu tư cảng cạn Hòa Nhơn gần 12,5ha tại Đà Nẵng"
+    },
+    {
+     "ref": "vietstock:d2d7874a48",
+     "title": "SSB: Cổ phiếu SeABank vào rổ FTSE Global All Cap"
+    },
+    {
+     "ref": "vietstock:78384c715c",
+     "title": "408.000 tỷ đồng sẵn sàng 'tiếp sức' cho các động lực tăng trưởng kinh tế và doanh nghiệp nhỏ và vừa"
+    },
+    {
+     "ref": "vietstock:a5675dfc4a",
+     "title": "MSB: Gần 164 triệu cổ phiếu được sang tay sau 4 phiên"
+    },
+    {
+     "ref": "vietstock:a50933ea90",
+     "title": "TCB: Tăng trần trước tin thương vụ 2 tỷ USD, gần 17 triệu cổ phiếu được sang tay phiên 26/08"
+    },
+    {
+     "ref": "vietstock:089dfeabe6",
+     "title": "Tín dụng tăng nhanh, ngân hàng đối mặt áp lực nguồn vốn"
+    },
+    {
+     "ref": "vietstock:5616ec854b",
+     "title": "BIC: Bảo hiểm BIDV chốt chi hơn 240 tỷ trả cổ tức"
+    },
+    {
+     "ref": "vietstock:304a2f3b68",
+     "title": "Giá cao su lên mức cao nhất kể từ năm 2013"
+    },
+    {
+     "ref": "vietstock:ef62ddc44c",
+     "title": "BCM: Lập công ty vốn 1.455 tỷ đồng phát triển khu công nghiệp Vĩnh Lập"
+    },
+    {
+     "ref": "vietstock:316b731d7e",
+     "title": "PNJ: T. Rowe Price tiếp tục gom cổ phiếu, nâng sở hữu vượt 6%"
+    },
+    {
+     "ref": "vietstock:97cef5759f",
+     "title": "SZC: Sonadezi Châu Đức ấn định ngày chia 180 tỷ đồng cổ tức"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:4ae896b503",
+     "title": "Công ty chứng khoán lạc quan sau khi VN-Index đột phá qua ngưỡng 1.800 điểm"
+    },
+    {
+     "ref": "vneconomy:fd4120039e",
+     "title": "Biến động thị trường trái phiếu kho bạc Mỹ khiến vàng, bitcoin 'tỏa sáng' trở lại"
+    },
+    {
+     "ref": "vneconomy:698591c726",
+     "title": "DMX: Hơn 5.000 tỷ đồng cổ tức tiền mặt từ Đầu tư Điện Máy Xanh chính thức về tài khoản cổ đông"
+    },
+    {
+     "ref": "vneconomy:36492c2a4c",
+     "title": "FTSE Russell: Dòng vốn chủ động và thụ động vào Việt Nam có thể lên tới 157 nghìn tỷ đồng"
+    },
+    {
+     "ref": "vneconomy:5dbadbf288",
+     "title": "Blog chứng khoán: 'Điểm nổ' cổ phiếu ngân hàng"
+    },
+    {
+     "ref": "vneconomy:39d91f27c8",
+     "title": "Tâm lý nghỉ Lễ sớm, thanh khoản giảm đột biến"
+    },
+    {
+     "ref": "vneconomy:c86e27d682",
+     "title": "Quỹ ngoại: Định giá nhiều cổ phiếu Việt Nam ở mức thấp bất thường"
+    },
+    {
+     "ref": "vneconomy:49ca68e03a",
+     "title": "Gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026"
+    },
+    {
+     "ref": "vneconomy:039bb5b105",
+     "title": "Dòng tiền toàn cầu thận trọng với cổ phiếu, đổ mạnh vào vàng và trái phiếu"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:22003e7795",
+     "title": "Nhận định thị trường phiên giao dịch ngày 27/8: Mua tại các nhịp điều chỉnh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8573911eda",
+     "title": "Cổ phiếu cần quan tâm ngày 27/8"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8bbb1031df",
+     "title": "Thủ tướng Lê Minh Hưng gặp gỡ các doanh nghiệp Trung Quốc đang đầu tư tại Việt Nam"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f3b6ec327b",
+     "title": "Luật Phát triển đô thị: Tăng phân quyền, mở không gian cho các mô hình kinh tế mới"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:eed7896842",
+     "title": "28 đề xuất nhiệm vụ về công nghệ chiến lược, tổng vốn dự kiến 5.300 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:821f7b1617",
+     "title": "Dòng vốn FTSE sắp vào thị trường, cổ phiếu nào hưởng lợi?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4eb565064e",
+     "title": "Bất động sản Gia Phú tiếp tục chậm thanh toán gốc lãi trái phiếu, lỗ lũy kế âm vốn chủ sở hữu"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:9cc9a975c5",
+     "title": "Muốn phát triển điện gió ngoài khơi, phải sẵn sàng năng lực logistics"
+    },
+    {
+     "ref": "b-o-u-t:2b37928f5e",
+     "title": "Cổ phiếu IPO có cơ hội sớm gia nhập FTSE GEIS"
+    },
+    {
+     "ref": "b-o-u-t:bea5a41490",
+     "title": "Xuất khẩu 8 tháng vượt cả năm 2022, xuất hiện nhóm hàng trên 100 tỷ USD"
+    },
+    {
+     "ref": "b-o-u-t:957879c137",
+     "title": "Vàng có tháng tăng mạnh nhất trong vòng 27 năm, chuyên gia khuyến nghị gì?"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:e1beaa53c5",
+     "title": "VIX: Chứng khoán VIX ôm 1.000 tỷ đồng cổ phiếu TCB"
+    },
+    {
+     "ref": "markettimes:dddec93216",
+     "title": "MWG: Nhà thuốc An Khang hợp tác với VNVC"
+    },
+    {
+     "ref": "markettimes:4b3f460a8d",
+     "title": "VCB: Vietcombank phát cảnh báo khẩn về việc bị giả mạo"
+    },
+    {
+     "ref": "markettimes:692dda9c01",
+     "title": "Green GSM có động thái mới tại quốc gia láng giềng Việt Nam"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:54a29f8e4d",
+     "title": "AI giúp dệt may Việt thoát 'bẫy' giá rẻ, nâng vị thế trong chuỗi giá trị"
+    },
+    {
+     "ref": "vnbusiness:314a358702",
+     "title": "Việt Nam tăng tốc đào tạo nhân lực IFRS, đón chuẩn mực tài chính quốc tế"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:38bd86aad7",
+     "title": "C.P. Việt Nam xuất khẩu lô thịt gà chế biến đầu tiên của Việt Nam sang Hàn Quốc"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:bda4489275",
+     "title": "CTD: Thông báo công văn của UBCKNN về hồ sơ thông báo tỷ lệ sở hữu nước ngoài tối đa của CTD"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1025584",
+   "title": "KKR sẽ trả 250 triệu USD để dàn xếp vụ kiện của Bộ Tư pháp Mỹ liên quan một thương vụ sáp nhập",
+   "translated": true,
+   "original_title": "*KKR TO PAY $250 MILLION TO RESOLVE DOJ MERGER FILING LAWSUIT ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1025583",
+   "title": "Thống đốc Fed Lisa Cook bác cáo buộc sai phạm khi Tổng thống Trump tái thúc đẩy sa thải bà",
+   "translated": true,
+   "original_title": "FED’S COOK DENIES WRONGDOING AS TRUMP REVIVES PUSH TO FIRE HER – BBG ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:397271",
+   "title": "Ngân hàng Quốc gia Úc: Lạm phát tháng 7 tăng vượt dự báo, RBA có thể tăng lãi suất vào tháng 9",
+   "translated": true,
+   "original_title": "▫️ Ngân hàng Quốc gia Úc: Lạm phát tăng nhanh vượt dự kiến, dự đoán Ngân hàng Dự trữ Úc sẽ tăng lãi suất vào tháng 9 Ngân hàng Quốc gia Úc dự đoán Ngân hàng Dự trữ Úc sẽ tăng lãi suất vào tháng 9, do chỉ số giá tiêu dùng tháng 7 tăng vượt dự kiến, chủ yếu do chi phí nhiên liệu tăng cao. Các nhà kinh tế của ngân hàng cho biết: \"Dữ liệu CPI tháng 7 cho thấy tình hình lạm phát nghiêm trọng hơn so với",
+   "link": null
+  },
+  {
+   "ref": "reuters:02c25db8ff",
+   "title": "Thủ tướng Qatar sẽ thăm Tehran để thúc đẩy nỗ lực trung gian hòa giải",
+   "translated": true,
+   "original_title": "Qatar PM to visit Tehran to pursue mediation efforts",
+   "link": "https://www.reuters.com/world/middle-east/qatar-pm-visit-tehran-pursue-mediation-efforts-2026-08-26/"
+  },
+  {
+   "ref": "reuters:8115bf8b5f",
+   "title": "Prudential báo lợi nhuận kinh doanh mới tăng 8% trong nửa đầu năm, mở rộng chương trình mua lại cổ phiếu",
+   "translated": true,
+   "original_title": "Prudential posts 8% rise in first-half new business profit, expands share buyback",
+   "link": "https://www.reuters.com/legal/litigation/prudential-posts-8-rise-first-half-new-business-profit-expands-share-buyback-2026-08-26/"
+  },
+  {
+   "ref": "reuters:33a09f050e",
+   "title": "Lợi nhuận Qantas giảm 14% vì chi phí nhiên liệu, hãng sẽ ngừng khai thác đội bay A380 từ năm 2028",
+   "translated": true,
+   "original_title": "Qantas' full-year profit falls 14% on fuel costs, to retire A380s from 2028",
+   "link": "https://www.reuters.com/world/asia-pacific/australian-carrier-qantas-full-year-profit-falls-14-2026-08-26/"
+  },
+  {
+   "ref": "reuters:ba39e45d8c",
+   "title": "Meta đồng ý trả 18 tỷ USD để dàn xếp các vụ kiện tại Mỹ về mạng xã hội gây nghiện cho trẻ em",
+   "translated": true,
+   "original_title": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction",
+   "link": "https://www.reuters.com/business/meta-reaches-18-billion-settlements-over-childrens-social-media-addiction-2026-08-26/"
+  },
+  {
+   "ref": "bloomberg:86b9aa924c",
+   "title": "Lý Gia Thành giữ nguyên mức giá bán cảng biển bất chấp thương vụ Panama đổ vỡ",
+   "translated": true,
+   "original_title": "Li Ka-shing Keeps Ports Sale’s Price Tag Despite Panama Loss",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-26/li-ka-shing-keeps-ports-sale-s-price-tag-despite-panama-loss"
+  },
+  {
+   "ref": "bloomberg:5ac5265ded",
+   "title": "Philippines chuẩn bị tăng lãi suất điều hành để kiềm chế lạm phát cao, hỗ trợ đồng peso",
+   "translated": true,
+   "original_title": "Philippines Set to Hike Key Rate to Curb Stubbornly High Inflation, Boost Peso",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-26/philippines-set-to-hike-key-rate-to-curb-stubbornly-high-inflation-boost-peso"
+  },
+  {
+   "ref": "reuters:cae9528406",
+   "title": "Cựu lãnh đạo JPMorgan Staley thừa nhận từng chia sẻ thông tin ngân hàng mật với Epstein",
+   "translated": true,
+   "original_title": "Former JPMorgan executive Staley says he shared confidential bank information with Epstein",
+   "link": "https://www.reuters.com/legal/transactional/former-jpmorgan-executive-staley-says-he-shared-confidential-bank-information-2026-08-26/"
+  },
+  {
+   "ref": "reuters:932ffcb304",
+   "title": "Phố Wall giảm nhẹ sau dữ liệu lạm phát nóng hơn dự báo, giới đầu tư chờ báo cáo của Nvidia",
+   "translated": true,
+   "original_title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings",
+   "link": "https://www.reuters.com/business/us-stock-futures-subdued-run-up-nvidia-results-inflation-print-2026-08-26/"
+  },
+  {
+   "ref": "reuters:395d05e14e",
+   "title": "Mỹ cáo buộc tin tặc Trung Quốc xâm nhập Bộ Tư pháp, NASA, Fed và Thượng viện",
+   "translated": true,
+   "original_title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate",
+   "link": "https://www.reuters.com/world/china/china-sponsored-hacking-platforms-seized-by-us-justice-department-says-2026-08-26/"
+  },
+  {
+   "ref": "tg-dubaotiente:106299",
+   "title": "UBS ủng hộ xu hướng phi đô la hóa, nâng mục tiêu giá vàng lên 5.400 USD/ounce",
+   "translated": true,
+   "original_title": "(Tiêu điểm) UBS ủng hộ xu hướng phi đô la hoá, nâng mục tiêu giá vàng lên 5,400 USD/ounce Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ubs-ung-ho-xu-huong-phi-do-la-hoa-nang-muc-tieu-gia-vang-len-5400-usd-ounce-111545.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:104ef5368b",
+   "title": "Giá dầu giảm sau phiên biến động khi giới đầu tư theo dõi đàm phán về eo biển Hormuz",
+   "translated": true,
+   "original_title": "Petróleo fecha em baixa após sessão volátil enquanto investidores avaliam negociações sobre Ormuz",
+   "link": "https://www.reuters.com/pt/negocio/6M7A3VI3M5PRRDFKY2PPGR2JHM-2026-08-26/"
+  },
+  {
+   "ref": "reuters:fb5bfe0458",
+   "title": "Nvidia đối mặt nguy cơ rơi vào vòng xoáy tin xấu trước thềm báo cáo kết quả kinh doanh",
+   "translated": true,
+   "original_title": "Nvidia leans into the danger of a bad-news spiral",
+   "link": "https://www.reuters.com/commentary/breakingviews/nvidia-leans-into-danger-bad-news-spiral-2026-08-26/"
+  },
+  {
+   "ref": "reuters:9d68a6d5e6",
+   "title": "Ông Trump ký sắc lệnh nhằm hạ giá thịt bò đang ở mức 'quá cao'",
+   "translated": true,
+   "original_title": "Trump says he signed proclamation to address 'unreasonably' high beef prices",
+   "link": "https://www.reuters.com/world/us/trump-says-he-signed-proclamation-address-unreasonably-high-beef-prices-2026-08-26/"
+  },
+  {
+   "ref": "tg-marketfeed:1025573",
+   "title": "CFO Nvidia: Doanh thu tài khóa 2028 dự kiến tăng khoảng 70% so với cùng kỳ",
+   "translated": true,
+   "original_title": "NVIDIA CFO: PRELIMINARY OUTLOOK FOR FY 28 REVENUE TO RISE ABOUT 70% YOY ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:397270",
+   "title": "Quỹ SPDR Gold Trust giảm nắm giữ 2,853 tấn vàng trong ngày",
+   "translated": true,
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới - SPDR Gold Trust đã giảm 2.853 tấn trong ngày, hiện có tổng lượng nắm giữ là 1045.495 tấn. #vàng #SPDR_Gold_Trust",
+   "link": null
+  },
+  {
+   "ref": "reuters:ddd2ec0599",
+   "title": "Giá lúa mì chạm trần biên độ ngày do lo ngại về xuất khẩu qua Biển Đen",
+   "translated": true,
+   "original_title": "Trigo atinge limite diário de alta com preocupações sobre exportações do Mar Negro",
+   "link": "https://www.reuters.com/pt/agricultura/7FBCIZKTJBLHHPYE3HJLXRY7JI-2026-08-26/"
+  },
+  {
+   "ref": "reuters:9cf62b49d7",
+   "title": "Mỹ chuẩn bị nới lỏng đánh giá môi trường để thúc đẩy khai thác dầu khí tại Alaska",
+   "translated": true,
+   "original_title": "US preparing to ease environmental reviews for Alaska oil and gas drilling",
+   "link": "https://www.reuters.com/legal/litigation/us-preparing-ease-environmental-reviews-alaska-oil-gas-drilling-2026-08-26/"
+  }
+ ],
+ "content_sha": "8854646787694be93775218be21c5ae9b2f4793c660a9025fff096e5ad9f7deb"
+}
