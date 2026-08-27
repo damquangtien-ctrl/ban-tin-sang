@@ -1,0 +1,458 @@
+{
+ "date": "2026-08-28",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "FiinQuant",
+   "text": "VN-Index tăng phiên thứ 6 liên tiếp, đóng cửa tại 1.831,56 điểm (+0,56%)"
+  },
+  {
+   "source": "CafeF",
+   "text": "Giá trị vốn hóa Vingroup (VIC) lập kỷ lục gần 70 tỷ USD, vào Top 5 Đông Nam Á"
+  },
+  {
+   "source": "Vietstock",
+   "text": "PV GAS (GAS) không còn đáp ứng điều kiện công ty đại chúng"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Fed chia rẽ về lạm phát trước bài phát biểu của Chủ tịch Warsh tại Jackson Hole"
+  },
+  {
+   "source": "Reuters",
+   "text": "Nasdaq, S&P 500 tăng nhờ dự báo lạc quan của Nvidia"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:f4bda6af3f",
+     "title": "MTG: Bà Phạm Thị Mỹ Diệu thao túng cổ phiếu suốt 19 tháng, bị phạt 1,5 tỷ đồng và cấm giao dịch 3 năm"
+    },
+    {
+     "ref": "cafef:7acb5efca6",
+     "title": "Vì sao BB Sunrise Power bị xử phạt?"
+    },
+    {
+     "ref": "cafef:87f2cfc948",
+     "title": "HPG: Vụ đề nghị điều tra thép Trung Quốc bán phá giá, diễn biến mới nhất từ Bộ Công thương"
+    },
+    {
+     "ref": "cafef:463bc5f670",
+     "title": "Ông Lê Cao Quyền bị bắt, doanh nghiệp phát thông báo mới"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:5efb6bd782",
+     "title": "HBS: Gần 33 triệu cổ phiếu nhận án đình chỉ giao dịch"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:523edb7149",
+     "title": "NRC: Bị phạt 210 triệu đồng do Chủ tịch Lê Thống Nhất công bố lợi nhuận cao hơn 5 lần số kiểm toán"
+    }
+   ],
+   "source": "MarketTimes"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+10,24 (+0,56%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.831,56"
+   },
+   {
+    "change": "+0,68 (+0,24%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "282,64"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~13.740 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~210 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.270"
+   }
+  ],
+  "summary": "Phố Wall khởi sắc trong phiên 27/8 khi Nasdaq và S&P 500 được nâng đỡ bởi dự báo lạc quan của Nvidia, trong khi giới đầu tư chờ đợi bài phát biểu của Chủ tịch Fed Kevin Warsh tại hội nghị Jackson Hole. Giá dầu WTI và Brent cùng tăng hơn 1% do lo ngại liên quan đến nguồn cung từ Venezuela, trong khi vàng thế giới và Bitcoin cũng tăng giá. Tại thị trường trong nước, VN-Index tăng phiên thứ 6 liên tiếp lên 1.831,56 điểm (+0,56%), HNX-Index đạt 282,64 điểm (+0,24%); thanh khoản HOSE khoảng 13.740 tỷ đồng và khối ngoại mua ròng gần 210 tỷ đồng. Tỷ giá USD/VND tại Vietcombank niêm yết mua chuyển khoản 25.890 - bán ra 26.270 đồng.",
+  "tiles": [
+   {
+    "change_pct": 0.72,
+    "label": "S&P 500",
+    "value": "7.731,0"
+   },
+   {
+    "change_pct": 0.2,
+    "label": "Dow Jones",
+    "value": "53.569,4"
+   },
+   {
+    "change_pct": 1.57,
+    "label": "Nasdaq",
+    "value": "26.541,4"
+   },
+   {
+    "change_pct": 1.71,
+    "label": "Dầu WTI",
+    "value": "83,6 USD"
+   },
+   {
+    "change_pct": 0.9,
+    "label": "Dầu Brent",
+    "value": "88,6 USD"
+   },
+   {
+    "change_pct": 1.25,
+    "label": "Vàng thế giới",
+    "value": "4.656 USD"
+   },
+   {
+    "change_pct": 1.61,
+    "label": "Bitcoin",
+    "value": "80.302 USD"
+   },
+   {
+    "change_pct": -0.04,
+    "label": "DXY",
+    "value": "99,13"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:79528d0c2c",
+     "title": "Viettel sắp nhận về gần 10.000 tỷ đồng tiền cổ tức"
+    },
+    {
+     "ref": "cafef:326a296abb",
+     "title": "MWG: Bách Hóa Xanh cán mốc 1.000 cửa hàng mở mới từ đầu 2026, hoàn thành sớm KPI"
+    },
+    {
+     "ref": "cafef:1150529717",
+     "title": "VNDIRECT: Hơn 2 tỷ USD có thể đổ vào chứng khoán Việt Nam, hé lộ bước tiến với MSCI"
+    },
+    {
+     "ref": "cafef:bd73e5d157",
+     "title": "VIC: Giá trị Vingroup lên kỷ lục gần 70 tỷ USD, vào Top 5 Đông Nam Á, gấp 4 lần Singapore Airlines và gấp 4,5 lần Grab"
+    },
+    {
+     "ref": "cafef:1e21c6f425",
+     "title": "MWG: Ông Đoàn Văn Hiểu Em tiếp tục đăng ký bán 1 triệu cổ phiếu để tái cơ cấu đầu tư sang DMX"
+    },
+    {
+     "ref": "cafef:6399dc3d5d",
+     "title": "TCB: BNP Paribas không có kế hoạch mua cổ phần Techcombank?"
+    },
+    {
+     "ref": "cafef:76b713a021",
+     "title": "ATS: Bất thành kế hoạch huy động 360 tỷ đồng, thương vụ với Chủ tịch HQC Trương Anh Tuấn đổ bể"
+    },
+    {
+     "ref": "cafef:ff6e2d6780",
+     "title": "\"Gã khổng lồ\" Trung Quốc doanh thu 190 tỷ USD muốn rót thêm lực vào thị trường Việt Nam"
+    },
+    {
+     "ref": "cafef:f02c8f6a52",
+     "title": "HPG: Diễn biến mới nhất tại dự án nhà ở xã hội của tỷ phú Trần Đình Long, 80-90% hồ sơ ban đầu đủ điều kiện về thu nhập"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:ae2c45ba22",
+     "title": "TPHCM đề xuất lương giám đốc Trung tâm tài chính quốc tế tối đa 850 triệu đồng/tháng"
+    },
+    {
+     "ref": "vietstock:9b73d0f9de",
+     "title": "GAS: PV GAS không còn đáp ứng điều kiện công ty đại chúng"
+    },
+    {
+     "ref": "vietstock:1401a4035d",
+     "title": "Samsung đạt kim ngạch xuất khẩu lũy kế 500 tỷ USD tại Việt Nam, hướng tới phát triển công nghệ cao"
+    },
+    {
+     "ref": "vietstock:cf061243c2",
+     "title": "QNS: Phó Chủ tịch và nhóm NutiFood đăng ký mua hàng triệu cổ phiếu"
+    },
+    {
+     "ref": "vietstock:433c0f26e4",
+     "title": "Làn sóng tăng vốn, tìm cổ đông ngoại của các ngân hàng Việt trở lại"
+    },
+    {
+     "ref": "vietstock:caec5daa58",
+     "title": "UBCKNN và Nasdaq thắt chặt hợp tác, mở rộng cửa cho doanh nghiệp Việt Nam tiếp cận vốn Mỹ"
+    },
+    {
+     "ref": "vietstock:b0239f2290",
+     "title": "FDC: Doanh nghiệp liên quan được giao hơn 3,4ha đất làm nhà ở cho Công an tại xã Đông Anh, Hà Nội"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:dbb47f8a6b",
+     "title": "Sau FTSE Russell, kỳ vọng Việt Nam được vào danh sách theo dõi nâng hạng MSCI trong tháng 6/2027"
+    },
+    {
+     "ref": "vneconomy:44f9c02e57",
+     "title": "Can thiệp thị trường trái phiếu khiến Bộ Tài chính Mỹ xung đột với Fed"
+    },
+    {
+     "ref": "vneconomy:9ebfde7021",
+     "title": "Dự báo 5 cổ phiếu sắp vào FTSE Vietnam 30 Index, Fubon ETF mua hàng nghìn tỷ"
+    },
+    {
+     "ref": "vneconomy:133fe14e1f",
+     "title": "Những ngân hàng có lợi nhuận tốt nhất lại nằm trong nhóm có diễn biến giá cổ phiếu đáng thất vọng"
+    },
+    {
+     "ref": "vneconomy:0a7071fe8a",
+     "title": "VISRating dự báo rủi ro tài sản ngành ngân hàng còn cao trong nửa cuối 2026"
+    },
+    {
+     "ref": "vneconomy:5253884dde",
+     "title": "SSB: Cổ phiếu SeABank vào rổ FTSE Global All Cap"
+    },
+    {
+     "ref": "vneconomy:f46f866257",
+     "title": "MBS Research: Trái phiếu doanh nghiệp đáo hạn 30,9 nghìn tỷ đồng, giảm 47% trong quý 3/2026"
+    },
+    {
+     "ref": "vneconomy:a5251bfbf1",
+     "title": "Vốn ngoại vẫn có thể rút hơn 6.000 tỷ trong tháng 9 do rời FTSE Frontier?"
+    },
+    {
+     "ref": "vneconomy:4ce84a7a00",
+     "title": "Vàng trượt giá sau báo cáo lạm phát Mỹ"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d134e150f8",
+     "title": "TP.HCM: Loại 390 dự án không đủ điều kiện pháp lý hoặc chưa cân đối được vốn bồi thường"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3bfddeba0e",
+     "title": "Đo vị thế dệt may Việt Nam trong chuỗi cung ứng Mỹ"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:780b7be1f1",
+     "title": "Qualcomm muốn mở rộng đầu tư, phát triển AI tại Việt Nam"
+    },
+    {
+     "ref": "b-o-u-t:3ffbf3b982",
+     "title": "PVS: Quảng Trị giao gần 1ha biển cho dự án cầu cảng PTSC Hòn La 220 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:e58b1e3eab",
+     "title": "Từ thu hút vốn đến tạo giá trị: Yêu cầu mới với nhà đầu tư nước ngoài"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:fe9437d0d9",
+     "title": "LPS: Muốn thu về 1.000 tỷ đồng từ phát hành trái phiếu riêng lẻ"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:8b9e50e8fb",
+     "title": "Đề xuất giá điện mặt trời theo tỉnh: Tránh 'vết xe đổ'"
+    },
+    {
+     "ref": "ti-n-phong:d8e7ae7bc4",
+     "title": "VDB và những bước chuyển mạnh mẽ trong tái cơ cấu"
+    },
+    {
+     "ref": "ti-n-phong:b9f38e6c23",
+     "title": "EVNNPC đưa 'kho điện' BESS vào vận hành, chia lửa giờ cao điểm ở miền Bắc"
+    },
+    {
+     "ref": "ti-n-phong:30bf286923",
+     "title": "Vốn FDI đổ mạnh vào lĩnh vực công nghệ cao"
+    },
+    {
+     "ref": "ti-n-phong:4e6f064954",
+     "title": "Điều gì đang xảy ra với thị trường vàng?"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:8ce00a0900",
+     "title": "Quy định mới về kiểm đếm, kiểm kê và tiêu hủy tiền"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:e4c92d6fc3",
+     "title": "C47: Giải trình biến động KQKD 6 tháng đầu năm 2026 đã soát xét so với cùng kỳ năm trước"
+    },
+    {
+     "ref": "hose:e7e0d86a66",
+     "title": "VIC: CBTT ban hành Nghị quyết HĐQT số 29 ngày 26/08/2026"
+    },
+    {
+     "ref": "hose:2bef5ad659",
+     "title": "NHA: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Ngọc Hương"
+    },
+    {
+     "ref": "hose:0f4fdefa43",
+     "title": "TTF: Nghị quyết HĐQT số 14 ngày 27/08/2026"
+    },
+    {
+     "ref": "hose:c67e4b0945",
+     "title": "NHA: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Vũ Trọng Linh"
+    },
+    {
+     "ref": "hose:dba6072788",
+     "title": "TPB: Nghị quyết HĐQT số 29 ngày 27/08/2026"
+    },
+    {
+     "ref": "hose:103a2df6d0",
+     "title": "SZL: Thông báo phát hành cổ phiếu để trả cổ tức"
+    },
+    {
+     "ref": "hose:4f82ff183b",
+     "title": "TDM: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả chào bán thêm cổ phiếu ra công chúng"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:45c2332260",
+   "title": "Quan chức Fed vẫn chia rẽ về lạm phát trước thềm bài phát biểu của Chủ tịch Warsh",
+   "translated": true,
+   "original_title": "Fed Officials Remain Divided on Inflation Ahead of Warsh Speech",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-27/fed-officials-remain-divided-on-inflation-ahead-of-warsh-speech"
+  },
+  {
+   "ref": "reuters:83915f9d7e",
+   "title": "Nasdaq, S&P 500 tăng nhờ dự báo lạc quan của Nvidia; nhà đầu tư chờ bài phát biểu của Chủ tịch Fed Warsh",
+   "translated": true,
+   "original_title": "Nasdaq, S&P 500 lifted by Nvidia's forecast; investors eye speech by Fed's Warsh",
+   "link": "https://www.reuters.com/business/nasdaq-futures-take-lead-after-nvidia-forecast-refuels-ai-trade-2026-08-27/"
+  },
+  {
+   "ref": "reuters:a1b4fb0439",
+   "title": "Marvell nâng dự báo cả năm nhưng cổ phiếu giảm vì lo ngại quanh thỏa thuận với Google",
+   "translated": true,
+   "original_title": "Marvell raises annual forecasts, but shares fall as Google deal questions linger",
+   "link": "https://www.reuters.com/technology/marvell-technology-forecasts-quarterly-revenue-above-estimates-2026-08-27/"
+  },
+  {
+   "ref": "reuters:e356da102f",
+   "title": "Nvidia tạm dừng các thỏa thuận chia sẻ doanh thu với các công ty điện toán đám mây AI, theo WSJ",
+   "translated": true,
+   "original_title": "Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports",
+   "link": "https://www.reuters.com/business/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-wsj-reports-2026-08-27/"
+  },
+  {
+   "ref": "reuters:f782da6125",
+   "title": "Mỹ sắp đạt thỏa thuận tiếp cận dài hạn trữ lượng dầu của Venezuela, theo nguồn tin",
+   "translated": true,
+   "original_title": "US nears deal to secure long-term access to Venezuela's oil reserves, sources say",
+   "link": "https://www.reuters.com/business/energy/us-nears-deal-secure-long-term-access-venezuelas-oil-reserves-sources-say-2026-08-27/"
+  },
+  {
+   "ref": "tg-vnwallstreet:397383",
+   "title": "Venezuela xem xét rút khỏi OPEC để tăng cường quan hệ với Mỹ",
+   "translated": false,
+   "original_title": "🔴 Venezuela xem xét rút khỏi OPEC để tăng cường quan hệ với Mỹ Venezuela đang xem xét nghiêm túc kế hoạch rút khỏi OPEC, theo nguồn tin. Cuộc thảo luận về việc rút lui đã được tiến hành với các quan chức Mỹ, nhưng chưa có quyết định cuối cùng. Venezuela từng là thành viên quan trọng của OPEC, nhưng hiện tại tầm quan trọng của nước này đã giảm sút. Mặc dù sản lượng dầu của Venezuela đã giảm, việc r",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:219654c2c8",
+   "title": "Nippon Life để ngỏ khả năng trở thành bên mua ròng trái phiếu chính phủ Nhật (JGB) trong năm tài khóa tới",
+   "translated": true,
+   "original_title": "Nippon Life Is Open to Becoming Net JGB Buyer Next Fiscal Year",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-27/nippon-life-is-open-to-becoming-net-jgb-buyer-next-fiscal-year"
+  },
+  {
+   "ref": "tg-marketfeed:1026554",
+   "title": "CPI khu vực Tokyo tháng 8 tăng 1,9% so với cùng kỳ, đúng dự báo; CPI lõi (trừ thực phẩm tươi) tăng 1,8%, CPI trừ thực phẩm tươi và năng lượng tăng 2,0%",
+   "translated": true,
+   "original_title": "TOKYO'S AUGUST CPI ROSE 1.9% YEAR-ON-YEAR, IN LINE WITH ESTIMATES, WITH CPI EX-FRESH FOOD UP 1.8% AND CPI EX-FRESH FOOD AND ENERGY UP 2.0%, ALL MATCHING FORECASTS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1026531",
+   "title": "Ông Trump bí mật cử Giám đốc CIA John Ratcliffe tới Moscow, thông điệp chính là Mỹ vẫn cam kết với Điều 5 NATO và cảnh báo Nga không nên thử phản ứng của Washington - WSJ",
+   "translated": true,
+   "original_title": "TRUMP PERSONALLY SENT CIA DIRECTOR JOHN RATCLIFFE ON A SECRET MISSION TO MOSCOW, KEEPING EVEN SOME SENIOR WHITE HOUSE AND MILITARY OFFICIALS OUT OF THE LOOP, WITH RATCLIFFE'S MAIN MESSAGE THAT THE U.S. REMAINS COMMITTED TO NATO'S ARTICLE 5 AND THAT MOSCOW SHOULD NOT TEST THE ALLIANCE. - WSJ ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:f8b659e186",
+   "title": "Sau 6 tháng, chiến tranh Iran đi đến hồi kết trong thế bế tắc tốn kém",
+   "translated": true,
+   "original_title": "After six months, the Iran war has reached its endgame — a costly stalemate",
+   "link": "https://www.reuters.com/world/china/after-six-months-iran-war-has-reached-its-endgame-costly-stalemate-2026-08-27/"
+  },
+  {
+   "ref": "tg-marketfeed:1026525",
+   "title": "Lưu lượng dầu qua eo biển Hormuz tăng vọt lên 7-8 triệu thùng/ngày từ mức khoảng 4 triệu thùng/ngày giữa tháng 7, giảm bớt lo ngại về nguồn cung toàn cầu",
+   "translated": true,
+   "original_title": "OIL FLOWS THROUGH THE STRAIT OF HORMUZ SURGE TO ~7–8 MILLION BPD FROM ~4 MILLION BPD IN MID-JULY, EASING GLOBAL SUPPLY CONCERNS. ...",
+   "link": null
+  }
+ ],
+ "content_sha": "ccc7076adfd2efc994ad028630f593c64168adbd6839a6ce8974395e20d882d4"
+}
