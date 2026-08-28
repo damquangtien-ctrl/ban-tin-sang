@@ -1,0 +1,33 @@
+
+########## CHAY LUC 2026-08-29 06:50:56 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-08-29, ban daily)
+   the gioi 14 tin · Viet Nam 70 tin / 9 bao · phap ly 5 tin · chot quyen 1 ma
+   CANH BAO [C9] world[11]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[12]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[13]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C7] vietnam[8].items[3] và vietnam[8].items[6] có thể trùng sự kiện (giống 71%)
+   DAT: khong loi, 4 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-08-29 · the gioi 14 · Viet Nam 70 · phap ly 5
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-08-29.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-08-29: commit a7cb46e59f09 · sha noi dung 471c17483b18ef00
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 29/08 | content_sha f1953255cb53 | commit a7cb46e59f09
+   telegram user/928f6fc4179d OK message_id=239
+   zalo     user/593dd2adbb87 OK message_id=29cfaacf4ac2d59b8cd4
+   zalo     group/8fddff299f5f OK message_id=10aca4f844f5dbac82e3
+   zalo     group/240eac12bc5e OK message_id=b6c0890a6807f75eae11
+   zalo     group/8b7b62566b6c OK message_id=6a5e0137e03a7f63262c
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-08-29.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-08-29 06:51:35 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

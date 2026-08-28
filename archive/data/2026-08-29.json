@@ -578,5 +578,68 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObWEwR05Cc3d2aHlyTmNfM2F5cjN3U2daMnZzQTRMNFlwOFQxSjRCNmJ4eGF5SUgzbG1XNUxvaHo1ekl2SzE4UGZ0TDZ0N1RmS0luOE40ZmgtbzFiLUxCZnJqaXd4cEJzUndQYnQ1bkVMb0dxTGtwSEp6ZWt5V1hBTGRZWnZmSmMxaHNZX2FIUWNSSFoyQVBzMlJLbnAzcFpRUXpkcDVlN1Z6UFROaG41dDk2bkFSR0ZMRFdBUkVXSzl2amNKSUZyVGpxX1h2MGxROHJ2UFB30gHSAUFVX3lxTE81WGdvTGFJTG9xSWhZVXYtRXNWM21MeVdYR1JtUDByamtYYk5HTXhQUW81Q1FkTE50VkVoQ3RyS0JWWHJMN29scC12THgxdjEyMnhPdGxxVEkyMkZoU2d1Z0hfWlJPRWpoamtkRWpmcUJON3hxekFZUzJTM0hSckZ1MDhqb29vUmFjbkdBbHZZX1hfMnV4OWdjTWdfZC1xNjdFNmdXd1EweDhTSlJNNk84elJISWlJZzRhTERWaTl1cU51R2Z5Sm9"
   }
  ],
- "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300"
+ "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "a7cb46e59f094dfdd8ade626c2bbc2dd6b06c1b0",
+   "published_at": "2026-08-29T06:51:29+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "239",
+   "sent_at": "2026-08-29T06:51:30+07:00",
+   "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "239",
+     "sent_at": "2026-08-29T06:51:30+07:00",
+     "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "29cfaacf4ac2d59b8cd4",
+   "sent_at": "2026-08-29T06:51:31+07:00",
+   "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "29cfaacf4ac2d59b8cd4",
+     "sent_at": "2026-08-29T06:51:31+07:00",
+     "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "10aca4f844f5dbac82e3",
+     "sent_at": "2026-08-29T06:51:32+07:00",
+     "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "b6c0890a6807f75eae11",
+     "sent_at": "2026-08-29T06:51:34+07:00",
+     "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "6a5e0137e03a7f63262c",
+     "sent_at": "2026-08-29T06:51:35+07:00",
+     "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300"
+    }
+   ]
+  }
+ }
 }
