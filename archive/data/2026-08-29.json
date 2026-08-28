@@ -1,0 +1,582 @@
+{
+ "date": "2026-08-29",
+ "dividends": [
+  {
+   "event": "Chi trả cổ tức năm 2025 bằng tiền mặt, tỷ lệ 5% (500 đồng/CP)",
+   "record_date": "2026-09-08",
+   "ref": "cafef:3e5f91d67d",
+   "ticker": "HHN"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "FiinQuant",
+   "text": "VN-Index đóng cửa 1.832,12 điểm, tăng phiên thứ 7 liên tiếp, khối ngoại mua ròng khoảng 321 tỷ đồng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Ông Trump tuyên bố Mỹ giành quyền kiểm soát lớn với trữ lượng dầu Venezuela, gọi là thỏa thuận dầu mỏ lớn nhất lịch sử"
+  },
+  {
+   "source": "Reuters/Bloomberg",
+   "text": "Chủ tịch Fed Warsh tái khẳng định cuộc chiến chống lạm phát, Phố Wall giảm điểm, mở màn đối đầu tháng 9 tại Fed"
+  },
+  {
+   "source": "CafeF",
+   "text": "PV Gas (GAS) không còn đáp ứng điều kiện công ty đại chúng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Hải quân Iran tuyên bố kiểm soát hoàn toàn eo biển Hormuz, giá dầu biến động mạnh"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:676a6b4ac7",
+     "title": "Thêm 1 nhà đầu tư bị xử phạt do thao túng cổ phiếu"
+    },
+    {
+     "ref": "cafef:f4bda6af3f",
+     "title": "Bà Phạm Thị Mỹ Diệu thao túng cổ phiếu"
+    },
+    {
+     "ref": "cafef:7acb5efca6",
+     "title": "Vì sao BB Sunrise Power bị xử phạt?"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0a89d4a37f",
+     "title": "MTG: Thao túng cổ phiếu MT Gas, một cá nhân bị phạt 1,5 tỷ đồng và cấm giao dịch chứng khoán 3 năm"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:821529f566",
+     "title": "FRT: FPT Retail bị phạt 400 triệu đồng vì gây nhầm lẫn cho người tiêu dùng"
+    }
+   ],
+   "source": "Tiền Phong"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+0,56 điểm (+0,03%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.832,12"
+   },
+   {
+    "change": "+2,13 điểm (+0,75%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "284,77"
+   },
+   {
+    "change": "+12,6% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "15.468 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~321 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "147 - 150 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "Mua 25.880 - Bán 26.260"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua nghiêng về giảm khi S&P 500 mất 0,25%, Dow Jones giảm nhẹ 0,02% và Nasdaq giảm 0,52% sau khi Chủ tịch Fed Warsh tái khẳng định cuộc chiến chống lạm phát; giá dầu WTI và Brent cùng đi xuống, vàng thế giới lùi 2,29% về quanh 4.504 USD/ounce, Bitcoin mất 3,2% còn DXY tăng 0,52%. Tại thị trường trong nước, VN-Index đóng cửa phiên 28/8 ở 1.832,12 điểm, tăng nhẹ 0,56 điểm và nối dài chuỗi tăng, thanh khoản HOSE đạt 15.468 tỷ đồng, tăng gần 13% so với phiên trước, khối ngoại mua ròng khoảng 321 tỷ đồng. HNX-Index tăng 2,13 điểm lên 284,77 điểm. Vàng SJC trong nước quanh 147-150 triệu đồng/lượng, tỷ giá USD/VND tại Vietcombank niêm yết mua 25.880 - bán 26.260 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.25,
+    "label": "S&P 500",
+    "value": "7.711,8"
+   },
+   {
+    "change_pct": -0.02,
+    "label": "Dow Jones",
+    "value": "53.560,0"
+   },
+   {
+    "change_pct": -0.52,
+    "label": "Nasdaq",
+    "value": "26.402,4"
+   },
+   {
+    "change_pct": -0.11,
+    "label": "Dầu WTI",
+    "value": "83,4 USD"
+   },
+   {
+    "change_pct": -1.57,
+    "label": "Dầu Brent",
+    "value": "88,3 USD"
+   },
+   {
+    "change_pct": -2.29,
+    "label": "Vàng thế giới",
+    "value": "4.504 USD"
+   },
+   {
+    "change_pct": -3.2,
+    "label": "Bitcoin",
+    "value": "77.692 USD"
+   },
+   {
+    "change_pct": 0.52,
+    "label": "DXY",
+    "value": "99,68"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:7fadd44d4a",
+     "title": "Ông Ngô Trọng Vinh xin từ nhiệm, công ty triệu tập họp bất thường"
+    },
+    {
+     "ref": "cafef:e4e5f7bc49",
+     "title": "Chứng khoán ra sao trước kỳ nghỉ 5 ngày?"
+    },
+    {
+     "ref": "cafef:d5e85c648a",
+     "title": "VHM: Chính thức chốt ngày 4,1 tỷ cổ phiếu phát hành trả cổ tức được giao dịch"
+    },
+    {
+     "ref": "cafef:b5713563fa",
+     "title": "TCB: Cổ phiếu quay đầu giảm sau loạt thông tin về thương vụ bán 15% cổ phần"
+    },
+    {
+     "ref": "cafef:b870efaae9",
+     "title": "Mua công ty của Vingroup, Tập đoàn vốn hóa hơn 170 tỷ USD muốn xây trung tâm Top 3 thế giới ở Việt Nam"
+    },
+    {
+     "ref": "cafef:e88958f482",
+     "title": "ACBS huy động 600 tỷ đồng từ chào bán trái phiếu ra công chúng"
+    },
+    {
+     "ref": "cafef:241ecaa529",
+     "title": "Chứng khoán tuần qua: Thị trường \"bùng nổ\" phiên cuối tuần, 27 cổ phiếu được thêm mới vào FTSE All-Cap"
+    },
+    {
+     "ref": "cafef:197e3bd9f7",
+     "title": "VGI: Viettel Global sắp chi hơn 10.000 tỷ đồng trả cổ tức năm 2025"
+    },
+    {
+     "ref": "cafef:bb24a2f500",
+     "title": "Chính thức: Việt Nam có công ty chứng khoán vốn điều lệ 30.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:6e49511546",
+     "title": "Quỹ vàng lớn nhất thế giới trở lại mua ròng"
+    },
+    {
+     "ref": "cafef:b23b378596",
+     "title": "GAS: Lý do PV Gas không còn đáp ứng điều kiện công ty đại chúng"
+    },
+    {
+     "ref": "cafef:4d5936ad26",
+     "title": "SZL: Sonadezi Long Thành sắp \"lăn chốt\" cổ tức, tổng tỷ lệ 95%"
+    },
+    {
+     "ref": "cafef:74e874cac8",
+     "title": "MWG: Ông Đoàn Văn Hiểu Em đăng ký bán 1 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:3e5f91d67d",
+     "title": "HHN: Một doanh nghiệp trả cổ tức tiền mặt gấp 2,5 lần thị giá"
+    },
+    {
+     "ref": "cafef:326a296abb",
+     "title": "MWG: Bách Hóa Xanh cán mốc 1.000 cửa hàng mở mới từ đầu 2026, hoàn thành sớm KPI"
+    },
+    {
+     "ref": "cafef:1150529717",
+     "title": "VNDIRECT: Hơn 2 tỷ USD có thể đổ vào chứng khoán Việt Nam, hé lộ bước tiến với MSCI"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:422ea578cc",
+     "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức"
+    },
+    {
+     "ref": "vietstock:34a7e14b58",
+     "title": "Chủ tịch UBCKNN làm việc với S&P DJI, thúc đẩy khả năng tiếp cận của nhà đầu tư quốc tế"
+    },
+    {
+     "ref": "vietstock:b8adf3271e",
+     "title": "Tuần 24-28/08: USD giằng co chờ tin Fed, tỷ giá ngân hàng và tự do sụt giảm"
+    },
+    {
+     "ref": "vietstock:3f6e2d9f3b",
+     "title": "CDC: Chương Dương muốn phát hành 739 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "vietstock:05ceb9fabd",
+     "title": "KAI: Kafi lên UPCoM từ 09/09, vốn hóa hơn 11 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:184d039ee9",
+     "title": "Chứng khoán Tuần 24-28/08/2026: Khối ngoại mua ròng trở lại"
+    },
+    {
+     "ref": "vietstock:53def788bd",
+     "title": "AMY GRUPO trước thềm IPO: Từ doanh nghiệp vật liệu xây dựng đến câu chuyện tăng trưởng doanh thu tỷ đô"
+    },
+    {
+     "ref": "vietstock:1bcf061245",
+     "title": "Lãi trước thuế nửa đầu năm tăng lên 100 tỷ, tỷ lệ khả năng chi trả 30 ngày của Mcredit đạt 98.58%"
+    },
+    {
+     "ref": "vietstock:83249f41c5",
+     "title": "TIN: VietCredit báo lãi trước thuế nửa đầu 2026 gấp 3.3 lần, tỷ lệ nợ xấu 6.2%"
+    },
+    {
+     "ref": "vietstock:a0ae38319f",
+     "title": "DRH: Đến tháng 8 vẫn chưa tổ chức đại hội thường niên, bị HOSE nhắc nhở về việc đảm bảo quyền lợi cổ đông"
+    },
+    {
+     "ref": "vietstock:3ac3dbd26d",
+     "title": "Ngân hàng Shinhan Việt Nam lãi trước thuế 6 tháng gần 2.6 ngàn tỷ, tỷ lệ an toàn vốn đạt 20.7%"
+    },
+    {
+     "ref": "vietstock:219f369f26",
+     "title": "VC1: Vinaconex 1 vay 210 tỷ từ cá nhân để nộp tiền sử dụng đất dự án D9 Khuất Duy Tiến"
+    },
+    {
+     "ref": "vietstock:f50bff9e03",
+     "title": "Xây lắp Sunshine E&C tiếp tục lỗ trong nửa đầu năm, lô trái phiếu 800 tỷ đã quá hạn hơn 2 năm"
+    },
+    {
+     "ref": "vietstock:d59a2a3e0b",
+     "title": "Công ty liên quan NovaGroup tất toán lô trái phiếu 660 tỷ, lỗ lũy kế gần 285 tỷ nửa đầu 2026"
+    },
+    {
+     "ref": "vietstock:e71e1ba8d7",
+     "title": "CII: Liên danh là nhà đầu tư Quốc lộ 13 hơn 6.2 ngàn tỷ đồng"
+    },
+    {
+     "ref": "vietstock:fef0f14108",
+     "title": "Xuất khẩu gạo kỳ vọng cải thiện kim ngạch các tháng cuối năm"
+    },
+    {
+     "ref": "vietstock:1a04ed7e2e",
+     "title": "\"Của để dành\" doanh nghiệp bất động sản tăng hơn 30% sau nửa đầu năm"
+    },
+    {
+     "ref": "vietstock:9d14898963",
+     "title": "VNG bị nhắc nhở chậm công bố thông tin thành lập chi nhánh"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:c57f7f5378",
+     "title": "Khoảng 8,1 tỷ USD hoạt động tiền điện tử tại Việt Nam có khả năng chịu thuế"
+    },
+    {
+     "ref": "vneconomy:04afa66f98",
+     "title": "Thị trường chưa phản ánh đúng tăng trưởng lợi nhuận, dư địa tăng giá vẫn còn nhiều?"
+    },
+    {
+     "ref": "vneconomy:4590a43621",
+     "title": "Thị trường tháng 9: Áp lực điều chỉnh sau thời điểm nâng hạng?"
+    },
+    {
+     "ref": "vneconomy:dbb47f8a6b",
+     "title": "Sau FTSE Russell, kỳ vọng Việt Nam được vào danh sách theo dõi nâng hạng MSCI trong tháng 6/2027"
+    },
+    {
+     "ref": "vneconomy:9ebfde7021",
+     "title": "Dự báo 5 cổ phiếu sắp vào FTSE Vietnam 30 Index, Fubon ETF mua hàng nghìn tỷ"
+    },
+    {
+     "ref": "vneconomy:133fe14e1f",
+     "title": "Những ngân hàng có lợi nhuận tốt nhất lại nằm trong nhóm có diễn biến giá cổ phiếu đáng thất vọng"
+    },
+    {
+     "ref": "vneconomy:0a7071fe8a",
+     "title": "VISRating dự báo rủi ro tài sản ngành ngân hàng còn cao trong nửa cuối 2026"
+    },
+    {
+     "ref": "vneconomy:5253884dde",
+     "title": "SSB: Cổ phiếu SeABank vào rổ FTSE Global All Cap"
+    },
+    {
+     "ref": "vneconomy:e65a8570ae",
+     "title": "Phó Chủ tịch Nasdaq: Việt Nam là một thị trường năng động, nhiều tiềm năng thu hút Hoa Kỳ"
+    },
+    {
+     "ref": "vneconomy:f46f866257",
+     "title": "MBS Research: Trái phiếu doanh nghiệp đáo hạn 30,9 nghìn tỷ đồng, giảm 47% trong quý 3/2026"
+    },
+    {
+     "ref": "vneconomy:a5251bfbf1",
+     "title": "Vốn ngoại vẫn có thể rút hơn 6.000 tỷ trong tháng 9 do rời FTSE Frontier?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c4ec725026",
+     "title": "SSI: Bổ sung 35 mã chứng quyền có bảo đảm, mở rộng lựa chọn giao dịch cho nhà đầu tư"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f85e0d869d",
+     "title": "Thị trường tài chính 24h: Nền tảng lợi nhuận vẫn hỗ trợ triển vọng dài hạn chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c015484787",
+     "title": "Nhìn lại diễn biến nhóm cổ phiếu được các công ty chứng khoán khuyến nghị tuần qua"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2ac4f0d832",
+     "title": "Xung đột Trung Đông kéo dài, thị trường dần \"chai lì\""
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:753a963c1d",
+     "title": "Sẽ tháo gỡ điểm nghẽn về tiếp cận vốn cho doanh nghiệp nhỏ và vừa"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:7925021235",
+     "title": "20% doanh nghiệp vừa và nhỏ tiếp cận được vốn ngân hàng"
+    },
+    {
+     "ref": "b-o-u-t:af3d381ca4",
+     "title": "EVN được phê duyệt Dự án Nhà máy thủy điện Sê San 4 mở rộng gần 3.000 tỷ"
+    },
+    {
+     "ref": "b-o-u-t:d9b2c239ea",
+     "title": "DPM: PVFCCo - Phú Mỹ vào Top 50 Doanh nghiệp Dẫn đầu ESG Việt Nam 2026"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:f48ffe1454",
+     "title": "Bao nhiêu năm nữa kinh tế Việt Nam vượt Thái Lan?"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:741f2abd6f",
+     "title": "Cà phê Robusta Việt Nam muốn tăng giá trị, không thể chỉ cạnh tranh bằng giá"
+    },
+    {
+     "ref": "vnbusiness:08ac21188f",
+     "title": "QNS: NutiFood cùng lãnh đạo Đường Quảng Ngãi gom gần 100 tỷ đồng cổ phiếu"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:388dd07a58",
+     "title": "Lãi suất vay mua nhà bất ngờ giảm"
+    },
+    {
+     "ref": "ti-n-phong:7afe8c6b6a",
+     "title": "Philippines dựng thêm rào cản, gạo Việt trước bài toán tìm đầu ra"
+    },
+    {
+     "ref": "ti-n-phong:f3654338cf",
+     "title": "Đề xuất giảm 30% thuế mở thêm động lực cho hộ kinh doanh chuyển đổi mô hình"
+    },
+    {
+     "ref": "ti-n-phong:f97496bebf",
+     "title": "Vì sao ngân hàng nội tìm nhà đầu tư ngoại?"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:83de8f0fb9",
+     "title": "MSH: Giải trình BCTC soát xét 6 tháng đầu năm 2026"
+    },
+    {
+     "ref": "hose:83ab37166f",
+     "title": "QCG: Thông báo ngày ĐKCC lấy ý kiến cổ đông bằng văn bản lần 1 năm 2026"
+    },
+    {
+     "ref": "hose:e3e1bd8327",
+     "title": "CTD: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026"
+    },
+    {
+     "ref": "hose:815a68b92d",
+     "title": "CTD: Nghị quyết HĐQT số 09 ngày 28/08/2026"
+    },
+    {
+     "ref": "hose:399d087f95",
+     "title": "NO1: Giải trình chênh lệch LNST BCTC hợp nhất trước và sau soát xét"
+    },
+    {
+     "ref": "hose:dc1d9ac59c",
+     "title": "PHR: Thông báo ngày ĐKCC chi trả cổ tức năm 2025 bằng tiền, PHCP, tổ chức ĐHĐCĐ bất thường năm 2026"
+    },
+    {
+     "ref": "hose:c0516df1ad",
+     "title": "AGG: Nghị quyết HĐQT số 21 ngày 28/08/2026"
+    },
+    {
+     "ref": "hose:f0c00f7a2e",
+     "title": "PC1: Báo cáo thay đổi sở hữu cổ đông lớn Công ty TNHH Thương mại Đầu tư CII"
+    },
+    {
+     "ref": "hose:1820085eb1",
+     "title": "NO1: Giải trình LNST tại BCTC riêng và hợp nhất bán niên năm 2026"
+    },
+    {
+     "ref": "hose:f479eb13f2",
+     "title": "BMI: Thông báo ngày ĐKCC chi trả cổ tức năm 2025 bằng tiền"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:9190913e03",
+   "title": "Ông Trump công bố Mỹ giành quyền kiểm soát lớn đối với trữ lượng dầu khổng lồ của Venezuela",
+   "translated": true,
+   "original_title": "Trump announces sweeping US grab for control of Venezuela's vast oil reserves",
+   "link": "https://www.reuters.com/business/energy/us-enters-into-oil-agreement-with-venezuela-trump-says-2026-08-28/"
+  },
+  {
+   "ref": "reuters:6fb26f4858",
+   "title": "Phố Wall giảm điểm sau khi Chủ tịch Fed Warsh tái khẳng định cuộc chiến chống lạm phát",
+   "translated": true,
+   "original_title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight",
+   "link": "https://www.reuters.com/business/sp-500-nasdaq-futures-slip-after-tech-rally-warshs-speech-awaited-2026-08-28/"
+  },
+  {
+   "ref": "reuters:cdce234454",
+   "title": "Giá dầu giảm sau tín hiệu Mỹ thắt chặt tiền tệ và tin đồn diễn biến mới tại eo biển Hormuz",
+   "translated": true,
+   "original_title": "Petróleo cai após sinais de aperto monetário nos EUA e rumores de avanço em Ormuz",
+   "link": "https://www.reuters.com/pt/negocio/6UHLH2DN2FJCVGHD7PXNPJXZTI-2026-08-28/"
+  },
+  {
+   "ref": "reuters:24bca8a384",
+   "title": "Quan chức Mỹ điều chỉnh cáo buộc bị Trung Quốc xâm nhập hệ thống, nói chỉ là mục tiêu bị nhắm tới",
+   "translated": true,
+   "original_title": "US officials revise claims that government agencies were hacked by Chinese, now say they were targets",
+   "link": "https://www.reuters.com/world/us-officials-backpedal-claims-that-government-agencies-were-hacked-by-chinese-2026-08-28/"
+  },
+  {
+   "ref": "reuters:48ecf1eea1",
+   "title": "Hải quân Iran tuyên bố kiểm soát hoàn toàn eo biển Hormuz",
+   "translated": true,
+   "original_title": "Marinha do Irã afirma ter “controle total” sobre Estreito de Ormuz",
+   "link": "https://www.reuters.com/pt/mundo/S36HUX6ZSBJPZKGF6WQFDHYZ5M-2026-08-28/"
+  },
+  {
+   "ref": "bloomberg:829d208f86",
+   "title": "Pháp thoát án hạ triển vọng tín nhiệm khi Fitch giữ nguyên xếp hạng ổn định",
+   "translated": true,
+   "original_title": "France Dodges Rating Rebuke as Fitch Sticks With Stable Outlook",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-28/france-dodges-rating-rebuke-as-fitch-sticks-with-stable-outlook"
+  },
+  {
+   "ref": "bloomberg:96bdf83792",
+   "title": "Cảnh báo lạm phát của Chủ tịch Fed Warsh mở màn cuộc đối đầu tháng 9 tại Fed",
+   "translated": true,
+   "original_title": "Warsh’s Inflation Warning Sets Up September Showdown for the Fed",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-s-inflation-warning-sets-up-september-showdown-for-the-fed"
+  },
+  {
+   "ref": "bloomberg:e03e0fc1e8",
+   "title": "Xung đột Iran bước sang tháng thứ 6",
+   "translated": true,
+   "original_title": "Iran War Hits 6 Month Mark",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-28/iran-war-hits-6-month-mark-video"
+  },
+  {
+   "ref": "bloomberg:5d90b25d81",
+   "title": "Tổng Giám đốc IMF Georgieva nói về bài phát biểu của Warsh, lạm phát vẫn \"dai dẳng\"",
+   "translated": true,
+   "original_title": "IMF's Georgieva on Warsh's Speech, 'Stubborn' Inflation",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-28/imf-s-georgieva-on-warsh-s-speech-stubborn-inflation-video"
+  },
+  {
+   "ref": "tg-vnwallstreet:397537",
+   "title": "Chuyên gia Allianz: Đường cong trái phiếu Mỹ phẳng lại, phát đi hai tín hiệu đáng chú ý",
+   "translated": false,
+   "original_title": "▫️ Chuyên gia Allianz: Đường cong trái phiếu Mỹ phẳng báo hiệu hai tín hiệu Chuyên gia kinh tế trưởng của Allianz, Mohamed El-Erian, cho biết sự thay đổi trong đường cong lợi suất trái phiếu Mỹ hôm nay đã phát đi hai tín hiệu. Chênh lệch lợi suất giữa trái phiếu 2 năm và 10 năm thu hẹp khoảng 7 điểm cơ bản, trong khi chênh lệch giữa trái phiếu 2 năm và 30 năm thu hẹp khoảng 10 điểm cơ bản, cho thấ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:397536",
+   "title": "Deutsche Bank dự đoán Fed sẽ tăng lãi suất 25 điểm cơ bản vào tháng 9 và tháng 12",
+   "translated": false,
+   "original_title": "▫️ Deutsche Bank dự đoán Fed sẽ tăng lãi suất 25 điểm cơ bản vào tháng 9 và tháng 12 Ngân hàng Deutsche Bank dự đoán rằng Cục Dự trữ Liên bang Mỹ (Fed) sẽ tăng lãi suất thêm 25 điểm cơ bản vào tháng 9 và tháng 12. Chủ tịch Fed, ông Waller, trong bài phát biểu tại Jackson Hole, nhấn mạnh cần đưa lạm phát trở lại mục tiêu 2% và phát đi tín hiệu diều hâu rõ ràng. Deutsche Bank cho rằng, trừ khi dữ li",
+   "link": null
+  },
+  {
+   "ref": "vneconomy:44f9c02e57",
+   "title": "Can thiệp thị trường trái phiếu khiến Bộ Tài chính Mỹ xung đột với Fed",
+   "translated": false,
+   "original_title": "Can thiệp thị trường trái phiếu khiến Bộ Tài chính Mỹ xung đột với Fed",
+   "link": "https://vneconomy.vn/can-thiep-thi-truong-trai-phieu-khien-bo-tai-chinh-my-xung-dot-voi-fed.htm"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:f170247c74",
+   "title": "Pháp thay thế Ý trở thành tâm điểm lo ngại trên thị trường trái phiếu châu Âu",
+   "translated": false,
+   "original_title": "Pháp thay thế Ý trở thành tâm điểm lo ngại trên thị trường trái phiếu châu Âu - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOemJFbExsN2pydE5nX0NVMjNJbTBQOEJUSFB3NkNOUkxoT2dXMkt1MU5sRmNaeXFWaVcyN25Iamh6VkxwYW9HX2REU19PRWp1a0VKclh6OHI3LV9KbnZVLW5Iei15a2QyRXViTDdra2JETVlURWRqQnFQRU1XR0RscWY1b3lKdGpWOWRhQ0h1dkx5YUdiRW90NDZHQUtSWWtwbF9JM3F1T1FULU9laWY0bDJTS2o1Ty1ib0d0ZEhTMGJta1NLcEHSAcIBQVVfeXFMTU9ra2dIMHg5Z0xVUFZYQlNBZlFmUWx2a05XVDMtQVAxU2VvME9HSVptYUQwZXhrdjhsa1B1LVhWWlJXOEJwZkppNjNiWXZnUTg4RnQzeVZJV2RHYlZIaTFGSTRqbmUxeG53TUVaZUw0WkcyVUpkVU5nMGdkb3hhYkN6QzNBYTJ0TTVKaEZWOXR5ZGFIUWlxYURmTlRtQW5oRmxRbWJDWXl5RzVCdG5yMnRnMmNoRlB0a2ZYZXZ4Q0ZRU1E?oc=5"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:3ab7080524",
+   "title": "Bùng nổ trung tâm dữ liệu tại châu Á - Thái Bình Dương, dự kiến vượt 950 tỷ USD vào năm 2030",
+   "translated": false,
+   "original_title": "Bùng nổ trung tâm dữ liệu tại châu Á - Thái Bình Dương, dự kiến vượt 950 tỷ USD vào năm 2030 - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObWEwR05Cc3d2aHlyTmNfM2F5cjN3U2daMnZzQTRMNFlwOFQxSjRCNmJ4eGF5SUgzbG1XNUxvaHo1ekl2SzE4UGZ0TDZ0N1RmS0luOE40ZmgtbzFiLUxCZnJqaXd4cEJzUndQYnQ1bkVMb0dxTGtwSEp6ZWt5V1hBTGRZWnZmSmMxaHNZX2FIUWNSSFoyQVBzMlJLbnAzcFpRUXpkcDVlN1Z6UFROaG41dDk2bkFSR0ZMRFdBUkVXSzl2amNKSUZyVGpxX1h2MGxROHJ2UFB30gHSAUFVX3lxTE81WGdvTGFJTG9xSWhZVXYtRXNWM21MeVdYR1JtUDByamtYYk5HTXhQUW81Q1FkTE50VkVoQ3RyS0JWWHJMN29scC12THgxdjEyMnhPdGxxVEkyMkZoU2d1Z0hfWlJPRWpoamtkRWpmcUJON3hxekFZUzJTM0hSckZ1MDhqb29vUmFjbkdBbHZZX1hfMnV4OWdjTWdfZC1xNjdFNmdXd1EweDhTSlJNNk84elJISWlJZzRhTERWaTl1cU51R2Z5Sm9"
+  }
+ ],
+ "content_sha": "f1953255cb533050778ef62f08baa43e799bbf8d6ea8238d4ec896e0dc9ff300"
+}
