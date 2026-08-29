@@ -1,0 +1,167 @@
+{
+ "date": "2026-08-30",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Báo cáo việc làm Mỹ được cho là củng cố quan điểm của Kevin Warsh về thị trường lao động, tác động kỳ vọng chính sách Fed."
+  },
+  {
+   "source": "Reuters",
+   "text": "Chiến tranh và lệnh trừng phạt của Mỹ tiếp tục đè nặng lên kinh tế Iran."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Phó Ngoại trưởng Iran: Chưa vội mở lại eo biển Hormuz dù đã đạt thỏa thuận với Oman."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "HDFC Bank, ngân hàng lớn nhất Ấn Độ, thay CEO: ông Jagdishan rời nhiệm ngày 26/10."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": null,
+    "direction": null,
+    "label": "VN-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Khối ngoại (HOSE)",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.260"
+   }
+  ],
+  "summary": "Ấn bản Chủ Nhật rút gọn, chỉ tổng hợp tin thế giới nổi bật trong ngày; số liệu thị trường trong nước và quốc tế chi tiết sẽ trở lại trong bản tin ngày thường tiếp theo.",
+  "tiles": [
+   {
+    "change_pct": -0.25,
+    "label": "S&P 500",
+    "value": "7.711,8"
+   },
+   {
+    "change_pct": -0.02,
+    "label": "Dow Jones",
+    "value": "53.560,0"
+   },
+   {
+    "change_pct": -0.52,
+    "label": "Nasdaq",
+    "value": "26.402,4"
+   },
+   {
+    "change_pct": 1.42,
+    "label": "Dầu WTI",
+    "value": "83,4 USD"
+   },
+   {
+    "change_pct": 0.3,
+    "label": "Dầu Brent",
+    "value": "88,1 USD"
+   },
+   {
+    "change_pct": -1.49,
+    "label": "Vàng thế giới",
+    "value": "4.530 USD"
+   },
+   {
+    "change_pct": -2.49,
+    "label": "Bitcoin",
+    "value": "78.261 USD"
+   },
+   {
+    "change_pct": 0.52,
+    "label": "DXY",
+    "value": "99,68"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "bloomberg:a9dcdd4628",
+   "title": "Báo cáo việc làm Mỹ được cho là củng cố quan điểm của Kevin Warsh về thị trường lao động",
+   "translated": true,
+   "original_title": "US Jobs Report Seen Backing Warsh View of Labor Market",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-29/us-jobs-report-seen-backing-warsh-view-of-labor-market"
+  },
+  {
+   "ref": "reuters:a1e98fb784",
+   "title": "Thỏa thuận công đoàn GM sẽ đầu tư 1,1 tỷ CAD vào nhà máy ô tô tại Canada giữa áp lực thuế quan Mỹ",
+   "translated": true,
+   "original_title": "GM union deal would invest C$1.1 bln in Canada auto factories amid US tariff pressure",
+   "link": "https://www.reuters.com/business/autos-transportation/gm-deal-with-workers-would-add-sierra-pickup-assembly-canadian-plant-despite-us-2026-08-29/"
+  },
+  {
+   "ref": "reuters:ef0256fe34",
+   "title": "Chiến tranh tiếp tục đè nặng kinh tế Iran khi Mỹ tăng cường trừng phạt",
+   "translated": true,
+   "original_title": "Guerra pesa sobre economia do Irã, conforme EUA intensificam sanções",
+   "link": "https://www.reuters.com/pt/mundo/LJPGDMYX3VIZFC3WLU6RW6NKQU-2026-08-29/"
+  },
+  {
+   "ref": "reuters:20be605899",
+   "title": "Nga tuyên bố kiểm soát thêm ba làng tại các vùng Donetsk và Sumy của Ukraine",
+   "translated": true,
+   "original_title": "Rusia dice que capturó tres pueblos en las regiones ucranianas de Donetsk y Sumy",
+   "link": "https://www.reuters.com/es/mundo/M7P7CJ2R3JKMZA44KX5HTAKI4U-2026-08-29/"
+  },
+  {
+   "ref": "tg-vnwallstreet:397549",
+   "title": "10 công ty chứng khoán lớn Hàn Quốc lãi kỷ lục gần 60.000 tỷ won trong quý II nhưng cổ phiếu chịu áp lực",
+   "translated": false,
+   "original_title": "▫️ 10 công ty chứng khoán lớn Hàn Quốc đạt lợi nhuận gần 60.000 tỷ won trong quý II nhưng cổ phiếu chịu áp lực Theo báo chí Hàn Quốc, 10 công ty chứng khoán lớn nhất Hàn Quốc đã đạt lợi nhuận kỷ lục gần 60.000 tỷ won trong quý II năm nay, nhưng cổ phiếu của họ lại đang chịu áp lực. Cụ thể, lợi nhuận ròng hợp nhất của các công ty này (bao gồm Mirae Asset, Hàn Quốc Investment, Samsung, KB, NH, Shinh",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:397548",
+   "title": "Mỹ trừng phạt chi nhánh ngân hàng Ai Cập tại UAE, Ngân hàng Trung ương UAE kiểm tra khẩn cấp",
+   "translated": false,
+   "original_title": "▫️ Mỹ trừng phạt chi nhánh ngân hàng Ai Cập tại UAE, Ngân hàng Trung ương UAE tiến hành kiểm tra khẩn cấp Mỹ đã áp đặt trừng phạt đối với chi nhánh của Ngân hàng Ai Cập (Banque Misr) tại UAE, buộc Ngân hàng Trung ương UAE phải tiến hành kiểm tra khẩn cấp. Ngân hàng Trung ương UAE nhấn mạnh rằng các ngân hàng hoạt động tại đây không được gây rủi ro về danh tiếng cho hệ thống tài chính của UAE hoặc ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:397547",
+   "title": "Phó Ngoại trưởng Iran: Chưa vội mở lại eo biển Hormuz dù đã đạt thỏa thuận với Oman",
+   "translated": false,
+   "original_title": "🔴 Phó Ngoại trưởng Iran không vội mở lại eo biển Hormuz Vào ngày 29 tháng 8, Phó Ngoại trưởng Iran, Abbas Araghchi, cho biết Iran đã đạt được thỏa thuận với Oman về việc đi lại qua eo biển Hormuz, nhưng thỏa thuận này sẽ không tự động được thực thi. Ông nhấn mạnh rằng, trừ khi Mỹ thực hiện nghĩa vụ của mình, thỏa thuận giữa Iran và Oman sẽ không được thực hiện, và Iran không vội vàng mở lại eo biể",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1027521",
+   "title": "HDFC Bank, ngân hàng lớn nhất Ấn Độ, thay CEO: ông Jagdishan sẽ rời nhiệm ngày 26/10",
+   "translated": true,
+   "original_title": "🌆 Market News Digest [Aug 29, 2026 06:00-15:30 EST] 🔥 Top Stories • HDFC Bank CEO Jagdishan to step down Oct. 26 — major leadership change at one of India’s biggest lenders • UAE Central Bank launches urgent review of Banque Misr branches — regulatory scrutiny may raise regional banking/compliance risk • Warsh sets Fed on collision course with Trump ahead of midterms — fresh political pressure on ",
+   "link": null
+  }
+ ],
+ "content_sha": "c93fb20c973197493eff5cf36868fa55425635f270bc4d5866dce9698bdd8d02"
+}
