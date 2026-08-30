@@ -1,0 +1,609 @@
+{
+ "date": "2026-08-31",
+ "dividends": [
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 26% (2.600 đồng/cp)",
+   "record_date": "2026-09-07",
+   "ref": "vietstock:90af434480",
+   "ticker": "TNP"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 22% (2.200 đồng/cp)",
+   "record_date": "2026-09-07",
+   "ref": "cafef:5ce9d33feb",
+   "ticker": "NAC"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 22% (2.200 đồng/cp)",
+   "record_date": "2026-09-07",
+   "ref": "vietstock:90af434480",
+   "ticker": "TFC"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 11,84%",
+   "record_date": "2026-09-07",
+   "ref": "vietstock:90af434480",
+   "ticker": "KST"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 8,5%",
+   "record_date": "2026-09-07",
+   "ref": "vietstock:90af434480",
+   "ticker": "PJS"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 8%",
+   "record_date": "2026-09-04",
+   "ref": "vietstock:90af434480",
+   "ticker": "DTP"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 7,28%",
+   "record_date": "2026-09-07",
+   "ref": "vietstock:90af434480",
+   "ticker": "PBT"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt đợt 1/2026 tỷ lệ 5%",
+   "record_date": "2026-09-07",
+   "ref": "vietstock:90af434480",
+   "ticker": "TTD"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 4,45%",
+   "record_date": "2026-09-04",
+   "ref": "vietstock:90af434480",
+   "ticker": "PMT"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt tỷ lệ 2,5% (250 đồng/cp)",
+   "record_date": "2026-09-07",
+   "ref": "cafef:b636ee1391",
+   "ticker": "OIL"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Mỹ không kích Iran, Iran đáp trả bằng tên lửa vào 2 căn cứ Mỹ ở Jordan; tàu qua eo Hormuz giảm còn 5 chuyến/ngày"
+  },
+  {
+   "source": "Vietstock",
+   "text": "VN-Index tăng 64 điểm trong tuần qua, riêng cổ phiếu VIC đóng góp hơn 52 điểm"
+  },
+  {
+   "source": "CafeF",
+   "text": "Một doanh nghiệp niêm yết (NAC) sắp chốt quyền cổ tức tiền mặt cao gần gấp đôi thị giá cổ phiếu"
+  },
+  {
+   "source": "Báo Đầu tư",
+   "text": "Tồn kho bất động sản cả nước lập kỷ lục, vượt 635.000 tỷ đồng"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "27 cổ phiếu lọt rổ theo dõi nâng hạng FTSE, bài toán \"khả năng đầu tư\" của doanh nghiệp Việt"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:30cbfd6c27",
+     "title": "QCG: Quốc Cường Gia Lai tạm nộp 256 tỷ đồng liên quan vụ án tại dự án 39-39B Bến Vân Đồn"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:2b8a52d5ad",
+     "title": "Từ tháng sau, cá nhân giao dịch tài sản mã hoá vi phạm quy định có thể bị phạt tới 100 triệu đồng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:6b37c6f7d3",
+     "title": "Tổng công ty Quản lý bay Việt Nam chi gần 320 tỷ đồng tiền mặt trái quy định"
+    },
+    {
+     "ref": "vnexpress:b351c1d221",
+     "title": "Chủ tịch Cadisun giấu gần 1.400 tỷ đồng doanh thu, chuyển người nhà gửi tiết kiệm"
+    },
+    {
+     "ref": "vnexpress:8844c32304",
+     "title": "45,5 tỷ đồng 'bôi trơn' của đại gia bất động sản đã chảy vào túi những ai?"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:f6add16ef8",
+     "title": "VPI: Ủy ban Chứng khoán phạt 1,5 tỷ đồng hai cá nhân thao túng cổ phiếu"
+    },
+    {
+     "ref": "google-news-ph-p-l:e5539f687c",
+     "title": "IDJ: Kinh doanh thua lỗ, bị xử phạt vi phạm bảo vệ môi trường"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+0,56 (+0,03%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.832,12 điểm"
+   },
+   {
+    "change": "+2,13 (+0,75%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "284,77 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~15.434 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~321 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "145,7 – 148,7 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.260 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ giảm nhẹ cuối tuần (S&P 500 -0,25%, Dow Jones -0,02%, Nasdaq -0,52%) giữa lúc căng thẳng Mỹ - Iran leo thang sau khi Iran phóng tên lửa vào hai căn cứ Mỹ ở Jordan để đáp trả cuộc không kích của Mỹ trên đảo Larak; dầu và vàng cùng tăng (WTI +1,65%, vàng thế giới +0,78%) nhờ nhu cầu trú ẩn và lo ngại nguồn cung qua eo biển Hormuz. Trong phiên giao dịch gần nhất tại Việt Nam (28/8), VN-Index đóng cửa ở 1.832,12 điểm, thanh khoản khớp lệnh HOSE đạt hơn 15.400 tỷ đồng, khối ngoại mua ròng khoảng 321 tỷ đồng. Tính chung cả tuần, VN-Index tăng 64 điểm, trong đó riêng cổ phiếu VIC đóng góp hơn 52 điểm. Tỷ giá USD/VND bán ra tại Vietcombank ở mức 26.260 đồng, vàng SJC giao dịch quanh 145,7 - 148,7 triệu đồng/lượng.",
+  "tiles": [
+   {
+    "change_pct": -0.25,
+    "label": "S&P 500",
+    "value": "7.711,8"
+   },
+   {
+    "change_pct": -0.02,
+    "label": "Dow Jones",
+    "value": "53.560,0"
+   },
+   {
+    "change_pct": -0.52,
+    "label": "Nasdaq",
+    "value": "26.402,4"
+   },
+   {
+    "change_pct": 1.65,
+    "label": "Dầu WTI",
+    "value": "84,8 USD"
+   },
+   {
+    "change_pct": 0.43,
+    "label": "Dầu Brent",
+    "value": "89,7 USD"
+   },
+   {
+    "change_pct": 0.78,
+    "label": "Vàng thế giới",
+    "value": "4.513 USD"
+   },
+   {
+    "change_pct": -0.13,
+    "label": "Bitcoin",
+    "value": "77.732 USD"
+   },
+   {
+    "change_pct": -0.04,
+    "label": "DXY",
+    "value": "99,66"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:4addbbde15",
+     "title": "PVS: Doanh thu tăng, lợi nhuận tăng 47% nhờ khoản thu bất thường 460 tỷ đồng liên quan dự án Formosa 4"
+    },
+    {
+     "ref": "cafef:a434e8890a",
+     "title": "Khu đô thị 600ha, quy mô lớn bậc nhất tại Hà Nội của công ty ông Phạm Nhật Vượng"
+    },
+    {
+     "ref": "cafef:3556b7b4b8",
+     "title": "Hãng taxi của ông Phạm Nhật Vượng có thể mua 5 triệu xe VinFast: Lượng ô tô bằng 5 năm doanh số toàn cầu"
+    },
+    {
+     "ref": "cafef:1bd73030ae",
+     "title": "Hãng xe Nhật rót 373 triệu USD xây nhà máy sản xuất ô tô tại Việt Nam, mục tiêu sản xuất các dòng xe hybrid"
+    },
+    {
+     "ref": "cafef:42833a66b9",
+     "title": "HDC: Tổng Giám đốc Hodeco mua thành công cổ phiếu như đăng ký"
+    },
+    {
+     "ref": "cafef:c078dcc07d",
+     "title": "Các dự án hàng trăm ha của Sun Group gặp khó, lãnh đạo tỉnh Phú Thọ chỉ đạo khẩn trương"
+    },
+    {
+     "ref": "cafef:948e5b67fd",
+     "title": "Hàng loạt 'ông lớn' bất động sản tăng vốn điều lệ trong vài tháng qua"
+    },
+    {
+     "ref": "cafef:6ff1934f93",
+     "title": "Cuộc đua tăng vốn công ty chứng khoán: Nhóm quy mô nhỏ bứt tốc"
+    },
+    {
+     "ref": "cafef:454b7cbf85",
+     "title": "Loạt dự án điện LNG mắc kẹt, cảnh báo nguy cơ hụt nguồn điện"
+    },
+    {
+     "ref": "cafef:76f5eddbfd",
+     "title": "Trái phiếu bất động sản trả lãi tới 13%/năm"
+    },
+    {
+     "ref": "cafef:7552b4ea4f",
+     "title": "Loạt doanh nghiệp đình đám mất tư cách công ty đại chúng vì đâu?"
+    },
+    {
+     "ref": "cafef:55c35df20e",
+     "title": "Chứng khoán tuần tới được dự đoán hướng tới 1.900 điểm"
+    },
+    {
+     "ref": "cafef:c5804163ab",
+     "title": "Yếu tố nào giúp doanh nghiệp Việt tiếp cận vốn quốc tế?"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:87d5823224",
+     "title": "CC1: Doanh thu nửa đầu năm tăng hơn 30%"
+    },
+    {
+     "ref": "vietstock:a36740aa48",
+     "title": "FPT: Dự kiến khai thác hạng mục đầu tiên tại khu đô thị công nghệ số 2 tỷ USD từ 2027"
+    },
+    {
+     "ref": "vietstock:81ed4187e0",
+     "title": "CMG: Phó Chủ tịch rời ghế sau 26 năm, chốt ngày tổ chức ĐHĐCĐ bất thường"
+    },
+    {
+     "ref": "vietstock:17fc1addd1",
+     "title": "Chủ tịch VikkiBankS nâng sở hữu lên 75%"
+    },
+    {
+     "ref": "vietstock:aa75502256",
+     "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC 'gánh' hơn 52 điểm"
+    },
+    {
+     "ref": "vietstock:1e657eb1f7",
+     "title": "Lãi suất liên ngân hàng giảm mạnh, thanh khoản tiếp tục dồi dào"
+    },
+    {
+     "ref": "vietstock:4f4e3afe69",
+     "title": "Trung ương hỗ trợ 70% phần vốn ngân sách cho nhóm dự án APEC 2027"
+    },
+    {
+     "ref": "vietstock:09fd464e11",
+     "title": "Chính sách mới có hiệu lực từ tháng 9/2026"
+    },
+    {
+     "ref": "vietstock:1b6f8fe6f7",
+     "title": "Đại sứ Jamieson Greer mong muốn phối hợp chặt chẽ với phía Việt Nam để hai bên sớm hoàn tất đàm phán ART"
+    },
+    {
+     "ref": "vietstock:07886deafa",
+     "title": "Việt Nam-Brazil mở rộng hợp tác, hướng tới mục tiêu thương mại 15 tỷ USD"
+    },
+    {
+     "ref": "vietstock:bdd55aaba7",
+     "title": "EU gia tăng kiểm soát và cảnh báo một số thực phẩm nhiễm chất cấm của Việt Nam"
+    },
+    {
+     "ref": "vietstock:11711f4ff1",
+     "title": "Chi phí năng lượng toàn cầu tăng 330 tỷ USD do cuộc khủng hoảng Trung Đông"
+    },
+    {
+     "ref": "vietstock:ffc9a1c757",
+     "title": "Xung đột Mỹ-Iran giúp các nước xuất khẩu nhiên liệu hóa thạch châu Phi hưởng lợi"
+    },
+    {
+     "ref": "vietstock:e7feb6bb2c",
+     "title": "Tín hiệu báo động từ Trung Quốc [Kỳ 2]: Phép toán bất khả thi trong hai ngành sản xuất"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:89fc05174d",
+     "title": "27 cổ phiếu FTSE và bài toán 'khả năng đầu tư' của doanh nghiệp Việt Nam"
+    },
+    {
+     "ref": "vneconomy:b627433151",
+     "title": "S&P Dow Jones Indices đánh giá cao tiến trình cải cách thị trường chứng khoán Việt Nam"
+    },
+    {
+     "ref": "vneconomy:7ad4a6d3c4",
+     "title": "Dấu ấn kinh tế thế giới tuần 23-29/8/2026: Tín hiệu tăng lãi suất từ Jackson Hole, căng thẳng thương mại Mỹ - Canada leo thang"
+    },
+    {
+     "ref": "vneconomy:09ffc267b0",
+     "title": "Từ Jackson Hole, Chủ tịch Fed phát tín hiệu tăng lãi suất"
+    },
+    {
+     "ref": "vneconomy:ab63b7418e",
+     "title": "Xu thế dòng tiền: Thị trường đã xác nhận sóng tăng mới?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:02b87cc398",
+     "title": "SMC: Chủ tịch và Tổng giám đốc giao dịch trái chiều lượng lớn cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f574f3e185",
+     "title": "DTR: Đông Tây Land được chấp thuận đưa 80 triệu cổ phiếu lên UPCoM"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:38e2367b5d",
+     "title": "HHS: Lên kế hoạch chào bán cổ phiếu mới, dự kiến huy động hơn 2.590 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:91e581b384",
+     "title": "Giảm 30% thuế: Nhóm cổ phiếu nào hưởng lợi?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:55a7e692fe",
+     "title": "Khối ngoại giảm gần 90% bán ròng trong tháng 8, điểm tên những cổ phiếu góp công lớn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:500507da5f",
+     "title": "Cà Mau có thêm 3 dự án điện gió được chấp thuận chủ trương đầu tư vốn 7.325 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:94aa475849",
+     "title": "Kiểm soát cán cân thương mại, đưa xuất khẩu cán đích"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b6f0893b91",
+     "title": "Một số điểm mới về hạch toán thuế giao dịch tài sản mã hoá"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b2944d593c",
+     "title": "Khối lượng giao dịch của thị trường cổ phiếu được mã hóa tăng hơn 415% trong vòng 1 tháng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:28b9bd3e31",
+     "title": "BIS: Stablecoin chưa phải phương tiện thanh toán đáng tin cậy ở quy mô lớn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5d1d8b0931",
+     "title": "Lo ngại nguồn cung đẩy giá ngô và lúa mì lên cao nhất hơn 3 năm"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:90a44755c6",
+     "title": "NVL: Novaland khởi công hơn 500 căn nhà ở thấp tầng tại Aqua City"
+    },
+    {
+     "ref": "b-o-u-t:dacfdc9f87",
+     "title": "Tồn kho bất động sản lập kỷ lục hơn 635.000 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:58f8513f98",
+     "title": "Chuyển động tích cực tại Dự án đường sắt tốc độ cao Hà Nội - Quảng Ninh"
+    },
+    {
+     "ref": "b-o-u-t:1f3d1c59e2",
+     "title": "Nhà băng có thật sự hy sinh biên lãi ròng?"
+    },
+    {
+     "ref": "b-o-u-t:4ba97cdc67",
+     "title": "Lãi suất cho vay có giảm mạnh?"
+    },
+    {
+     "ref": "b-o-u-t:6652b47c82",
+     "title": "Quá tải cấp C/O, nỗi lo của doanh nghiệp chưa vơi"
+    },
+    {
+     "ref": "b-o-u-t:6819f04b98",
+     "title": "Chỉ dẫn đầu tư cuối năm 2026: Lời giải nào cho dòng tiền nhàn rỗi?"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:f97f397f34",
+     "title": "Tài chính tuần qua: Loạt công ty tài chính báo lãi lớn, cả tỷ USD vốn ngoại đã đổ vào các ngân hàng"
+    },
+    {
+     "ref": "markettimes:45b7b5b148",
+     "title": "Chứng khoán tuần qua: Thị trường tiếp đà 'thăng hoa', khối ngoại tích cực 'gom' hàng"
+    },
+    {
+     "ref": "markettimes:e4d276cbe0",
+     "title": "Bức tranh thu nhập 'tiền tỷ' của CEO các công ty chứng khoán nửa đầu năm 2026"
+    },
+    {
+     "ref": "markettimes:02ab8b114a",
+     "title": "Trái phiếu sắp đến kỳ đáo hạn, lãi suất huy động neo cao"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:93785673ad",
+     "title": "GVR: Phát triển khu công nghiệp, động lực tăng trưởng mới"
+    },
+    {
+     "ref": "ti-n-phong:2604818940",
+     "title": "GAS: PV GAS kiến tạo hạ tầng năng lượng Vũng Áng"
+    },
+    {
+     "ref": "ti-n-phong:ec09bc2e0b",
+     "title": "Hàng tỷ USD chờ 'đổ' vào chứng khoán Việt: Dòng tiền sẽ tìm đến đâu?"
+    },
+    {
+     "ref": "ti-n-phong:7fec0e5aca",
+     "title": "Đề xuất AI đặt lệnh chứng khoán, tối đa 1.000 nhà đầu tư thử nghiệm"
+    },
+    {
+     "ref": "ti-n-phong:c016d5c73d",
+     "title": "6 giải pháp gỡ 'gọng kìm' áp lực ngành xây dựng"
+    }
+   ],
+   "source": "Tiền Phong"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:e3230df6bb",
+   "title": "Mỹ không kích hai bệ phóng tên lửa của Iran trên đảo Larak, quan chức Mỹ xác nhận",
+   "translated": true,
+   "original_title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+   "link": "https://www.reuters.com/world/middle-east/us-forces-strike-two-iranian-launchers-irans-larak-island-us-official-says-2026-08-30/"
+  },
+  {
+   "ref": "reuters:40ccfef5cd",
+   "title": "Lực lượng Vệ binh Cách mạng Iran (IRGC) tuyên bố đã tấn công hai căn cứ Mỹ tại Jordan để trả đũa",
+   "translated": true,
+   "original_title": "Iran's IRGC says it launched attack on two US bases in Jordan",
+   "link": "https://www.reuters.com/world/middle-east/irans-irgc-says-it-launched-attack-two-us-bases-jordan-2026-08-30/"
+  },
+  {
+   "ref": "reuters:d296bf97f5",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent đối mặt phép thử ngoại giao tại G20 giữa căng thẳng thuế quan, chiến sự Iran và biến động trái phiếu",
+   "translated": true,
+   "original_title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
+   "link": "https://www.reuters.com/world/china/us-treasurys-bessent-faces-g20-diplomacy-test-amid-tariffs-iran-war-bond-turmoil-2026-08-30/"
+  },
+  {
+   "ref": "reuters:5e95dd50c8",
+   "title": "Bessent: Các nước G20 nên cân nhắc thêm rào cản thương mại với Trung Quốc để giảm mất cân bằng toàn cầu",
+   "translated": true,
+   "original_title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
+   "link": "https://www.reuters.com/world/china/g20-countries-should-consider-more-trade-barriers-with-china-cut-imbalances-2026-08-30/"
+  },
+  {
+   "ref": "reuters:c08e48eeb1",
+   "title": "Bessent: Biến động của đồng yen vẫn 'khá được kiểm soát', không có dấu hiệu bất thường",
+   "translated": true,
+   "original_title": "Bessent says yen moves 'pretty contained' and not disorderly",
+   "link": "https://www.reuters.com/world/asia-pacific/bessent-says-yen-moves-pretty-contained-not-disorderly-2026-08-30/"
+  },
+  {
+   "ref": "reuters:f3fa56aae0",
+   "title": "SK On ký thỏa thuận cung cấp pin cho hệ thống lưu trữ năng lượng với NeoVolta Power",
+   "translated": true,
+   "original_title": "SK On signs battery supply deal for energy storage system use with NeoVolta Power",
+   "link": "https://www.reuters.com/business/energy/sk-signs-battery-supply-deal-energy-storage-system-use-with-neovolta-power-2026-08-30/"
+  },
+  {
+   "ref": "bloomberg:b3e68d1952",
+   "title": "Shein chuẩn bị niêm yết tại Hong Kong sau thời gian dài chờ đợi",
+   "translated": true,
+   "original_title": "Shien Set for Long-Awaited Hong Kong IPO Debut",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-30/shien-set-for-long-awaited-hong-kong-ipo-debut"
+  },
+  {
+   "ref": "bloomberg:c21d999a56",
+   "title": "Cuộc chiến của Trump với Iran trở thành phép thử cho 'câu lạc bộ an ninh' của Tập Cận Bình và Putin",
+   "translated": true,
+   "original_title": "Trump’s Iran War Sets Test for Xi and Putin’s Security Club",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-iran-war-sets-test-for-xi-and-putin-s-security-club"
+  },
+  {
+   "ref": "bloomberg:5c81a57515",
+   "title": "Cơ quan quản lý hàng đầu Đài Loan muốn giảm phụ thuộc USD của các công ty bảo hiểm",
+   "translated": true,
+   "original_title": "Taiwan’s Top Regulator Wants to Wean Taiwan’s Insurers Off US Dollar Dependence",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-30/taiwan-s-top-regulator-wants-to-wean-taiwan-s-insurers-off-us-dollar-dependence"
+  },
+  {
+   "ref": "tg-marketfeed:1027852",
+   "title": "Lưu lượng tàu hàng qua eo biển Hormuz giảm còn 5 chuyến/ngày trong cuối tuần qua",
+   "translated": false,
+   "original_title": "COMMODITY SHIPS PASSING THROUGH THE STRAIT OF HORMUZ FELL TO FIVE DAILY OVER THE WEEKEND - DATA ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1027846",
+   "title": "Bessent: Chưa rõ có gặp trực tiếp Phó Thủ tướng Trung Quốc Hà Lập Phong trước thềm thượng đỉnh Trump-Tập cuối tháng 9",
+   "translated": false,
+   "original_title": "BESSENT: UNCLEAR IF HE WILL MEET CHINESE VICE PREMIER HE LIFENG IN PERSON BEFORE TRUMP-XI SUMMIT IN LATE SEPTEMBER ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1027838",
+   "title": "Hàn Quốc: Sản xuất công nghiệp tháng 7 tăng 0,2% so với tháng trước, thấp hơn dự báo +0,3%",
+   "translated": false,
+   "original_title": "S.KOREA JULY INDUSTRIAL OUTPUT S/ADJ +0.2% M/M: STATS OFFICE (POLL: +0.3%) ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1027835",
+   "title": "Hàn Quốc: Doanh số bán lẻ tháng 7 giảm 2,4% so với tháng trước (đã điều chỉnh mùa vụ)",
+   "translated": false,
+   "original_title": "S.KOREA JULY RETAIL SALES SEASONALLY ADJUSTED -2.4% MONTH ON MONTH: STATS OFFICE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1027837",
+   "title": "Hàn Quốc: Sản lượng ngành dịch vụ tháng 7 giảm 1,3% so với tháng trước",
+   "translated": false,
+   "original_title": "S. KOREA JULY SERVICE SECTOR OUTPUT SLUMP -1.3% MONTH-ON-MONTH: STATS OFFICE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1027849",
+   "title": "ONEOK thâu tóm tài sản trung nguồn Permian Midland của Brazos Midstream với giá 4,425 tỷ USD, hợp tác cùng Apollo",
+   "translated": false,
+   "original_title": "ONEOK IS TO ACQUIRE BRAZOS MIDSTREAM'S PERMIAN MIDLAND ASSETS FOR $4.425 BLN, ACCORDING TO SOURCES, AND HAS ENTERED A PACT WITH APOLLO AND AFFILIATES FOR A $9 BLN INVESTMENT, WITH THE TRANSACTION EXPECTED TO BE IMMEDIATELY ACCRETIVE TO EARNINGS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:397581",
+   "title": "Sự kiện và dữ liệu quan trọng trong tuần: Non-farm Mỹ, PMI Trung Quốc, Hội nghị G20",
+   "translated": false,
+   "original_title": "🔴 Sự kiện và dữ liệu quan trọng trong tuần: Non-farm Mỹ, PMI Trung Quốc, Hội nghị G20 Tuần này có nhiều sự kiện và dữ liệu quan trọng: 1. Thứ Hai : ① Dữ liệu: PMI sản xuất chính thức tháng 8 của Trung Quốc ; CPI tháng 8 của Đức; chỉ số hoạt động kinh doanh của Cục Dự trữ Liên bang Dallas tháng 8; ② Sự kiện: Hội nghị Bộ trưởng Tài chính và Thống đốc Ngân hàng Trung ương G20 diễn ra đến ngày 1 tháng",
+   "link": null
+  }
+ ],
+ "content_sha": "03e01a192e847a497c9e1ade954187c0fa0a1a9a587edc21b7c7d0a4a3c20633"
+}
