@@ -1,0 +1,552 @@
+{
+ "date": "2026-09-01",
+ "dividends": [
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 5% (500 đồng/cp)",
+   "record_date": "2026-09-10",
+   "ref": "vietstock:b6926d7871",
+   "ticker": "BMI"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 16%",
+   "record_date": "2026-09-03",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "NBW"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 30%",
+   "record_date": "2026-09-03",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "ACE"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 11%",
+   "record_date": "2026-09-03",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "TSG"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 10%",
+   "record_date": "2026-09-03",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "C22"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 10%",
+   "record_date": "2026-09-03",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "EMS"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 8%",
+   "record_date": "2026-09-04",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "DTP"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 4,45%",
+   "record_date": "2026-09-04",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "PMT"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 4,3%",
+   "record_date": "2026-09-04",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "GH3"
+  },
+  {
+   "event": "Trả cổ tức bằng cổ phiếu tỷ lệ 100:17",
+   "record_date": "2026-09-04",
+   "ref": "cafef:53ce403cc0",
+   "ticker": "RYG"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Market News Feed",
+   "text": "Anthropic ký thỏa thuận điện toán đám mây 35 tỷ USD với Nvidia và Lambda tại Texas"
+  },
+  {
+   "source": "Thị trường quốc tế",
+   "text": "Dầu WTI tăng vọt hơn 3,5% sau căng thẳng leo thang tại Eo biển Hormuz và các cuộc tấn công của Mỹ nhằm vào Iran"
+  },
+  {
+   "source": "CafeF",
+   "text": "VIC: Hơn 43.000 tỷ đồng tài sản của Vingroup hiện nằm ngoài Việt Nam"
+  },
+  {
+   "source": "CafeF",
+   "text": "TCB: Hai 'đại gia' bí ẩn trong thương vụ mua cổ phần Techcombank trị giá tới 2 tỷ USD"
+  },
+  {
+   "source": "Reuters",
+   "text": "Chevron, ONGC, GE Vernova chuẩn bị ký các thỏa thuận khai thác dầu cuối cùng tại Venezuela"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:88ade14069",
+     "title": "VND: VNDIRECT bị truy thu, xử phạt thuế gần 7 tỷ đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5fec4e21fd",
+     "title": "TV2: Kiểm toán nhấn mạnh lưu ý khi cả Chủ tịch và Kế toán trưởng tại PECC2 bị khởi tố"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:2d23958001",
+     "title": "FTC kiện Amazon vì thao túng giá thầu quảng cáo, cổ phiếu giảm hơn 3%"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+0,56 điểm (+0,03%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.832,12 điểm"
+   },
+   {
+    "change": "+2,13 điểm (+0,75%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "284,77 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "15.468 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng 321 tỷ đồng"
+   },
+   {
+    "change": "Đi ngang so với hôm trước",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "Mua 145,70 - Bán 148,70 tr.đ/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.260 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua giảm nhẹ với S&P 500 mất 0,33%, Dow Jones giảm 0,70%, Nasdaq giảm 0,12%, trong khi dầu WTI tăng vọt 3,55% do căng thẳng leo thang tại Eo biển Hormuz sau các cuộc tấn công của Mỹ nhằm vào Iran. Vàng thế giới nhích nhẹ 0,28%, Bitcoin tăng 0,93%, chỉ số DXY giảm 0,29%. Phiên giao dịch gần nhất tại Việt Nam (28/8, trước kỳ nghỉ lễ Quốc khánh), VN-Index tăng nhẹ 0,56 điểm lên 1.832,12 điểm, HNX-Index tăng 2,13 điểm lên 284,77 điểm, thanh khoản HOSE đạt khoảng 15.468 tỷ đồng và khối ngoại mua ròng khoảng 321 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.33,
+    "label": "S&P 500",
+    "value": "7.686,1"
+   },
+   {
+    "change_pct": -0.7,
+    "label": "Dow Jones",
+    "value": "53.185,9"
+   },
+   {
+    "change_pct": -0.12,
+    "label": "Nasdaq",
+    "value": "26.370,9"
+   },
+   {
+    "change_pct": 3.55,
+    "label": "Dầu WTI",
+    "value": "86,4 USD"
+   },
+   {
+    "change_pct": -0.82,
+    "label": "Dầu Brent",
+    "value": "88,6 USD"
+   },
+   {
+    "change_pct": 0.28,
+    "label": "Vàng thế giới",
+    "value": "4.491 USD"
+   },
+   {
+    "change_pct": 0.93,
+    "label": "Bitcoin",
+    "value": "78.557 USD"
+   },
+   {
+    "change_pct": -0.29,
+    "label": "DXY",
+    "value": "99,41"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:d200b0f967",
+     "title": "VIC: Hơn 43.000 tỷ đồng tài sản của Vingroup nằm ngoài Việt Nam: Doanh thu mới chiếm 2%, nhưng một khoản chi tăng gần 6 lần"
+    },
+    {
+     "ref": "cafef:f51920401e",
+     "title": "TCB: 2 'đại gia' tin đồn trong vụ mua cổ phần Techcombank tới 2 tỷ USD có gì đặc biệt?"
+    },
+    {
+     "ref": "cafef:0e9a0f8d6c",
+     "title": "Việt Nam có 63 DN tỷ USD trên sàn chứng khoán, giá trị hơn 8,5 triệu tỷ đồng: 1 năm có thêm 6 tân binh trị giá hơn 500.000 tỷ"
+    },
+    {
+     "ref": "cafef:c3dbf14739",
+     "title": "Quỹ vàng lớn nhất thế giới mua mạnh nhất trong vòng 18 tháng"
+    },
+    {
+     "ref": "cafef:10aa8429c1",
+     "title": "CTCK chỉ tên 10 cổ phiếu triển vọng trong tháng 9"
+    },
+    {
+     "ref": "cafef:56fc9939a8",
+     "title": "TKV chuẩn bị mở rộng, nâng công suất Nhà máy sản xuất alumin Nhân Cơ"
+    },
+    {
+     "ref": "cafef:e54ce2d963",
+     "title": "Chứng khoán Kafi chốt ngày lên UPCoM, giá tham chiếu 15.000 đồng/cổ phiếu"
+    },
+    {
+     "ref": "cafef:c7a39d0ecd",
+     "title": "PDR: Vì sao thuế suất thực tế của Phát Đạt lên tới 57%?"
+    },
+    {
+     "ref": "cafef:87bb4bab60",
+     "title": "MWG: CEO Điện Máy Xanh nhìn lại 'bài học' 700 tỷ đồng ở Campuchia: Đã dừng kinh doanh từ cuối 2022"
+    },
+    {
+     "ref": "cafef:81f4c26732",
+     "title": "VIC: Vingroup trả thù lao cho dàn lãnh đạo cấp cao thế nào trong nửa đầu năm 2026?"
+    },
+    {
+     "ref": "cafef:f38de83aaa",
+     "title": "Doanh nghiệp vẫn khó tiếp cận tín dụng dù vốn dồi dào, nhiều ưu đãi"
+    },
+    {
+     "ref": "cafef:d3c89a96f4",
+     "title": "HAG: Trước khi HGI chào bán ra công chúng giá 60.600 đồng/cp, HAGL đã bán gần 14,7 triệu cổ phiếu ở giá 45.600 đồng, khoản lãi 264 tỷ không ghi nhận trong KQKD"
+    },
+    {
+     "ref": "cafef:2d52ce1251",
+     "title": "Những thương vụ IPO được mong đợi cuối năm 2026"
+    },
+    {
+     "ref": "cafef:d37c94fe58",
+     "title": "Chủ tịch loạt doanh nghiệp 'bắt đáy' lượng lớn cổ phiếu"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:282139d750",
+     "title": "Đông Tây Land sắp giao dịch 80 triệu cp trên UPCoM, kiểm toán lưu ý loạt khoản công nợ"
+    },
+    {
+     "ref": "vietstock:783a8fab40",
+     "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, ôm nợ trái phiếu hơn 10 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:86cdef2d6f",
+     "title": "PDR: BĐS Phát Đạt tăng nợ phải trả vượt 39,3 ngàn tỷ, lỗ lũy kế gần 700 tỷ"
+    },
+    {
+     "ref": "vietstock:cdbd576e2d",
+     "title": "Lợi nhuận 6 tháng Xi măng Xuân Thành tăng 90%, gánh nợ ngân hàng gần 9.500 tỷ"
+    },
+    {
+     "ref": "vietstock:8d9823b3d3",
+     "title": "Tài khoản bị phong tỏa, Bông Sen chưa thể trả hơn 7,8 ngàn tỷ đồng nợ trái phiếu quá hạn"
+    },
+    {
+     "ref": "vietstock:b6cd06b7cb",
+     "title": "SSB: SeABank nâng vốn điều lệ lên 34.688 tỷ sau ESOP"
+    },
+    {
+     "ref": "vietstock:3d9e18d485",
+     "title": "Điều gì quyết định tỷ giá USD thời gian tới?"
+    },
+    {
+     "ref": "vietstock:e6d4d33623",
+     "title": "NO1: Tăng lãi sau soát xét, nhưng vẫn 'bốc hơi' 99% so với cùng kỳ"
+    },
+    {
+     "ref": "vietstock:7e20cd6b05",
+     "title": "Những chính sách nổi bật có hiệu lực từ tháng 9/2026"
+    },
+    {
+     "ref": "vietstock:6670fb6bc5",
+     "title": "SMC: Biến động cổ đông lớn tại SMC: Tổng Giám đốc rời nhóm, Chủ tịch vượt tỷ lệ 8%"
+    },
+    {
+     "ref": "vietstock:208665ad2d",
+     "title": "Dầu tăng hơn 2% sau khi Mỹ tấn công 2 bệ phóng tên lửa của Iran trên đảo Larak"
+    },
+    {
+     "ref": "vietstock:2a454d7e18",
+     "title": "Xe thương mại tiếp tục thắng lớn quý 2, áp lực lãi vay tăng cao"
+    },
+    {
+     "ref": "vietstock:54c03b42e5",
+     "title": "Xuất khẩu gạo đạt 2,91 tỷ USD trong 8 tháng, giá bắt đầu phục hồi"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:87c4e410cc",
+     "title": "Định giá của thị trường đang hấp dẫn?"
+    },
+    {
+     "ref": "vneconomy:2b4f8590bb",
+     "title": "VN-Index tăng gần 100 điểm trong tháng 8, chủ yếu nhờ VIC và TCB"
+    },
+    {
+     "ref": "vneconomy:1d411e4127",
+     "title": "Tiền lãi nợ công của các nước G7 có thể tăng thêm hàng chục tỷ USD vì lợi suất trái phiếu leo thang"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9d3d40d722",
+     "title": "HBC: Xây dựng Hòa Bình bị kiểm toán đưa ý kiến ngoại trừ trong Báo cáo tài chính bán niên năm 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b4c199905f",
+     "title": "CTD: Coteccons chuẩn bị đại hội cổ đông thường niên 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7eff17dfa1",
+     "title": "Áp lực trái phiếu đáo hạn quý III được dự báo hạ nhiệt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d8b4c87c39",
+     "title": "Lãi suất gây phân hóa bất động sản, nhóm cổ phiếu nào có thể 'chạy' trước?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:33ecf46559",
+     "title": "Vốn rẻ vào lĩnh vực ưu tiên"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:564889d90b",
+     "title": "Dòng vốn ngoại tìm vị thế mới tại Việt Nam"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1288e98b07",
+     "title": "Sản xuất xi măng, sắt thép lập đỉnh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a5f37fe10b",
+     "title": "Tìm kênh dẫn vốn mới cho bất động sản"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2da1776dc3",
+     "title": "SMC: Đầu tư Thương mại SMC bị nghi ngờ khả năng hoạt động liên tục"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:24ff1ccf4c",
+     "title": "SEC mở đường cho gọi vốn bằng token cho các dự án tài sản mã hóa dù thị trường đã thay đổi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ce21162475",
+     "title": "Giới đầu tư vàng chuyển hướng sang quyền chọn đa tài sản khi thị trường phục hồi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b02ac54c9f",
+     "title": "NKG: Thép Nam Kim thực hiện hồi tố, giảm 94,3 tỷ đồng lợi nhuận trong nửa đầu năm 2025"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3ef565d75b",
+     "title": "GIL: Kiểm toán đưa ý kiến ngoại trừ do Gilimex chưa trích lập dự phòng tồn kho liên quan vụ kiện với Amazon"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:2cf42eda63",
+     "title": "8 tháng, xuất khẩu cà phê thu 6 tỷ USD, dự báo cuối năm tích cực"
+    },
+    {
+     "ref": "b-o-u-t:76f6beb36d",
+     "title": "5 cổ phiếu dự kiến được ETF Fubon mua mạnh trong kỳ review tháng 9"
+    },
+    {
+     "ref": "b-o-u-t:d5fab08e0b",
+     "title": "Từ 5/9, cấm nhập khẩu hàng hóa được sản xuất bởi hành vi cưỡng bức lao động"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:00cebf2299",
+     "title": "Làm sao biến tham vọng năng lượng thành dự án có thể cấp vốn?"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:22c8ce3151",
+     "title": "Ngân hàng Việt ráo riết tìm cổ đông chiến lược nước ngoài: Sức hút từ cả hai phía"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:8457960639",
+     "title": "Việt Nam tăng mạnh mua điện từ Lào, Trung Quốc"
+    },
+    {
+     "ref": "ti-n-phong:76d9f8c783",
+     "title": "Giảm giờ làm xuống 40-44 giờ/tuần: Có phải đánh đổi thu nhập?"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:1d57313805",
+     "title": "EVNNPT hoàn thành 2 công trình truyền tải điện tại Đồng Nai trước Quốc khánh"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1028641",
+   "title": "Anthropic ký thỏa thuận điện toán đám mây 35 tỷ USD với Lambda tại Texas; Nvidia cung cấp chip và thuê lại cơ sở từ Hut 8",
+   "translated": true,
+   "original_title": "*NVIDIA TO SUPPLY CHIPS FOR ANTHROPIC-LAMBDA COMPUTING DEAL: WSJ *NVIDIA TO LEASE FACILITY FOR ANTHROPIC DEAL FROM DEVELOPER HUT 8 IN TEXAS: WSJ #NVDA • #HUT ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:5d8c63e230",
+   "title": "Chevron, ONGC, GE Vernova chuẩn bị ký các thỏa thuận cuối cùng khai thác dầu tại Venezuela",
+   "translated": true,
+   "original_title": "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
+   "link": "https://www.reuters.com/business/energy/firms-including-chevron-ongc-ge-vernova-track-sign-final-pacts-venezuela-sources-2026-08-31/"
+  },
+  {
+   "ref": "reuters:294cdaed83",
+   "title": "Tàu chở dầu trúng ba vật thể lạ khi rời Eo biển Hormuz, cơ quan an ninh hàng hải Anh cho biết",
+   "translated": true,
+   "original_title": "Petroleiro é atingido por três projéteis ao sair do Estreito de Ormuz, diz agência britânica",
+   "link": "https://www.reuters.com/pt/mundo/D3VDGQLTWZKBNFCZQCNTX2VV2I-2026-08-31/"
+  },
+  {
+   "ref": "tg-marketfeed:1028638",
+   "title": "Chính quyền Trump phê duyệt miễn trừ nhiên liệu sinh học lớn nhất kể từ 2017, cấp 1,76 tỷ tín chỉ RIN cho các nhà máy lọc dầu",
+   "translated": true,
+   "original_title": "THE TRUMP ADMINISTRATION HAS APPROVED THE LARGEST BIOFUEL EXEMPTIONS FOR U.S. OIL REFINERIES SINCE 2017, GRANTING 1.76 BLN RENEWABLE IDENTIFICATION NUMBER (RIN) CREDITS FOR THE 2025 COMPLIANCE YEAR, SIGNIFICANTLY REDUCING THE COST OF COMPLYING WITH FEDERAL RULES REQUIRING REFINERS TO BLEND ETHANOL AND BIODIESEL INTO GASOLINE AND DIESEL. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:66f0dcd21b",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent kỳ vọng Nhật Bản hành động hỗ trợ đồng yên, phát tín hiệu BOJ có thể tăng lãi suất",
+   "translated": true,
+   "original_title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
+   "link": "https://www.reuters.com/world/asia-pacific/bessent-says-he-believes-japan-will-take-action-leading-stronger-yen-2026-08-31/"
+  },
+  {
+   "ref": "bloomberg:763855edfd",
+   "title": "Mỹ rót vốn cho nhà máy gallium của Alcoa tại Australia nhằm giảm phụ thuộc Trung Quốc",
+   "translated": true,
+   "original_title": "US Funds Alcoa Gallium Plant in Australia to Cut China Reliance",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-31/us-funds-alcoa-gallium-plant-in-australia-to-cut-china-reliance"
+  },
+  {
+   "ref": "reuters:fd7f045411",
+   "title": "Anthropic nối lại thử nghiệm bên ngoài với các mô hình AI sau sự cố an ninh",
+   "translated": true,
+   "original_title": "Anthropic to resume external testing of AI models following security incidents",
+   "link": "https://www.reuters.com/technology/anthropic-resume-external-testing-ai-models-following-security-incidents-2026-08-31/"
+  },
+  {
+   "ref": "bloomberg:76da075066",
+   "title": "Lạm phát giá bán lẻ Anh lên cao nhất hai năm sau cú sốc giá năng lượng",
+   "translated": true,
+   "original_title": "UK Shop Price Inflation Hits Two-Year High After Energy Spike",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-31/uk-shop-price-inflation-hits-two-year-high-after-energy-spike"
+  },
+  {
+   "ref": "reuters:1acd7d3da5",
+   "title": "Bessent nói với Bộ trưởng Tài chính Nga: Không có hỗ trợ kinh tế cho đến khi chiến tranh Ukraine kết thúc",
+   "translated": true,
+   "original_title": "Bessent told Russian finance minister no economic relief until Ukraine war ends, source says",
+   "link": "https://www.reuters.com/world/bessent-told-russian-finance-minister-no-economic-relief-until-ukraine-war-ends-2026-08-31/"
+  },
+  {
+   "ref": "reuters:d00eedb311",
+   "title": "Thủ tướng Ấn Độ Modi nói với Tổng thống Nga Putin: Chiến tranh Ukraine phải chấm dứt vì nhân loại",
+   "translated": true,
+   "original_title": "India's Modi tells Russia's Putin that the war in Ukraine must end for humanity's sake",
+   "link": "https://www.reuters.com/world/europe/indias-modi-tells-russias-putin-that-war-ukraine-must-end-humanitys-sake-2026-08-31/"
+  },
+  {
+   "ref": "reuters:cc36c99591",
+   "title": "Anh siết trừng phạt mạng lưới né tránh lệnh trừng phạt Nga, tăng gấp đôi mức phạt vi phạm",
+   "translated": true,
+   "original_title": "UK steps up pressure on Russian sanctions evasion network, doubles penalties for breaches",
+   "link": "https://www.reuters.com/business/finance/uk-steps-up-pressure-russian-sanctions-evasion-network-doubles-penalties-2026-08-31/"
+  },
+  {
+   "ref": "tg-marketfeed:1028627",
+   "title": "Truyền thông Iran: Tàu chở dầu Cedar của Saudi Arabia (sức chứa 2 triệu thùng) bị chặn khi đi qua Eo biển Hormuz",
+   "translated": true,
+   "original_title": "IRANIAN MEDIA REPORTS THAT THE SAUDI OIL TANKER CEDAR, CAPABLE OF CARRYING 2 MLN BARRELS, WAS STOPPED WHILE TRANSITING THE SOUTHERN STRAIT OF HORMUZ ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1028618",
+   "title": "Phó Tổng thống Mỹ Vance: Mỹ đảm bảo dòng chảy thương mại qua Eo biển Hormuz, xác nhận đã tấn công Iran đêm qua, thỏa thuận dầu Venezuela sẽ có lợi cho Mỹ",
+   "translated": true,
+   "original_title": "U.S. VP VANCE SAYS THE U.S. IS ENSURING THE FREE FLOW OF COMMERCE THROUGH THE STRAIT OF HORMUZ AND THAT THE U.S. STRUCK IRAN LAST NIGHT, ADDING THAT THE VENEZUELA OIL DEAL WILL BENEFIT THE U.S. ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:f53c2ab42d",
+   "title": "Bessent đối mặt phép thử uy tín tại G20 giữa lúc các can thiệp thị trường gia tăng",
+   "translated": true,
+   "original_title": "Bessent Faces G20 Credibility Test Amid Interventions",
+   "link": "https://www.bloomberg.com/news/videos/2026-08-31/bessent-faces-g20-credibility-test-amid-interventions-video"
+  }
+ ],
+ "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b"
+}
