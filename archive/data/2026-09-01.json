@@ -548,5 +548,68 @@
    "link": "https://www.bloomberg.com/news/videos/2026-08-31/bessent-faces-g20-credibility-test-amid-interventions-video"
   }
  ],
- "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b"
+ "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "2ac7f6093ceaa976c1f12c9d1d45582ecef900f4",
+   "published_at": "2026-09-01T06:44:57+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "242",
+   "sent_at": "2026-09-01T06:44:58+07:00",
+   "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "242",
+     "sent_at": "2026-09-01T06:44:58+07:00",
+     "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "e416f8d7b2e923b07aff",
+   "sent_at": "2026-09-01T06:45:00+07:00",
+   "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "e416f8d7b2e923b07aff",
+     "sent_at": "2026-09-01T06:45:00+07:00",
+     "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "eff0eca1a69f37c66e89",
+     "sent_at": "2026-09-01T06:45:01+07:00",
+     "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "b4ac71173a29ab70f23f",
+     "sent_at": "2026-09-01T06:45:03+07:00",
+     "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "3f0b7b093037a16ef821",
+     "sent_at": "2026-09-01T06:45:04+07:00",
+     "content_sha": "f35ce6a4b52c39a5aeb2bfa6b9a2a4377c2ca2b5ae2f8a25dae2d0356fce9a0b"
+    }
+   ]
+  }
+ }
 }

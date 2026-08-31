@@ -1,0 +1,38 @@
+
+########## CHAY LUC 2026-09-01 06:44:11 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-01, ban daily)
+   the gioi 14 tin · Viet Nam 51 tin / 9 bao · phap ly 3 tin · chot quyen 10 ma
+   THAT BAI: 1 loi
+      [C1] bulletin.market_data.domestic[4].value: chuỗi quá dài (42 > 40)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-09-01 06:44:24 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-01, ban daily)
+   the gioi 14 tin · Viet Nam 51 tin / 9 bao · phap ly 3 tin · chot quyen 10 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-01 · the gioi 14 · Viet Nam 51 · phap ly 3
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-01.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-09-01: commit 2ac7f6093cea · sha noi dung f78c2be29c0a642e
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 01/09 | content_sha f35ce6a4b52c | commit 2ac7f6093cea
+   telegram user/928f6fc4179d OK message_id=242
+   zalo     user/593dd2adbb87 OK message_id=e416f8d7b2e923b07aff
+   zalo     group/8fddff299f5f OK message_id=eff0eca1a69f37c66e89
+   zalo     group/240eac12bc5e OK message_id=b4ac71173a29ab70f23f
+   zalo     group/8b7b62566b6c OK message_id=3f0b7b093037a16ef821
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-01.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-09-01 06:45:04 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
