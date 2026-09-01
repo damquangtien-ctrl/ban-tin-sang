@@ -428,5 +428,68 @@
    "link": "https://www.reuters.com/commentary/reuters-open-interest/warsh-scored-an-easy-win-jackson-hole-hard-work-starts-now-2026-09-01/"
   }
  ],
- "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd"
+ "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "b56021b694631af5e5e3ab6414ac07fb6f114f1a",
+   "published_at": "2026-09-02T06:43:10+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "243",
+   "sent_at": "2026-09-02T06:43:11+07:00",
+   "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "243",
+     "sent_at": "2026-09-02T06:43:11+07:00",
+     "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "14390cef6285f2dcab93",
+   "sent_at": "2026-09-02T06:43:12+07:00",
+   "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "14390cef6285f2dcab93",
+     "sent_at": "2026-09-02T06:43:12+07:00",
+     "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "5e91cecba0a130f869b7",
+     "sent_at": "2026-09-02T06:43:13+07:00",
+     "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "f1379830f65a66033f4c",
+     "sent_at": "2026-09-02T06:43:14+07:00",
+     "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "a748f7809eea0eb357fc",
+     "sent_at": "2026-09-02T06:43:15+07:00",
+     "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd"
+    }
+   ]
+  }
+ }
 }
