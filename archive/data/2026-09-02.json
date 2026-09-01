@@ -1,0 +1,432 @@
+{
+ "date": "2026-09-02",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Mỹ tiếp tục không kích Iran, Tehran đáp trả khiến xung đột Trung Đông leo thang, đẩy giá dầu tăng vọt hơn 5%"
+  },
+  {
+   "source": "Reuters",
+   "text": "Chứng khoán Mỹ đồng loạt giảm, lợi suất trái phiếu toàn cầu lên cao nhất nhiều thập kỷ"
+  },
+  {
+   "source": "FiinQuant",
+   "text": "VN-Index tăng nhẹ lên 1.832,12 điểm phiên cuối trước nghỉ lễ, khối ngoại mua ròng khoảng 321 tỷ đồng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Dell tiếp tục nâng dự báo cả năm nhờ nhu cầu AI lập kỷ lục"
+  },
+  {
+   "source": "Google News Pháp lý",
+   "text": "VNDirect (VND) bị truy thu và xử phạt thuế gần 7 tỷ đồng"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:afe9412f06",
+     "title": "SCJ: Hạch toán chi phí không hợp lệ, bị xử phạt và truy thu thuế gần 1,7 tỷ đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:fea78f7058",
+     "title": "VND: Bị truy thu và xử phạt thuế gần 7 tỷ đồng"
+    },
+    {
+     "ref": "google-news-ph-p-l:132ea9c93f",
+     "title": "MTG: Cá nhân thao túng cổ phiếu bị phạt 1,5 tỷ đồng, cấm giao dịch 3 năm"
+    },
+    {
+     "ref": "google-news-ph-p-l:c43498be91",
+     "title": "Cho mượn tài khoản chứng khoán cũng có thể bị cấm giao dịch"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+0,56 điểm (+0,03%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.832,12"
+   },
+   {
+    "change": "+2,13 điểm (+0,75%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "284,77"
+   },
+   {
+    "change": "+12,6% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "15.468 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~321 tỷ đồng"
+   },
+   {
+    "change": "Không đổi so với phiên trước",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "145,7 - 148,7 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.260 đồng/USD"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đồng loạt giảm trong phiên qua đêm, với S&P 500 mất 0,71%, Dow Jones giảm 0,79% và Nasdaq lùi 1,03%, trong bối cảnh lợi suất trái phiếu toàn cầu tăng vọt lên mức cao nhất nhiều thập kỷ và căng thẳng Mỹ - Iran leo thang sau các cuộc không kích mới. Giá dầu bật tăng mạnh (WTI +5,87%, Brent +5,27%) do lo ngại nguồn cung Trung Đông, trong khi vàng thế giới giảm 1,3% xuống quanh 4.373 USD/oz và Bitcoin lùi về 77.390 USD. Tại thị trường trong nước, phiên gần nhất trước kỳ nghỉ lễ Quốc khánh 2/9 (28/8) ghi nhận VN-Index tăng nhẹ 0,03% lên 1.832,12 điểm, HNX-Index tăng 0,75% lên 284,77 điểm, thanh khoản HOSE cải thiện mạnh lên hơn 15.468 tỷ đồng và khối ngoại mua ròng khoảng 321 tỷ đồng. Tỷ giá USD/VND tại Vietcombank niêm yết 25.880 - 26.260 đồng, vàng SJC giữ nguyên 145,7 - 148,7 triệu đồng/lượng do thị trường nghỉ lễ.",
+  "tiles": [
+   {
+    "change_pct": -0.71,
+    "label": "S&P 500",
+    "value": "7.631,5"
+   },
+   {
+    "change_pct": -0.79,
+    "label": "Dow Jones",
+    "value": "52.766,9"
+   },
+   {
+    "change_pct": -1.03,
+    "label": "Nasdaq",
+    "value": "26.099,8"
+   },
+   {
+    "change_pct": 5.87,
+    "label": "Dầu WTI",
+    "value": "90,8 USD"
+   },
+   {
+    "change_pct": 5.27,
+    "label": "Dầu Brent",
+    "value": "95,3 USD"
+   },
+   {
+    "change_pct": -1.3,
+    "label": "Vàng thế giới",
+    "value": "4.373 USD"
+   },
+   {
+    "change_pct": -1.48,
+    "label": "Bitcoin",
+    "value": "77.390 USD"
+   },
+   {
+    "change_pct": 0.23,
+    "label": "DXY",
+    "value": "99,65"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:0e497b54d4",
+     "title": "Nhà máy lọc dầu 3 tỷ USD đầu tiên của Việt Nam đón 1,25 triệu thùng dầu thô dịp Quốc khánh 2/9"
+    },
+    {
+     "ref": "cafef:2237c5ce39",
+     "title": "VIC: Vingroup công bố số liệu quan trọng, phá mọi kỷ lục đã được thiết lập"
+    },
+    {
+     "ref": "cafef:bd86f6c9f2",
+     "title": "PDR: Lãi 505 tỷ đồng trên 158 tỷ đồng doanh thu, tiền đến từ đâu?"
+    },
+    {
+     "ref": "cafef:e618c69f8b",
+     "title": "VFS: VinFast huy động 14.000 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "cafef:c4750231ca",
+     "title": "FLC: Tăng vốn gấp rưỡi lên gần 13.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:6c9e877c4f",
+     "title": "Công ty do đại gia \"Khoa Khàn\" làm Chủ tịch muốn huy động 1.000 tỷ đồng trái phiếu, thế chấp gần 165 triệu cổ phần Thaco Agri của tỷ phú Trần Bá Dương"
+    },
+    {
+     "ref": "cafef:126faad5d8",
+     "title": "Một doanh nghiệp Việt thu hơn 60.000 tỷ đồng từ thị trường quốc tế chỉ trong 6 tháng, gấp hơn 2 lần Viettel Global và 13 lần Vingroup"
+    },
+    {
+     "ref": "cafef:e41f4bfd78",
+     "title": "Thái Lan hoàn tất mua lại 1 doanh nghiệp nước ép, trà - cà phê Việt Nam"
+    },
+    {
+     "ref": "cafef:4114eb7687",
+     "title": "Ông Đặng Thành Tâm muốn làm thêm Khu công nghiệp 345 ha, vốn hơn 3.900 tỷ đồng ở Cà Mau"
+    },
+    {
+     "ref": "cafef:cac95fb4f2",
+     "title": "Chủ đầu tư The Legend City Danang báo lãi mỏng, nợ phải trả tăng gấp 3 lần"
+    },
+    {
+     "ref": "cafef:16200be1aa",
+     "title": "Loạt doanh nghiệp lên kế hoạch huy động trái phiếu để làm gì?"
+    },
+    {
+     "ref": "cafef:184e1925c9",
+     "title": "Doanh nghiệp được giảm 30% thuế: Số đã tạm nộp xử lý thế nào?"
+    },
+    {
+     "ref": "cafef:6d7b12c5eb",
+     "title": "Thị trường công nghiệp đường sắt 2,3 triệu tỷ đồng ở Việt Nam: Hãy nhìn cách Hàn Quốc \"ràng buộc\" DN Đức"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:9910219b18",
+     "title": "Tổng công ty Bến Thành đặt mục tiêu lãi hơn 316 tỷ đồng vào năm 2030"
+    },
+    {
+     "ref": "vietstock:3ed0a8848c",
+     "title": "Đối tác Masterise tại Grand Marina Saigon lỗ hơn 120 tỷ, nợ phải trả vượt 9,5 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:f8b4409a80",
+     "title": "Chủ siêu dự án Vịnh Đầm Phú Quốc lỗ gần 52 tỷ đồng nửa đầu năm"
+    },
+    {
+     "ref": "vietstock:08ffef2664",
+     "title": "Nhân sự sụt giảm, chi phí cho nhân viên ngân hàng biến động ra sao trong nửa đầu năm 2026?"
+    },
+    {
+     "ref": "vietstock:b09ca41bd8",
+     "title": "Lãnh đạo mua bán cổ phiếu: Lệch bên mua"
+    },
+    {
+     "ref": "vietstock:c93a2164de",
+     "title": "Hà Nội thu ngân sách hơn 521.300 tỷ đồng trong 8 tháng của năm 2026"
+    },
+    {
+     "ref": "vietstock:b531edfbdb",
+     "title": "Cách nào chặn găm đất chờ tăng giá, đầu cơ?"
+    },
+    {
+     "ref": "vietstock:6bf3cbab14",
+     "title": "Doanh nghiệp bỏ lỡ nhiều năm khai thác đất vì vướng xác định giá"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:707dd398ce",
+     "title": "8 tháng năm 2026, Hải Phòng thu hút hơn 3,47 tỷ USD vốn FDI, đạt 84,6% kế hoạch năm"
+    },
+    {
+     "ref": "b-o-u-t:f98afc1626",
+     "title": "FTA tạo đà cho thương mại Việt Nam \"thăng hạng\""
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:cf19573ca9",
+     "title": "Khối ngoại bán ròng hơn 90.000 tỷ từ đầu năm nhưng một tín hiệu tích cực đã xuất hiện"
+    },
+    {
+     "ref": "markettimes:a9828d4ac5",
+     "title": "Ông Petri Deryng lý giải nguyên nhân cổ phiếu Việt Nam chưa tăng như kỳ vọng"
+    },
+    {
+     "ref": "markettimes:d0cf60c35e",
+     "title": "Giá thuê giàn khoan chịu áp lực ngắn hạn, \"ông lớn\" dầu khí vẫn được dự báo tăng trưởng mạnh"
+    },
+    {
+     "ref": "markettimes:0500c629fe",
+     "title": "Quỹ vàng khổng lồ có động thái \"lạ\""
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:7f5aff42a7",
+     "title": "Tỷ giá sẽ diễn biến ra sao sau kỳ nghỉ lễ 2/9?"
+    },
+    {
+     "ref": "vnbusiness:6e6b4492c4",
+     "title": "CII: Nợ phải trả vượt 30.000 tỷ đồng, vẫn miệt mài gom cổ phiếu PC1, đang đánh cược vào năng lượng?"
+    },
+    {
+     "ref": "vnbusiness:afd6c991c6",
+     "title": "Bộ máy tinh gọn tạo nên kỷ lục về hiệu suất làm việc của nhân viên ngân hàng"
+    },
+    {
+     "ref": "vnbusiness:d642b894b1",
+     "title": "Hộ kinh doanh doanh thu đến 10 tỷ đồng đón tin mới về cách nộp thuế ngay trong kỳ nghỉ lễ 2/9"
+    }
+   ],
+   "source": "VnBusiness"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:4f1d8b68d5",
+   "title": "Mỹ tiếp tục không kích Iran, Tehran đáp trả khiến xung đột leo thang",
+   "translated": true,
+   "original_title": "US launches new strikes on Iran as Tehran hits back in widening conflict",
+   "link": "https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01/"
+  },
+  {
+   "ref": "tg-marketfeed:1029637",
+   "title": "IRGC: Iran phóng tên lửa đạn đạo tấn công căn cứ không quân Mỹ tại Jordan",
+   "translated": true,
+   "original_title": "IRAN'S IRGC SAYS IT LAUNCHED A HEAVY BALLISTIC MISSILE ATTACK ON HANGARS HOUSING U.S. RQ-4 AND MQ-9 LONG-RANGE DRONES AT PRINCE HASSAN AIR BASE IN JORDAN, SAYING SEVERAL DRONES WERE DESTROYED, U.S. PILOTS AND TECHNICAL PERSONNEL WERE KILLED, AND MULTIPLE MILITARY FACILITIES CAUGHT FIRE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1029626",
+   "title": "CENTCOM: Mỹ hoàn tất đợt không kích ngày 1/9 nhằm vào phòng không, radar và mục tiêu IRGC của Iran",
+   "translated": true,
+   "original_title": "U.S. CENTCOM SAYS THE U.S. MILITARY HAS COMPLETED ITS SEPTEMBER 1 SERIES OF STRIKES AGAINST IRAN, HITTING IRANIAN AIR-DEFENCE SITES, RADAR SYSTEMS, MARITIME ASSETS, MINE-LAYING CAPABILITIES AND COMMUNICATIONS SITES, AND COMPLETING STRIKES ON IRGC TARGETS. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:104fabe04c",
+   "title": "Chi phí vay của các chính phủ tiếp tục tăng, lợi suất trái phiếu Nhật chạm ngưỡng quan trọng, gây sức ép lên nhà điều hành toàn cầu",
+   "translated": true,
+   "original_title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
+   "link": "https://www.reuters.com/world/asia-pacific/global-bond-rout-deepens-japan-yield-hits-key-threshold-2026-09-01/"
+  },
+  {
+   "ref": "reuters:df47083a16",
+   "title": "Dell tiếp tục nâng dự báo cả năm nhờ nhu cầu AI lập kỷ lục",
+   "translated": true,
+   "original_title": "Dell again lifts annual forecasts as AI demand powers record results",
+   "link": "https://www.reuters.com/business/dell-again-lifts-forecasts-ai-demand-powers-record-results-2026-09-01/"
+  },
+  {
+   "ref": "reuters:a188a56389",
+   "title": "Không chỉ Nvidia: Các hãng làm mát và điện năng hưởng lợi từ làn sóng trung tâm dữ liệu nghìn tỷ USD",
+   "translated": true,
+   "original_title": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom",
+   "link": "https://www.reuters.com/business/energy/not-just-nvidia-these-power-cooling-firms-are-riding-trillion-dollar-data-centre-2026-09-01/"
+  },
+  {
+   "ref": "reuters:e5455b85bb",
+   "title": "Điện Kremlin: Putin, Tập Cận Bình và Trump có thể họp ba bên vào tháng 11",
+   "translated": true,
+   "original_title": "Kremlin says Putin, Xi and Trump may hold a trilateral meeting in November",
+   "link": "https://www.reuters.com/business/media-telecom/kremlin-says-putin-xi-trump-may-hold-trilateral-meeting-2026-09-01/"
+  },
+  {
+   "ref": "reuters:bc7fa24b39",
+   "title": "Mỹ thúc giục G20 cắt giảm mất cân bằng thương mại, nhắm vào Trung Quốc",
+   "translated": true,
+   "original_title": "US urges G20 to cut trade imbalances, focus on China",
+   "link": "https://www.reuters.com/world/china/us-pushes-g20-cut-trade-imbalances-focus-china-2026-09-01/"
+  },
+  {
+   "ref": "tg-marketfeed:1029634",
+   "title": "IMF: Tăng trưởng toàn cầu 2026 giữ quanh 3%, rủi ro giá năng lượng còn cao nếu eo biển Hormuz bị phong tỏa",
+   "translated": true,
+   "original_title": "IMF'S GEORGIEVA: 2026 GLOBAL GROWTH OUTLOOK HAS FIRMED AT AROUND 3%; STRAIT OF HORMUZ CLOSURE KEEPS ENERGY-SHOCK RISK ELEVATED ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:8768ded9d2",
+   "title": "Liên Hợp Quốc đối mặt cuộc bỏ phiếu gây tranh cãi về hạt nhân Iran trước thềm Đại hội đồng",
+   "translated": true,
+   "original_title": "UN faces contentious Iran nuclear vote ahead of General Assembly",
+   "link": "https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/"
+  },
+  {
+   "ref": "tg-vnwallstreet:397867",
+   "title": "Nhà Trắng: Các nhà lọc dầu Mỹ muốn mở rộng công suất, dầu giá rẻ Venezuela sẽ vào thị trường từ tháng 11",
+   "translated": false,
+   "original_title": "▫️ Nhà Trắng: Các nhà lọc dầu muốn mở rộng công suất, dầu giá rẻ Venezuela sẽ vào thị trường vào tháng 11 Theo NewsNation, Phó Thư ký báo chí Nhà Trắng Taylor Rogers đã tiết lộ một số chi tiết mới từ cuộc họp kín giữa các giám đốc điều hành ngành dầu mỏ. Các giám đốc từ Chevron, Marathon Oil và nhiều công ty khác đã tham gia cuộc gặp với Trump để thảo luận về việc mở rộng công suất lọc dầu. Rogers",
+   "link": null
+  },
+  {
+   "ref": "reuters:2cf633f53b",
+   "title": "Xuất khẩu dầu của Venezuela giữ nguyên ở mức 1,17 triệu thùng/ngày trong tháng 8",
+   "translated": true,
+   "original_title": "Exportaciones petroleras de Venezuela se mantuvieron sin cambios en 1,17 millones de barriles diarios en agosto: datos",
+   "link": "https://www.reuters.com/es/mundo/2HXXJTSIIRNWXDZITMFQXM7N7U-2026-09-01/"
+  },
+  {
+   "ref": "bloomberg:decd65eda1",
+   "title": "Lạm phát Hàn Quốc tăng tốc do hiệu ứng giá cước điện thoại nhất thời",
+   "translated": true,
+   "original_title": "South Korea’s Inflation Accelerates on One-Off Phone Bill Effect",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-01/south-korea-s-inflation-accelerates-on-one-off-phone-bill-effect"
+  },
+  {
+   "ref": "reuters:4a2ba2fab7",
+   "title": "Quốc hội Brazil thông qua miễn thuế để thu hút đầu tư trung tâm dữ liệu",
+   "translated": true,
+   "original_title": "Brazil's Congress approves tax exemptions to attract data center investments",
+   "link": "https://www.reuters.com/world/americas/brazils-congress-approves-tax-exemptions-attract-data-center-investments-2026-09-01/"
+  },
+  {
+   "ref": "tg-marketfeed:1029624",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent: Nhật Bản nên chấm dứt chính sách phản lạm phát, bước sang \"Takaichinomics\"",
+   "translated": true,
+   "original_title": "U.S. TREASURY SECRETARY BESSENT SAYS JAPAN SHOULD END ITS REFLATIONARY POLICY AS ABENOMICS HAS RUN ITS COURSE, ADDING THAT JAPAN IS NOW ONE OF THE WORLD'S MOST VIBRANT ECONOMIES AND THAT WHILE ABENOMICS HAS WORKED, 'NOW IS THE TIME FOR TAKAICHI-NOMICS'. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1029622",
+   "title": "Bessent: Kỳ vọng AI sẽ nằm trong chương trình nghị sự khi Chủ tịch Trung Quốc thăm Mỹ vào tháng 9",
+   "translated": true,
+   "original_title": "U.S. TREASURY SECRETARY BESSENT SAYS HE EXPECTS AI TO BE ON THE AGENDA WHEN CHINA'S XI VISITS THE U.S. IN SEPTEMBER, NOTING HIS MAIN CHINESE AI COUNTERPART HE LIFENG WAS NOT PRESENT AT THE G20 AND THAT HE HELD ONLY LIMITED AI DISCUSSIONS WITH CHINA. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1029623",
+   "title": "Bessent: Chi tiêu cho AI cuối cùng sẽ giúp giảm lạm phát dù đang tạo ra nghịch lý về vay nợ",
+   "translated": true,
+   "original_title": "U.S. TREASURY SECRETARY BESSENT SAYS AI SPENDING WILL ULTIMATELY BE DISINFLATIONARY, WITH BENEFITS EXPECTED WITHIN THE NEXT SIX MONTHS, THOUGH AI BORROWING HAS CREATED A TYPE OF 'CONUNDRUM'. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1029635",
+   "title": "Các quỹ ETF Bitcoin tại Mỹ hút 3,5 tỷ USD trong tháng 8, mức kỷ lục hơn một năm qua",
+   "translated": true,
+   "original_title": "US BITCOIN ETFS ATTRACT ~$3.5 BILLION IN AUGUST INFLOWS, THEIR STRONGEST MONTHLY PERFORMANCE IN MORE THAN A YEAR AS BTC JUMPS 25%. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:03228e8d2c",
+   "title": "Công đoàn Micron tại Đài Loan đe dọa đình công vì tranh chấp tiền thưởng",
+   "translated": true,
+   "original_title": "Micron's Taiwan unions threaten strike over bonus dispute",
+   "link": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01/"
+  },
+  {
+   "ref": "reuters:dea566c72e",
+   "title": "Warsh thắng dễ tại Jackson Hole, nhưng phần việc khó mới chỉ bắt đầu",
+   "translated": true,
+   "original_title": "Warsh scored an easy win in Jackson Hole. The hard work starts now",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/warsh-scored-an-easy-win-jackson-hole-hard-work-starts-now-2026-09-01/"
+  }
+ ],
+ "content_sha": "c3997bb1f63022bb1b5999200c89443c0751612f1456694cd75e7df8f263fdfd"
+}
