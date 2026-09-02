@@ -1,0 +1,383 @@
+{
+ "date": "2026-09-03",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "Novaland bị kiểm toán nhấn mạnh vấn đề hoạt động liên tục, đã bán 4 tài sản gần 11.300 tỷ đồng để xử lý nợ"
+  },
+  {
+   "source": "Tiền Phong",
+   "text": "Sau nghỉ lễ 2/9, giới đầu tư kỳ vọng chứng khoán bứt phá nhờ 'cú hích' nâng hạng thị trường"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Thị trường trái phiếu chính phủ toàn cầu bán tháo trở lại khi lợi suất trái phiếu Nhật Bản tăng mạnh"
+  },
+  {
+   "source": "CafeF",
+   "text": "Samsung đưa 1.612 thiết bị mới vào nhà máy chip 4,08 tỷ USD tại Việt Nam, dự kiến vận hành từ năm sau"
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "Khối ngoại đã bán ròng hơn 94.000 tỷ đồng trong 8 tháng qua nhưng giới phân tích kỳ vọng sớm đảo chiều"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:c3efe3580f",
+     "title": "Công ty Việt Mỹ liên quan vụ Thứ trưởng Bộ Y tế bị khởi tố: Gần 20 năm trúng loạt gói thầu trăm tỷ"
+    },
+    {
+     "ref": "cafef:b69f282476",
+     "title": "Khởi tố, bắt tạm giam Thứ trưởng Bộ Y tế Trần Văn Thuấn, liên quan vụ CTCP Đầu tư Y tế Việt Mỹ"
+    }
+   ],
+   "source": "CafeF"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+0,56 điểm (+0,03%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.832,12 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~15.434 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~321 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "145,7 - 148,7 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.260 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua đồng loạt tăng, S&P 500, Dow Jones và Nasdaq đều đóng cửa trong sắc xanh (+0,45% đến +0,56%) khi giới đầu tư lấy lại tâm lý tích cực; giá dầu WTI và Brent nhích nhẹ, trong khi vàng thế giới tăng mạnh 1,84% lên 4.428 USD/ounce giữa lúc lợi suất trái phiếu Nhật Bản đi lên và làn sóng bán tháo trái phiếu chính phủ toàn cầu quay lại. Trong nước, phiên giao dịch gần nhất trước kỳ nghỉ Lễ Quốc khánh (28/8) ghi nhận VN-Index tăng nhẹ lên 1.832,12 điểm, thanh khoản HOSE đạt khoảng 15.434 tỷ đồng và khối ngoại mua ròng gần 321 tỷ đồng. Tỷ giá USD/VND tại Vietcombank niêm yết bán ra 26.260 đồng, trong khi giá vàng SJC giữ quanh 145,7 - 148,7 triệu đồng/lượng trong những ngày nghỉ lễ.",
+  "tiles": [
+   {
+    "change_pct": 0.46,
+    "label": "S&P 500",
+    "value": "7.666,6"
+   },
+   {
+    "change_pct": 0.56,
+    "label": "Dow Jones",
+    "value": "53.061,9"
+   },
+   {
+    "change_pct": 0.45,
+    "label": "Nasdaq",
+    "value": "26.217,8"
+   },
+   {
+    "change_pct": 0.53,
+    "label": "Dầu WTI",
+    "value": "90,7 USD"
+   },
+   {
+    "change_pct": 0.69,
+    "label": "Dầu Brent",
+    "value": "95,3 USD"
+   },
+   {
+    "change_pct": 1.84,
+    "label": "Vàng thế giới",
+    "value": "4.428 USD"
+   },
+   {
+    "change_pct": -0.35,
+    "label": "Bitcoin",
+    "value": "77.135 USD"
+   },
+   {
+    "change_pct": -0.09,
+    "label": "DXY",
+    "value": "99,58"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:e6c4d76583",
+     "title": "NVL: Kiểm toán nhấn mạnh vấn đề hoạt động liên tục, đã bán 4 tài sản gần 11.300 tỷ đồng"
+    },
+    {
+     "ref": "cafef:e11c61b7e6",
+     "title": "QCG: Lãi tăng 18 lần, kinh doanh chính vẫn lỗ, Cường Đô La và người thân tiếp sức hàng trăm tỷ, “đất vàng” Bắc Phước Kiển ra sao?"
+    },
+    {
+     "ref": "cafef:3143687ae2",
+     "title": "Một công ty chào bán 36 triệu cổ phiếu riêng lẻ giá bằng 1/3 giá trên sàn nhưng không ai mua"
+    },
+    {
+     "ref": "cafef:f0048608a8",
+     "title": "VIC: Vốn hóa tăng gần 525.000 tỷ đồng sau 8 tháng 2026, phần tăng thêm còn lớn hơn cả giá trị Vietcombank"
+    },
+    {
+     "ref": "cafef:bda16e469a",
+     "title": "Một công ty thép “ôm” 350 tỷ bất động sản tại các dự án của Novaland"
+    },
+    {
+     "ref": "cafef:7c3721c8f6",
+     "title": "Samsung đưa 1.612 thiết bị mới hoàn toàn vào nhà máy chip ở Việt Nam: Dự án 4,08 tỷ USD dự kiến đi vào hoạt động từ năm sau"
+    },
+    {
+     "ref": "cafef:0311f0bdd1",
+     "title": "Siêu dự án điện gió ngoài khơi 11,9 tỷ USD: Tham vọng biến gió thành 'mỏ năng lượng' mới của Việt Nam"
+    },
+    {
+     "ref": "cafef:35dca26a81",
+     "title": "Ông Phạm Nhật Vượng sắp xây 2 VinWonders rộng gấp 4 lần Disneyland Park tại Paris"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:8f9d953857",
+     "title": "Chứng khoán sẽ biến động thế nào sau kỳ nghỉ lễ?"
+    },
+    {
+     "ref": "vietstock:4359eac9bf",
+     "title": "Lãi suất cao lan nhanh sang chứng chỉ tiền gửi"
+    },
+    {
+     "ref": "vietstock:420843973b",
+     "title": "Vietstock Weekly 03-04/09/2026: Giữ đà phục hồi"
+    },
+    {
+     "ref": "vietstock:04e849c300",
+     "title": "Gần 150.000 căn condotel bị 'mắc cạn'"
+    },
+    {
+     "ref": "vietstock:14a1a20a1f",
+     "title": "Xuất khẩu dầu mỏ của Iran qua eo biển Hormuz gần như đình trệ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:9e1516d92d",
+     "title": "Thị trường trái phiếu chính phủ toàn cầu lại bán tháo"
+    },
+    {
+     "ref": "vneconomy:95cad1bd2a",
+     "title": "Mỹ cho biết Trung Quốc bất đồng với tuyên bố chung của G20 về “hàng xuất khẩu giá rẻ”"
+    },
+    {
+     "ref": "vneconomy:a1abfee089",
+     "title": "VN-Index tăng nhẹ, rủi ro rung lắc vẫn hiện hữu"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a69de8a630",
+     "title": "Chứng khoán ACBS huy động thành công 600 tỷ đồng, “bơm vốn” cho tự doanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cabb4268dd",
+     "title": "Cổ phiếu cần quan tâm ngày 3/9"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f0013b92fa",
+     "title": "HDC: Tổng giám đốc mua thành công 300.000 cổ phiếu, 6 tháng mới hoàn thành 21% kế hoạch lợi nhuận"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c34bd272f5",
+     "title": "Khối ngoại bán ròng hơn 94.000 tỷ đồng trong 8 tháng, nhưng kỳ vọng sớm đảo chiều"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2070b17e15",
+     "title": "TIN: Lãi hơn 1.000 tỷ đồng sau 6 tháng, thu nhập lãi tăng hơn 3 lần khi tín dụng mở rộng mạnh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e72114fd3a",
+     "title": "Nhận định thị trường phiên giao dịch ngày 3/9: Tránh mua đuổi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f894e36192",
+     "title": "Lãi suất cho vay sẽ giảm đến đâu?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6e192117f7",
+     "title": "Chung cư có thời hạn: Cần cân đối lợi ích các bên!"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:99381bca9c",
+     "title": "8 tháng năm 2026, Hải Phòng thu hút hơn 3,47 tỷ USD vốn FDI, đạt 84,6% kế hoạch năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e0727b92c6",
+     "title": "Từ 15/9/2026, tắt sóng mạng 2G trên phạm vi toàn quốc"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e79f4ed06c",
+     "title": "Gia tăng sức hút với nhà đầu tư dài hạn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1815dacaa3",
+     "title": "Thống đốc BOJ cam kết tiếp tục tăng lãi suất"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7320991050",
+     "title": "Trung Quốc yêu cầu các hãng xe không mang cuộc chiến giá ra thị trường nước ngoài"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:f3ca92dcdd",
+     "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, một \"thế lực\" âm thầm gom loạt cổ phiếu"
+    },
+    {
+     "ref": "markettimes:941d94d0d1",
+     "title": "Sau nghỉ lễ, chuyên gia chỉ tên 2 nhóm cổ phiếu định giá rẻ, triển vọng tăng trưởng lợi nhuận tích cực"
+    },
+    {
+     "ref": "markettimes:e79e0444e0",
+     "title": "Một doanh nghiệp khu công nghiệp sắp đưa 2 dự án mới vào khai thác, lợi nhuận ròng cả năm có thể đạt 2.000 tỷ đồng"
+    },
+    {
+     "ref": "markettimes:6956f6d8c9",
+     "title": "Nóng dần cuộc đua tăng vốn của các ngân hàng"
+    },
+    {
+     "ref": "markettimes:85f37d08d7",
+     "title": "Điểm danh các ngân hàng có khối tài sản trên 1 triệu tỷ đồng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:f2b31c1283",
+     "title": "Sau nghỉ lễ 2/9, chứng khoán có bứt phá với 'cú hích' nâng hạng?"
+    },
+    {
+     "ref": "ti-n-phong:84be1e030e",
+     "title": "VIC: Thông tin lương thưởng của chủ tịch, CEO Vingroup"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:0870e34cf1",
+     "title": "AI tái định vị hoạt động ngân hàng"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:a3a6909981",
+   "title": "Đấu giá trái phiếu kỳ hạn 30 năm của Nhật Bản có thể khoét sâu thêm đà bán tháo nợ công",
+   "translated": true,
+   "original_title": "Japan’s 30-Year Bond Auction Risks Adding Fuel to Debt Selloff",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-02/japan-s-30-year-bond-auction-risks-adding-fuel-to-debt-selloff"
+  },
+  {
+   "ref": "reuters:919ad0dc11",
+   "title": "Phố Wall tăng điểm, cổ phiếu Mỹ lấy lại sắc xanh",
+   "translated": true,
+   "original_title": "Wall St ends higher as stocks reclaim some shine",
+   "link": "https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/"
+  },
+  {
+   "ref": "reuters:869148f8b8",
+   "title": "Snowflake nâng dự báo doanh thu năm nhờ nhu cầu điện toán đám mây và AI, cổ phiếu tăng vọt",
+   "translated": true,
+   "original_title": "Snowflake lifts annual revenue forecast on cloud and AI demand, shares soar",
+   "link": "https://www.reuters.com/business/snowflake-lifts-annual-product-revenue-forecast-demand-cloud-data-platform-2026-09-02/"
+  },
+  {
+   "ref": "bloomberg:692ad22445",
+   "title": "Nhu cầu dầu suy yếu của Trung Quốc giúp kiềm chế phát thải khí nhà kính",
+   "translated": true,
+   "original_title": "China’s Waning Appetite for Oil Is Keeping Emissions in Check",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-02/china-s-waning-appetite-for-oil-is-keeping-emissions-in-check"
+  },
+  {
+   "ref": "reuters:408a3c3c31",
+   "title": "Nscale hé lộ doanh thu cam kết 103 tỷ USD trước thềm IPO tiềm năng",
+   "translated": true,
+   "original_title": "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
+   "link": "https://www.reuters.com/business/media-telecom/nscale-touts-103-billion-contracted-revenue-ahead-potential-ipo-information-2026-09-02/"
+  },
+  {
+   "ref": "reuters:bfe0e7c8c9",
+   "title": "Quỹ đầu tư Elliott xây dựng cổ phần tại Deutsche Telekom",
+   "translated": true,
+   "original_title": "Elliott builds stake in Deutsche Telekom, source says",
+   "link": "https://www.reuters.com/legal/legalindustry/elliott-has-built-stake-deutsche-telekom-opposes-t-mobile-merger-bloomberg-news-2026-09-02/"
+  },
+  {
+   "ref": "reuters:eec7689e55",
+   "title": "Uber và hãng AI Wayve ra mắt dịch vụ robotaxi đầu tiên tại London",
+   "translated": true,
+   "original_title": "Uber and AI-firm Wayve launch London's first robotaxis",
+   "link": "https://www.reuters.com/business/uber-ai-firm-wayve-launch-londons-first-robotaxis-2026-09-02/"
+  },
+  {
+   "ref": "bloomberg:5d22ec8daa",
+   "title": "Five Below nâng triển vọng kinh doanh, đẩy mạnh sức hút với giới trẻ Gen Alpha",
+   "translated": true,
+   "original_title": "Five Below Lifts Outlook, Aims to Ramp Up Appeal to Gen Alpha",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-02/five-below-lifts-outlook-aims-to-ramp-up-appeal-to-gen-alpha"
+  },
+  {
+   "ref": "reuters:0cbfe01057",
+   "title": "Quốc hội Brazil hoàn tất bỏ phiếu dự luật khoáng sản chiến lược, trình Tổng thống ký ban hành",
+   "translated": true,
+   "original_title": "Congresso conclui votação do projeto de minerais críticos, que segue à sanção presidencial",
+   "link": "https://www.reuters.com/pt/negocio/ATEGKGRLVZP33AP7ANGJNIRBRU-2026-09-02/"
+  },
+  {
+   "ref": "reuters:2f10c1a42c",
+   "title": "Các công ty bảo hiểm của Samsung sẽ mua lại Canopius với giá 1,5 tỷ USD",
+   "translated": true,
+   "original_title": "Samsung insurance firms to acquire Canopius for $1.5 billion, Korea Economic Daily reports",
+   "link": "https://www.reuters.com/legal/transactional/samsung-insurance-firms-acquire-canopius-15-billion-korea-economic-daily-reports-2026-09-02/"
+  }
+ ],
+ "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa"
+}
