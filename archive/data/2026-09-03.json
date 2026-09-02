@@ -379,5 +379,68 @@
    "link": "https://www.reuters.com/legal/transactional/samsung-insurance-firms-acquire-canopius-15-billion-korea-economic-daily-reports-2026-09-02/"
   }
  ],
- "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa"
+ "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "e94d2969d93ca766e86654c904521ee11fda8fa0",
+   "published_at": "2026-09-03T06:44:18+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "244",
+   "sent_at": "2026-09-03T06:44:19+07:00",
+   "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "244",
+     "sent_at": "2026-09-03T06:44:19+07:00",
+     "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "2b0d1a9e15098550dc1f",
+   "sent_at": "2026-09-03T06:44:20+07:00",
+   "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "2b0d1a9e15098550dc1f",
+     "sent_at": "2026-09-03T06:44:20+07:00",
+     "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "ab12ebd5e442741b2d54",
+     "sent_at": "2026-09-03T06:44:20+07:00",
+     "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "d6d4bfbfb1282171783e",
+     "sent_at": "2026-09-03T06:44:21+07:00",
+     "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "873cc29bcc0c5c55051a",
+     "sent_at": "2026-09-03T06:44:23+07:00",
+     "content_sha": "8c7dcb870859134192bb79f842d8d9e9d17eb27b91f355b1ea152ff808c165fa"
+    }
+   ]
+  }
+ }
 }
