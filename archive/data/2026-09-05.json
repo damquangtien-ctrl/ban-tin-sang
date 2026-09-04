@@ -1,0 +1,580 @@
+{
+ "date": "2026-09-05",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thị trường chứng khoán",
+   "text": "VN-Index tăng 25,36 điểm lên 1.853,08 điểm, khối ngoại mua ròng nhẹ trên HOSE"
+  },
+  {
+   "source": "CafeF",
+   "text": "Vingroup lập kỷ lục, trở thành doanh nghiệp Việt đầu tiên vốn hóa vượt 2 triệu tỷ đồng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Phố Wall giảm điểm, lợi suất và USD tăng sau báo cáo việc làm Mỹ mạnh hơn dự báo"
+  },
+  {
+   "source": "Reuters",
+   "text": "Anthropic dời kế hoạch IPO sang giữa tháng 10, dự kiến công bố cáo bạch cuối tháng 9"
+  },
+  {
+   "source": "CafeF",
+   "text": "PNJ trích gần 3.700 tỷ đồng dự phòng, gia đình Chủ tịch đăng ký bán 25 triệu cổ phiếu hỗ trợ vốn"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:23330f110a",
+     "title": "Người từng cho Bamboo Airways vay hơn 7.700 tỷ đồng bị tạm hoãn xuất cảnh"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9aaad17962",
+     "title": "Bộ Công an: Huấn \"Hoa Hồng\", Phú Lê, Hải Sapa lừa đảo, mua bán hoá đơn trái phép, \"giấu\" doanh thu hàng trăm tỷ đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:a0ffbc54b3",
+     "title": "Doanh nghiệp dệt may Việt Nam thua kiện Amazon vừa công bố tài liệu quan trọng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:4900600ab1",
+     "title": "CIG: Khắc phục và bổ sung Nghị quyết HĐQT ban hành năm 2024, 2025 theo Quyết định số 438 ngày 05/08/2026 của Thanh tra CKNN"
+    }
+   ],
+   "source": "HOSE"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:8f2e863e23",
+     "title": "CEO của XoilacTV, CakhiaTV thu lợi 133 tỷ đồng quảng cáo cá cược"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:60716da071",
+     "title": "PVIT: Vi phạm công bố thông tin, bị Ủy ban Chứng khoán Nhà nước xử phạt"
+    },
+    {
+     "ref": "google-news-ph-p-l:02fa519e6b",
+     "title": "Y tế Việt Mỹ trúng hàng trăm gói thầu trước khi Thứ trưởng Bộ Y tế bị khởi tố"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+25,36 điểm (+1,39%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.853,08 điểm"
+   },
+   {
+    "change": "+0,29 điểm (+0,10%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "282,53 điểm"
+   },
+   {
+    "change": "Giảm từ ~14.645 tỷ đồng",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "~13.745 tỷ đồng"
+   },
+   {
+    "change": "KL bán ròng 18,33 triệu cp",
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "+96,6 tỷ đồng (mua ròng)"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "145,6 - 148,6 triệu đ/lượng"
+   },
+   {
+    "change": "Mua CK 25.875",
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.255 đồng"
+   }
+  ],
+  "summary": "Phiên 4/9, Mỹ công bố báo cáo việc làm tháng 8 mạnh hơn dự báo (162.000 việc làm mới, thất nghiệp 4,1%), làm gia tăng kỳ vọng Fed giữ lãi suất cao lâu hơn; lợi suất trái phiếu và USD tăng, khiến Phố Wall giảm điểm (S&P 500 -0,38%, Dow Jones -0,51%, Nasdaq -0,29%). Dầu WTI giảm nhẹ trong khi Brent nhích lên, còn vàng thế giới và Bitcoin đều giảm giá trước kỳ vọng Fed cứng rắn hơn. Tại Việt Nam, VN-Index tăng 25,36 điểm (+1,39%) lên 1.853,08 điểm và HNX-Index tăng 0,29 điểm lên 282,53 điểm trong phiên 4/9, dù thanh khoản HOSE giảm so với phiên trước còn khoảng 13.745 tỷ đồng. Khối ngoại quay lại mua ròng nhẹ trên HOSE về giá trị (khoảng 96,6 tỷ đồng) nhưng vẫn bán ròng về khối lượng.",
+  "tiles": [
+   {
+    "change_pct": -0.38,
+    "label": "S&P 500",
+    "value": "7.718,6"
+   },
+   {
+    "change_pct": -0.51,
+    "label": "Dow Jones",
+    "value": "53.414,2"
+   },
+   {
+    "change_pct": -0.29,
+    "label": "Nasdaq",
+    "value": "26.507,0"
+   },
+   {
+    "change_pct": -0.09,
+    "label": "Dầu WTI",
+    "value": "91,2 USD"
+   },
+   {
+    "change_pct": 0.32,
+    "label": "Dầu Brent",
+    "value": "95,8 USD"
+   },
+   {
+    "change_pct": -0.32,
+    "label": "Vàng thế giới",
+    "value": "4.477 USD"
+   },
+   {
+    "change_pct": -1.94,
+    "label": "Bitcoin",
+    "value": "79.698 USD"
+   },
+   {
+    "change_pct": 0.16,
+    "label": "DXY",
+    "value": "99,16"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:9cee7dd9f1",
+     "title": "VHM: Chủ đầu tư siêu dự án đô thị lấn biển Cần Giờ 9 tỷ USD báo lãi 6 tháng đầu năm 2026 hơn 30.000 tỷ đồng, gấp 5 lần cùng kỳ"
+    },
+    {
+     "ref": "cafef:2e7c2f8d9d",
+     "title": "PNJ: Chấp nhận \"đau một lần\", trích gần 3.700 tỷ đồng dự phòng cho cả hàng bán từ 7 năm trước"
+    },
+    {
+     "ref": "cafef:9ceb095938",
+     "title": "DC4: Chốt ngày thưởng gần 2 triệu cổ phiếu cho 86 cá nhân"
+    },
+    {
+     "ref": "cafef:0e286a29d2",
+     "title": "VSC: Viconship lên kế hoạch tăng vốn điều lệ vượt 5.800 tỷ đồng"
+    },
+    {
+     "ref": "cafef:3f1f236eab",
+     "title": "HUT: Tasco cải thiện hiệu quả kinh doanh, lợi nhuận 6 tháng tăng gần 3 lần cùng kỳ"
+    },
+    {
+     "ref": "cafef:33e637cf99",
+     "title": "Lãnh đạo Cục Thuế thông tin mới nhất về chiến dịch 'làm sạch' mã số thuế: Gần 95.000 doanh nghiệp bị 'xóa', hơn 3.000 doanh nghiệp được 'sống lại'"
+    },
+    {
+     "ref": "cafef:eaeebf25b8",
+     "title": "TTG: ĐHĐCĐ bất thường của TTG Group chốt huy động 165 tỷ đồng, gần 70% tiền sẽ rót vào chuỗi spa, chăm sóc sức khỏe"
+    },
+    {
+     "ref": "cafef:b238d11027",
+     "title": "VNS: \"Ông vua taxi\" một thời Vinasun lỗ gần 14 tỷ đồng trong nửa đầu năm"
+    },
+    {
+     "ref": "cafef:4e884b87d2",
+     "title": "VIC: Vingroup lập kỷ lục, Việt Nam lần đầu có doanh nghiệp vốn hóa 2 triệu tỷ đồng"
+    },
+    {
+     "ref": "cafef:2234fc4e75",
+     "title": "Nóng: Heineken sắp xây nhà máy bia lớn nhất châu Á tại Việt Nam"
+    },
+    {
+     "ref": "cafef:2b04386d7b",
+     "title": "Chủ đầu tư ngoại của khu đô thị đắc địa hàng đầu Tp.HCM báo lãi tăng 40% sau 6T2026, lợi nhuận tích luỹ đã vượt 13.500 tỷ"
+    },
+    {
+     "ref": "cafef:097bb8063b",
+     "title": "PNJ: Gia đình Chủ tịch đăng ký bán 25 triệu cổ phiếu lấy tiền cho công ty vay, lợi nhuận giảm 38% sau soát xét"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:cbe698023e",
+     "title": "Phó Thủ tướng: Ban Chỉ đạo điều hành giá sẽ họp hằng tháng với địa phương"
+    },
+    {
+     "ref": "vietstock:5a70652839",
+     "title": "21 cổ phiếu Việt bị loại khỏi rổ FTSE Vietnam Index"
+    },
+    {
+     "ref": "vietstock:fc5afbe709",
+     "title": "Chứng khoán Tuần 03-04/09/2026: Dòng tiền phân hóa"
+    },
+    {
+     "ref": "vietstock:7b51ac29d7",
+     "title": "SmartMind sắp đổi tên lần 5, chia hơn 800 tỷ đồng cổ tức"
+    },
+    {
+     "ref": "vietstock:2c850ddef0",
+     "title": "Formosa Hà Tĩnh tạm dừng một lò cao sau sự cố nổ lò gió nóng"
+    },
+    {
+     "ref": "vietstock:3ed7c81cff",
+     "title": "Một doanh nghiệp xây dựng lãi \"khủng\" hơn 11.200 tỷ nửa đầu năm, tổng tài sản hơn 98 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:4cea5e9893",
+     "title": "Quỹ đầu tư quốc gia lớn nhất thế giới tính giảm nắm giữ trái phiếu Mỹ"
+    },
+    {
+     "ref": "vietstock:c252adb25a",
+     "title": "BKAV Pro giảm nửa lợi nhuận, báo cáo bán niên tiếp tục nhận ý kiến ngoại trừ"
+    },
+    {
+     "ref": "vietstock:d3f15d9fc7",
+     "title": "Thêm doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng nửa đầu năm, gánh nợ gần 1 tỷ USD"
+    },
+    {
+     "ref": "vietstock:f794532394",
+     "title": "Nợ ngân hàng lên gấp đôi ở doanh nghiệp đứng sau KCN Gia Lộc"
+    },
+    {
+     "ref": "vietstock:1e45c86223",
+     "title": "Lợi nhuận của SCOMMERCE lao dốc 95% sau đợt phát hành trái phiếu đầu tiên"
+    },
+    {
+     "ref": "vietstock:f87261dc07",
+     "title": "TNC: Cao su Thống Nhất chi 38,5 tỷ trả cổ tức 2025"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:1431bcc791",
+     "title": "Thế giới bước vào kỷ nguyên lãi suất cao: Ai thiệt hại?"
+    },
+    {
+     "ref": "vneconomy:d387631208",
+     "title": "HTN: Kết quả bán niên 2026 khả quan, hoàn tất thủ tục tăng vốn điều lệ thêm 50%"
+    },
+    {
+     "ref": "vneconomy:fc5b9467a9",
+     "title": "Sở giao dịch Chứng khoán Việt Nam giám sát các cổ phiếu chính thức vào rổ FTSE Russell"
+    },
+    {
+     "ref": "vneconomy:485a35b603",
+     "title": "Fubon ETF sắp bán ra hàng chục triệu hai cổ phiếu chứng khoán"
+    },
+    {
+     "ref": "vneconomy:6f958c98cf",
+     "title": "Một quan chức Fed phát tín hiệu muốn giữ nguyên lãi suất trong cuộc họp tới"
+    },
+    {
+     "ref": "vneconomy:d4b56413e5",
+     "title": "Tỷ giá yên Nhật tăng mạnh do khả năng BOJ tăng lãi suất, không có dấu hiệu can thiệp"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:22e40dfeca",
+     "title": "Bộ Xây dựng đề xuất cơ chế, chính sách áp dụng chung cho các tuyến cao tốc giai đoạn 2026–2030"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9c77d0a01c",
+     "title": "Xuất khẩu thủy sản 8 tháng thu 8 tỷ USD, mục tiêu 12 tỷ USD khả thi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:490078c835",
+     "title": "Tiền gửi ngân hàng tăng lên, lãi suất phát hành trái phiếu giảm nhiệt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f20afd6a03",
+     "title": "HAP: Thành viên HĐQT Tập đoàn Hapaco tiếp tục đăng ký mua 2 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:20f8cbed69",
+     "title": "\"Siêu El Nino\" gia tăng rủi ro thời tiết cực đoan, gây sức ép lên kinh tế toàn cầu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:dfeb0509e2",
+     "title": "Hà Lan chuyển vàng dự trữ khỏi Mỹ và Canada trong bối cảnh bất ổn địa chính trị"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:054ec998ec",
+     "title": "Làn sóng thay đổi lớn về kế toán và thuế trong năm 2026"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:41931dbf3f",
+     "title": "VPB: Giảm tới 1,5% lãi suất, tiếp sức vốn cho khách hàng sản xuất kinh doanh"
+    },
+    {
+     "ref": "b-o-u-t:0a6169d791",
+     "title": "Trình Đề án cải cách chính sách tiền lương và bảo hiểm xã hội trong tháng 3/2027"
+    },
+    {
+     "ref": "b-o-u-t:101f6a296b",
+     "title": "Doanh nghiệp rời thị trường tăng, Chủ tịch UBND TP.HCM yêu cầu tiếp tục cắt giảm thủ tục"
+    },
+    {
+     "ref": "b-o-u-t:2da5b7293f",
+     "title": "Dòng vốn tư nhân áp đảo, TP.HCM cần thêm lực từ đầu tư công và FDI"
+    },
+    {
+     "ref": "b-o-u-t:1bd0f3269e",
+     "title": "8 tháng, TKV đạt doanh thu khoảng 125.000 tỷ đồng"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:df3f2acdeb",
+     "title": "Đề xuất áp thuế 10% suốt 25 năm cho doanh nghiệp công nghệ chiến lược"
+    },
+    {
+     "ref": "markettimes:d7caeafcc2",
+     "title": "2 cổ phiếu chứng khoán có thể bị loại khỏi FTSE Vietnam 30"
+    },
+    {
+     "ref": "markettimes:5bcdcfa6d2",
+     "title": "Ông Đoàn Văn Hiểu Em muốn gom thêm cổ phiếu Điện Máy Xanh"
+    },
+    {
+     "ref": "markettimes:45ee69529f",
+     "title": "Cổ đông Nhà nước muốn thoái sạch vốn với giá cao ngất ngưởng, một cổ phiếu tăng vọt 50% sau 1 tháng"
+    },
+    {
+     "ref": "markettimes:5fcf9f3065",
+     "title": "KBC: Huy động thành công 700 tỷ đồng trái phiếu, lãi suất 12%/năm"
+    },
+    {
+     "ref": "markettimes:94088bce72",
+     "title": "VHM: Đúng 5 ngày nữa, cổ đông Vinhomes sẽ chứng kiến một thay đổi quan trọng"
+    },
+    {
+     "ref": "markettimes:cf9e7b3e07",
+     "title": "DGC: Gia đình cựu Chủ tịch Hóa chất Đức Giang sẽ nhận hơn 800 tỷ ngay trong tháng 9"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:dfc83ce405",
+     "title": "Điều hành giá 4 tháng cuối năm 2026: Cân nhắc thời điểm điều chỉnh giá điện và dịch vụ công"
+    },
+    {
+     "ref": "vnbusiness:d6a248e8c9",
+     "title": "Chủ dự án Amy Complex tiếp tục báo lỗ, nợ phải trả gấp 5,5 lần vốn chủ sở hữu"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:dfb99a2883",
+     "title": "\"Cuộc đua\" sàn tài sản mã hóa sau một năm thí điểm: Người tăng tốc, bên rút lui"
+    },
+    {
+     "ref": "ti-n-phong:6a9ee20a99",
+     "title": "Nâng dự trữ xăng dầu lên 90 ngày: Bài toán không chỉ là xây kho"
+    },
+    {
+     "ref": "ti-n-phong:9852a24b1a",
+     "title": "HPG: Thép Hòa Phát Dung Quất cán mốc sản lượng 1 triệu tấn gang lỏng mỗi tháng"
+    },
+    {
+     "ref": "ti-n-phong:49cc7c6f19",
+     "title": "Đề xuất nâng trần tín dụng cho \"siêu dự án\" tại Hà Nội"
+    },
+    {
+     "ref": "ti-n-phong:0c966a4813",
+     "title": "Sắp có bất ngờ về lãi suất ngân hàng?"
+    },
+    {
+     "ref": "ti-n-phong:3ec42005b9",
+     "title": "Ngân hàng lấn sân bảo hiểm: Có tái diễn 'bia kèm lạc'?"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:db847d6b2b",
+     "title": "Dự thảo Luật An toàn thực phẩm (sửa đổi): Chuyển trọng tâm sang quản lý rủi ro"
+    },
+    {
+     "ref": "bnews:6b708999d1",
+     "title": "Doanh số xe Toyota Việt Nam giảm 31% trong tháng 8"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:27a3e4cabf",
+     "title": "GSP: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:6ce4d15a9f",
+     "title": "DLG: Thông báo về tình trạng chứng khoán của cổ phiếu"
+    },
+    {
+     "ref": "hose:d3de0b6241",
+     "title": "NAF: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty Cổ phần Chứng khoán TP.HCM"
+    },
+    {
+     "ref": "hose:24a718d717",
+     "title": "HAP: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty Cổ phần Cánh Đồng Xanh"
+    },
+    {
+     "ref": "hose:c0539302db",
+     "title": "TCR: Giải trình lợi nhuận sau soát xét BCTC HN và Cty mẹ 6 tháng năm 2026 so với cùng kỳ năm trước"
+    },
+    {
+     "ref": "hose:65025a3f6e",
+     "title": "SJS: Nghị quyết HĐQT về việc thông qua hồ sơ chào bán thêm cổ phiếu ra công chúng"
+    },
+    {
+     "ref": "hose:3959889410",
+     "title": "MBB: Báo cáo kết quả giao dịch quyền mua cổ phiếu của người nội bộ Hà Trọng Khiêm"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:fd9c7bf825",
+   "title": "Lợi suất và USD tăng, chứng khoán Mỹ giảm nhẹ sau báo cáo việc làm khả quan",
+   "translated": true,
+   "original_title": "Yields, dollar rise, stocks ease after solid US jobs report",
+   "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/"
+  },
+  {
+   "ref": "reuters:8d857e8f95",
+   "title": "Nguồn tin: Chủ tịch Trung Quốc Tập Cận Bình muốn đưa đoàn CEO lớn trong chuyến thăm Mỹ",
+   "translated": true,
+   "original_title": "China's Xi seeks to bring large CEO delegation on US visit, sources say",
+   "link": "https://www.reuters.com/business/retail-consumer/exclusive-chinas-xi-bring-large-ceo-delegation-us-visit-sources-say-2026-09-04/"
+  },
+  {
+   "ref": "reuters:8f5ad83330",
+   "title": "Phố Wall giảm điểm khi số liệu việc làm mạnh làm tăng kỳ vọng Fed cứng rắn",
+   "translated": true,
+   "original_title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+   "link": "https://www.reuters.com/business/nasdaq-sp-500-futures-climb-ahead-key-jobs-report-2026-09-04/"
+  },
+  {
+   "ref": "reuters:5f7424a99b",
+   "title": "Mỹ, Trung Quốc chuẩn bị đối thoại an toàn AI vào giữa tháng 9",
+   "translated": true,
+   "original_title": "US, China gear up for mid-September AI safety talks",
+   "link": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/"
+  },
+  {
+   "ref": "reuters:c9ff0676c7",
+   "title": "Citigroup dời dự báo Fed giảm lãi suất sang năm 2027 sau báo cáo việc làm Mỹ mạnh",
+   "translated": true,
+   "original_title": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
+   "link": "https://www.reuters.com/business/citigroup-delays-fed-rate-cut-forecast-2027-after-strong-us-jobs-report-2026-09-04/"
+  },
+  {
+   "ref": "reuters:3a1f3989f9",
+   "title": "Nguồn tin: Anthropic dời kế hoạch IPO sang giữa tháng 10",
+   "translated": true,
+   "original_title": "Anthropic IPO launch shifts toward mid-October, sources say",
+   "link": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/"
+  },
+  {
+   "ref": "reuters:113b167a01",
+   "title": "Tác nhân AI của OpenAI từng chiếm quyền một website Đức trong sự cố AI \"vượt rào\" chưa từng công bố hồi mùa xuân",
+   "translated": true,
+   "original_title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+   "link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/"
+  },
+  {
+   "ref": "reuters:f786c15c39",
+   "title": "Số việc làm tăng mạnh báo hiệu Fed có thể tăng lãi suất, Trump tiếp tục đòi giảm lãi suất",
+   "translated": true,
+   "original_title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+   "link": "https://www.reuters.com/business/fed-rate-hike-back-focus-after-strong-jobs-report-2026-09-04/"
+  },
+  {
+   "ref": "reuters:97c6dbcd50",
+   "title": "Musk thử giới hạn pháp lý với dịch vụ robotaxi Cybercab của Tesla",
+   "translated": true,
+   "original_title": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service",
+   "link": "https://www.reuters.com/legal/litigation/musk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-2026-09-04/"
+  },
+  {
+   "ref": "reuters:ef60b392de",
+   "title": "Áp lực của Mỹ lên Iran bắt đầu phát tác khi lệnh trừng phạt và phong tỏa siết chặt",
+   "translated": true,
+   "original_title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+   "link": "https://www.reuters.com/world/middle-east/us-pressure-iran-starting-tell-sanctions-blockade-bite-2026-09-03/"
+  },
+  {
+   "ref": "bloomberg:abcabd66d9",
+   "title": "Bloom Energy, Illumina, Everpure sẽ được thêm vào S&P 500 trong tháng này",
+   "translated": true,
+   "original_title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september"
+  },
+  {
+   "ref": "tg-marketfeed:1031980",
+   "title": "Khoản đầu tư Bitcoin của Strategy (Michael Saylor) đang lãi chưa thực hiện 4,93 tỷ USD",
+   "translated": true,
+   "original_title": "JUST IN: MICHAEL SAYLOR'S 'STRATEGY' BITCOIN INVESTMENT IS CURRENTLY AT A $4,930,000,000 UNREALIZED GAIN. $MSTR GAINS SINCE THE COMPANY BEGAN ITS BTC INVESTMENT IN 2020: ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1031978",
+   "title": "Kraken thông báo trì hoãn nạp/rút tiền với một số mạng blockchain do sự cố kỹ thuật",
+   "translated": true,
+   "original_title": "KRAKEN: FUNDING DELAYS FOR SELECT BLOCKCHAIN NETWORKS; DEPOSITS PAUSED, WITHDRAWALS DELAYED - STATUS PAGE ...",
+   "link": null
+  }
+ ],
+ "content_sha": "5a8800f7e24fbc28a95082a209fc6b7be09eeb4cd2ee76856a260a5b65278342"
+}
