@@ -1,0 +1,50 @@
+
+########## CHAY LUC 2026-09-05 06:51:06 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-05, ban daily)
+   the gioi 13 tin · Viet Nam 66 tin / 10 bao · phap ly 7 tin · chot quyen 0 ma
+   CANH BAO [C7] vietnam[9].items[2] và vietnam[9].items[3] có thể trùng sự kiện (giống 65%)
+   THAT BAI: 1 loi
+      [C9] legal: khối 'MarketTimes' phải đứng trước 'VnExpress' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-09-05 06:51:21 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-05, ban daily)
+   the gioi 13 tin · Viet Nam 66 tin / 10 bao · phap ly 7 tin · chot quyen 0 ma
+   CANH BAO [C7] vietnam[9].items[2] và vietnam[9].items[3] có thể trùng sự kiện (giống 65%)
+   THAT BAI: 1 loi
+      [C9] legal: khối 'MarketTimes' phải đứng trước 'HOSE' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-09-05 06:51:53 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-05, ban daily)
+   the gioi 13 tin · Viet Nam 66 tin / 10 bao · phap ly 7 tin · chot quyen 0 ma
+   CANH BAO [C7] vietnam[9].items[2] và vietnam[9].items[3] có thể trùng sự kiện (giống 65%)
+   DAT: khong loi, 1 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-05 · the gioi 13 · Viet Nam 66 · phap ly 7
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-05.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-09-05: commit 938ef3277c04 · sha noi dung d2a61dbda5c6bd7a
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 05/09 | content_sha 5a8800f7e24f | commit 938ef3277c04
+   telegram user/928f6fc4179d OK message_id=246
+   zalo     user/593dd2adbb87 OK message_id=3c1ac069bc8a2ed3779c
+   zalo     group/8fddff299f5f OK message_id=cc532b2057c3c59a9cd5
+   zalo     group/240eac12bc5e OK message_id=8a0768801463863adf75
+   zalo     group/8b7b62566b6c OK message_id=f6eecee5b506275f7e10
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-05.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-09-05 06:52:30 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
