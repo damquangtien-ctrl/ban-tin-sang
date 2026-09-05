@@ -142,5 +142,68 @@
    "link": "https://www.reuters.com/business/energy/venezuelan-billionaire-us-investigated-money-laundering-now-has-pentagon-oil-2026-09-05/"
   }
  ],
- "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4"
+ "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "f1c749f6a9eb9c73094f368135e7665d2b666c46",
+   "published_at": "2026-09-06T06:36:06+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "247",
+   "sent_at": "2026-09-06T06:36:07+07:00",
+   "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "247",
+     "sent_at": "2026-09-06T06:36:07+07:00",
+     "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "428049e252d1c7889ec7",
+   "sent_at": "2026-09-06T06:36:08+07:00",
+   "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "428049e252d1c7889ec7",
+     "sent_at": "2026-09-06T06:36:08+07:00",
+     "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "d90e06c11af28fabd6e4",
+     "sent_at": "2026-09-06T06:36:09+07:00",
+     "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "bd7f81469d75082c5163",
+     "sent_at": "2026-09-06T06:36:10+07:00",
+     "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "1d8508cb14f881a1d8ee",
+     "sent_at": "2026-09-06T06:36:11+07:00",
+     "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4"
+    }
+   ]
+  }
+ }
 }
