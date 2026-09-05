@@ -1,0 +1,146 @@
+{
+ "date": "2026-09-06",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Mỹ và Iran nổ súng vào tàu thuyền gần vùng Vịnh, căng thẳng leo thang đe dọa nguồn cung dầu."
+  },
+  {
+   "source": "Reuters",
+   "text": "Điện Kremlin: đàm phán Nga - Mỹ về Ukraine 'hữu ích' nhưng chưa có đột phá."
+  },
+  {
+   "source": "HOSE",
+   "text": "VN-Index phiên 4/9 tăng mạnh 25,36 điểm (+1,39%) lên 1.853,08 điểm, khối ngoại mua ròng nhẹ."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Iraq nâng công suất xuất khẩu dầu lên hơn 3 triệu thùng mỗi ngày."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+25,36 (+1,39%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.853,08 điểm"
+   },
+   {
+    "change": "+0,29 (+0,10%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "282,53 điểm"
+   },
+   {
+    "change": "-6,1% so với phiên trước",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "13.745 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại HOSE",
+    "value": "Mua ròng ~97 tỷ đồng"
+   },
+   {
+    "change": "-1 triệu đồng/lượng",
+    "direction": "down",
+    "label": "Vàng SJC",
+    "value": "144,6 - 147,6 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.875 · Bán 26.255"
+   }
+  ],
+  "summary": "Đêm qua, chứng khoán Mỹ đồng loạt giảm nhẹ (S&P 500 -0,38%, Dow Jones -0,51%, Nasdaq -0,29%) trong bối cảnh căng thẳng Mỹ - Iran tại vùng Vịnh leo thang và giới đầu tư chờ dữ liệu CPI. Giá dầu WTI và Brent nhích lên trên lo ngại gián đoạn nguồn cung, trong khi vàng thế giới giảm 0,34% và Bitcoin tăng nhẹ. Trong nước, phiên gần nhất (4/9) VN-Index tăng mạnh 25,36 điểm (+1,39%) lên 1.853,08 điểm, thanh khoản HOSE đạt hơn 13.745 tỷ đồng và khối ngoại mua ròng nhẹ khoảng 97 tỷ đồng. Sáng Chủ nhật, giá vàng SJC giảm 1 triệu đồng/lượng còn 144,6 - 147,6 triệu đồng/lượng, còn tỷ giá USD/VND tại Vietcombank niêm yết 25.875 - 26.255 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.38,
+    "label": "S&P 500",
+    "value": "7.718,6"
+   },
+   {
+    "change_pct": -0.51,
+    "label": "Dow Jones",
+    "value": "53.414,2"
+   },
+   {
+    "change_pct": -0.29,
+    "label": "Nasdaq",
+    "value": "26.507,0"
+   },
+   {
+    "change_pct": 0.2,
+    "label": "Dầu WTI",
+    "value": "91,5 USD"
+   },
+   {
+    "change_pct": 0.8,
+    "label": "Dầu Brent",
+    "value": "96,3 USD"
+   },
+   {
+    "change_pct": -0.34,
+    "label": "Vàng thế giới",
+    "value": "4.477 USD"
+   },
+   {
+    "change_pct": 0.18,
+    "label": "Bitcoin",
+    "value": "79.818 USD"
+   },
+   {
+    "change_pct": 0.16,
+    "label": "DXY",
+    "value": "99,16"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "reuters:e379d85514",
+   "title": "Lực lượng Mỹ và Iran nổ súng vào tàu thuyền trên vùng biển gần Iran, căng thẳng vùng Vịnh leo thang",
+   "translated": true,
+   "original_title": "US, Iranian forces fire at vessels in waters near Iran",
+   "link": "https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/"
+  },
+  {
+   "ref": "reuters:f19156e5cf",
+   "title": "Điện Kremlin: Đàm phán Ukraine với đặc phái viên Mỹ 'hữu ích' nhưng chưa có đột phá, kinh tế cũng được bàn tới",
+   "translated": true,
+   "original_title": "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough",
+   "link": "https://www.reuters.com/world/europe/putins-envoy-dmitriev-meet-witkoff-kushner-upon-their-arrival-moscow-sources-say-2026-09-05/"
+  },
+  {
+   "ref": "tg-vnwallstreet:398305",
+   "title": "Bộ trưởng Dầu mỏ Iraq: Iraq đã nâng khả năng xuất khẩu dầu lên hơn 3 triệu thùng mỗi ngày",
+   "translated": false,
+   "original_title": "🔴 Bộ trưởng Dầu mỏ Iraq: Iraq đã nâng khả năng xuất khẩu dầu lên hơn 3 triệu thùng mỗi ngày. #dầu #iraq",
+   "link": null
+  },
+  {
+   "ref": "reuters:6088de7d50",
+   "title": "OpenAI thừa nhận 'sự cố wiki', kêu gọi minh bạch hơn về hành vi AI ngoài dự kiến",
+   "translated": true,
+   "original_title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior",
+   "link": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/"
+  },
+  {
+   "ref": "reuters:8d5213edf7",
+   "title": "Tỷ phú Venezuela từng bị Mỹ điều tra rửa tiền nay có hợp đồng dầu mỏ với Lầu Năm Góc",
+   "translated": true,
+   "original_title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
+   "link": "https://www.reuters.com/business/energy/venezuelan-billionaire-us-investigated-money-laundering-now-has-pentagon-oil-2026-09-05/"
+  }
+ ],
+ "content_sha": "fdec38077814e43cca4c5ab74953bd5f18dc9939688efade21efca841c4b89a4"
+}
