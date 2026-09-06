@@ -1,0 +1,460 @@
+{
+ "date": "2026-09-07",
+ "dividends": [
+  {
+   "event": "Chi cổ tức đợt 2/2025 bằng tiền mặt tỷ lệ 30% (3.000 đồng/cp)",
+   "record_date": "2026-09-10",
+   "ref": "cafef:fb35ac1cd1",
+   "ticker": "DVP"
+  },
+  {
+   "event": "Chi cổ tức năm 2025 bằng tiền mặt tỷ lệ 29,5% (2.950 đồng/cp), cao nhất 5 năm",
+   "record_date": "2026-09-11",
+   "ref": "cafef:378eb33b15",
+   "ticker": "IST"
+  },
+  {
+   "event": "Chi cổ tức tiền mặt tỷ lệ 14% và cổ phiếu thưởng tỷ lệ 10:8, tổng tỷ lệ 94%",
+   "record_date": "2026-09-14",
+   "ref": "cafef:ae42ec2885",
+   "ticker": "PHR"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thế giới",
+   "text": "Mỹ tấn công tàu chở dầu Iran, giá dầu và chứng khoán châu Á biến động mạnh đầu tuần"
+  },
+  {
+   "source": "Thị trường",
+   "text": "VN-Index đóng cửa phiên 4/9 tăng 25 điểm lên 1.853 điểm, khối ngoại mua ròng trở lại"
+  },
+  {
+   "source": "VIC",
+   "text": "Vốn hóa Vingroup (VIC) vượt mốc bằng tổng 10 ngân hàng lớn cộng lại"
+  },
+  {
+   "source": "Cổ tức",
+   "text": "PHR sắp chi cổ tức và cổ phiếu thưởng tổng tỷ lệ 94%, cao nhất tuần 7-11/9"
+  },
+  {
+   "source": "Thế giới",
+   "text": "Tổng thống Trump kêu gọi Fed giảm lãi suất sau báo cáo việc làm Mỹ; ECB dự kiến tăng lãi suất tuần tới"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:4c42e50117",
+     "title": "Từ 10/9: Doanh nghiệp có thể vừa bị phạt, vừa phải nộp thêm tiền"
+    },
+    {
+     "ref": "google-news-ph-p-l:aeac29e148",
+     "title": "Khởi tố Phó Chủ tịch Hội doanh nhân trẻ tỉnh Bắc Ninh trong vụ gần 2.000 tấn chất thải chôn lấp trái phép"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+25,00 (+1,37%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.853,00 điểm"
+   },
+   {
+    "change": "+0,29 (+0,10%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "282,53 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "Hơn 16.700 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng khoảng 95 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "Mua 144,60 - Bán 147,60 (tr.đ/lượng)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.875 · Bán 26.255"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ khép phiên cuối tuần giảm nhẹ trên cả ba chỉ số chính, trong khi giá dầu và vàng thế giới còn tương đối ổn định trước khi Mỹ tấn công một tàu chở dầu Iran cuối tuần, làm dấy lên lo ngại gián đoạn nguồn cung qua eo biển Hormuz và có thể đẩy giá dầu, vàng tăng trong phiên đầu tuần tại châu Á. Tại thị trường trong nước, VN-Index đóng cửa phiên 4/9 tăng 25 điểm lên 1.853 điểm, thanh khoản HOSE đạt hơn 16.700 tỷ đồng; HNX-Index tăng nhẹ lên 282,53 điểm. Khối ngoại đảo chiều mua ròng khoảng 116 tỷ đồng trên toàn thị trường, tập trung gom VIC, VHM, MCH.",
+  "tiles": [
+   {
+    "change_pct": -0.38,
+    "label": "S&P 500",
+    "value": "7.718,6"
+   },
+   {
+    "change_pct": -0.51,
+    "label": "Dow Jones",
+    "value": "53.414,2"
+   },
+   {
+    "change_pct": -0.29,
+    "label": "Nasdaq",
+    "value": "26.507,0"
+   },
+   {
+    "change_pct": -0.0,
+    "label": "Dầu WTI",
+    "value": "91,5 USD"
+   },
+   {
+    "change_pct": 0.0,
+    "label": "Dầu Brent",
+    "value": "96,3 USD"
+   },
+   {
+    "change_pct": 1.06,
+    "label": "Vàng thế giới",
+    "value": "4.477 USD"
+   },
+   {
+    "change_pct": 0.45,
+    "label": "Bitcoin",
+    "value": "80.182 USD"
+   },
+   {
+    "change_pct": -0.03,
+    "label": "DXY",
+    "value": "99,13"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:5cc58b54a4",
+     "title": "Toyota rót 360 triệu USD sản xuất xe điện hóa, đề xuất với Thủ tướng chính sách đặc biệt cho xe hybrid tại TP.HCM"
+    },
+    {
+     "ref": "cafef:da7ee9d415",
+     "title": "Trước thềm huy động vốn gần 800 tỷ đồng, Amy Grupo của Chủ tịch 75 tuổi báo lãi giảm 13%"
+    },
+    {
+     "ref": "cafef:2e867659f2",
+     "title": "VIC: Vốn hóa Vingroup bằng 10 ngân hàng cộng lại"
+    },
+    {
+     "ref": "cafef:8f69397a47",
+     "title": "Chuyên gia chỉ ra một “tín hiệu lạ” đang xuất hiện trên thị trường chứng khoán"
+    },
+    {
+     "ref": "cafef:0db394e181",
+     "title": "VJC: Vietjet tăng trưởng doanh thu 44%, củng cố nền tảng tăng trưởng dài hạn"
+    },
+    {
+     "ref": "cafef:67c99a5d6d",
+     "title": "BNPC: Công ty từng do ông Bùi Cao Nhật Quân làm Chủ tịch lỗ sau thuế kỷ lục gần 800 tỷ, vốn chủ âm hơn 2.000 tỷ"
+    },
+    {
+     "ref": "cafef:086e6018c9",
+     "title": "Hậu vụ án Phúc Sơn: Gỡ vướng thế nào cho các dự án BT tại Khánh Hòa?"
+    },
+    {
+     "ref": "cafef:b8e6ebe620",
+     "title": "Một doanh nghiệp Việt mỗi ngày thu về hơn 520 tỷ đồng: Kinh doanh gì mà \"khủng\" vậy?"
+    },
+    {
+     "ref": "cafef:34ed9f8010",
+     "title": "Chứng khoán hướng đỉnh cũ, dòng tiền liệu có đủ mạnh?"
+    },
+    {
+     "ref": "cafef:c21a52563b",
+     "title": "Góc nhìn chuyên gia: Chứng khoán hướng lên 1.900 điểm, hai nhóm cổ phiếu được kỳ vọng \"dẫn sóng\" nâng hạng"
+    },
+    {
+     "ref": "cafef:f839478107",
+     "title": "Doanh nghiệp bất động sản dồn dập huy động vốn"
+    },
+    {
+     "ref": "cafef:c3e094944e",
+     "title": "VIC: Tiết lộ “chuyện hậu cần” của dự án đường sắt tốc độ cao 5,6 tỷ USD do Vingroup đầu tư"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:d6bd903353",
+     "title": "Góc nhìn tuần 07-11/09: Không chạy theo cổ phiếu đã tăng nóng"
+    },
+    {
+     "ref": "vietstock:39981a6c22",
+     "title": "OPEC+ dự kiến giữ nguyên sản lượng dầu"
+    },
+    {
+     "ref": "vietstock:97ad898119",
+     "title": "Nga khởi động dịch vụ thanh toán xuyên biên giới thay thế cho SWIFT"
+    },
+    {
+     "ref": "vietstock:de89ab82b5",
+     "title": "Ngân hàng Trung ương châu Âu dự kiến tăng lãi suất vào tuần tới"
+    },
+    {
+     "ref": "vietstock:3e5a056950",
+     "title": "John Ternus, CEO kế nhiệm Tim Cook tại Apple: Kín tiếng, tài năng và “điềm tĩnh đến đáng sợ”"
+    },
+    {
+     "ref": "vietstock:fe844e0413",
+     "title": "Thị trường chứng quyền tuần 07-11/09/2026: Hiện tượng phân hóa xuất hiện"
+    },
+    {
+     "ref": "vietstock:1aa3805234",
+     "title": "Vietstock Weekly 07-11/09/2026: Củng cố đà tăng?"
+    },
+    {
+     "ref": "vietstock:3729e39f6d",
+     "title": "KBC: KBC vừa hút thành công 700 tỷ đồng trái phiếu, liền tất toán lô ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:94c0b106af",
+     "title": "NTL: Phó Chủ tịch Lideco muốn mua thêm 1,8 triệu cp khi NTL mất hơn 40% từ đỉnh"
+    },
+    {
+     "ref": "vietstock:dd80db4c03",
+     "title": "AMC: Lỗ bán niên 17 tỷ đồng, HD AMC lên kế hoạch tăng vốn"
+    },
+    {
+     "ref": "vietstock:29869f905d",
+     "title": "Vàng trong một trật tự tài chính đang chuyển mình"
+    },
+    {
+     "ref": "vietstock:6fa767221f",
+     "title": "DVSC: Trước phép thử lợi nhuận và niềm tin"
+    },
+    {
+     "ref": "vietstock:80ae9e6cf6",
+     "title": "Đô thị Du lịch Cần Giờ lãi khủng hơn 30,000 tỷ đồng trong nửa đầu năm"
+    },
+    {
+     "ref": "vietstock:4210cf8269",
+     "title": "Loạt dự án của Sun Group, Vingroup, Masterise giải ngân đến đâu sau 8 tháng?"
+    },
+    {
+     "ref": "vietstock:a3aece1a08",
+     "title": "VIC: Chỉ 2 phiên giao dịch, VIC đưa VN-Index qua những cung bậc trái chiều"
+    },
+    {
+     "ref": "vietstock:9c869f690b",
+     "title": "Chứng khoán phái sinh tuần 07-11/09/2026: Tâm lý phân vân hiện hữu"
+    },
+    {
+     "ref": "vietstock:4ee6410b11",
+     "title": "BWE: Lãnh đạo và cổ đông lớn BWE chi 545 tỷ đồng mua cổ phiếu phát hành thêm"
+    },
+    {
+     "ref": "vietstock:62fcaa242f",
+     "title": "PNJ: Gia đình Chủ tịch PNJ từ cổ đông thành chủ nợ, giảm bớt rủi ro trong khủng hoảng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:f2e7ca030a",
+     "title": "HOSE bổ sung thêm 5 mã vào danh sách cắt margin"
+    },
+    {
+     "ref": "vneconomy:3152be408a",
+     "title": "Phó thủ tướng: Sửa Luật chứng khoán phải đảm bảo thị trường hoạt động ổn định, liên tục"
+    },
+    {
+     "ref": "vneconomy:2654c8fed2",
+     "title": "Sau báo cáo việc làm “rực rỡ” của Mỹ, Tổng thống Trump kêu gọi Fed giảm lãi suất"
+    },
+    {
+     "ref": "vneconomy:5ac5be261e",
+     "title": "Quỹ đầu tư khổng lồ của Na Uy đề xuất giảm nắm giữ trái phiếu kho bạc Mỹ"
+    },
+    {
+     "ref": "vneconomy:b502b84194",
+     "title": "Vàng trượt giá sau báo cáo việc làm Mỹ, SPDR Gold Trust tiếp tục bán ròng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5d7aceba78",
+     "title": "Lựa chọn cơ hội mới, chuyên gia điểm tên nhóm cổ phiếu còn dư địa tăng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d355d50820",
+     "title": "Nhận định thị trường phiên giao dịch ngày 7/9: Mua tại các nhịp điều chỉnh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bf6e2987f1",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 7/9: Hướng đến vùng 1.900 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1406b022bf",
+     "title": "Cổ phiếu cần quan tâm ngày 7/9"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:85572a1ae1",
+     "title": "PAP: Cảng Phước An muốn nâng vốn đầu tư dự án cảng lên 17.892,6 tỷ đồng và kéo dài thời gian triển khai tới năm 2031"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8f8a5a2fce",
+     "title": "GIL: Cổ phiếu Gilimex không đủ điều kiện giao dịch ký quỹ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4d41625a64",
+     "title": "FDC: Fideco huỷ kế hoạch tổ chức Đại hội bất thường"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5d48386cec",
+     "title": "Các quỹ quản lý tài sản lớn nhất thế giới đang đua nhau tái thiết lập vị thế vàng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:35bd70b7c0",
+     "title": "Góc nhìn TTCK tuần 7/9-11/9: Củng cố động lực, kỳ vọng VN-Index hướng đến vùng đỉnh cũ"
+    },
+    {
+     "ref": "b-o-u-t:9f6852c97c",
+     "title": "Nâng hạng thị trường - Chất xúc tác chủ đạo cho chứng khoán tháng 9"
+    },
+    {
+     "ref": "b-o-u-t:2c679783d0",
+     "title": "Tập đoàn Mixue Trung Quốc tăng đầu tư phát triển chuỗi cung ứng tại Việt Nam"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:563089762f",
+     "title": "VIC: Tỷ phú Phạm Nhật Vượng giàu hơn cả Chủ tịch Samsung, Alibaba, Xiaomi"
+    },
+    {
+     "ref": "markettimes:3dcda4ff82",
+     "title": "Sau tháng 7 tệ nhất lịch sử, quỹ ngoại tỷ USD hồi phục mạnh trong tháng 8"
+    },
+    {
+     "ref": "markettimes:6c698eeb20",
+     "title": "STB: Một quỹ ngoại đang nắm lượng cổ phiếu Sacombank trị giá khoảng 4.600 tỷ đồng"
+    },
+    {
+     "ref": "markettimes:5b849962b0",
+     "title": "Green SM có động thái mới tại loạt tỉnh thành phía Nam"
+    },
+    {
+     "ref": "markettimes:fe96eb9c0b",
+     "title": "Chứng khoán tuần qua: Vingroup và Sacombank cùng nhau lập đỉnh"
+    },
+    {
+     "ref": "markettimes:72d3129bba",
+     "title": "Tài chính tuần qua: Ngân hàng có thể được cho vay tới 52% vốn tự có với dự án lớn tại Hà Nội"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:81bd23e5af",
+     "title": "32 doanh nghiệp Hàn Quốc đưa loạt công nghệ AI, robot tới Hà Nội"
+    },
+    {
+     "ref": "vnbusiness:776d29025a",
+     "title": "DFF: Doanh nghiệp trên sàn chỉ còn 3 nhân sự, lỗ lũy kế gần 1.249 tỷ đồng"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:7fd8ecf7b9",
+     "title": "Bán lẻ tăng tốc, 'nóng' cuộc đua giành sức mua"
+    },
+    {
+     "ref": "ti-n-phong:000ec4d15e",
+     "title": "HBC: Tập đoàn Xây dựng Hòa Bình 'ôm nợ' gấp 7 lần vốn chủ sở hữu"
+    },
+    {
+     "ref": "ti-n-phong:aed8dbf4af",
+     "title": "Hàn Quốc, Philippines tăng mua giá cao, xuất khẩu phân bón sắp lập kỷ lục"
+    },
+    {
+     "ref": "ti-n-phong:0aa61d8885",
+     "title": "Nhiều doanh nghiệp bị nghi ngờ khả năng hoạt động liên tục"
+    },
+    {
+     "ref": "ti-n-phong:986de90f3b",
+     "title": "Vì sao số doanh nghiệp rời thị trường tăng tới 125%?"
+    }
+   ],
+   "source": "Tiền Phong"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:67139f6179",
+   "title": "Chứng khoán châu Á dự báo tăng, giá dầu tiếp tục leo thang sau đòn Mỹ tấn công tàu Iran",
+   "translated": true,
+   "original_title": "Asian Stocks to Gain, Oil Rises on US-Iran Strikes: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-vnwallstreet:398335",
+   "title": "Mỹ tấn công tàu chở dầu Iran, giá dầu tăng phiên đầu; Iran dọa lập vùng cấm mới ở Hormuz",
+   "translated": false,
+   "original_title": "▫️ Mỹ tấn công tàu chở dầu Iran, giá dầu tăng trong phiên đầu Mỹ tấn công tàu chở dầu Iran, làm gia tăng rủi ro leo thang căng thẳng, giá dầu tăng trong phiên đầu. Sau vụ tấn công, Tehran thông báo sẽ thiết lập khu vực cấm mới ngoài khơi Eo biển Hormuz, gây lo ngại về việc gián đoạn lâu dài hoạt động vận chuyển năng lượng qua khu vực này. Giá dầu Brent mở cửa tăng 0.8%, vượt 95 USD/thùng, trong kh",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1032713",
+   "title": "Iran tuyên bố sẽ lập vùng hạn chế mới ngoài eo biển Hormuz trong vài ngày tới",
+   "translated": true,
+   "original_title": "IRAN'S TOP SECURITY OFFICIAL: RESTRICTED AREA TO BE DECLARED OUTSIDE STRAIT OF HORMUZ IN COMING DAYS - STATE MEDIA ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1032725",
+   "title": "Lưu lượng tàu hàng qua eo biển Hormuz giảm xuống thấp nhất kể từ tháng 5 (Kpler)",
+   "translated": true,
+   "original_title": "AVERAGE OF 10 COMMODITY VESSELS CROSS STRAIT OF HORMUZ DAILY, LOWEST SINCE MAY, KPLER 10-DAY MOVING AVERAGE SAYS ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:898dd04f98",
+   "title": "Đặc phái viên Mỹ kỳ vọng nối lại đàm phán Nga - Ukraine sau loạt chuyến thăm hai thủ đô",
+   "translated": true,
+   "original_title": "Enviados EEUU esperan nuevas conversaciones Ucrania y Rusia después de visitas a ambas capitales",
+   "link": "https://www.reuters.com/es/mundo/MECVKQXBMROIPNSCLAVZOLY4YU-2026-09-06/"
+  }
+ ],
+ "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac"
+}
