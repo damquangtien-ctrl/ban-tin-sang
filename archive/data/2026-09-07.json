@@ -456,5 +456,68 @@
    "link": "https://www.reuters.com/es/mundo/MECVKQXBMROIPNSCLAVZOLY4YU-2026-09-06/"
   }
  ],
- "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac"
+ "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "fed24c4bbb9df73194826854e6428e18147e2324",
+   "published_at": "2026-09-07T06:50:22+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "248",
+   "sent_at": "2026-09-07T06:50:24+07:00",
+   "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "248",
+     "sent_at": "2026-09-07T06:50:24+07:00",
+     "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "16774fc81ba38ffad6b5",
+   "sent_at": "2026-09-07T06:50:25+07:00",
+   "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "16774fc81ba38ffad6b5",
+     "sent_at": "2026-09-07T06:50:25+07:00",
+     "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "6cb0e86ebf052b5c7213",
+     "sent_at": "2026-09-07T06:50:27+07:00",
+     "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "a11dc5e6928d06d45f9b",
+     "sent_at": "2026-09-07T06:50:28+07:00",
+     "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "788566a031cba592fcdd",
+     "sent_at": "2026-09-07T06:50:29+07:00",
+     "content_sha": "e5694e5bdcb62c4036ba64e7eb7bf4b3bdde7acfe89b260e64779840123438ac"
+    }
+   ]
+  }
+ }
 }

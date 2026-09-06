@@ -1,0 +1,51 @@
+
+########## CHAY LUC 2026-09-07 06:47:50 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-07, ban daily)
+   the gioi 13 tin · Viet Nam 51 tin / 8 bao · phap ly 2 tin · chot quyen 3 ma
+   CANH BAO [C9] world[5]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[6]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[7]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[8]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[9]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[10]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[11]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[12]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   THAT BAI: 5 loi
+      [C1] bulletin.market_data.domestic[4].value: chuỗi quá dài (42 > 40)
+      [C4] world[5]: URL không hợp lệ 'http://vietstock.vn/2026/09/opec-du-kien-giu-nguyen-san-luon' (nguồn web phải https)
+      [C4] world[6]: URL không hợp lệ 'http://vietstock.vn/2026/09/nga-khoi-dong-dich-vu-thanh-toan' (nguồn web phải https)
+      [C4] world[7]: URL không hợp lệ 'http://vietstock.vn/2026/09/ngan-hang-trung-uong-chau-au-du-' (nguồn web phải https)
+      [C4] world[8]: URL không hợp lệ 'http://vietstock.vn/2026/09/john-ternus-ceo-ke-nhiem-tim-coo' (nguồn web phải https)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-09-07 06:49:02 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-07, ban daily)
+   the gioi 5 tin · Viet Nam 59 tin / 8 bao · phap ly 2 tin · chot quyen 3 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-07 · the gioi 5 · Viet Nam 59 · phap ly 2
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-07.html
+
+=== 3/5 XUAT BAN ===
+CANH BAO: sau 6 lan kiem, trang phuc vu van chua khop sha noi dung moi.
+  GitHub Pages co the build cham - trang se tu len sau. KHONG chan buoc gui tin.
+Da xuat ban 2026-09-07: commit fed24c4bbb9d · sha noi dung 934efd4bf29edd81
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 07/09 | content_sha e5694e5bdcb6 | commit fed24c4bbb9d
+   telegram user/928f6fc4179d OK message_id=248
+   zalo     user/593dd2adbb87 OK message_id=16774fc81ba38ffad6b5
+   zalo     group/8fddff299f5f OK message_id=6cb0e86ebf052b5c7213
+   zalo     group/240eac12bc5e OK message_id=a11dc5e6928d06d45f9b
+   zalo     group/8b7b62566b6c OK message_id=788566a031cba592fcdd
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-07.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-09-07 06:50:29 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
