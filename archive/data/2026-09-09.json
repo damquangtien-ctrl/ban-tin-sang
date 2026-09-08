@@ -610,5 +610,68 @@
    "link": "https://bbw.vn/sam-altman-cong-chung-chua-thay-het-nhung-gi-ai-lam-duoc-60147.html"
   }
  ],
- "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf"
+ "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "46e560b4a6aaa2eb3f1e1a683a26f1ddbd9384ed",
+   "published_at": "2026-09-09T06:45:44+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "250",
+   "sent_at": "2026-09-09T06:45:45+07:00",
+   "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "250",
+     "sent_at": "2026-09-09T06:45:45+07:00",
+     "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "253a0932d68941d0189f",
+   "sent_at": "2026-09-09T06:45:46+07:00",
+   "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "253a0932d68941d0189f",
+     "sent_at": "2026-09-09T06:45:46+07:00",
+     "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "cf931aedc556520f0b40",
+     "sent_at": "2026-09-09T06:45:47+07:00",
+     "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "2f77da6906d2918bc8c4",
+     "sent_at": "2026-09-09T06:45:48+07:00",
+     "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "2ada7890a42b33726a3d",
+     "sent_at": "2026-09-09T06:45:49+07:00",
+     "content_sha": "4e34d9ece6cde1fa3ef5997d926af9a401a6a87cc84b1000e6551a4fca083eaf"
+    }
+   ]
+  }
+ }
 }
