@@ -1,0 +1,546 @@
+{
+ "date": "2026-09-11",
+ "dividends": [
+  {
+   "event": "Trả cổ tức đợt 2/2025 bằng tiền tỷ lệ 10% (1.000 đồng/CP)",
+   "record_date": "2026-09-17",
+   "ref": "cafef:25b034157c",
+   "ticker": "ACG"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 33% (3.300 đồng/CP)",
+   "record_date": "2026-09-18",
+   "ref": "vietstock:851a48899d",
+   "ticker": "VGI"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 30% (3.000 đồng/CP)",
+   "record_date": "2026-09-17",
+   "ref": "vietstock:393fd897aa",
+   "ticker": "TBD"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thị trường quốc tế",
+   "text": "Giá dầu thế giới tăng vọt (WTI +8,1%, Brent +7,48%) giữa lo ngại địa chính trị leo thang tại Trung Đông"
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Xác suất Fed tăng lãi suất tháng 9 vọt lên 71,3% theo CME, trái ngược dự báo của đa số chuyên gia"
+  },
+  {
+   "source": "Thị trường trong nước",
+   "text": "VN-Index hồi phục cuối phiên lên 1.829,23 điểm, khối ngoại mua ròng trở lại hơn 400 tỷ đồng"
+  },
+  {
+   "source": "CafeF",
+   "text": "FPT chốt ngày phát hành hơn 171 triệu cổ phiếu thưởng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Chính quyền Trump chuẩn bị trừng phạt một ngân hàng lớn vào thứ Hai, theo Bộ trưởng Bessent"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:4b99f75a43",
+     "title": "Thổi phồng lợi nhuận năm 2025, 4 công ty niêm yết bị Thanh tra Chứng khoán Nhà nước điểm tên"
+    },
+    {
+     "ref": "cafef:23071b807a",
+     "title": "Signo Land, Xây dựng Hòa Bình và PAK Việt Nam bị xử phạt do vi phạm công bố thông tin"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:3351b65304",
+     "title": "Xây dựng Hòa Bình và Điện Quang bị xử phạt vi phạm công bố thông tin"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:0004462163",
+     "title": "Chủ tịch Asia Life lĩnh 15 năm tù vì sản xuất kẹo Kera giả"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:f1c9dd13f6",
+     "title": "CAR: Thao túng cổ phiếu bằng 11 tài khoản, một cá nhân bị phạt 1,5 tỷ đồng"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+2,11 (+0,12%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.829,23 điểm"
+   },
+   {
+    "change": "-1,11 (-0,40%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "278,37 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~13.600 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~400 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "143,6 – 146,6 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.730 · Bán 26.110"
+   }
+  ],
+  "summary": "Phiên Mỹ đêm qua, S&P 500, Dow Jones và Nasdaq đồng loạt giảm (lần lượt -0,58%, -0,60% và -0,65%) khi lợi suất trái phiếu tăng và giới đầu tư lo ngại lạm phát sau dữ liệu giá bán buôn Mỹ. Giá dầu WTI và Brent tăng vọt lần lượt 8,10% và 7,48% lên 103,8 USD và 108,8 USD/thùng giữa lo ngại địa chính trị leo thang tại Trung Đông, trong khi vàng thế giới giảm 1,28% còn 4.359 USD/ounce. Trong nước, VN-Index hồi phục cuối phiên 10/9, đóng cửa tại 1.829,23 điểm (+0,12%); HNX-Index giảm nhẹ còn 278,37 điểm. Thanh khoản HOSE đạt khoảng 13.600 tỷ đồng và khối ngoại quay lại mua ròng hơn 400 tỷ đồng, tập trung gom VIC và FPT.",
+  "tiles": [
+   {
+    "change_pct": -0.58,
+    "label": "S&P 500",
+    "value": "7.591,7"
+   },
+   {
+    "change_pct": -0.6,
+    "label": "Dow Jones",
+    "value": "52.064,1"
+   },
+   {
+    "change_pct": -0.65,
+    "label": "Nasdaq",
+    "value": "26.081,7"
+   },
+   {
+    "change_pct": 8.1,
+    "label": "Dầu WTI",
+    "value": "103,8 USD"
+   },
+   {
+    "change_pct": 7.48,
+    "label": "Dầu Brent",
+    "value": "108,8 USD"
+   },
+   {
+    "change_pct": -1.28,
+    "label": "Vàng thế giới",
+    "value": "4.359 USD"
+   },
+   {
+    "change_pct": -1.97,
+    "label": "Bitcoin",
+    "value": "76.716 USD"
+   },
+   {
+    "change_pct": 0.32,
+    "label": "DXY",
+    "value": "99,09"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:085473a56c",
+     "title": "Dự báo rung lắc sắp xuất hiện, Vietcap chỉ tên 2 cổ phiếu phù hợp để \"lướt sóng\""
+    },
+    {
+     "ref": "cafef:1e7414c830",
+     "title": "VIC: 500.000 tỷ đồng của Vingroup rót vào đâu sau hơn 1 năm bước chân vào làm hạ tầng?"
+    },
+    {
+     "ref": "cafef:b2b3f25f23",
+     "title": "DN quân đội bắt tay hãng tàu lớn thứ 3 thế giới làm bến cảng gần 15.000 tỷ tại Hải Phòng"
+    },
+    {
+     "ref": "cafef:d395be7664",
+     "title": "KBC: Công ty đại gia Đặng Thành Tâm được dự báo lãi nửa cuối năm tăng gần gấp đôi cùng kỳ"
+    },
+    {
+     "ref": "cafef:ee93629a82",
+     "title": "CTCK chỉ ra 6 cổ phiếu \"hưởng lợi kép\" trước ngày nâng hạng"
+    },
+    {
+     "ref": "cafef:912b28f3f3",
+     "title": "Dấu chân bất động sản ở nước ngoài của 8 \"cá mập\" Việt Nam: Có công ty mua 6 tòa nhà tại Mỹ, một Tập đoàn rót 3,5 tỷ USD xây đại đô thị tại Trung Á"
+    },
+    {
+     "ref": "cafef:e4553e0940",
+     "title": "Liên doanh Việt Nam - Singapore vốn 50 tỷ thuê gần 4,5 ha làm siêu trung tâm dữ liệu hơn 12.500 tỷ"
+    },
+    {
+     "ref": "cafef:ad147748b7",
+     "title": "VIC: Vingroup lọt Top 350 công ty tốt nhất thế giới"
+    },
+    {
+     "ref": "cafef:4d4ee6f790",
+     "title": "FPT: Chốt ngày phát hành hơn 171 triệu cổ phiếu thưởng"
+    },
+    {
+     "ref": "cafef:091f22b494",
+     "title": "VCI: Công ty của bà Nguyễn Thanh Phượng muốn bán cổ phiếu ông Tô Hải vừa mua"
+    },
+    {
+     "ref": "cafef:59502352a2",
+     "title": "KAI: Giảm gần 20% sau hai phiên lên UPCoM, gần 2/3 lợi nhuận trước thuế chưa thực hiện"
+    },
+    {
+     "ref": "cafef:6c7b48d61f",
+     "title": "Chứng khoán có tín hiệu đáng chú ý trước thềm nâng hạng"
+    },
+    {
+     "ref": "cafef:788f018725",
+     "title": "HPG: Người thân lãnh đạo Hòa Phát đăng ký bán cổ phiếu"
+    },
+    {
+     "ref": "cafef:cb6d5f339d",
+     "title": "Nâng hạng thị trường chứng khoán đến gần, khi nào vốn ngoại \"đổ bộ\"?"
+    },
+    {
+     "ref": "cafef:17d57ef5f5",
+     "title": "GAS: Sắp chi hơn 6.000 tỷ đồng trả cổ tức năm 2025"
+    },
+    {
+     "ref": "cafef:0a7727b598",
+     "title": "FPT: Thâu tóm đơn vị hơn 20 năm kinh nghiệm của một trong những nhà cung cấp linh kiện ô tô lớn nhất Nhật Bản"
+    },
+    {
+     "ref": "cafef:5ad4349fcd",
+     "title": "Ông Phạm Nhật Vượng sẽ phủ gần 700.000 tấm pin trên một hồ thủy điện ở Tây Bắc: Gấp đôi \"kỷ lục gia\" Đông Nam Á Citara của Indonesia"
+    },
+    {
+     "ref": "cafef:8c590afb0b",
+     "title": "Đề xuất sửa đổi, bổ sung nguyên tắc thanh toán giao dịch chứng khoán phái sinh"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:0963a24633",
+     "title": "Phó Thủ tướng Thường trực Phạm Gia Túc chỉ đạo giải quyết dứt điểm vướng mắc cho doanh nghiệp xây dựng"
+    },
+    {
+     "ref": "vietstock:aaaf54a6b2",
+     "title": "TPHCM kiến nghị cho phép ký thỏa thuận quốc tế với doanh nghiệp FDI"
+    },
+    {
+     "ref": "vietstock:6325e430f6",
+     "title": "BIG: Phó Chủ tịch muốn bán hơn 1,34 triệu cổ phiếu cho đối tác chiến lược mới"
+    },
+    {
+     "ref": "vietstock:94559fcfb1",
+     "title": "Góc nhìn 11/09: Giao dịch theo vùng hỗ trợ 1.820 - 1.830"
+    },
+    {
+     "ref": "vietstock:8f3c525378",
+     "title": "Mỏ sắt Quý Xa tái khởi động sau khi đổi chủ"
+    },
+    {
+     "ref": "vietstock:92c075aa88",
+     "title": "PDR: Sẽ chuyển nhượng 2 lô đất tại The EverRich 3 cho ai?"
+    },
+    {
+     "ref": "vietstock:f0a8548964",
+     "title": "Đề xuất đưa hợp đồng quyền chọn chỉ số vào thị trường chứng khoán phái sinh"
+    },
+    {
+     "ref": "vietstock:d1da4a7bff",
+     "title": "Đầu tư Phát triển Sài Gòn Co.op tính \"Bắc tiến\" làm trung tâm thương mại gần 400 tỷ ở Hải Phòng"
+    },
+    {
+     "ref": "vietstock:37721c6218",
+     "title": "LPB: Lên phương án phát hành trái phiếu huy động gần 4.000 tỷ đồng đợt 2"
+    },
+    {
+     "ref": "vietstock:448f4bd94c",
+     "title": "SHS Research: Áp lực cung giá cao sẽ gia tăng trở lại khi VN-Index tiến gần 1.900"
+    },
+    {
+     "ref": "vietstock:3d485b8db0",
+     "title": "BVH: Bảo Việt Nhân thọ báo lãi sau thuế 6 tháng đầu năm tăng 50%"
+    },
+    {
+     "ref": "vietstock:c582545b93",
+     "title": "Công bố Lệnh của Chủ tịch nước về Luật sửa đổi, bổ sung một số điều của Luật Ngân hàng Nhà nước Việt Nam, Luật Phòng, chống rửa tiền và Luật Các tổ chức tín dụng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a8c0230fe4",
+     "title": "Rà soát hàng hóa xuất khẩu, giảm rủi ro phòng vệ thương mại"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cf99f1aec5",
+     "title": "Nhận định thị trường phiên giao dịch ngày 11/9: Cân bằng danh mục"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fe38c42037",
+     "title": "Cổ phiếu PMG, APH, ASP ra khỏi diện cảnh báo"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:72bb1fbbea",
+     "title": "Nâng hạng có thể giúp thanh khoản cải thiện, VN-Index sẽ dao động 1.700-1.991 điểm trong trung hạn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c364a473f0",
+     "title": "Sửa quy định về giá và sản lượng tính thuế tài nguyên"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ca4a45437f",
+     "title": "Cắt giảm, đơn giản hóa thủ tục hành chính, thực hiện hải quan số"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:48a7ab2ab0",
+     "title": "Nhập khẩu linh kiện điện tử 162 tỷ USD, đáp ứng nhu cầu sản xuất và xuất khẩu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f2ef1afd93",
+     "title": "AAV: Dừng đầu tư dự án Khu Côn Sơn Resort với quy mô 90,68 ha"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:ddc95003d3",
+     "title": "Trái phiếu doanh nghiệp huy động gần 349.000 tỷ đồng sau 8 tháng, lãi suất bất động sản lên tới 13%/năm"
+    },
+    {
+     "ref": "markettimes:a0cd556f4e",
+     "title": "VAB: Doanh nghiệp liên quan Phó Chủ tịch HĐQT muốn giảm sở hữu tại ngân hàng"
+    },
+    {
+     "ref": "markettimes:0e3f6c22ba",
+     "title": "STB: Điều gì khiến Sacombank vượt đỉnh lịch sử?"
+    },
+    {
+     "ref": "markettimes:6f0cfb3c8c",
+     "title": "Lãi suất cao, lạm phát trở lại: Chuyên gia Kafi chỉ ra rủi ro với người vay và nhà đầu tư"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:26550843f9",
+     "title": "Đề án 1 triệu ha lúa: Thí điểm rực rỡ, thực tế... chưa có dự án nào"
+    },
+    {
+     "ref": "ti-n-phong:cd7460eebd",
+     "title": "TKV đề xuất giảm phí, thúc đẩy dự án Cromit Cổ Định"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:fbe5a78da4",
+     "title": "Nhà đầu tư ngoại \"chuộng\" M&A"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:c30b23fc40",
+     "title": "TMS: Thông báo phát hành cổ phiếu để trả cổ tức"
+    },
+    {
+     "ref": "hose:52841ddae2",
+     "title": "TCH: Nghị quyết HĐQT thông qua kết quả phát hành cổ phiếu tăng vốn từ nguồn vốn chủ sở hữu"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:76d59d452f",
+   "title": "Adobe vượt dự báo doanh thu quý III nhờ nhu cầu sản phẩm AI",
+   "translated": true,
+   "original_title": "Adobe beats third-quarter revenue estimates on AI product demand",
+   "link": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1035746",
+   "title": "Ông Trump: Có thể sẽ không dốc toàn lực vào Iran vì yếu tố bầu cử",
+   "translated": true,
+   "original_title": "*TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:106818",
+   "title": "Jensen Huang bác bỏ cáo buộc Nvidia \"tài trợ vòng tròn\" cho nhu cầu chip của chính mình",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Jensen Huang bác bỏ cáo buộc Nvidia 'tài trợ vòng tròn' cho nhu cầu chip của chính mình Chi tiết xem tại: https://dubaotiente.net/tieu-diem/jensen-huang-bac-bo-cao-buoc-nvidia-tai-tro-vong-tron-cho-nhu-cau-chip-111972.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1035745",
+   "title": "Ông Trump: Sẽ xử lý khoản nợ 40.000 tỷ USD bằng tăng trưởng kinh tế",
+   "translated": true,
+   "original_title": "*TRUMP: GOING TO TAKE CARE OF $40T DEBT THROUGH GROWTH ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:9b46e93161",
+   "title": "Kế hoạch chia 5.000 USD của ông Trump vấp nghi ngại từ chính nội bộ đảng Cộng hòa",
+   "translated": true,
+   "original_title": "Trump's $5,000 dividend plan draws some Republican skepticism",
+   "link": "https://www.reuters.com/legal/government/trumps-5000-dividend-plan-draws-some-republican-skepticism-2026-09-10/"
+  },
+  {
+   "ref": "bloomberg:c96860d45c",
+   "title": "Lợi suất trái phiếu Australia lên cao nhất kể từ 2011 vì lo ngại giá dầu",
+   "translated": true,
+   "original_title": "Australia Bond Yields Jump to Highest Since 2011 on Oil Concerns",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-10/australia-bond-yields-jump-to-highest-since-2011-on-oil-concerns"
+  },
+  {
+   "ref": "bloomberg:26a73ae65e",
+   "title": "Lưới điện Anh cần nâng cấp 70 tỷ bảng, người dân đối mặt hóa đơn điện cao hơn",
+   "translated": true,
+   "original_title": "UK Grid Needs £70 Billion Upgrade as Consumers Face Higher Bills",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-10/uk-grid-needs-70-billion-upgrade-as-consumers-face-higher-bills"
+  },
+  {
+   "ref": "reuters:dfd0704bc2",
+   "title": "Hạ viện Mỹ xem xét dự luật kiềm chế chi phí điện do trung tâm dữ liệu gây ra",
+   "translated": true,
+   "original_title": "US House to take up bill aimed at curbing data center-driven electricity costs",
+   "link": "https://www.reuters.com/world/us/us-house-take-up-bill-aimed-curbing-data-center-driven-electricity-costs-2026-09-10/"
+  },
+  {
+   "ref": "reuters:9dd1e2c461",
+   "title": "Oracle vượt dự báo lợi nhuận nhờ nhu cầu AI, giảm lo ngại đốt tiền mặt",
+   "translated": true,
+   "original_title": "Oracle tops estimates as AI demand tempers cash-burn fears",
+   "link": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/"
+  },
+  {
+   "ref": "reuters:c35a6832ee",
+   "title": "Sàn NSE Ấn Độ nhắm định giá 46 tỷ USD cho IPO đã thu hẹp quy mô, niêm yết tuần tới",
+   "translated": true,
+   "original_title": "India's NSE seeks $46 billion valuation in trimmed IPO, launch next week",
+   "link": "https://www.reuters.com/legal/government/indias-nse-cuts-ipo-size-by-over-15-launch-next-week-2026-09-10/"
+  },
+  {
+   "ref": "reuters:2e92e45f3d",
+   "title": "Phố Wall giảm điểm khi lợi suất trái phiếu tăng, giới đầu tư lo ngại lạm phát",
+   "translated": true,
+   "original_title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
+   "link": "https://www.reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10/"
+  },
+  {
+   "ref": "reuters:707766ace8",
+   "title": "Lầu Năm Góc đàm phán cho startup điện toán đám mây AI Fluidstack vay 5 tỷ USD",
+   "translated": true,
+   "original_title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+   "link": "https://www.reuters.com/technology/pentagon-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-2026-09-10/"
+  },
+  {
+   "ref": "reuters:7caaaacd37",
+   "title": "Chính quyền Trump sẽ trừng phạt một ngân hàng lớn vào thứ Hai, theo Bộ trưởng Bessent",
+   "translated": true,
+   "original_title": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says",
+   "link": "https://www.reuters.com/business/finance/trump-administration-sanction-unnamed-large-bank-monday-bessent-says-2026-09-10/"
+  },
+  {
+   "ref": "bloomberg:59463f2960",
+   "title": "Thủ tướng Canada Carney: Lệnh cấm thương mại của Mỹ chỉ ở mức \"khiêm tốn\", Canada sẽ không trả đũa",
+   "translated": true,
+   "original_title": "Carney Calls US Trade Bans ‘Modest,’ Signals Canada Won’t Retaliate",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-10/carney-calls-us-trade-bans-modest-signals-canada-won-t-retaliate"
+  },
+  {
+   "ref": "reuters:4bff61e3cc",
+   "title": "Giá dầu diesel bình quân tại Mỹ lần đầu vượt 6 USD/gallon",
+   "translated": true,
+   "original_title": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
+   "link": "https://www.reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1035737",
+   "title": "Bộ trưởng Bessent: Thị trường trái phiếu vẫn \"rất tốt\" dù lợi suất kỳ hạn 10 năm cao nhất từ 2023",
+   "translated": true,
+   "original_title": "BESSENT DISMISSES TREASURY MARKET CONCERNS TREASURY SECRETARY SCOTT BESSENT SAYS THE BOND MARKET REMAINS IN “VERY GOOD SHAPE” DESPITE 10-YEAR YIELDS REACHING THEIR HIGHEST SINCE 2023. HE ALSO DOWNPLAYED THURSDAY’S SMALLER-THAN-EXPECTED BUYBACK, SAYING TREASURY PURCHASED $5.19 BILLION VERSUS A $6 BILLION MAXIMUM BECAUSE BONDHOLDERS WERE RELUCTANT TO SELL LONG-TERM SECURITIES. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:398762",
+   "title": "Trump thúc đẩy đầu tư vào dầu mỏ Venezuela, doanh nghiệp truyền thống thận trọng",
+   "translated": false,
+   "original_title": "▫️ Trump thúc đẩy đầu tư vào dầu mỏ Venezuela, doanh nghiệp truyền thống thận trọng Theo Wall Street Journal, tỷ phú và đồng sáng lập Coinbase, Fred Ehrsam, đã sống tại một khách sạn sang trọng ở Caracas trong nhiều tháng để xây dựng mối quan hệ, với hy vọng tham gia vào kế hoạch không mấy khả thi nhằm gia nhập hàng ngũ các nhà sản xuất dầu lớn nhất Venezuela. Mặc dù không có kinh nghiệm trong ngà",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:398761",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust giảm nắm giữ 0,353 tấn, còn 1.050,277 tấn",
+   "translated": false,
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới - SPDR Gold Trust đã giảm 0,353 tấn so với ngày trước, hiện có tổng khối lượng nắm giữ là 1.050,277 tấn. #vàng #SPDR_Gold_Trust",
+   "link": null
+  },
+  {
+   "ref": "reuters:b54647c698",
+   "title": "Microsoft dự kiến nâng công suất trung tâm dữ liệu lên 38 gigawatt vào năm 2032",
+   "translated": true,
+   "original_title": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
+   "link": "https://www.reuters.com/business/microsoft-plans-38-gigawatts-data-center-capacity-by-2032-bloomberg-news-reports-2026-09-10/"
+  },
+  {
+   "ref": "tg-vnwallstreet:398760",
+   "title": "Xác suất Fed tăng lãi suất tháng 9 lên 71,3% theo dữ liệu CME",
+   "translated": false,
+   "original_title": "🔴 Xác suất Fed tăng lãi suất tháng 9 đạt 71.3% Theo dữ liệu từ CME, xác suất Fed giữ lãi suất không đổi vào tháng 9 là 28.8%, trong khi xác suất tăng 25 điểm cơ bản là 71.3%. Đến tháng 10, xác suất giữ lãi suất không đổi giảm xuống 17.6%, với xác suất tăng 25 điểm cơ bản là 54.8% và tăng 50 điểm cơ bản là 27.6%. #fed #lãi_suất",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:2d8ef6208f",
+   "title": "Chứng khoán, trái phiếu châu Á có thể giảm vì lo ngại giá dầu và lạm phát",
+   "translated": true,
+   "original_title": "Asian Stocks, Bonds to Drop on Oil, Inflation Woes: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-10/stock-market-today-dow-s-p-live-updates"
+  }
+ ],
+ "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba"
+}
