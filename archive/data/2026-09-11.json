@@ -542,5 +542,68 @@
    "link": "https://www.bloomberg.com/news/articles/2026-09-10/stock-market-today-dow-s-p-live-updates"
   }
  ],
- "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba"
+ "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "fc59ee983338ee17324d74ffcd85067a56d8f577",
+   "published_at": "2026-09-11T06:47:03+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "252",
+   "sent_at": "2026-09-11T06:47:04+07:00",
+   "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "252",
+     "sent_at": "2026-09-11T06:47:04+07:00",
+     "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "90fa8687fb0a9253cb1c",
+   "sent_at": "2026-09-11T06:47:05+07:00",
+   "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "90fa8687fb0a9253cb1c",
+     "sent_at": "2026-09-11T06:47:05+07:00",
+     "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "29d2e83895b5fceca5a3",
+     "sent_at": "2026-09-11T06:47:07+07:00",
+     "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "2784f683880ee157b818",
+     "sent_at": "2026-09-11T06:47:08+07:00",
+     "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "e3517ef7007a6923306c",
+     "sent_at": "2026-09-11T06:47:09+07:00",
+     "content_sha": "82ec96d212b2aeea378391e92ca983779c61dc56003255ebadb6e23be6184eba"
+    }
+   ]
+  }
+ }
 }
