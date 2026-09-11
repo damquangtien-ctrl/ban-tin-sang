@@ -566,5 +566,71 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZGlkX1ZpdERrVnRETkFfVUxldEJuWE9jak9oNk5fWFpEdGNQWWNKSEhuMndCX0YwUFptUGR4NUZ1ei1RM0JiMFFGZnA0QlZmVURCNy1rdE1KM0JtMFBQTmJ2c3Y4RkI2ZG9EWktqb0NzZGY0dzlNMHR6STJ2X19ZS0VMSzJXWllOT19ib1hBMzdCV05FUHk1dUVFR19na1U0ODdraVFJbWFwbDQtUXNXLS1zZTREY0V3UjFXS0ZjdjYtdHpxSU56MlBpdXp4REwyWHlwZXRGY3JfR21BUWxhQ0hqdXZDdUw3bjB1eXRweVV2Z9IB7gFBVV95cUxQSnZGSkZza3pFY1JGM0tNY1d1QXpMRWlLdzlZRUJxMlBvdks4UGtwM3JxMldVUDU4SmxRcjZTVlI3eGUwLXE5Zlc4QWhMNWRmTnpFUmVNZUc4SVN5MUw3MUFpd3Q2Szd4OTdCR3Nkc0JqemN3N0owem1SSC1PMUV5eHZaM0tRR0s1c3N2c0VGRS1RZkYtRFQtbjZqbHRuUUlRbTRydjlaMC1rV2Z"
   }
  ],
- "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3"
+ "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "baaed59a2f7cfef1a278c88f53886798a01282bc",
+   "published_at": "2026-09-12T06:50:42+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "253",
+   "sent_at": "2026-09-12T06:50:43+07:00",
+   "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "253",
+     "sent_at": "2026-09-12T06:50:43+07:00",
+     "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": false,
+   "message_id": "a181ce448eb7e6eebfa1",
+   "sent_at": "2026-09-12T06:50:44+07:00",
+   "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "a181ce448eb7e6eebfa1",
+     "sent_at": "2026-09-12T06:50:44+07:00",
+     "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "8f17f7b2b741df188657",
+     "sent_at": "2026-09-12T06:50:45+07:00",
+     "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": false,
+     "message_id": null,
+     "sent_at": null,
+     "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3",
+     "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": false,
+     "message_id": null,
+     "sent_at": null,
+     "content_sha": "01b1bedcd22117e0815d2f788efeb05ae7f87c542532831aee6c2ec565de77a3",
+     "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    }
+   ],
+   "error": "2/4 dich that bai"
+  }
+ }
 }
