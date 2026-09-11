@@ -31,3 +31,37 @@ KET QUA: co dich that bai -> exit 50
 KET THUC luc 2026-09-12 06:51:07 - trang DA xuat ban nhung giao tin nhan chua tron ven (exit 50)
 
 === 5/5 GHI BIEN NHAN ===
+Da ghi bien nhan giao hang 2026-09-12 (8e60bcf0144ae1697074fdf085482d3e674a0c8c)
+
+########## CHAY LUC 2026-09-12 06:51:14 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-12, ban daily)
+   the gioi 20 tin · Viet Nam 49 tin / 10 bao · phap ly 7 tin · chot quyen 3 ma
+   CANH BAO [C9] world[16]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[17]: tin lấy từ nguồn trong nước 'BNEWS'
+   CANH BAO [C9] world[18]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[19]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   DAT: khong loi, 4 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-12 · the gioi 20 · Viet Nam 49 · phap ly 7
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-12.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 4/6)
+Da xuat ban 2026-09-12: commit 13ea9c88e2be · sha noi dung 82b8b574df7a09d7
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 12/09 | content_sha 01b1bedcd221 | commit 13ea9c88e2be
+   telegram user/928f6fc4179d DA GUI truoc do (message_id=253) - bo qua
+   zalo     user/593dd2adbb87 DA GUI truoc do (message_id=a181ce448eb7e6eebfa1) - bo qua
+   zalo     group/8fddff299f5f DA GUI truoc do (message_id=8f17f7b2b741df188657) - bo qua
+   zalo     group/240eac12bc5e OK message_id=7ebe3d3297c2ff9ba6d4
+   zalo     group/8b7b62566b6c OK message_id=5285e7c842382a61732e
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-12.json
+KET QUA: 5 dich da giao (telegram=already, zalo=sent)
+HOAN TAT luc 2026-09-12 06:52:05 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
