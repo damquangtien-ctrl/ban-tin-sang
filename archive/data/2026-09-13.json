@@ -1,0 +1,154 @@
+{
+ "date": "2026-09-13",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Mọi ánh mắt đổ dồn về Warsh khi làn sóng tăng lãi suất lan rộng khắp NHTW nhóm G7"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Chủ tịch ECB Lagarde cảnh báo cú sốc lạm phát hiện tại sẽ kéo dài hơn dự kiến trước đó"
+  },
+  {
+   "source": "Reuters",
+   "text": "Sam Altman: OpenAI sẽ không IPO trong năm 2026 do còn lo ngại về an toàn AI"
+  },
+  {
+   "source": "Reuters",
+   "text": "CEO Anthropic kêu gọi ngành AI làm chậm tốc độ phát triển mô hình vì lo ngại bị lạm dụng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Nga tấn công Ukraine khiến 10 người thiệt mạng; Kyiv chuẩn bị nối lại đàm phán vào tháng 10"
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND",
+    "value": "Mua CK 25.730 · Bán 26.110"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "143,0 - 146,0 triệu đồng/lượng"
+   }
+  ],
+  "summary": "Phố Wall đêm qua tăng đồng loạt: S&P 500 +0,86%, Dow Jones +0,98%, Nasdaq +0,96%; dầu WTI và Brent giảm lần lượt 2,37% và 2,81% trong khi vàng thế giới tăng 1,02% lên 4.409 USD/ounce. Thị trường trong nước nghỉ giao dịch cuối tuần; phiên gần nhất 11/9 VN-Index giằng co quanh 1.830 điểm, thanh khoản giảm so với phiên trước, khối ngoại tiếp tục mua ròng các mã bluechip như VIC, FPT.",
+  "tiles": [
+   {
+    "change_pct": 0.86,
+    "label": "S&P 500",
+    "value": "7.657,0"
+   },
+   {
+    "change_pct": 0.98,
+    "label": "Dow Jones",
+    "value": "52.573,3"
+   },
+   {
+    "change_pct": 0.96,
+    "label": "Nasdaq",
+    "value": "26.333,0"
+   },
+   {
+    "change_pct": -2.37,
+    "label": "Dầu WTI",
+    "value": "100,0 USD"
+   },
+   {
+    "change_pct": -2.81,
+    "label": "Dầu Brent",
+    "value": "104,6 USD"
+   },
+   {
+    "change_pct": 1.02,
+    "label": "Vàng thế giới",
+    "value": "4.409 USD"
+   },
+   {
+    "change_pct": 0.09,
+    "label": "Bitcoin",
+    "value": "77.244 USD"
+   },
+   {
+    "change_pct": 0.01,
+    "label": "DXY",
+    "value": "99,09"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "reuters:1fede2e025",
+   "title": "CEO Anthropic kêu gọi các công ty AI làm chậm tốc độ phát triển mô hình vì lo ngại nguy cơ bị lạm dụng",
+   "translated": true,
+   "original_title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
+   "link": "https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/"
+  },
+  {
+   "ref": "reuters:bf4791b858",
+   "title": "Sam Altman: OpenAI sẽ không IPO trong năm 2026 do còn lo ngại về an toàn AI",
+   "translated": true,
+   "original_title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+   "link": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/"
+  },
+  {
+   "ref": "bloomberg:9facb1f056",
+   "title": "Chủ tịch ECB Lagarde: Cú sốc lạm phát hiện tại sẽ kéo dài hơn dự kiến",
+   "translated": true,
+   "original_title": "ECB’s Lagarde Says Current Inflation Shock Will Be Longer Lasting",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-12/ecb-s-lagarde-says-current-inflation-shock-will-be-longer-lasting"
+  },
+  {
+   "ref": "bloomberg:79933bea4e",
+   "title": "Mọi ánh mắt đổ dồn về Warsh khi làn sóng tăng lãi suất lan rộng khắp NHTW nhóm G7",
+   "translated": true,
+   "original_title": "All Eyes on Warsh as Rate-Hike Fever Spreads Across G7 Central Banks",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-12/all-eyes-on-warsh-as-rate-hike-fever-spreads-across-g7-central-banks"
+  },
+  {
+   "ref": "bloomberg:35b308818e",
+   "title": "Ngân hàng Trung ương Pháp lên tiếng về nợ công giữa tin đồn \"sai sự thật\"",
+   "translated": true,
+   "original_title": "Bank of France Issues Statement on Debt Amid ‘False’ Information",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-12/bank-of-france-issues-statement-on-debt-amid-false-information"
+  },
+  {
+   "ref": "reuters:a77a062f80",
+   "title": "Nga tấn công khiến 10 người chết, hàng chục người bị thương tại Ukraine; Nga nói đã đánh trúng tàu và nhà máy",
+   "translated": true,
+   "original_title": "Russian attacks kill 10, injure dozens in Ukraine; Russia says it hits ships, plants",
+   "link": "https://www.reuters.com/world/europe/russian-attacks-kill-six-injure-dozens-ukraine-moscow-says-it-hits-ships-plants-2026-09-12/"
+  },
+  {
+   "ref": "reuters:a08f6c6282",
+   "title": "Quan chức cấp cao Ukraine: Kyiv đang chuẩn bị nối lại đàm phán vào tháng 10",
+   "translated": true,
+   "original_title": "Kyiv preparing for talks to resume in October, senior Ukrainian official says",
+   "link": "https://www.reuters.com/world/kyiv-preparing-talks-resume-october-senior-ukrainian-official-says-2026-09-12/"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:984fafe5a1",
+   "title": "Chris Wright: Doanh thu dầu Venezuela sẽ không bị Trung Quốc yêu sách",
+   "translated": false,
+   "original_title": "Chris Wright: Doanh thu dầu Venezuela sẽ không bị Trung Quốc yêu sách",
+   "link": "https://bbw.vn/chris-wright-doanh-thu-dau-venezuela-se-khong-bi-trung-quoc-yeu-sach-60219.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:d2d3d4491d",
+   "title": "El Niño khiến kênh đào Panama phải hạn chế tàu thuyền qua lại",
+   "translated": false,
+   "original_title": "El Niño khiến kênh đào Panama phải hạn chế tàu thuyền qua lại",
+   "link": "https://bbw.vn/el-nino-khien-kenh-dao-panama-phai-han-che-tau-thuyen-qua-lai-60218.html"
+  }
+ ],
+ "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b"
+}
