@@ -150,5 +150,68 @@
    "link": "https://bbw.vn/el-nino-khien-kenh-dao-panama-phai-han-che-tau-thuyen-qua-lai-60218.html"
   }
  ],
- "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b"
+ "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "c344a2c9ebd4bd3759beb182ed0101b3f7ff8f13",
+   "published_at": "2026-09-13T06:36:45+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "254",
+   "sent_at": "2026-09-13T06:36:45+07:00",
+   "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "254",
+     "sent_at": "2026-09-13T06:36:45+07:00",
+     "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "2dcb3b4ce0738b2ad265",
+   "sent_at": "2026-09-13T06:36:47+07:00",
+   "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "2dcb3b4ce0738b2ad265",
+     "sent_at": "2026-09-13T06:36:47+07:00",
+     "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "6a2b44ed9fd2f48badc4",
+     "sent_at": "2026-09-13T06:36:48+07:00",
+     "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "9f79bc1b67240c7d5532",
+     "sent_at": "2026-09-13T06:36:50+07:00",
+     "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "450407acdf93b4caed85",
+     "sent_at": "2026-09-13T06:36:51+07:00",
+     "content_sha": "72c7d6797866c8e5a26ef393638fe8992dbccf4d39d0f4102779ef961cb2b18b"
+    }
+   ]
+  }
+ }
 }
