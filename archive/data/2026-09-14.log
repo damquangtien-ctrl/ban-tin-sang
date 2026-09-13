@@ -1,0 +1,29 @@
+
+########## CHAY LUC 2026-09-14 06:47:21 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-14, ban daily)
+   the gioi 14 tin · Viet Nam 60 tin / 8 bao · phap ly 5 tin · chot quyen 10 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-14 · the gioi 14 · Viet Nam 60 · phap ly 5
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-14.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-09-14: commit 1acac75080cb · sha noi dung 6097b84694f569c4
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 14/09 | content_sha 0b88ac37efcd | commit 1acac75080cb
+   telegram user/928f6fc4179d OK message_id=255
+   zalo     user/593dd2adbb87 OK message_id=95551494d2e3b8bae1f5
+   zalo     group/8fddff299f5f OK message_id=79f39446523138686127
+   zalo     group/240eac12bc5e OK message_id=0e3fddf8188f72d62b99
+   zalo     group/8b7b62566b6c OK message_id=4bf0356ff0189a41c30e
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-14.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-09-14 06:48:02 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

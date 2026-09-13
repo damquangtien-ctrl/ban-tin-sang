@@ -568,5 +568,68 @@
    "link": "https://www.reuters.com/business/media-telecom/chinas-ligent-technologies-seeks-723-million-hong-kong-ipo-2026-09-13/"
   }
  ],
- "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec"
+ "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "1acac75080cbc3f62d85641db5f52bf96596b7e0",
+   "published_at": "2026-09-14T06:47:55+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "255",
+   "sent_at": "2026-09-14T06:47:56+07:00",
+   "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "255",
+     "sent_at": "2026-09-14T06:47:56+07:00",
+     "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "95551494d2e3b8bae1f5",
+   "sent_at": "2026-09-14T06:47:58+07:00",
+   "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "95551494d2e3b8bae1f5",
+     "sent_at": "2026-09-14T06:47:58+07:00",
+     "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "79f39446523138686127",
+     "sent_at": "2026-09-14T06:47:59+07:00",
+     "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "0e3fddf8188f72d62b99",
+     "sent_at": "2026-09-14T06:48:00+07:00",
+     "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "4bf0356ff0189a41c30e",
+     "sent_at": "2026-09-14T06:48:02+07:00",
+     "content_sha": "0b88ac37efcdd9eb449a7a6915202c7bee61febf32fabd3c502082d6765eb3ec"
+    }
+   ]
+  }
+ }
 }
