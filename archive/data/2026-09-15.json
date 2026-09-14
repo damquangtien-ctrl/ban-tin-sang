@@ -717,5 +717,68 @@
    "link": "https://www.reuters.com/business/aerospace-defense/nato-fighter-shoots-down-drone-lithuania-2026-09-14/"
   }
  ],
- "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d"
+ "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "2b994f688be933c41408bb4ddd0a2b5626dfb175",
+   "published_at": "2026-09-15T06:50:35+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "256",
+   "sent_at": "2026-09-15T06:50:36+07:00",
+   "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "256",
+     "sent_at": "2026-09-15T06:50:36+07:00",
+     "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "c17f0ec0479c2ac5738a",
+   "sent_at": "2026-09-15T06:50:37+07:00",
+   "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "c17f0ec0479c2ac5738a",
+     "sent_at": "2026-09-15T06:50:37+07:00",
+     "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "a63d127f5b23367a6f35",
+     "sent_at": "2026-09-15T06:50:38+07:00",
+     "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "702a8ecdc491a9c8f087",
+     "sent_at": "2026-09-15T06:50:39+07:00",
+     "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "5968cfe685bae8e3b1ac",
+     "sent_at": "2026-09-15T06:50:40+07:00",
+     "content_sha": "366f4ebded0e2529afd21cb9e415d5d4d0a5dfd340418dbf991a241d622a9d0d"
+    }
+   ]
+  }
+ }
 }

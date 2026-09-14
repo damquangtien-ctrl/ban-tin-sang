@@ -1,0 +1,38 @@
+
+########## CHAY LUC 2026-09-15 06:49:31 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-15, ban daily)
+   the gioi 19 tin · Viet Nam 75 tin / 11 bao · phap ly 10 tin · chot quyen 10 ma
+   THAT BAI: 1 loi
+      [C5] legal[2].items[0]: tiêu đề còn chữ mẫu/placeholder: TBD: Công bố thông tin thành viên HĐQT Đặng Phan Tường bị khởi tố
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-09-15 06:50:01 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-15, ban daily)
+   the gioi 19 tin · Viet Nam 75 tin / 11 bao · phap ly 10 tin · chot quyen 10 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-15 · the gioi 19 · Viet Nam 75 · phap ly 10
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-15.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-09-15: commit 2b994f688be9 · sha noi dung 8dd83ec61ecc2061
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 15/09 | content_sha 366f4ebded0e | commit 2b994f688be9
+   telegram user/928f6fc4179d OK message_id=256
+   zalo     user/593dd2adbb87 OK message_id=c17f0ec0479c2ac5738a
+   zalo     group/8fddff299f5f OK message_id=a63d127f5b23367a6f35
+   zalo     group/240eac12bc5e OK message_id=702a8ecdc491a9c8f087
+   zalo     group/8b7b62566b6c OK message_id=5968cfe685bae8e3b1ac
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-15.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-09-15 06:50:40 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
