@@ -578,5 +578,68 @@
    "link": "https://bbw.vn/gia-dien-am-co-the-keo-giam-doanh-thu-doanh-nghiep-trong-ngan-han-60283.html"
   }
  ],
- "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32"
+ "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "97d283474ab4951caefa88c261e1116a617f0d5a",
+   "published_at": "2026-09-16T06:47:58+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "257",
+   "sent_at": "2026-09-16T06:47:58+07:00",
+   "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "257",
+     "sent_at": "2026-09-16T06:47:58+07:00",
+     "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "6dcc39e566a00af953b6",
+   "sent_at": "2026-09-16T06:48:00+07:00",
+   "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "6dcc39e566a00af953b6",
+     "sent_at": "2026-09-16T06:48:00+07:00",
+     "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "37fbc43a9a7ff626af69",
+     "sent_at": "2026-09-16T06:48:01+07:00",
+     "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "795c1ada449f28c67189",
+     "sent_at": "2026-09-16T06:48:03+07:00",
+     "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "f0e29ec9c08cacd5f59a",
+     "sent_at": "2026-09-16T06:48:04+07:00",
+     "content_sha": "b1e02e4faac2652276d390eaa94bd38d9d1599c4884be36b0f39cdda76387c32"
+    }
+   ]
+  }
+ }
 }
