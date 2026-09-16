@@ -601,5 +601,68 @@
    "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-ban-thao-loi-suat-cao-nhat-tu-khung-hoang-tai-chinh.htm"
   }
  ],
- "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367"
+ "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "b47f152175183c9e54208088bbfef1f0dd6298fa",
+   "published_at": "2026-09-17T06:45:03+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "258",
+   "sent_at": "2026-09-17T06:45:04+07:00",
+   "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "258",
+     "sent_at": "2026-09-17T06:45:04+07:00",
+     "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "bd5405fa11557d0c2443",
+   "sent_at": "2026-09-17T06:45:05+07:00",
+   "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "bd5405fa11557d0c2443",
+     "sent_at": "2026-09-17T06:45:05+07:00",
+     "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "733b7e2f698005d95c96",
+     "sent_at": "2026-09-17T06:45:07+07:00",
+     "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "652896aa8105ed5cb413",
+     "sent_at": "2026-09-17T06:45:08+07:00",
+     "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "4048fe41e8ee84b7ddf8",
+     "sent_at": "2026-09-17T06:45:09+07:00",
+     "content_sha": "95ac7c227478b78f5ace997dd55a6ed1b44fcd0ee6ced14e0814b120b13c2367"
+    }
+   ]
+  }
+ }
 }
