@@ -1,0 +1,721 @@
+{
+ "date": "2026-09-19",
+ "dividends": [
+  {
+   "event": "Chi trả cổ tức tiền mặt tỷ lệ 10% (1.000 đồng/CP)",
+   "record_date": "2026-09-24",
+   "ref": "vietstock:ae2341d41b",
+   "ticker": "BTD"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "Chứng khoán Việt Nam chính thức được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Fed, BOJ, ECB đồng loạt phát tín hiệu thắt chặt thêm, đồng USD tăng mạnh nhất kể từ tháng 6"
+  },
+  {
+   "source": "Thị trường",
+   "text": "VN-Index đảo chiều giảm hơn 7 điểm trong phiên ATC xuống 1.815,66 điểm dù khối ngoại mua ròng mạnh"
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "Giá dầu WTI, Brent lao dốc hơn 5-6% trong phiên khi lo ngại nguồn cung dịu bớt"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Warren Buffett chính thức rời ghế Chủ tịch Berkshire Hathaway sau 61 năm điều hành"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:9f5138d708",
+     "title": "TKV, Đất Xanh Miền Bắc và nhiều doanh nghiệp bị xử phạt"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:f3c489d931",
+     "title": "NDC bị xử phạt và truy thu thuế hơn 1,7 tỷ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9f3a21d753",
+     "title": "Ủy ban Chứng khoán Nhà nước xử phạt thêm 6 công ty liên quan vi phạm nghĩa vụ công bố thông tin"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:5120d395be",
+     "title": "Việt Nam khởi xướng điều tra hơn 60 vụ việc với hàng hóa nước ngoài"
+    }
+   ],
+   "source": "Tiền Phong"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-7,11 điểm (-0,39%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.815,66 điểm"
+   },
+   {
+    "change": "+1,39 điểm (+0,51%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "275,29 điểm"
+   },
+   {
+    "change": "+45% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "22.053 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng 1.277 tỷ đồng"
+   },
+   {
+    "change": "+1,8 triệu đồng/lượng",
+    "direction": "up",
+    "label": "Vàng SJC",
+    "value": "144,6 - 147,6 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.210 đồng/USD"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ khép lại một tuần biến động mạnh: S&P 500 và Nasdaq tăng nhẹ trong phiên cuối tuần còn Dow Jones giảm, sau khi Fed tiếp tục lộ trình tăng lãi suất và BOJ, ECB cũng phát tín hiệu thắt chặt thêm; giá dầu WTI và Brent lao dốc lần lượt 6,32% và 5,77% khi lo ngại nguồn cung dịu bớt, trong khi vàng và bitcoin tiếp tục tăng giá. Tại thị trường trong nước, VN-Index bất ngờ đảo chiều giảm hơn 7 điểm trong phiên ATC xuống 1.815,66 điểm dù thanh khoản HOSE tăng vọt 45% lên hơn 22.000 tỷ đồng và khối ngoại tiếp tục mua ròng hơn 1.200 tỷ đồng, đúng thời điểm chứng khoán Việt Nam chính thức được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp. HNX-Index ngược dòng tăng nhẹ lên 275,29 điểm.",
+  "tiles": [
+   {
+    "change_pct": 0.17,
+    "label": "S&P 500",
+    "value": "7.650,5"
+   },
+   {
+    "change_pct": -0.18,
+    "label": "Dow Jones",
+    "value": "51.682,6"
+   },
+   {
+    "change_pct": 0.39,
+    "label": "Nasdaq",
+    "value": "26.522,5"
+   },
+   {
+    "change_pct": -6.32,
+    "label": "Dầu WTI",
+    "value": "95,5 USD"
+   },
+   {
+    "change_pct": -5.77,
+    "label": "Dầu Brent",
+    "value": "98,8 USD"
+   },
+   {
+    "change_pct": 0.37,
+    "label": "Vàng thế giới",
+    "value": "4.416 USD"
+   },
+   {
+    "change_pct": 5.94,
+    "label": "Bitcoin",
+    "value": "80.940 USD"
+   },
+   {
+    "change_pct": -0.0,
+    "label": "DXY",
+    "value": "100,22"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:6d9fa8b2e6",
+     "title": "Khối ngoại bất ngờ \"tung\" hơn 2.600 tỷ mua ròng trong tuần, VN-Index tăng 20 điểm, cổ phiếu nào được gom mạnh nhất?"
+    },
+    {
+     "ref": "cafef:9dd3ae1ce6",
+     "title": "FTSE Russell đề xuất loạt hợp tác mới với Việt Nam sau dấu mốc nâng hạng"
+    },
+    {
+     "ref": "cafef:95c238425e",
+     "title": "Đại diện Morgan Stanley: 2,5 tỷ USD vào chứng khoán Việt Nam mới chỉ là khởi đầu, dòng vốn có thể còn lớn hơn"
+    },
+    {
+     "ref": "cafef:cecbba84bf",
+     "title": "Tập đoàn Dầu khí khởi công cỗ máy khoan sâu đáy biển, khai thác 6.470 thùng dầu/ngày, dự kiến đón dòng dầu đầu tiên vào năm 2027"
+    },
+    {
+     "ref": "cafef:1f8adb3524",
+     "title": "VFS: VinFast chuẩn bị ra mắt xe bán tải điện đổ xăng, đi hơn 1.000 km"
+    },
+    {
+     "ref": "cafef:7aac975156",
+     "title": "Bộ trưởng Bộ Tài chính: Nâng hạng chứng khoán không phải là đích đến cuối cùng"
+    },
+    {
+     "ref": "cafef:61eb3fb982",
+     "title": "HUT: Tasco Auto mua lại một hãng xe 11 năm tuổi, chuẩn bị ra lô xe điện đầu tiên từ 2027"
+    },
+    {
+     "ref": "cafef:45cbf66065",
+     "title": "Chứng khoán Việt Nam chính thức gia nhập rổ chỉ số toàn cầu FTSE Russell, nâng hạng lên thị trường mới nổi thứ cấp"
+    },
+    {
+     "ref": "cafef:b4ab4f18a0",
+     "title": "CTG: Lễ ký kết Biên bản ghi nhớ giữa NAPAS, VietinBank và Central Retail Corporation tại Thái Lan"
+    },
+    {
+     "ref": "cafef:b7bcc983fa",
+     "title": "FRT: FPT Retail năm thứ hai liên tiếp vào Top 50 Công ty niêm yết tốt nhất Việt Nam"
+    },
+    {
+     "ref": "cafef:9e0871b7c1",
+     "title": "Một doanh nghiệp nhựa lỗ gần 1.400 tỷ đồng trong 3 năm, vốn chủ sở hữu âm hơn 600 tỷ"
+    },
+    {
+     "ref": "cafef:8eec194b65",
+     "title": "TCI: Chứng khoán Thành Công trở thành cổ đông lớn tại Freco Việt Nam"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:fb4e4a9951",
+     "title": "Ngân hàng phải chủ động tìm doanh nghiệp nhỏ và vừa để cho vay"
+    },
+    {
+     "ref": "vietstock:4d5af37282",
+     "title": "Trung Quốc ngày càng siết chuẩn với rau quả Việt"
+    },
+    {
+     "ref": "vietstock:06b31dfc6e",
+     "title": "Tuần 14-18/9: Giá USD quốc tế vượt mốc 100 điểm, tỷ giá trung tâm tăng"
+    },
+    {
+     "ref": "vietstock:44f1d95594",
+     "title": "HAX: Haxaco muốn mua lại 5 triệu cổ phiếu quỹ"
+    },
+    {
+     "ref": "vietstock:f9481fef3f",
+     "title": "Cách cú sốc dầu diesel lan rộng ra cả nền kinh tế"
+    },
+    {
+     "ref": "vietstock:b5e4dfcda8",
+     "title": "GMD: Gemadept sắp tăng vốn lên gần 6.500 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:8ce7ac675d",
+     "title": "Đến cuối tháng 8/2026, tín dụng bất động sản lĩnh vực du lịch tại TPHCM đạt 30 nghìn tỷ đồng"
+    },
+    {
+     "ref": "vietstock:8e8aaf7ce9",
+     "title": "TPB: TPBank hoàn tất nền tảng triển khai IRB, tự tin bước vào giai đoạn chuyển đổi theo Thông tư 14"
+    },
+    {
+     "ref": "vietstock:b5ed50fe7e",
+     "title": "Chứng khoán tuần 14-18/9/2026: Cần thêm sự đồng thuận?"
+    },
+    {
+     "ref": "vietstock:0ca10a0318",
+     "title": "APG: Phó Tổng Giám đốc từ nhiệm sau chưa đầy 5 tháng nhậm chức"
+    },
+    {
+     "ref": "vietstock:34894f5393",
+     "title": "HDB: HDBank tiếp tục vào Top 50 Forbes Việt Nam trong bước chuyển lớn của thị trường vốn"
+    },
+    {
+     "ref": "vietstock:5f1af05f80",
+     "title": "Tác động từ chính sách của Fed và triển vọng tỷ giá giai đoạn 2026-2027"
+    },
+    {
+     "ref": "vietstock:624d2c088d",
+     "title": "Fed tăng lãi suất, vàng vẫn bật tăng mạnh: Điều nhà đầu tư cần tránh"
+    },
+    {
+     "ref": "vietstock:ec035b67cc",
+     "title": "Từ khoản đầu tư 450 triệu USD của Mỹ đến vai trò của doanh nghiệp vonfram Việt Nam"
+    },
+    {
+     "ref": "vietstock:6fedf5e813",
+     "title": "DTR: Hàng trăm tỷ đồng phải thu của Đông Tây Land và đường đi của dòng tiền nội bộ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:4d460e19a0",
+     "title": "Nối tiếp động thái của Fed, BOJ tăng lãi suất lên mức cao nhất 31 năm"
+    },
+    {
+     "ref": "vneconomy:3b717ae16e",
+     "title": "World Bank: \"Nâng hạng là bước ngoặt, chúng tôi mong tiếp tục được đồng hành cùng Việt Nam\""
+    },
+    {
+     "ref": "vneconomy:340760c18d",
+     "title": "Giám đốc FTSE Russell: Cam kết trở thành đối tác lâu dài của Việt Nam, tiếp tục hiện đại hóa thị trường vốn"
+    },
+    {
+     "ref": "vneconomy:6bf7620f8f",
+     "title": "Giám đốc của Vanguard: Sẽ đầu tư vào Việt Nam 2,5 tỷ USD và nắm giữ các khoản này trong nhiều thập kỷ"
+    },
+    {
+     "ref": "vneconomy:a18708a6c6",
+     "title": "BOE giữ nguyên lãi suất dù lạm phát vượt xa mục tiêu"
+    },
+    {
+     "ref": "vneconomy:a89fc76978",
+     "title": "Quy mô quỹ hưu trí bổ sung chưa đến 1% GDP, cơ hội còn rất lớn có thể kỳ vọng đạt 2 tỷ USD?"
+    },
+    {
+     "ref": "vneconomy:d22fd0475b",
+     "title": "DCM: PVCFC sẽ họp Đại hội đồng cổ đông bất thường để trình các định hướng phát triển dài hạn"
+    },
+    {
+     "ref": "vneconomy:a9218acd8a",
+     "title": "Thấy gì từ việc nhà đầu tư mua nhiều cổ phiếu Mỹ hơn trái phiếu kho bạc Mỹ?"
+    },
+    {
+     "ref": "vneconomy:57c020193d",
+     "title": "Ông Thomas Nguyen: Việt Nam có thể hút 10 tỷ USD vốn chủ động"
+    },
+    {
+     "ref": "vneconomy:f3d066283e",
+     "title": "Thúc đẩy nhóm FDI lên sàn, thêm hàng \"chất\" cho nhà đầu tư quốc tế mới đến Việt Nam sau nâng hạng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:df63e1f8ec",
+     "title": "Bất động sản khu công nghiệp bứt tốc nhờ ba động lực cốt lõi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:416f03f288",
+     "title": "Top 10 cổ phiếu tăng/giảm mạnh nhất tuần: Cổ phiếu SSB nổi sóng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8574360db1",
+     "title": "Virtu ghi nhận chi phí giao dịch cổ phiếu Việt Nam giảm 40%"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ca545436d0",
+     "title": "Tiêu thụ hơn 82 triệu tấn xi măng, clinker"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:dc8510494f",
+     "title": "STB: Ông Nguyễn Xuân Vũ được bầu làm Phó Chủ tịch HĐQT Sacombank"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:045e7876a4",
+     "title": "Động lực tăng trưởng được duy trì, song cán cân ngoại thương đang là thách thức đáng lưu ý"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:db1a160747",
+     "title": "Khoảng trống hưu trí: 14,4 triệu người cao tuổi, chỉ 38% có lương hưu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6f53f718a8",
+     "title": "Bảo hiểm phi nhân thọ đối mặt áp lực chi phí bồi thường"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:5432c7b309",
+     "title": "Bộ Tài chính tổ chức tiếp xúc nhà đầu tư quốc tế không kèm phát hành trái phiếu"
+    },
+    {
+     "ref": "b-o-u-t:e85cd20265",
+     "title": "SBT: AgriS ra mắt Trung tâm Đổi mới sáng tạo toàn cầu tại Singapore"
+    },
+    {
+     "ref": "b-o-u-t:2f39062356",
+     "title": "Ngân hàng Nhà nước thành lập Công ty Quản lý tài sản, vốn điều lệ 5.000 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:546db423d8",
+     "title": "Xuất nhập khẩu đến 15/9 vượt 825 tỷ USD, nhập siêu nới rộng"
+    },
+    {
+     "ref": "b-o-u-t:0f2ea8b02e",
+     "title": "Trung tâm Tài chính quốc tế Đà Nẵng sẽ trở thành nền tảng kết nối dòng vốn quốc tế"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:3db98a8cbe",
+     "title": "Doanh nghiệp cũng là chủ nợ: 39% hóa đơn B2B tại Việt Nam bị thanh toán quá hạn"
+    },
+    {
+     "ref": "markettimes:7bece52a98",
+     "title": "VIB: Người nhà một thành viên HĐQT bán thành công cổ phiếu như đăng ký"
+    },
+    {
+     "ref": "markettimes:34136425da",
+     "title": "HBC: Xây dựng Hòa Bình tiếp tục xử lý gần 514 tỷ đồng nợ bằng cổ phiếu"
+    },
+    {
+     "ref": "markettimes:fa8ffa4036",
+     "title": "DTR: Từ doanh nghiệp vốn 20 tỷ đồng đến 800 tỷ đồng, đưa 80 triệu cổ phiếu lên UPCoM vào ngày 25/9"
+    },
+    {
+     "ref": "markettimes:77671dd46e",
+     "title": "Không phải FPT, đây mới là cổ phiếu bị khối ngoại bán ròng nhiều nhất từ đầu năm"
+    },
+    {
+     "ref": "markettimes:bd39d3abea",
+     "title": "GEL: Hạ tầng GELEX chào bán 100 triệu cổ phiếu giá 28.600 đồng, vốn điều lệ dự kiến cán mốc 9.900 tỷ đồng"
+    },
+    {
+     "ref": "markettimes:d78d25d381",
+     "title": "NHNN mở rộng nhóm dư nợ không tính vào tín dụng bất động sản"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:0d388a222c",
+     "title": "Cơ hội từ dịch chuyển chuỗi cung ứng: Cần hiện thực hóa bằng đơn hàng"
+    },
+    {
+     "ref": "vnbusiness:349f74093e",
+     "title": "Người dân gửi hơn 11,2 triệu tỷ đồng vào ngân hàng giữa làn sóng lãi suất neo cao"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:d61e22b64c",
+     "title": "Hết thời Trung Quốc dễ dãi, chuộng hàng tiểu ngạch"
+    },
+    {
+     "ref": "ti-n-phong:741a93c36d",
+     "title": "Tác động trực tiếp của việc \"nới room\" tín dụng bất động sản"
+    },
+    {
+     "ref": "ti-n-phong:3cc0b728da",
+     "title": "NAB: Nam A Bank nâng quy mô hợp tác với Blueorchard lên 100 triệu USD"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:fc910a383a",
+     "title": "Hành lang pháp lý phải theo kịp sự bùng nổ của tài chính số"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:663298fed8",
+     "title": "Fed tăng lãi suất lần đầu tiên sau hơn 3 năm, phát tín hiệu còn tăng tiếp"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:06080fa982",
+     "title": "Khối ngoại mua ròng 21/27 cổ phiếu được FTSE Russell đưa vào rổ FTSE All-Cap"
+    },
+    {
+     "ref": "bnews:ae06099bec",
+     "title": "Hướng tới mục tiêu xuất khẩu 48 tỷ USD hàng dệt may"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:eedcb15b33",
+     "title": "VTB: Thông báo ngày ĐKCC chi trả cổ tức còn lại của năm 2025 bằng tiền"
+    },
+    {
+     "ref": "hose:fd86568ce8",
+     "title": "GEE: Thông báo ngày ĐKCC lấy ý kiến cổ đông bằng văn bản"
+    },
+    {
+     "ref": "hose:8fb7a8fea9",
+     "title": "TVS: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:91ee0b3e2c",
+     "title": "SSB: Thông báo giao dịch cổ phiếu của người nội bộ Đặng Thu Trang, Vũ Đình Khoán"
+    },
+    {
+     "ref": "hose:e3eaedfdd2",
+     "title": "VIB: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Ân Thanh Sơn"
+    },
+    {
+     "ref": "hose:f853000c9b",
+     "title": "SSB: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Lê Tuấn Anh, Nguyễn Tường Huy"
+    },
+    {
+     "ref": "hose:27825a8350",
+     "title": "VIB: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Hàn Ngọc Vũ"
+    },
+    {
+     "ref": "hose:230e16efdc",
+     "title": "VIB: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Nguyễn Minh Huệ"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:2dcf35d402",
+   "title": "Chủ tịch Fed Kansas City ủng hộ tăng lãi suất, cảnh báo lạm phát vượt xa yếu tố năng lượng",
+   "translated": true,
+   "original_title": "Fed’s Schmid Backed Rate Hike, Says Inflation Goes Beyond Energy",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-18/fed-s-schmid-backed-rate-hike-says-inflation-goes-beyond-energy"
+  },
+  {
+   "ref": "bloomberg:f77101c92c",
+   "title": "Trái phiếu Mỹ giảm giá khi triển vọng Fed tiếp tục tăng lãi suất đè nặng tâm lý thị trường",
+   "translated": true,
+   "original_title": "Treasuries Fall as Fed Rate-Hike Outlook Dents Sentiment",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-18/treasuries-fall-as-fed-rate-hike-outlook-dents-sentiment"
+  },
+  {
+   "ref": "bloomberg:1a266c6b7b",
+   "title": "Sản xuất công nghiệp Mỹ bất ngờ giảm lần đầu tiên trong năm",
+   "translated": true,
+   "original_title": "US Factory Output Unexpectedly Fell for First Time This Year",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-18/us-factory-production-unexpectedly-shrinks-as-costs-rise"
+  },
+  {
+   "ref": "bloomberg:a0b0500a47",
+   "title": "Quan chức ECB mở đường thắt chặt thêm khi lạm phát xấu đi",
+   "translated": true,
+   "original_title": "ECB Officials Pave Way for More Tightening as Inflation Worsens",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-18/ecb-officials-pave-way-for-more-tightening-as-inflation-worsens"
+  },
+  {
+   "ref": "bloomberg:10bd982ef8",
+   "title": "Đồng USD tăng mạnh nhất kể từ tháng 6 nhờ triển vọng lãi suất cao hơn",
+   "translated": true,
+   "original_title": "Dollar Surges to Best Week Since June on Higher Rate Outlook",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-18/dollar-surges-to-best-week-since-june-on-higher-rate-outlook"
+  },
+  {
+   "ref": "bloomberg:c571af8aa7",
+   "title": "Mỹ - Trung chạy đua dẫn đầu AI trước thềm thượng đỉnh Trump - Tập Cận Bình",
+   "translated": true,
+   "original_title": "US and China Vie For AI Lead Before Trump- Xi Summit",
+   "link": "https://www.bloomberg.com/news/videos/2026-09-18/us-and-china-vie-for-ai-lead-before-trump-xi-summit-video"
+  },
+  {
+   "ref": "bloomberg:ba2e95100c",
+   "title": "BOJ tăng lãi suất nhưng không nâng đỡ được đồng yen dù Thống đốc Ueda báo hiệu còn tăng tiếp",
+   "translated": true,
+   "original_title": "BOJ Rate Hike Fails to Buoy Yen Even as Ueda Signals More Moves",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-18/boj-hikes-rates-at-fastest-pace-since-1990-as-inflation-persists"
+  },
+  {
+   "ref": "reuters:07c5b7d809",
+   "title": "S&P 500, Nasdaq tăng điểm, khép lại một tuần giao dịch nhiều biến động",
+   "translated": true,
+   "original_title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
+   "link": "https://www.reuters.com/business/nasdaq-futures-lead-wall-st-gains-oil-retreat-eases-inflation-worries-2026-09-18/"
+  },
+  {
+   "ref": "reuters:353ef05eb8",
+   "title": "Phố Wall tuần tới: Nhà đầu tư dồn chú ý vào lộ trình lãi suất và nguy cơ AI hạ nhiệt sau đợt tăng lãi suất của Fed",
+   "translated": true,
+   "original_title": "Wall St Week Ahead Investors focus on rate path, AI slowdown after Fed hike",
+   "link": "https://www.reuters.com/business/wall-st-week-ahead-investors-focus-rate-path-ai-slowdown-after-fed-hike-2026-09-18/"
+  },
+  {
+   "ref": "reuters:93fa4dcce5",
+   "title": "Mỹ - Trung bàn giảm thuế khí hóa lỏng Mỹ trước chuyến thăm của ông Tập Cận Bình",
+   "translated": true,
+   "original_title": "US, China discuss cutting tariffs on US LNG ahead of Xi visit",
+   "link": "https://www.reuters.com/business/energy/us-china-discuss-cutting-tariffs-us-lng-ahead-xi-visit-2026-09-18/"
+  },
+  {
+   "ref": "reuters:83ec4cc0d3",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent dự kiến bàn AI và đất hiếm với Phó Thủ tướng Trung Quốc",
+   "translated": true,
+   "original_title": "US Treasury's Bessent plans to discuss AI and rare earths with China's He, source says",
+   "link": "https://www.reuters.com/world/china/us-treasurys-bessent-plans-discuss-ai-rare-earths-with-chinas-he-source-says-2026-09-18/"
+  },
+  {
+   "ref": "reuters:e1e9726db4",
+   "title": "OpenAI dự kiến \"đốt\" gần 280 tỷ USD tiền mặt đến năm 2030, theo FT",
+   "translated": true,
+   "original_title": "OpenAI expects to burn through almost $280 billion by 2030, FT reports",
+   "link": "https://www.reuters.com/technology/openai-expects-burn-through-almost-280-billion-by-2030-ft-reports-2026-09-18/"
+  },
+  {
+   "ref": "reuters:32f0325047",
+   "title": "Anthropic, Accenture đầu tư 2 tỷ USD đánh giá mô hình AI khi lo ngại an toàn gia tăng",
+   "translated": true,
+   "original_title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+   "link": "https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/"
+  },
+  {
+   "ref": "reuters:5a12d5a633",
+   "title": "Luật trừng phạt Nga trao cho ông Trump quyền áp thuế quan mới rộng tay",
+   "translated": true,
+   "original_title": "Russia sanctions bill gives Trump sweeping new tariff powers",
+   "link": "https://www.reuters.com/world/us/russia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-2026-09-18/"
+  },
+  {
+   "ref": "reuters:b30ce70a6c",
+   "title": "Mỹ và Đan Mạch đạt thỏa thuận về Greenland, ông Trump tuyên bố",
+   "translated": true,
+   "original_title": "US and Denmark reach deal on Greenland, Trump says",
+   "link": "https://www.reuters.com/world/china/us-denmark-close-greenland-deal-sources-say-2026-09-18/"
+  },
+  {
+   "ref": "tg-marketfeed:1041361",
+   "title": "OpenAI dự báo doanh thu lũy kế 840 tỷ USD đến năm 2030, theo FT",
+   "translated": true,
+   "original_title": "OPENAI PROJECTS $840 BILLION IN REVENUE THROUGH 2030 - FT ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1041320",
+   "title": "Anthropic (công ty phát triển Claude AI) dự kiến IPO vào tháng 11, định giá ước tính 2.000 tỷ USD",
+   "translated": true,
+   "original_title": "JUST IN: CLAUDE AI DEVELOPER ANTHROPIC PLANS TO IPO IN NOVEMBER AT AN ESTIMATED $2 TRILLION VALUATION. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1041342",
+   "title": "AI Gemini của Google tự động xâm nhập hệ thống 3 công ty trong một bài kiểm tra an ninh, theo WSJ",
+   "translated": true,
+   "original_title": "JUST IN: GOOGLE GEMINI AI AGENT HACKS THREE COMPANIES. • OCCURRED DURING SECURITY TESTING WHEN A GEMINI MODEL ACCIDENTALLY GAINED INTERNET ACCESS. • GOOGLE'S AI WAS MEANT TO ATTACK A FAKE COMPANY, BUT THEN FIGURED OUT HOW TO HACK A REAL ONE USING LEAKED ONLINE CREDENTIALS. • GEMINI STOPPED ITSELF ONCE IT REALIZED THE COMPANIES WERE REAL. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1041257",
+   "title": "Nscale nộp hồ sơ IPO, dự kiến niêm yết trên sàn NYSE với mã \"NSCL\"",
+   "translated": true,
+   "original_title": "NSCALE HAS SUBMITTED ITS APPLICATION FOR AN IPO AND AIMS TO BE LISTED ON THE NYSE UNDER THE TICKER 'NSCL.' ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1041303",
+   "title": "Warren Buffett chính thức rời ghế Chủ tịch Berkshire Hathaway sau 61 năm điều hành",
+   "translated": true,
+   "original_title": "TODAY, WARREN BUFFETT OFFICIALLY STEPPED DOWN AS CHAIRMAN OF BERKSHIRE HATHAWAY. HE TOOK CONTROL OF $BRK IN 1965, WHEN IT WAS A STRUGGLING TEXTILE COMPANY. 61 YEARS LATER, BERKSHIRE IS WORTH $1.09 TRILLION, SURGING OVER 7,700,000%. ONE OF THE GREATEST INVESTING RUNS IN HISTORY. THE END OF AN ERA. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1041278",
+   "title": "Pháp bị hạ xếp hạng tín nhiệm xuống A+ từ AA- bởi Scope",
+   "translated": true,
+   "original_title": "*FRANCE'S CREDIT RATING DOWNGRADED TO A+ FROM AA- AT SCOPE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1041271",
+   "title": "Anthropic dự kiến doanh thu quy năm vượt 100 tỷ USD trong năm nay, theo NYT",
+   "translated": true,
+   "original_title": "ANTHROPIC EXPECTS OVER $100 BLN IN ANNUALIZED REVENUE THIS YEAR - NYT ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:399621",
+   "title": "Saudi Aramco ngừng cung cấp dầu cho khách hàng châu Âu trong tháng tới do đường ống dẫn dầu ra Biển Đỏ bị tấn công",
+   "translated": false,
+   "original_title": "🔴 Saudi Aramco ngừng cung cấp dầu cho khách hàng châu Âu trong tháng tới Theo thông tin từ các nguồn tin, Saudi Aramco đã thông báo cho ít nhất hai khách hàng lọc dầu châu Âu rằng họ sẽ không nhận được bất kỳ lượng dầu thô nào trong tháng tới do một đường ống dẫn dầu quan trọng từ Ả Rập Xê Út ra Biển Đỏ bị tấn công. Khách hàng châu Âu thường nhận dầu từ Saudi thông qua các hợp đồng dài hạn để đảm ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:399642",
+   "title": "Cổ phiếu ô tô châu Âu giảm sau cảnh báo lợi nhuận của Volkswagen, Stellantis và Renault giảm hơn 5%",
+   "translated": false,
+   "original_title": "🔴 Cổ phiếu ô tô châu Âu giảm sau khi Volkswagen đưa ra cảnh báo lợi nhuận, với Stellantis, Renault và Porsche giảm hơn 5%, trong khi cổ phiếu Volkswagen có lúc giảm 7,5%. #Volkswagen #ô_tô_châu_Âu",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:399636",
+   "title": "Lợi suất trái phiếu chính phủ Pháp kỳ hạn 10 năm tăng lên 4,56%, cao nhất kể từ năm 2008",
+   "translated": false,
+   "original_title": "🔴 Lợi suất trái phiếu chính phủ Pháp kỳ hạn 10 năm tăng 11 điểm cơ bản trong ngày, đạt 4,56%, mức cao nhất kể từ năm 2008. #lãi_suất #pháp",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:399610",
+   "title": "Giá bạc giao ngay tăng 3% trong ngày, lên mức 67,18 USD/ounce",
+   "translated": false,
+   "original_title": "🔴 Giá bạc giao ngay tăng 3,00% trong ngày, hiện đang ở mức 67,18 USD/ounce. #bạc",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:399646",
+   "title": "Theo Nikkei, Ngân hàng Trung ương Nhật Bản có thể đã can thiệp kiểm tra tỷ giá trên thị trường ngoại hối",
+   "translated": false,
+   "original_title": "🔴 Theo Nikkei, Ngân hàng Trung ương Nhật Bản có thể đã tiến hành kiểm tra lãi suất trên thị trường ngoại hối. #nhật_bản #ngân_hàng_trung_ương",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107130",
+   "title": "BoJ tăng lãi suất 25 điểm cơ bản lên 1,25% với tỷ lệ bỏ phiếu chia rẽ 7-2, BoE giữ nguyên lãi suất",
+   "translated": false,
+   "original_title": "Danske Bank: BoJ tăng lãi suất, BoE giữ nguyên giữa những tín hiệu trái chiều BoJ tăng lãi suất 25 bps lên 1.25%, nhưng quyết định chia rẽ 7-2 cho thấy triển vọng chính sách vẫn còn bất định. Trong khi đó, BoE giữ Bank Rate ở 3.75% với tỷ lệ bỏ phiếu 6-3. Thị trường tiếp tục theo dõi tác động lên yen, GBP và lợi suất trái phiếu. Giá dầu duy trì trên $100/thùng, trong khi chứng khoán hưởng lợi từ k",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107117",
+   "title": "Goldman giữ nguyên dự báo vàng 5.400 USD/ounce bất chấp Fed tăng lãi suất",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Goldman giữ nguyên dự báo vàng 5,400 USD bất chấp Fed tăng lãi suất Chi tiết xem tại: https://dubaotiente.net/tieu-diem/goldman-giu-nguyen-du-bao-vang-5400-usd-bat-chap-fed-tang-lai-suat-112225.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107116",
+   "title": "Giá dầu giảm phiên thứ ba liên tiếp khi lo ngại nguồn cung dịu lại, đàm phán Mỹ - Iran có dấu hiệu nối lại",
+   "translated": false,
+   "original_title": "Dầu giảm khi lo ngại nguồn cung dịu lại, đàm phán Mỹ-Iran có dấu hiệu nối lại Giá dầu giảm phiên thứ ba liên tiếp khi những lo ngại về nguồn cung hạ nhiệt và giới giao dịch hướng sự chú ý đến vòng đàm phán tiếp theo, vốn có thể định hình diễn biến cuộc chiến giữa Mỹ và Iran. Dầu Brent giảm xuống dưới 104 USD/thùng sau khi mất hơn 3% trong hai phiên trước, trong khi West Texas Intermediate (WTI) da",
+   "link": null
+  }
+ ],
+ "content_sha": "262329c57bba9c1ed2531ed96cbd017fd0a657ed0572ba96c3ea78b9443f3c3e"
+}
