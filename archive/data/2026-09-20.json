@@ -1,0 +1,192 @@
+{
+ "date": "2026-09-20",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Thượng đỉnh Trump - Tập diễn ra tuần tới, giới đầu tư toàn cầu theo dõi sát diễn biến thương mại Mỹ - Trung"
+  },
+  {
+   "source": "Reuters",
+   "text": "Bộ trưởng Tài chính Mỹ Bessent gặp Phó Thủ tướng Trung Quốc tại trụ sở JPMorgan trước thềm thượng đỉnh"
+  },
+  {
+   "source": "Thị trường",
+   "text": "Dầu WTI và Brent lao dốc hơn 5% trong phiên cuối tuần giữa loạt diễn biến địa chính trị Trung Đông"
+  },
+  {
+   "source": "Reuters",
+   "text": "Anthropic cân nhắc ra mắt mô hình AI mới trước khi IPO"
+  },
+  {
+   "source": "Vietstock",
+   "text": "VN-Index giảm về 1.815,66 điểm phiên 18/9, khối ngoại mua ròng hơn 1.200 tỷ đồng"
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-7,11 (-0,39%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.815,66"
+   },
+   {
+    "change": "+1,39 (+0,51%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "275,29"
+   },
+   {
+    "change": "+44% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "~22.011 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~1.218 tỷ đồng"
+   },
+   {
+    "change": "+1,6 triệu/tuần",
+    "direction": "up",
+    "label": "Vàng SJC",
+    "value": "147,0 triệu đồng/lượng (bán ra)"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.210 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đóng cửa trái chiều phiên cuối tuần: S&P 500 tăng 0,17% lên 7.650,5 điểm, Nasdaq tăng 0,39% lên 26.522,5 điểm, trong khi Dow Jones giảm 0,18% xuống 51.682,6 điểm. Dầu WTI và Brent lao dốc mạnh, lần lượt giảm 5,72% và 5,28%, trong khi vàng thế giới tăng 0,57% lên 4.425 USD/ounce. Tại thị trường trong nước, phiên gần nhất ngày 18/9 chứng kiến VN-Index đảo chiều giảm 7,11 điểm (-0,39%) về 1.815,66 điểm do áp lực bán mạnh cuối phiên, trong khi HNX-Index tăng 1,39 điểm (+0,51%) lên 275,29 điểm; thanh khoản HOSE tăng vọt lên hơn 22.000 tỷ đồng và khối ngoại mua ròng hơn 1.200 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": 0.17,
+    "label": "S&P 500",
+    "value": "7.650,5"
+   },
+   {
+    "change_pct": -0.18,
+    "label": "Dow Jones",
+    "value": "51.682,6"
+   },
+   {
+    "change_pct": 0.39,
+    "label": "Nasdaq",
+    "value": "26.522,5"
+   },
+   {
+    "change_pct": -5.72,
+    "label": "Dầu WTI",
+    "value": "96,1 USD"
+   },
+   {
+    "change_pct": -5.28,
+    "label": "Dầu Brent",
+    "value": "99,3 USD"
+   },
+   {
+    "change_pct": 0.57,
+    "label": "Vàng thế giới",
+    "value": "4.425 USD"
+   },
+   {
+    "change_pct": 0.47,
+    "label": "Bitcoin",
+    "value": "81.279 USD"
+   },
+   {
+    "change_pct": -0.0,
+    "label": "DXY",
+    "value": "100,22"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "reuters:d283bb57dc",
+   "title": "Anthropic cân nhắc ra mắt mô hình AI mới trước thềm IPO, theo nguồn tin",
+   "translated": true,
+   "original_title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
+   "link": "https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/"
+  },
+  {
+   "ref": "bloomberg:fb543ba79b",
+   "title": "Đối đầu Trump - Tập: Thượng đỉnh Mỹ - Trung phủ bóng lên kinh tế toàn cầu",
+   "translated": true,
+   "original_title": "Trump-Xi Showdown: US-China Summit Casts Shadow Over World Economy",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-19/trump-xi-showdown-us-china-summit-casts-shadow-over-world-economy"
+  },
+  {
+   "ref": "reuters:ae7212436e",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent gặp Phó Thủ tướng Trung Quốc Hà Lập Phong Chủ nhật tại trụ sở JPMorgan",
+   "translated": true,
+   "original_title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+   "link": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19/"
+  },
+  {
+   "ref": "reuters:fc9d7dc818",
+   "title": "Ông Trump cho biết sẽ bổ nhiệm cố vấn AI mới, chưa tiết lộ chi tiết",
+   "translated": true,
+   "original_title": "Trump says he will appoint a new AI adviser, without providing details",
+   "link": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/"
+  },
+  {
+   "ref": "reuters:95fdb877ba",
+   "title": "Nippon Life (Nhật Bản) dự chi 13 tỷ USD tài trợ trung tâm dữ liệu tại Mỹ, theo Nikkei Asia",
+   "translated": true,
+   "original_title": "Japan's Nippon Life plans $13 billion for data center financing in US, Nikkei Asia reports",
+   "link": "https://www.reuters.com/world/asia-pacific/japans-nippon-life-plans-13-billion-data-center-financing-us-nikkei-asia-reports-2026-09-19/"
+  },
+  {
+   "ref": "reuters:eb96d180c7",
+   "title": "Mười ngày làm thay đổi cục diện ngành trí tuệ nhân tạo",
+   "translated": true,
+   "original_title": "Ten days that changed the course of AI",
+   "link": "https://www.reuters.com/business/media-telecom/ten-days-that-changed-course-ai-2026-09-19/"
+  },
+  {
+   "ref": "reuters:ce75b3f08d",
+   "title": "Thấy lửa khói gần sân bay Riyadh; Houthi nhận trách nhiệm tấn công thủ đô Saudi Arabia",
+   "translated": true,
+   "original_title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+   "link": "https://www.reuters.com/world/middle-east/saudi-civil-defence-sends-all-clear-after-danger-warning-capital-riyadh-2026-09-19/"
+  },
+  {
+   "ref": "tg-marketfeed:1041672",
+   "title": "Thủ lĩnh an ninh Iran: Iran đã đưa ra điều kiện chấm dứt chiến tranh cho các bên trung gian",
+   "translated": true,
+   "original_title": "FULL WRITE-UP : BREAKING: IRAN'S SECURITY CHIEF MOSHEN REZAEI TO AL JAZEERA: IRAN HAS CONVEYED CONDITIONS FOR ENDING WAR TO MEDIATORS, CONSULTATIONS ARE ONGOING 🔴 LIVE UPDATES: - AL JAZEERA BREAKING NEWS ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:83f857636d",
+   "title": "Thổ Nhĩ Kỳ chờ phản hồi từ Ukraine và Nga về đề xuất chấm dứt giao tranh trên Biển Đen",
+   "translated": true,
+   "original_title": "Turquía espera una respuesta de Ucrania y Rusia a propuesta para terminar con combates en mar Negro",
+   "link": "https://www.reuters.com/es/mundo/7QWEOY32NFN7FARCUQQJXMWI4A-2026-09-19/"
+  },
+  {
+   "ref": "reuters:4c96cf49e6",
+   "title": "Lãnh đạo Venezuela Rodriguez ký thỏa thuận với tập đoàn dầu khí Pháp TotalEnergies",
+   "translated": true,
+   "original_title": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies",
+   "link": "https://www.reuters.com/business/energy/venezuela-leader-rodriguez-signs-agreement-with-french-oil-company-total-2026-09-19/"
+  },
+  {
+   "ref": "reuters:f80e4573ac",
+   "title": "Greenland và Đan Mạch khẳng định thỏa thuận với ông Trump không ảnh hưởng chủ quyền",
+   "translated": true,
+   "original_title": "Greenland, Denmark say Trump deal won't compromise sovereignty",
+   "link": "https://www.reuters.com/world/europe/greenland-denmark-say-us-deal-will-not-cede-sovereignty-2026-09-19/"
+  }
+ ],
+ "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c"
+}
