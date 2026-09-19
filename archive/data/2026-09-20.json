@@ -188,5 +188,68 @@
    "link": "https://www.reuters.com/world/europe/greenland-denmark-say-us-deal-will-not-cede-sovereignty-2026-09-19/"
   }
  ],
- "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c"
+ "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "37c244fc96be45376756f18dd9c6ca82539ba4de",
+   "published_at": "2026-09-20T06:37:55+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "261",
+   "sent_at": "2026-09-20T06:37:56+07:00",
+   "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "261",
+     "sent_at": "2026-09-20T06:37:56+07:00",
+     "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "f1b5a9e5c020a179f836",
+   "sent_at": "2026-09-20T06:37:57+07:00",
+   "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "f1b5a9e5c020a179f836",
+     "sent_at": "2026-09-20T06:37:57+07:00",
+     "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "aa0a8efce7398660df2f",
+     "sent_at": "2026-09-20T06:37:59+07:00",
+     "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "c58736fe5c3b3d62642d",
+     "sent_at": "2026-09-20T06:38:00+07:00",
+     "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "34e679d01315724c2b03",
+     "sent_at": "2026-09-20T06:38:01+07:00",
+     "content_sha": "0098d3f81b98bbde7cc2aa7b3329f2a9b1220d0050dfd2388516120dad7b3c6c"
+    }
+   ]
+  }
+ }
 }
