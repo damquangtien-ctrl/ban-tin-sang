@@ -1,0 +1,414 @@
+{
+ "date": "2026-09-21",
+ "dividends": [
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 25% (2.500 đồng/CP), tổng chi gần 6.032 tỷ đồng",
+   "record_date": "2026-09-23",
+   "ref": "vietstock:5454929d28",
+   "ticker": "GAS"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "BNEWS",
+   "text": "Việt Nam chính thức được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp, có hiệu lực từ 21/9"
+  },
+  {
+   "source": "Vietstock",
+   "text": "PV GAS (GAS) chốt quyền trả cổ tức tiền mặt tỷ lệ 25%, chi gần 6.032 tỷ đồng, ngày ĐKCC 23/9"
+  },
+  {
+   "source": "Thị trường",
+   "text": "VN-Index phiên 18/9 đảo chiều giảm 7,11 điểm còn 1.815,66 điểm, khối ngoại mua ròng hơn 1.239 tỷ đồng"
+  },
+  {
+   "source": "Reuters",
+   "text": "Giá dầu tăng sau vụ Houthi tấn công thủ đô Saudi Arabia, dấy lên lo ngại nguồn cung"
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "Trung Quốc giữ nguyên lãi suất LPR tháng thứ 16 liên tiếp trong bối cảnh Fed tăng lãi suất"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:23e0307903",
+     "title": "BID: Thanh tra phát hiện sai sót trong cấp tín dụng tại chi nhánh công ty cho thuê tài chính là liên doanh giữa BIDV và đối tác Nhật Bản"
+    },
+    {
+     "ref": "google-news-ph-p-l:0c7971c60d",
+     "title": "Chậm công bố thông tin, hai doanh nghiệp này cùng bị xử phạt 92,5 triệu đồng"
+    },
+    {
+     "ref": "google-news-ph-p-l:9c80b31854",
+     "title": "Thanh tra Chính phủ bóc trần loạt sai phạm tại doanh nghiệp vốn 200 tỷ đồng, chuyển hồ sơ sang Bộ Công an"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-7,11 (-0,39%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.815,66 điểm"
+   },
+   {
+    "change": "+1,39 (+0,51%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "275,29 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~721 triệu CP / ~22.000 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng 1.239 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "144,6 - 147,6 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.830 · Bán 26.210"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua trái chiều: S&P 500 và Nasdaq tăng nhẹ trong khi Dow Jones giảm điểm, trong khi dầu WTI và Brent giảm mạnh hơn 4% so với phiên trước dù thị trường vừa ghi nhận vụ tấn công của Houthi nhắm vào thủ đô Saudi Arabia làm dấy lên lo ngại nguồn cung. Vàng thế giới giảm nhẹ về quanh 4.413 USD/ounce, Bitcoin đi ngang quanh 81.170 USD. Trong nước, phiên giao dịch gần nhất (18/9) VN-Index đảo chiều giảm 7,11 điểm còn 1.815,66 điểm dù có lúc tăng hơn 18 điểm trong phiên, trong khi khối ngoại mua ròng hơn 1.239 tỷ đồng - mức cao nhất kể từ 10/7 - với thanh khoản khớp lệnh hơn 22.000 tỷ đồng. Đây cũng là phiên giao dịch cuối cùng trước khi Việt Nam chính thức được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp, có hiệu lực từ 21/9.",
+  "tiles": [
+   {
+    "change_pct": 0.17,
+    "label": "S&P 500",
+    "value": "7.650,5"
+   },
+   {
+    "change_pct": -0.18,
+    "label": "Dow Jones",
+    "value": "51.682,6"
+   },
+   {
+    "change_pct": 0.39,
+    "label": "Nasdaq",
+    "value": "26.522,5"
+   },
+   {
+    "change_pct": -4.26,
+    "label": "Dầu WTI",
+    "value": "96,0 USD"
+   },
+   {
+    "change_pct": -4.27,
+    "label": "Dầu Brent",
+    "value": "99,4 USD"
+   },
+   {
+    "change_pct": -0.27,
+    "label": "Vàng thế giới",
+    "value": "4.413 USD"
+   },
+   {
+    "change_pct": -0.08,
+    "label": "Bitcoin",
+    "value": "81.170 USD"
+   },
+   {
+    "change_pct": 0.04,
+    "label": "DXY",
+    "value": "100,26"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:85ec8dd8f1",
+     "title": "DQC: Tập đoàn Điện Quang lên tiếng về lý do lợi nhuận sau thuế giảm gần 60% sau kiểm toán"
+    },
+    {
+     "ref": "cafef:60274122b1",
+     "title": "Đại gia không làm chip, không làm AI nhưng hưởng lợi lớn từ Nvidia: Tiếp tục rót hơn 6.300 tỷ đồng vào Việt Nam, tổng vốn đầu tư gần 1 tỷ USD"
+    },
+    {
+     "ref": "cafef:7a86af309d",
+     "title": "Chứng khoán Việt Nam đứng trước cơ hội \"tái định giá\" sau nâng hạng"
+    },
+    {
+     "ref": "cafef:9c520251ea",
+     "title": "HVN: Ngưỡng 'sinh tử' của Vietnam Airlines"
+    },
+    {
+     "ref": "cafef:a141e4c527",
+     "title": "Yêu cầu chấm dứt cho vay tập trung vào doanh nghiệp, dự án thuộc 'hệ sinh thái', 'sân sau'"
+    },
+    {
+     "ref": "cafef:da73a19745",
+     "title": "Góc nhìn chuyên gia: Tin tốt lớn nhất đã ra, chứng khoán Việt Nam tuần tới sẽ đi đâu?"
+    },
+    {
+     "ref": "cafef:7562a77625",
+     "title": "Chuyện gì đây: Người nhà và 3 Phó Tổng Giám đốc một ngân hàng đồng loạt đăng ký thoái vốn"
+    },
+    {
+     "ref": "cafef:bee56b2a60",
+     "title": "Chủ tịch, CEO đồng loạt mua cổ phiếu khi chứng khoán nâng hạng"
+    },
+    {
+     "ref": "cafef:13e417c94a",
+     "title": "VIC: Vingroup bắt tay ông lớn y tế Mỹ, khởi công bệnh viện 500 giường tại siêu đô thị lấn biển Cần Giờ, nghiên cứu việc kéo dài tuổi thọ"
+    },
+    {
+     "ref": "cafef:27739a3758",
+     "title": "Thị trường chứng khoán được nâng hạng, nên đầu tư cổ phiếu nào?"
+    },
+    {
+     "ref": "cafef:e4c85b6f32",
+     "title": "REE: Công ty con của REE được thuê gần 5,4 ha đất làm Cụm Nhà máy điện gió Phú Cường 1A và 1B"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:e82c113e48",
+     "title": "Kiến nghị gỡ vướng thủ tục gia nhập Trung tâm Tài chính quốc tế"
+    },
+    {
+     "ref": "vietstock:f3d54153a4",
+     "title": "Góc nhìn tuần 21-25/09: Nâng hạng đã tới, có nên mua theo dòng tiền ngoại?"
+    },
+    {
+     "ref": "vietstock:a65de443e6",
+     "title": "Doanh nghiệp tự quyết giá dịch vụ, cơ quan Nhà nước quản lý bằng công cụ nào?"
+    },
+    {
+     "ref": "vietstock:3ee401503b",
+     "title": "Chính sách thương mại của Mỹ đang gây ảnh hưởng xấu đến FDI"
+    },
+    {
+     "ref": "vietstock:47dde10930",
+     "title": "Chuyển động quỹ đầu tư: Hai quỹ ngoại thu hơn ngàn tỷ nhờ chuyển nhượng vốn tại AST, PYN Elite gom thêm HDG"
+    },
+    {
+     "ref": "vietstock:2ef82b55cf",
+     "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 21-25/09/2026"
+    },
+    {
+     "ref": "vietstock:d28737cbd0",
+     "title": "GTD: Giầy Thượng Đình thay Tổng Giám đốc sau khi Vinaconex trở thành cổ đông lớn"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:5b31ee51bd",
+     "title": "Xu thế dòng tiền: Chính thức nâng hạng có tạo bước ngoặt cho thị trường?"
+    },
+    {
+     "ref": "vneconomy:35412505b1",
+     "title": "Fed tăng lãi suất, dòng tiền vào chứng khoán khó cải thiện trong ngắn hạn?"
+    },
+    {
+     "ref": "vneconomy:a11f20fb75",
+     "title": "Khối ngoại gom ròng mạnh 1.200 tỷ trong phiên đánh cồng đón thị trường Việt Nam nâng hạng"
+    },
+    {
+     "ref": "vneconomy:a4c825f69e",
+     "title": "VN-Index đang trong diễn biến kiểm tra động lực quanh vùng 1810-1820"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0688140efb",
+     "title": "Nhận định thị trường phiên giao dịch ngày 21/9: Tránh mua đuổi trong các nhịp hồi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:33aadcf761",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 21/9: Kỳ vọng hướng đến vùng 1.870 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ad70dffb68",
+     "title": "Trung Quốc tăng nhập khẩu dầu, \"vùng đệm\" của thị trường toàn cầu có nguy cơ thu hẹp"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3f96ed0a7d",
+     "title": "Đường ống Đông-Tây của Ả Rập Xê Út trở thành tâm điểm thị trường dầu toàn cầu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8b1b75a9bb",
+     "title": "Phó Thống đốc NHNN: Vốn lớn cần đi cùng kỷ luật thị trường"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cd79130626",
+     "title": "Cổ phiếu cần quan tâm ngày 21/9"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b243604735",
+     "title": "Agribank tập trung xử lý, thu hồi nợ những tháng cuối năm 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bdb6d7c923",
+     "title": "Các tiêu chí chọn cổ phiếu khi thị trường chính thức nâng hạng FTSE"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a811085815",
+     "title": "Tiền gửi chạm mốc 17,5 triệu tỷ đồng, ngân hàng vẫn loay hoay bù hụt nguồn vốn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8d73860e24",
+     "title": "Cải cách \"cửa ra\" của thị trường"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:01ef91ec96",
+     "title": "NVL: Công ty Cổ phần Tập đoàn Đầu tư Địa ốc No Va thông báo chào bán cổ phiếu ra công chúng (Kỳ 2)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:68888c3c11",
+     "title": "Nhìn lại diễn biến nhóm cổ phiếu được các công ty chứng khoán khuyến nghị tuần qua"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:04e4b2effc",
+     "title": "Đề án tổng thể cải cách chính sách tiền lương dự kiến thông qua vào tháng 3/2027"
+    },
+    {
+     "ref": "b-o-u-t:17e6656631",
+     "title": "Yêu cầu Bộ Công thương chủ động các giải pháp bảo đảm cung ứng đầy đủ xăng dầu, điện"
+    },
+    {
+     "ref": "b-o-u-t:4a5c232b79",
+     "title": "Lợi nhuận doanh nghiệp \"đổi màu\" sau soát xét"
+    },
+    {
+     "ref": "b-o-u-t:dfb7efd36f",
+     "title": "Dự án thứ cấp đầu tiên vốn 100 triệu USD tại VSIP Cần Thơ chính thức đi vào hoạt động"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:6e27187ccc",
+     "title": "Lợi nhuận ngành chứng khoán sụt giảm: Khối chứng khoán ngân hàng đối mặt rủi ro tập trung"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:47edaf3569",
+     "title": "Khơi thông dòng vốn cho doanh nghiệp tiết kiệm năng lượng"
+    },
+    {
+     "ref": "ti-n-phong:3bb6188955",
+     "title": "Gần 1/3 kim ngạch xuất khẩu hàng Việt vào Mỹ, dư địa thương mại còn rộng"
+    },
+    {
+     "ref": "ti-n-phong:e943bbe69c",
+     "title": "Đề xuất giảm tỷ lệ vốn vay để hạ giá nhà có khả thi?"
+    },
+    {
+     "ref": "ti-n-phong:58bdc14746",
+     "title": "Dự báo về tỷ giá USD/VNĐ trước sự cứng rắn của Fed"
+    },
+    {
+     "ref": "ti-n-phong:fc9ab49e3c",
+     "title": "Fed tăng lãi suất, nhà đầu tư vàng nên làm gì?"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:8d15770fa9",
+     "title": "Việt Nam chính thức vào rổ chỉ số mới nổi FTSE Russell sau 17h chiều nay"
+    },
+    {
+     "ref": "bnews:cd0321cbe0",
+     "title": "Thúc đẩy hợp tác Việt Nam - Nhật Bản trong lĩnh vực bán dẫn"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:f918bba201",
+   "title": "Giá dầu tăng sau vụ Houthi tấn công thủ đô Saudi Arabia",
+   "translated": true,
+   "original_title": "Oil rises after Houthi attack on Saudi capital",
+   "link": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20/"
+  },
+  {
+   "ref": "reuters:6ae9eb87fe",
+   "title": "Những thị trường chứng khoán ASEAN nào có thể sớm từ 'kẻ tụt hậu' vươn lên dẫn đầu?",
+   "translated": true,
+   "original_title": "Which ASEAN equity laggards could soon become leaders?",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/which-asean-equity-laggards-could-soon-become-leaders-manishi-raychaudhuri-2026-09-20/"
+  },
+  {
+   "ref": "bloomberg:606c704c23",
+   "title": "Bất ổn vận tải Biển Đen tác động thị trường lúa mì, khuếch đại rủi ro lạm phát",
+   "translated": true,
+   "original_title": "Black Sea Shipping Turmoil Hits Wheat Market, Amplifies Inflation Risks",
+   "link": "https://www.bloomberg.com/news/features/2026-09-20/black-sea-shipping-turmoil-hits-wheat-market-amplifies-inflation-risks"
+  },
+  {
+   "ref": "bloomberg:dada479a2e",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ tăng trước thềm đàm phán, đồng USD ổn định",
+   "translated": true,
+   "original_title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap"
+  },
+  {
+   "ref": "bloomberg:9079222a46",
+   "title": "Cập nhật và phân tích thị trường dầu mỏ ngày 21/9",
+   "translated": true,
+   "original_title": "Latest Oil Market News and Analysis for Sept. 21",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-20/latest-oil-market-news-and-analysis-for-sept-21"
+  },
+  {
+   "ref": "tg-dubaotiente:107160",
+   "title": "Trung Quốc giữ nguyên lãi suất LPR tháng thứ 16 liên tiếp khi Fed tăng lãi suất thu hẹp dư địa nới lỏng",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Trung Quốc giữ nguyên lãi suất LPR tháng thứ 16 liên tiếp khi Fed tăng lãi suất thu hẹp dư địa nới lỏng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/trung-quoc-giu-nguyen-lai-suat-lpr-thang-thu-16-lien-tiep-112261.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107159",
+   "title": "Trump gây sức ép buộc Zelensky dừng tấn công nhà máy lọc dầu Nga vì giá diesel",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Axios: Trump được cho là gây sức ép buộc Zelensky dừng tấn công nhà máy lọc dầu Nga vì giá diesel Chi tiết xem tại: https://dubaotiente.net/tieu-diem/axios-trump-gay-suc-ep-zelensky-dung-tan-cong-nha-may-loc-dau-nga-vi-gia-diesel-112260.html",
+   "link": null
+  }
+ ],
+ "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b"
+}
