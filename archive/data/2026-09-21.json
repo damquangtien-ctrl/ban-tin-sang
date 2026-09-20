@@ -414,26 +414,24 @@
  "delivery": {
   "publish": {
    "ok": true,
-   "commit": "36798d7e33d4aed1ad3848d88cd5b053fb7ff84f",
-   "published_at": "2026-09-21T06:41:17+07:00"
+   "commit": "bd13e91c5ae42316336b34a65b4ea23150801a46",
+   "published_at": "2026-09-21T06:42:11+07:00"
   },
   "telegram": {
-   "ok": false,
-   "message_id": null,
-   "sent_at": null,
+   "ok": true,
+   "message_id": "262",
+   "sent_at": "2026-09-21T06:42:12+07:00",
    "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b",
    "targets": [
     {
      "target_id": "928f6fc4179d",
      "kind": "user",
-     "ok": false,
-     "message_id": null,
-     "sent_at": null,
-     "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b",
-     "error": "<urlopen error [Errno 104] Connection reset by peer>"
+     "ok": true,
+     "message_id": "262",
+     "sent_at": "2026-09-21T06:42:12+07:00",
+     "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b"
     }
-   ],
-   "error": "1/1 dich that bai"
+   ]
   },
   "zalo": {
    "ok": true,

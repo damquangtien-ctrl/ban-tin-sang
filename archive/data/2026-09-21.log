@@ -27,3 +27,33 @@ KET QUA: co dich that bai -> exit 50
 KET THUC luc 2026-09-21 06:41:34 - trang DA xuat ban nhung giao tin nhan chua tron ven (exit 50)
 
 === 5/5 GHI BIEN NHAN ===
+Da ghi bien nhan giao hang 2026-09-21 (8d7d284f7609898996d9b03e2f0eef0cb6fac0f8)
+
+########## CHAY LUC 2026-09-21 06:41:38 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-21, ban daily)
+   the gioi 7 tin · Viet Nam 46 tin / 8 bao · phap ly 3 tin · chot quyen 1 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-21 · the gioi 7 · Viet Nam 46 · phap ly 3
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-21.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-09-21: commit bd13e91c5ae4 · sha noi dung 74d4606d2ef933e2
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 21/09 | content_sha 31bd885e847f | commit bd13e91c5ae4
+   telegram user/928f6fc4179d OK message_id=262
+   zalo     user/593dd2adbb87 DA GUI truoc do (message_id=e0302f64ed648d3dd472) - bo qua
+   zalo     group/8fddff299f5f DA GUI truoc do (message_id=b6c45d209020f079a936) - bo qua
+   zalo     group/240eac12bc5e DA GUI truoc do (message_id=428039b3f4b394eacda5) - bo qua
+   zalo     group/8b7b62566b6c DA GUI truoc do (message_id=a3af4c068006e05fb910) - bo qua
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-21.json
+KET QUA: 5 dich da giao (telegram=sent, zalo=already)
+HOAN TAT luc 2026-09-21 06:42:12 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
