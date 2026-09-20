@@ -410,5 +410,70 @@
    "link": null
   }
  ],
- "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b"
+ "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "36798d7e33d4aed1ad3848d88cd5b053fb7ff84f",
+   "published_at": "2026-09-21T06:41:17+07:00"
+  },
+  "telegram": {
+   "ok": false,
+   "message_id": null,
+   "sent_at": null,
+   "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": false,
+     "message_id": null,
+     "sent_at": null,
+     "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b",
+     "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    }
+   ],
+   "error": "1/1 dich that bai"
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "e0302f64ed648d3dd472",
+   "sent_at": "2026-09-21T06:41:30+07:00",
+   "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "e0302f64ed648d3dd472",
+     "sent_at": "2026-09-21T06:41:30+07:00",
+     "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "b6c45d209020f079a936",
+     "sent_at": "2026-09-21T06:41:31+07:00",
+     "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "428039b3f4b394eacda5",
+     "sent_at": "2026-09-21T06:41:32+07:00",
+     "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "a3af4c068006e05fb910",
+     "sent_at": "2026-09-21T06:41:34+07:00",
+     "content_sha": "31bd885e847fef33068117fe2904caea5ac8174087dc65401474ee93cdc11c6b"
+    }
+   ]
+  }
+ }
 }
