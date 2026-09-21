@@ -560,5 +560,68 @@
    "link": "https://www.bloomberg.com/news/articles/2026-09-21/us-plans-5-billion-middle-east-reconstruction-fund-for-iran-war"
   }
  ],
- "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2"
+ "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "4c2b313936e14ceb5574bd056e7b3a4d801357ff",
+   "published_at": "2026-09-22T06:48:40+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "263",
+   "sent_at": "2026-09-22T06:48:41+07:00",
+   "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "263",
+     "sent_at": "2026-09-22T06:48:41+07:00",
+     "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "a269fd7b0c146f4d3602",
+   "sent_at": "2026-09-22T06:48:43+07:00",
+   "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "a269fd7b0c146f4d3602",
+     "sent_at": "2026-09-22T06:48:43+07:00",
+     "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "407bf1820fed6cb435fb",
+     "sent_at": "2026-09-22T06:48:44+07:00",
+     "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "7fccb3964df92ea077ef",
+     "sent_at": "2026-09-22T06:48:45+07:00",
+     "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "126dddb022df418618c9",
+     "sent_at": "2026-09-22T06:48:47+07:00",
+     "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2"
+    }
+   ]
+  }
+ }
 }
