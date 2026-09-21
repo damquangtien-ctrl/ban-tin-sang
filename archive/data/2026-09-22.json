@@ -1,0 +1,564 @@
+{
+ "date": "2026-09-22",
+ "dividends": [
+  {
+   "event": "Trả cổ tức bằng cổ phiếu, tỷ lệ 26,04104%",
+   "record_date": "2026-09-25",
+   "ticker": "VPB"
+  },
+  {
+   "event": "Tạm ứng cổ tức năm 2026 bằng tiền, tỷ lệ 15%",
+   "record_date": "2026-09-28",
+   "ticker": "PDB"
+  },
+  {
+   "event": "Trả cổ tức năm 2025 bằng tiền (5%) và cổ phiếu (100:7)",
+   "record_date": "2026-09-28",
+   "ticker": "TMS"
+  },
+  {
+   "event": "Trả cổ tức năm 2025 bằng tiền, tỷ lệ 10%",
+   "record_date": "2026-09-30",
+   "ticker": "ALT"
+  },
+  {
+   "event": "Trả cổ tức năm 2025 bằng tiền, tỷ lệ 50%",
+   "record_date": "2026-09-30",
+   "ticker": "D2D"
+  },
+  {
+   "event": "Trả cổ tức bằng cổ phiếu (100:25,5) và cổ phiếu thưởng (100:6,5)",
+   "record_date": "2026-10-01",
+   "ticker": "GLT"
+  },
+  {
+   "event": "Trả cổ tức năm 2025 bằng tiền, tỷ lệ 10%",
+   "record_date": "2026-10-02",
+   "ticker": "LAS"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "VN-Index giảm gần 16 điểm trong ngày đầu chính thức nâng hạng lên thị trường mới nổi, khối ngoại đảo chiều bán ròng hơn 663 tỷ đồng trên HOSE"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Lãnh đạo Việt Nam tuyên bố thỏa thuận thương mại với Mỹ sắp hoàn tất"
+  },
+  {
+   "source": "Thị trường quốc tế",
+   "text": "Dầu WTI, Brent lao dốc 7-8% trong phiên khi căng thẳng chiến tranh Iran có dấu hiệu hạ nhiệt, Bitcoin tăng vọt 6,5%"
+  },
+  {
+   "source": "MarketTimes",
+   "text": "TNT bắt tay doanh nghiệp Mỹ, nghiên cứu dự án trung tâm dữ liệu AI 10 tỷ USD tại Việt Nam"
+  },
+  {
+   "source": "Tiền Phong",
+   "text": "Nhập siêu Việt Nam lập đỉnh 30 năm, gây sức ép lên tăng trưởng kinh tế"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "markettimes:7350409c31",
+     "title": "VCB: Công bố kết luận thanh tra 2 chi nhánh Sơn La và Nam Định"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:e458c20102",
+     "title": "Điểm lại các quyết định xử phạt chứng khoán tuần qua"
+    },
+    {
+     "ref": "google-news-ph-p-l:23e0307903",
+     "title": "BID: Thanh tra phát hiện sai sót trong cấp tín dụng tại chi nhánh công ty cho thuê tài chính liên doanh với đối tác Nhật Bản"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-15,99 điểm (-0,88%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.799,67 điểm"
+   },
+   {
+    "change": "-0,91 điểm (-0,33%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "274,38 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "khoảng 13.600 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng hơn 663,6 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Vàng SJC",
+    "value": "143,6 – 146,6 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "—"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua tiếp tục lập kỷ lục mới khi Nasdaq tăng 2,26% lên đỉnh, S&P 500 tăng 1,49% và Dow Jones tăng 0,71%, nhờ lạc quan về AI và lợi suất trái phiếu hạ nhiệt. Dầu WTI và Brent lần lượt lao dốc 8,11% và 7,37% trong bối cảnh căng thẳng chiến tranh Iran có dấu hiệu hạ nhiệt, trong khi Bitcoin tăng vọt 6,5% lên hơn 86.400 USD. Tại thị trường trong nước, phiên 21/9 - ngày giao dịch đầu tiên sau khi Việt Nam chính thức được nâng hạng lên thị trường mới nổi - VN-Index giảm 15,99 điểm (-0,88%) còn 1.799,67 điểm, khối ngoại quay lại bán ròng hơn 663,6 tỷ đồng trên HOSE sau khi từng mua ròng mạnh trong phiên đánh cồng mở đầu. Giá vàng SJC trong nước giảm về 143,6 - 146,6 triệu đồng/lượng.",
+  "tiles": [
+   {
+    "change_pct": 1.49,
+    "label": "S&P 500",
+    "value": "7.764,7"
+   },
+   {
+    "change_pct": 0.71,
+    "label": "Dow Jones",
+    "value": "52.048,8"
+   },
+   {
+    "change_pct": 2.26,
+    "label": "Nasdaq",
+    "value": "27.122,1"
+   },
+   {
+    "change_pct": -8.11,
+    "label": "Dầu WTI",
+    "value": "92,2 USD"
+   },
+   {
+    "change_pct": -7.37,
+    "label": "Dầu Brent",
+    "value": "96,2 USD"
+   },
+   {
+    "change_pct": -0.59,
+    "label": "Vàng thế giới",
+    "value": "4.399 USD"
+   },
+   {
+    "change_pct": 6.5,
+    "label": "Bitcoin",
+    "value": "86.417 USD"
+   },
+   {
+    "change_pct": 0.2,
+    "label": "DXY",
+    "value": "100,42"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:b8ec74f332",
+     "title": "PDR: Phát Đạt và Lotte sẽ khởi công dự án 60.000 tỷ đồng ở Thủ Thiêm trong chưa đầy 1 tháng nữa"
+    },
+    {
+     "ref": "cafef:e5b8c26e88",
+     "title": "Tập đoàn bán dẫn Hàn Quốc thanh lý công ty tại Việt Nam"
+    },
+    {
+     "ref": "cafef:778201a780",
+     "title": "DCM: Phó Tổng Giám đốc thôi chức trước thềm ĐHĐCĐ bất thường"
+    },
+    {
+     "ref": "cafef:1a3d4986ad",
+     "title": "NVL: Chốt ngày phát hành gần 801 triệu cổ phiếu, huy động hơn 8.000 tỷ đồng xử lý nợ"
+    },
+    {
+     "ref": "cafef:1c1ec8251b",
+     "title": "Một \"nghịch lý\" bất ngờ xuất hiện trên thị trường chứng khoán sau ngày nâng hạng"
+    },
+    {
+     "ref": "cafef:45f878c268",
+     "title": "TLG: Thông tin mới về thương vụ nhà đầu tư Nhật \"thâu tóm\" Thiên Long"
+    },
+    {
+     "ref": "cafef:7150ee8581",
+     "title": "VN-Index giảm gần 16 điểm, mất mốc 1.800 điểm trong ngày đầu nâng hạng"
+    },
+    {
+     "ref": "cafef:1581e3efcd",
+     "title": "HPG: Hoàn thành gần 70% tiến độ nhà máy thép ray, dự kiến quý 1 năm sau ra sản phẩm đầu tiên"
+    },
+    {
+     "ref": "cafef:e59136f254",
+     "title": "FPT: Lãi ròng gần 30 tỷ đồng mỗi ngày trong tháng 8"
+    },
+    {
+     "ref": "cafef:332f2a2d6c",
+     "title": "Nâng hạng chỉ là bước đầu, chứng khoán Việt Nam còn gì phía trước?"
+    },
+    {
+     "ref": "cafef:730d0e5512",
+     "title": "DGW: Sắp chi hơn 200 tỷ đồng trả cổ tức trong tháng 10"
+    },
+    {
+     "ref": "cafef:ce60dab7f9",
+     "title": "Sovico Group tiếp tục tất toán một lô trái phiếu"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:2b747462b0",
+     "title": "Việt Nam đang tạo ra những Doanh nghiệp Quốc gia thay đổi cả nền kinh tế như thế nào?"
+    },
+    {
+     "ref": "vietstock:5c1ecca50a",
+     "title": "Cổ phiếu ngân hàng, dầu khí có tuần hút tiền"
+    },
+    {
+     "ref": "vietstock:229ec58194",
+     "title": "TTF: Giải trình việc cổ phiếu bị cảnh báo giữa bối cảnh thị giá suy yếu"
+    },
+    {
+     "ref": "vietstock:b343dc7bda",
+     "title": "MWG: Ấn định ngày chia cổ tức tiền đợt 2"
+    },
+    {
+     "ref": "vietstock:20fa69948d",
+     "title": "Góc nhìn 22/09: Chưa vội bắt đáy"
+    },
+    {
+     "ref": "vietstock:31c0e7dcd2",
+     "title": "UPS: Chào bán riêng lẻ hơn 67 triệu cổ phiếu thấp hơn nửa thị giá, doanh nghiệp liên quan Tân Hoàng Minh rót 626 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:3902126023",
+     "title": "LAS: Sắp trả cổ tức 2025 tỷ lệ 10%, lợi nhuận 6 tháng đầu năm giảm sút do áp lực giá vốn"
+    },
+    {
+     "ref": "vietstock:c2c3534c79",
+     "title": "ALT: Chuẩn bị chi cổ tức tiền mặt 10%, con trai Phó Chủ tịch HĐQT hoàn tất nâng sở hữu"
+    },
+    {
+     "ref": "vietstock:4a7c5ae42f",
+     "title": "VTR: Chấm dứt liên doanh và giải thể công ty tại Ấn Độ"
+    },
+    {
+     "ref": "vietstock:86d5dff3bb",
+     "title": "TCO: Cổ đông lớn tiếp tục thoái vốn giữa biến động nhân sự lãnh đạo"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:e836537ddb",
+     "title": "Khối ngoại quay đầu bán ròng trong phiên VN-Index chính thức lên thị trường mới nổi"
+    },
+    {
+     "ref": "vneconomy:3fa37789e6",
+     "title": "Các ngân hàng trung ương có thể đã bước vào một chu kỳ thắt chặt mới"
+    },
+    {
+     "ref": "vneconomy:cb6acf2a0b",
+     "title": "Các quỹ đầu tư quốc gia vẫn thận trọng với Trung Quốc vì khủng hoảng bất động sản dai dẳng"
+    },
+    {
+     "ref": "vneconomy:194285c3b6",
+     "title": "Blog chứng khoán: Tiền lớn chưa \"động\""
+    },
+    {
+     "ref": "vneconomy:c579579064",
+     "title": "Siêu chu kỳ hàng hóa đang tăng mạnh, đón đầu cơ hội ở cổ phiếu nào?"
+    },
+    {
+     "ref": "vneconomy:da22066dbf",
+     "title": "Dòng vốn rút khỏi các quỹ cổ phiếu toàn cầu cao nhất trong 9 tháng"
+    },
+    {
+     "ref": "vneconomy:c97de6acbf",
+     "title": "Tỷ phú Buffett rời ghế Chủ tịch Berkshire Hathaway"
+    },
+    {
+     "ref": "vneconomy:273a0f4214",
+     "title": "Dòng tiền tiếp tục chảy ra khỏi bất động sản và phân bổ vào nhóm ngân hàng"
+    },
+    {
+     "ref": "vneconomy:35412505b1",
+     "title": "Fed tăng lãi suất, dòng tiền vào chứng khoán khó cải thiện trong ngắn hạn?"
+    },
+    {
+     "ref": "vneconomy:a11f20fb75",
+     "title": "Khối ngoại gom ròng mạnh 1.200 tỷ đồng trong phiên đánh cồng đón thị trường Việt Nam nâng hạng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:325d5061dd",
+     "title": "Nhận định thị trường phiên 22/9: Nhịp điều chỉnh có thể mở ra cơ hội tích lũy"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:491dbebf5e",
+     "title": "Góc nhìn kỹ thuật phiên 22/9: Kỳ vọng chỉ số cân bằng ở vùng 1.790 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:843383960c",
+     "title": "Ông Ryu Je Eun được bổ nhiệm làm Tổng giám đốc Ngân hàng Shinhan Việt Nam"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b36771991c",
+     "title": "Dấu hiệu kết thúc chu kỳ giảm giá của Bitcoin xuất hiện"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:91f2ea2e0c",
+     "title": "Luật Đất đai sửa đổi: Nghiên cứu nguyên tắc thuế chống đầu cơ, xử lý đất bỏ hoang"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b0e9a4ca07",
+     "title": "Thiết kế chính sách thuế linh hoạt để hỗ trợ sản xuất"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cd91377ef9",
+     "title": "Trung Quốc tiếp tục giữ nguyên lãi suất khi dư địa nới lỏng tiền tệ bị thu hẹp"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cea38466f5",
+     "title": "Sửa Luật Điện lực: Không chuyển rủi ro đầu tư, kinh doanh sang người sử dụng điện"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3ab002d145",
+     "title": "Mở rộng quyền chuyển nhượng hợp đồng bất động sản: Gỡ nút thắt cho nhà chưa có sổ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fe988a8012",
+     "title": "Thị trường hàng hóa thế giới tuần 12-19/9: Dầu thô hạ nhiệt, vàng lấy lại đà tăng, đồng bám sát kỷ lục"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0f5cd78aa4",
+     "title": "Quản trị vốn nhà nước và những đòi hỏi mới"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:482ba23070",
+     "title": "Sẽ sửa đổi Luật Doanh nghiệp và một số luật thuế trong năm 2027"
+    },
+    {
+     "ref": "b-o-u-t:eac69ba2eb",
+     "title": "VFA 2026: Thảo luận loạt vấn đề lớn của ngành quỹ"
+    },
+    {
+     "ref": "b-o-u-t:5c511dfa61",
+     "title": "EU công bố quy định mới sửa đổi về chống mất rừng"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:b080283351",
+     "title": "LPB: Mua lại trước hạn 1.000 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "markettimes:946cfd253c",
+     "title": "SSB: Bị bán tháo trong phiên đầu tuần \"rực lửa\", VJC ngược dòng \"cháy hàng\""
+    },
+    {
+     "ref": "markettimes:f6a4097ed3",
+     "title": "Tuần qua (14-18/9): NHNN hút ròng hơn 62.500 tỷ đồng, lãi suất liên ngân hàng đồng loạt tăng"
+    },
+    {
+     "ref": "markettimes:20ef9de355",
+     "title": "TNT: Bắt tay doanh nghiệp Mỹ, nghiên cứu dự án data center 10 tỷ USD tại Việt Nam"
+    },
+    {
+     "ref": "markettimes:6e27187ccc",
+     "title": "Lợi nhuận ngành chứng khoán sụt giảm: Khối chứng khoán ngân hàng đối mặt rủi ro tập trung"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:21fa8f0c51",
+     "title": "Dự báo tăng trưởng 11%, Việt Nam đối mặt bài toán vốn 1.500 tỷ USD"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:d0fb254d5b",
+     "title": "Nhập siêu lập đỉnh 30 năm, sức ép nào lên tăng trưởng?"
+    },
+    {
+     "ref": "ti-n-phong:5a46422a31",
+     "title": "Lãi suất cho vay của ngân hàng nào cao nhất?"
+    },
+    {
+     "ref": "ti-n-phong:494dee72f7",
+     "title": "Đề xuất áp dụng giá bán lẻ điện theo khung giờ"
+    },
+    {
+     "ref": "ti-n-phong:ed512280af",
+     "title": "HBC: Ai hoán đổi nợ chỉ bằng 1/3 thị giá?"
+    },
+    {
+     "ref": "ti-n-phong:3bb6188955",
+     "title": "Gần 1/3 kim ngạch xuất khẩu hàng Việt vào Mỹ, dư địa thương mại còn rộng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:66f4a860e2",
+     "title": "Nhiều dư địa thúc đẩy hợp tác Việt Nam – Hoa Kỳ"
+    },
+    {
+     "ref": "bnews:cd0321cbe0",
+     "title": "Thúc đẩy hợp tác Việt Nam - Nhật Bản trong lĩnh vực bán dẫn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:be3e9c2dbf",
+     "title": "HHV: Nghị quyết HĐQT về việc chấp thuận hợp đồng/giao dịch với CTCP Tập đoàn Đèo Cả"
+    },
+    {
+     "ref": "hose:b6c6cbc643",
+     "title": "BWE: Nghị quyết HĐQT thông qua kết quả phát hành thêm cổ phiếu ra công chúng, kết thúc đợt phát hành tăng vốn điều lệ"
+    },
+    {
+     "ref": "hose:bc890ed8bc",
+     "title": "MBB: Nhận Quyết định của Ngân hàng Nhà nước về việc sửa đổi vốn điều lệ tại Giấy phép thành lập và hoạt động"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1042805",
+   "title": "Tổng thống Pháp Macron: đàm phán với Trump về Biển Đỏ và Ukraine mang tính xây dựng",
+   "translated": true,
+   "original_title": "FRENCH MACRON SAYS TALKS WITH TRUMP ON RED SEA & UKRAINE WERE CONSTRUCTIVE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1042804",
+   "title": "CEO Microsoft, Apple, Nvidia, OpenAI, Qualcomm dự quốc yến tại Nhà Trắng chiêu đãi Chủ tịch Trung Quốc Tập Cận Bình ngày 24/9, trước thềm cuộc gặp thượng đỉnh Trump - Tập",
+   "translated": true,
+   "original_title": "MICROSOFT CEO SATYA NADELLA IS SET TO JOIN TECH LEADERS INCLUDING APPLE’S TIM COOK, NVIDIA’S JENSEN HUANG, OPENAI’S SAM ALTMAN AND QUALCOMM’S CRISTIANO AMON AT THE WHITE HOUSE STATE DINNER FOR CHINESE PRESIDENT XI JINPING ON SEPT. 24. THE DINNER COMES AHEAD OF THE TRUMP-XI SUMMIT AS U.S.-CHINA TENSIONS OVER AI DEVELOPMENT INTENSIFY, WITH THE TRUMP ADMINISTRATION OPPOSING CALLS FOR ADDITIONAL AI RE",
+   "link": null
+  },
+  {
+   "ref": "reuters:472b6fe676",
+   "title": "Hai ứng viên Thượng viện đảng Cộng hòa kêu gọi sớm chấm dứt chiến tranh Iran, khác quan điểm với Trump",
+   "translated": true,
+   "original_title": "Two Republican Senate candidates call for swift end to Iran war, diverging from Trump",
+   "link": "https://www.reuters.com/world/us/two-republican-senate-candidates-call-swift-end-iran-war-diverging-trump-2026-09-21/"
+  },
+  {
+   "ref": "tg-marketfeed:1042801",
+   "title": "Hợp đồng tương lai Nikkei giao dịch cao hơn 2,26% so với mức đóng cửa, đạt 66.490 điểm so với 65.018 điểm",
+   "translated": true,
+   "original_title": "NIKKEI FUTURES TRADE 2.26% ABOVE CASH CLOSE AT 66,490 VS 65,018 ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:e45fd10a18",
+   "title": "Thống đốc Texas Abbott tạm dừng toàn bộ giấy phép trung tâm dữ liệu của bang cho đến khi hoàn tất kiểm toán lưới điện",
+   "translated": true,
+   "original_title": "Texas Governor Abbott halts all state-issued permits for data centers until grid audit is complete",
+   "link": "https://www.reuters.com/business/energy/texas-gov-abbott-halts-all-state-issued-permits-data-centers-until-grid-audit-is-2026-09-21/"
+  },
+  {
+   "ref": "reuters:8389f34ef3",
+   "title": "Nasdaq lập đỉnh đóng cửa mới khi lạc quan về AI trở lại và lợi suất trái phiếu Kho bạc Mỹ hạ nhiệt",
+   "translated": true,
+   "original_title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
+   "link": "https://www.reuters.com/business/wall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21/"
+  },
+  {
+   "ref": "tg-marketfeed:1042798",
+   "title": "Sản lượng mỏ dầu Sharara của Libya giảm hơn một nửa, còn khoảng 127.000 thùng/ngày, sau khi một nhóm vũ trang đóng đường ống dẫn tới cảng xuất khẩu Zawiya",
+   "translated": true,
+   "original_title": "LIBYA'S SHARARA OIL FIELD HAS SEEN PRODUCTION FALL MORE THAN HALF TO ABOUT 127,000 BARRELS PER DAY AFTER AN ARMED GROUP SHUT A PIPELINE TO THE ZAWIYA EXPORT TERMINAL, WITH MOST OUTPUT BEING REDIRECTED TO MELLITAH PORT. A PROLONGED SHUTDOWN COULD HALT SHARARA'S 340,000-BARREL-PER-DAY PRODUCTION, DISRUPT EXPORTS, FORCE THE ZAWIYA REFINERY TO STOP PROCESSING, AND INCREASE LIBYA'S FUEL IMPORT COSTS. .",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:766c0b0435",
+   "title": "Lãnh đạo Việt Nam tuyên bố thỏa thuận thương mại với Mỹ sắp hoàn tất",
+   "translated": true,
+   "original_title": "Vietnam’s Leader Declares US Trade Deal Close",
+   "link": "https://www.bloomberg.com/news/videos/2026-09-21/vietnam-s-leader-declares-us-trade-deal-close-video"
+  },
+  {
+   "ref": "tg-vnwallstreet:399778",
+   "title": "Phó Chủ tịch Ngân hàng Dự trữ Úc (RBA): có thể cần tăng lãi suất lần thứ tư trong năm để kiềm chế lạm phát",
+   "translated": false,
+   "original_title": "▫️ Phó Chủ tịch Ngân hàng Dự trữ Úc: Có thể cần tăng lãi suất lần nữa Phó Chủ tịch Ngân hàng Dự trữ Úc, ông Hunt, đã nhấn mạnh trong một chương trình podcast hôm thứ Ba rằng có thể cần phải tăng lãi suất lần thứ tư trong năm nay để kiểm soát lạm phát, điều này cho thấy thị trường đang đặt cược vào khả năng tăng lãi suất sớm nhất vào tuần tới. Ông cho biết, ủy ban chính sách của ngân hàng lo ngại r",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1042794",
+   "title": "Dầu WTI giảm xuống dưới 100 USD/thùng, nhưng thiếu hụt nhiên liệu tinh chế nổi lên như rủi ro lạm phát lớn hơn khi giá dầu diesel Mỹ lần đầu vượt 6,5 USD/gallon",
+   "translated": true,
+   "original_title": "WTI CRUDE FELL BELOW $100 A BARREL, BUT REFINED FUEL SHORTAGES ARE EMERGING AS A BIGGER INFLATION RISK, WITH U.S. DIESEL PRICES CLIMBING ABOVE $6.50 A GALLON FOR THE FIRST TIME AS REFINING MARGINS WIDEN AND SUPPLIES TIGHTEN. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1042786",
+   "title": "Kinh tế trưởng ECB Philip Lane: kinh tế Eurozone sẽ tiếp tục tăng trưởng ổn định nhưng vừa phải nếu cú sốc năng lượng không leo thang; đợt tăng giá năng lượng thứ hai sẽ đẩy lạm phát lên trước khi hạ về mục tiêu từ giữa năm 2027",
+   "translated": true,
+   "original_title": "ECB'S LANE: EUROZONE ECONOMY SHOULD CONTINUE GROWING AT STEADY BUT MODERATE PACE IF ENERGY SHOCK DOES NOT INTENSIFY - SECOND WAVE OF ENERGY-PRICE INCREASES WILL PUSH INFLATION HIGHER BEFORE IT FALLS TOWARD TARGET FROM MID-2027 ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:0d0e7b2189",
+   "title": "Chứng khoán châu Á dự báo tăng nhờ lạc quan công nghệ, giá dầu giảm sâu: Điểm thị trường",
+   "translated": true,
+   "original_title": "Asian Stocks to Gain on Tech Optimism, Oil Falls: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "bloomberg:df88ae4c5e",
+   "title": "Mỹ lên kế hoạch lập quỹ 5 tỷ USD tái thiết Trung Đông sau chiến tranh Iran",
+   "translated": true,
+   "original_title": "US Plans $5 Billion Middle East Reconstruction Fund for Iran War",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-21/us-plans-5-billion-middle-east-reconstruction-fund-for-iran-war"
+  }
+ ],
+ "content_sha": "e007b39ad75356cdeea16246843260842cc48d1c41f424c7a0afce5e6cd886a2"
+}
