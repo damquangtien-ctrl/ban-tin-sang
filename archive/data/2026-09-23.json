@@ -540,5 +540,68 @@
    "link": "https://www.reuters.com/commentary/reuters-open-interest/indonesias-nickel-production-curbs-leave-market-unconvinced-2026-09-22/"
   }
  ],
- "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c"
+ "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "4c963a942a3425cfaf0e988c5926584876fd7c32",
+   "published_at": "2026-09-23T06:54:50+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "264",
+   "sent_at": "2026-09-23T06:54:50+07:00",
+   "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "264",
+     "sent_at": "2026-09-23T06:54:50+07:00",
+     "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "f0e63dcc259a47c31e8c",
+   "sent_at": "2026-09-23T06:54:52+07:00",
+   "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "f0e63dcc259a47c31e8c",
+     "sent_at": "2026-09-23T06:54:52+07:00",
+     "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "25b6160a115c73052a4a",
+     "sent_at": "2026-09-23T06:54:53+07:00",
+     "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "e1559b319c67fe3ea771",
+     "sent_at": "2026-09-23T06:54:54+07:00",
+     "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "c47f9f779821fa78a337",
+     "sent_at": "2026-09-23T06:54:55+07:00",
+     "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c"
+    }
+   ]
+  }
+ }
 }
