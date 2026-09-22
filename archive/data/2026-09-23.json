@@ -1,0 +1,544 @@
+{
+ "date": "2026-09-23",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Tổng hợp",
+   "text": "VN-Index hồi phục 17,26 điểm (+0,96%) lên 1.816,93 điểm phiên 22/9, thanh khoản giảm mạnh còn khoảng 13.000 tỷ đồng."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Bà Nguyễn Thị Phương Thảo trở thành nữ tỷ phú giàu nhất Việt Nam, dự lễ rung chuông NYSE cùng Ngoại trưởng Mỹ đúng ngày TTCK Việt Nam được FTSE Russell nâng hạng."
+  },
+  {
+   "source": "WebSearch",
+   "text": "Giá vàng SJC trong nước giảm sâu 1,7 triệu đồng/lượng, còn 141,9 - 144,9 triệu đồng/lượng."
+  },
+  {
+   "source": "Reuters",
+   "text": "Dầu WTI lao dốc 6,39% sau khi ông Trump ủng hộ cấm xuất khẩu dầu diesel của Mỹ giữa lúc giá nhiên liệu lập kỷ lục."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Vận tải qua eo biển Hormuz vẫn gián đoạn nghiêm trọng, chỉ 2 tàu hàng qua lại so với mức trung bình 125 tàu/ngày trước xung đột."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:b91506dfe9",
+     "title": "Bộ Công an thông báo kết thúc điều tra vụ án hình sự tại Công ty của Shark Thủy"
+    }
+   ],
+   "source": "CafeF"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+17,26 (+0,96%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.816,93 điểm"
+   },
+   {
+    "change": "+2,55 (+0,93%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "276,93 điểm"
+   },
+   {
+    "change": "khớp lệnh giảm 23,4%",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "~13.000 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại",
+    "value": "Mua ròng nhẹ (~54-65 tỷ đồng)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "141,9 – 144,9 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.830 · Bán 26.210"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua phân hóa: Nasdaq tăng 0,45% nhờ nhóm công nghệ trong khi Dow Jones giảm 0,36%; dầu WTI lao dốc 6,39% sau đề xuất cấm xuất khẩu dầu diesel của Tổng thống Trump, còn vàng thế giới nhích nhẹ 0,42% lên quanh 4.402 USD/oz. Trong nước, VN-Index phiên 22/9 hồi phục 17,26 điểm (+0,96%) lên 1.816,93 điểm nhờ nhóm cổ phiếu trụ, dù thanh khoản HOSE giảm mạnh còn khoảng 13.000 tỷ đồng và khối ngoại chỉ mua ròng nhỏ giọt. Giá vàng SJC trong nước giảm sâu 1,7 triệu đồng/lượng xuống 141,9 - 144,9 triệu đồng/lượng, còn tỷ giá USD/VND tại Vietcombank niêm yết quanh 25.830 - 26.210 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.0,
+    "label": "S&P 500",
+    "value": "7.764,6"
+   },
+   {
+    "change_pct": -0.36,
+    "label": "Dow Jones",
+    "value": "51.863,7"
+   },
+   {
+    "change_pct": 0.45,
+    "label": "Nasdaq",
+    "value": "27.244,3"
+   },
+   {
+    "change_pct": -6.39,
+    "label": "Dầu WTI",
+    "value": "89,7 USD"
+   },
+   {
+    "change_pct": -1.81,
+    "label": "Dầu Brent",
+    "value": "98,5 USD"
+   },
+   {
+    "change_pct": 0.42,
+    "label": "Vàng thế giới",
+    "value": "4.402 USD"
+   },
+   {
+    "change_pct": -0.55,
+    "label": "Bitcoin",
+    "value": "86.125 USD"
+   },
+   {
+    "change_pct": 0.13,
+    "label": "DXY",
+    "value": "100,56"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:f6c9b51d5f",
+     "title": "Nâng hạng chưa đủ, Tổng Giám đốc SGI Capital tiết lộ 2 điều kiện để khối ngoại trở lại mạnh mẽ"
+    },
+    {
+     "ref": "cafef:82a5a4ae9b",
+     "title": "“Cơn gió ngược” mới xuất hiện, Tổng Giám đốc SGI Capital chỉ ra biến số lớn cuối năm"
+    },
+    {
+     "ref": "cafef:58e291e485",
+     "title": "PVS: “Đại gia” dầu khí Việt Nam tham gia siêu dự án có 7 hạng mục ngoài khơi nặng hơn 78.000 tấn, doanh thu dự báo vượt 39.000 tỷ"
+    },
+    {
+     "ref": "cafef:f7223c3d71",
+     "title": "Cổ phiếu Alibaba tăng 3% sau loạt công bố AI: Chip mới mạnh gấp 3 lần, tham vọng 20 GW"
+    },
+    {
+     "ref": "cafef:9f45a17ba7",
+     "title": "Chấn động thị trường gọi xe: Waymo chính thức đưa dịch vụ gọi xe không tài xế vào Singapore, Grab sẽ ra sao?"
+    },
+    {
+     "ref": "cafef:dcb0515a35",
+     "title": "VinSpeed ký hợp đồng 1 tỷ EUR với Siemens Mobility, phát triển các tuyến đường sắt tốc độ cao"
+    },
+    {
+     "ref": "cafef:e7cf3fc769",
+     "title": "HPG: Nhà máy hơn 10.000 tỷ đồng của tỷ phú Trần Đình Long hoàn thành gần 70%, sắp có thép ray đầu tiên cho đường sắt cao tốc"
+    },
+    {
+     "ref": "cafef:11a4b78515",
+     "title": "6 tỷ USD có thể tìm đến chứng khoán Việt Nam sau nâng hạng"
+    },
+    {
+     "ref": "cafef:c3c237e51f",
+     "title": "Chủ tịch Ủy ban Chứng khoán Nhà nước: Sẽ tái cấu trúc các công ty quản lý quỹ, kiểm soát chặt định giá tài sản và xung đột lợi ích"
+    },
+    {
+     "ref": "cafef:a7dca919e0",
+     "title": "Sun Group làm quần thể du lịch hơn 16.000 tỷ đồng ở Quảng Trị, xây 5 tuyến cáp treo lên núi U Bò"
+    },
+    {
+     "ref": "cafef:0c6c3091d4",
+     "title": "PNJ: Con gái Chủ tịch bán 18 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:6bab88cc15",
+     "title": "Chân dung người Việt SN 1983 là Tân TGĐ FPT Online, từng làm CEO Lenovo ở tuổi 24"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:a6f97cb7e2",
+     "title": "TID lại muốn đấu giá 51% vốn chủ dự án Cù lao Tân Vạn, khởi điểm hơn 1,000 tỷ"
+    },
+    {
+     "ref": "vietstock:4a9ef8b360",
+     "title": "Chính phủ yêu cầu Bộ Tài chính xây dựng cơ chế chính sách ưu đãi, linh hoạt cho các dự án cốt lõi"
+    },
+    {
+     "ref": "vietstock:b2d8a16494",
+     "title": "Phó Thủ tướng: Việc cải cách chính sách tiền lương và BHXH cần được đặt trong bối cảnh mới của đất nước"
+    },
+    {
+     "ref": "vietstock:8f3f4954d1",
+     "title": "Lạm phát 8 tháng đầu năm 2026"
+    },
+    {
+     "ref": "vietstock:009c25885c",
+     "title": "TPHCM thu hút hơn 17 tỷ USD vốn FDI, đổ mạnh vào lĩnh vực nào?"
+    },
+    {
+     "ref": "vietstock:91f8c05754",
+     "title": "Sun Group - Petrolimex hợp tác chiến lược, kết nối hai hệ sinh thái, hướng tới APEC 2027"
+    },
+    {
+     "ref": "vietstock:f2c7228076",
+     "title": "DIG: Nâng vốn điều lệ lên gần 8.442 tỷ đồng sau đợt phát hành cổ phiếu trả cổ tức"
+    },
+    {
+     "ref": "vietstock:8885393935",
+     "title": "HDC: Tính bán toàn bộ Hodeco Seavillage sau nhiều năm chờ chỉnh quy hoạch, giá hơn ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:27d9580c4f",
+     "title": "NVB: Ngân hàng NCB hợp tác chiến lược với Petrolimex, kết nối hệ sinh thái năng lượng - tài chính"
+    },
+    {
+     "ref": "vietstock:229efe2f5a",
+     "title": "HDG: Hà Đô gom nốt phần vốn của hai lãnh đạo tại Điện gió Bình Gia"
+    },
+    {
+     "ref": "vietstock:634b663960",
+     "title": "VJC: Bà Nguyễn Thị Phương Thảo trở thành nữ tỷ phú giàu nhất Việt Nam (4,2 tỷ USD), dự lễ rung chuông NYSE cùng Ngoại trưởng Mỹ Marco Rubio đúng ngày TTCK Việt Nam được FTSE Russell nâng hạng"
+    },
+    {
+     "ref": "vietstock:22cf333aca",
+     "title": "4 lý do cuộc khủng hoảng năng lượng tháng 9 nghiêm trọng hơn tháng 3/2026"
+    },
+    {
+     "ref": "vietstock:83f16fe65a",
+     "title": "DGT: Đón cổ đông lớn, sắp họp ĐHĐCĐ bất thường để xử lý trái phiếu quá hạn"
+    },
+    {
+     "ref": "vietstock:c45d0501a7",
+     "title": "THM: Công ty mẹ thoái vốn bất thành"
+    },
+    {
+     "ref": "vietstock:69dbdf72d0",
+     "title": "VietCredit hoàn tất đợt phát hành ESOP, nâng vốn điều lệ lên gần 921 tỷ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:f920de3a92",
+     "title": "Các công ty quản lý quỹ đang quản lý 32,5 tỷ USD"
+    },
+    {
+     "ref": "vneconomy:a6b2317f77",
+     "title": "Một loạt quan chức Fed ủng hộ tiếp tục tăng lãi suất"
+    },
+    {
+     "ref": "vneconomy:2e2389874d",
+     "title": "Đến lượt các ETF nội mạnh tay rút ròng"
+    },
+    {
+     "ref": "vneconomy:6df1735c85",
+     "title": "Lên thành phố trực thuộc trung ương, Bắc Ninh có thêm Khu công nghiệp 208ha vốn đầu tư 2.800 tỷ"
+    },
+    {
+     "ref": "vneconomy:83040c98bd",
+     "title": "Đồng yên trượt giá trở lại sau động thái tăng lãi suất của BOJ"
+    },
+    {
+     "ref": "vneconomy:ecba0ccc69",
+     "title": "Giá bitcoin cao nhất từ đầu năm, “mùa đông tiền số” có thể đã kết thúc"
+    },
+    {
+     "ref": "vneconomy:467855f4ba",
+     "title": "Cuộc gặp thượng đỉnh Mỹ - Trung: Giới đầu tư toàn cầu theo dõi những nội dung nào?"
+    },
+    {
+     "ref": "vneconomy:db4db31f3f",
+     "title": "Vàng tụt giá vì triển vọng lãi suất cao hơn lâu hơn, SPDR Gold Trust bán ròng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e8958509b1",
+     "title": "VSDC: Hạ tầng dịch vụ quỹ cần đi trước một bước để đón dư địa tăng trưởng - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:054d4730d5",
+     "title": "Muốn đưa quy mô ngành quỹ lên 5% GDP, cần thay đổi điều gì? - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:022d589f83",
+     "title": "Xuất khẩu rau quả 9 tháng tăng gần 19%, đạt 7,26 tỷ USD - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:69b3c90e8f",
+     "title": "Cắt giảm mạnh đối tượng phải có giấy phép, phải đánh giá tác động môi trường - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2d5f439a9e",
+     "title": "Thúc đẩy hợp tác Việt Nam - Hoa Kỳ trong hạ tầng, năng lượng và công nghệ - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b8108a0014",
+     "title": "Thêm cách phân loại tín dụng địa ốc - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1c10fb5676",
+     "title": "Đàm phán Hiệp định thương mại đối ứng Việt - Mỹ: Đến rất gần kết quả cuối cùng - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:266d6b3068",
+     "title": "Doanh nghiệp Việt xuất khẩu gần 5,9 tỷ USD hàng hóa sang Canada - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a582f5225b",
+     "title": "Quỹ DCDS của Dragon Capital đổi chiến lược danh mục, tăng tỷ trọng nhóm cổ phiếu nhạy với thị trường - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:a1efff172f",
+     "title": "Giá vật liệu \"đội\" cao, hàng chục doanh nghiệp xây dựng Quảng Ngãi kêu khó - Baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:38fec48357",
+     "title": "F88 huy động thành công hơn 233 tỷ đồng trái phiếu công chúng đợt 3"
+    },
+    {
+     "ref": "b-o-u-t:6c3b306a35",
+     "title": "Lãi vay 14%, vốn khan hiếm: Chuyên gia khuyên doanh nghiệp bất động sản bán bớt dự án - Baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:7456534327",
+     "title": "Việt Nam tự tin đạt mục tiêu tăng trưởng trên 10%/năm giai đoạn 2026-2030 - Baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:8fe7dc52a5",
+     "title": "Định giá VN-Index hấp dẫn, động lực nào cho chứng khoán quý cuối năm? - Baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:bdbcf5de0d",
+     "title": "Hoàn thiện khuôn khổ pháp lý cho thị trường hàng hóa phái sinh - Baodautu.vn"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:7930da38e8",
+     "title": "THACO huy động thành công 2.000 tỷ đồng trái phiếu, lãi suất 11,75%/năm"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:4b0290e16b",
+     "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tuyên bố thỏa thuận thương mại Việt-Mỹ đã rất gần"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:f41d27526a",
+     "title": "Dòng vốn tín dụng tăng tốc tại các đầu tàu kinh tế"
+    },
+    {
+     "ref": "vnbusiness:dd3b20b902",
+     "title": "Chi phí logistics ăn mòn lợi nhuận doanh nghiệp xuất khẩu"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:3df7540913",
+     "title": "Lãi suất qua đêm tăng vọt, Ngân hàng Nhà nước có giải pháp gì?"
+    },
+    {
+     "ref": "ti-n-phong:4b4ee3bc77",
+     "title": "Vàng nhẫn mua vào - bán ra chênh lệch tới 4 triệu đồng/lượng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:5142641d34",
+     "title": "VJC: Chủ tịch Vietjet nói việc nâng hạng mở ra giai đoạn phát triển mới cho thị trường vốn"
+    },
+    {
+     "ref": "bnews:378eafe399",
+     "title": "Chứng khoán hôm nay 22/9: 3 doanh nghiệp giao dịch cổ phiếu số lượng lớn - bnews.vn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:897f6c7b81",
+     "title": "MBB: Thông báo thay đổi nhân sự - Luân chuyển nhân sự cấp cao (kèm Nghị quyết HĐQT)"
+    },
+    {
+     "ref": "hose:8ecc64bf8b",
+     "title": "HDB: Thông báo của HNX về ngày giao dịch đầu tiên trái phiếu niêm yết của HDBank (HDB126033, HDB126034)"
+    },
+    {
+     "ref": "hose:708aa2d82a",
+     "title": "BWE: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Văn Thiền"
+    },
+    {
+     "ref": "hose:427dc8e7b7",
+     "title": "PHR: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết đang lưu hành"
+    },
+    {
+     "ref": "hose:e0686bba1f",
+     "title": "ICT: Báo cáo về ngày trở thành cổ đông lớn Công ty Cổ phần Viễn thông - Tín hiệu đường sắt"
+    },
+    {
+     "ref": "hose:dd89ac54bf",
+     "title": "NHA: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:9d7a539347",
+     "title": "OPC: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:8de8f3ae0c",
+     "title": "AAN: Thông báo về việc ký hợp đồng với đơn vị kiểm toán BCTC năm 2026"
+    },
+    {
+     "ref": "hose:48bd1ff608",
+     "title": "C47: Nghị quyết HĐQT về việc phê duyệt chủ trương ký kết hợp đồng thuê tài sản với người có liên quan"
+    },
+    {
+     "ref": "hose:4c620d0707",
+     "title": "ADS: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Vũ Huy Đông"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:3ed1b8f274",
+   "title": "Tổng thống Zelensky: Nga đang chuẩn bị một cuộc tấn công quy mô lớn mới nhằm vào Ukraine",
+   "translated": true,
+   "original_title": "Zelenskiy says Russia planning new mass attack on Ukraine",
+   "link": "https://www.reuters.com/business/aerospace-defense/zelenskiy-says-russia-planning-new-mass-attack-ukraine-2026-09-22/"
+  },
+  {
+   "ref": "tg-marketfeed:1043660",
+   "title": "Vận tải qua eo biển Hormuz vẫn gián đoạn nghiêm trọng: chỉ 2 tàu hàng qua lại hôm thứ Hai, so với mức trung bình 125 tàu/ngày trước xung đột",
+   "translated": true,
+   "original_title": "IRAN ALSO CALLED FOR AN END TO THE WAR ACROSS ALL “RESISTANCE” FRONTS, WHILE SHIPPING THROUGH THE STRAIT OF HORMUZ REMAINED SEVERELY DISRUPTED, WITH JUST TWO COMMODITY VESSELS CROSSING MONDAY VERSUS A PRE-CONFLICT AVERAGE OF ABOUT 125 LARGE COMMERCIAL SHIPS PER DAY. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1043659",
+   "title": "Ngoại trưởng Iran gặp đặc phái viên Mỹ Witkoff bên lề Đại hội đồng LHQ, bàn điều kiện mở lại eo biển Hormuz gồm dỡ phong tỏa hải quân Mỹ và giải phóng tài sản bị đóng băng",
+   "translated": true,
+   "original_title": "IRANIAN STATE MEDIA SAYS FOREIGN MINISTER ABBAS ARAGHCHI MET U.S. ENVOY STEVE WITKOFF AT THE UN GENERAL ASSEMBLY, WITH TEHRAN SAYING THE TALKS CENTERED ON ITS CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ, INCLUDING LIFTING THE U.S. NAVAL BLOCKADE AND RELEASING FROZEN IRANIAN ASSETS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1043644",
+   "title": "Sân bay Baghdad, Muscat ngừng các chuyến bay đến Iran; Azerbaijan cũng dừng đường bay tới Iran giữa lúc căng thẳng khu vực leo thang",
+   "translated": true,
+   "original_title": "BAGHDAD & MUSCAT AIRPORTS HALT IRANIAN FLIGHTS; AZERBAIJAN ALSO SUSPENDS FLIGHTS TO IRAN — FARS ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:06eb3bcc51",
+   "title": "Ông Trump ủng hộ cấm xuất khẩu dầu diesel của Mỹ khi giá nhiên liệu lập kỷ lục",
+   "translated": true,
+   "original_title": "Trump supports diesel export ban as fuel prices hit records",
+   "link": "https://www.reuters.com/world/us/trump-says-he-backs-idea-ban-diesel-exports-2026-09-22/"
+  },
+  {
+   "ref": "reuters:f205e82ddb",
+   "title": "Giới phân tích cảnh báo lệnh cấm xuất khẩu dầu diesel của Mỹ có thể phản tác dụng, gây hại nhiều hơn lợi cho thị trường nhiên liệu",
+   "translated": true,
+   "original_title": "Ban on US diesel exports would hurt, not help fuel markets, analysts say",
+   "link": "https://www.reuters.com/world/us/ban-us-diesel-exports-would-hurt-not-help-fuel-markets-analysts-say-2026-09-22/"
+  },
+  {
+   "ref": "tg-marketfeed:1043641",
+   "title": "Tồn kho dầu thô Mỹ (API) tăng 1,786 triệu thùng tuần qua; xăng giảm 2,16 triệu thùng, sản phẩm chưng cất giảm 2,164 triệu thùng",
+   "translated": true,
+   "original_title": "US API CRUDE OIL STOCKS ROSE 1.786 MILLION BARRELS, REVERSING FROM A 7.1 MILLION-BARREL BUILD BUT EXCEEDING THE FORECASTED 500,000-BARREL DRAW, WHILE CUSHING INVENTORIES INCREASED 2.082 MILLION BARRELS. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:29c8cd1f80",
+   "title": "Ông Trump sẽ gặp quyền Tổng thống Venezuela Rodríguez lần đầu tiên kể từ khi ông Maduro bị bắt giữ",
+   "translated": true,
+   "original_title": "Trump to meet Venezuela's Rodriguez for first time since Maduro's capture",
+   "link": "https://www.reuters.com/world/americas/trump-meet-venezuelas-rodriguez-first-time-since-maduros-capture-2026-09-22/"
+  },
+  {
+   "ref": "tg-marketfeed:1043655",
+   "title": "Ông Trump ký thỏa thuận an ninh ba bên với Đan Mạch và Greenland, mở rộng hiện diện quân sự Mỹ tại Bắc Cực",
+   "translated": true,
+   "original_title": "TRUMP SIGNED A TRILATERAL SECURITY DEAL WITH DENMARK AND GREENLAND THAT EXPANDS THE U.S. MILITARY PRESENCE ON THE ARCTIC ISLAND, INCLUDING TWO NEW BASES AT NARSARSUAQ AND MESTERSVIG, WHILE GREENLAND REMAINS UNDER DANISH SOVEREIGNTY. THE AGREEMENT EXPANDS THE PITUFFIK SPACE BASE, MAKES GREENLAND PART OF THE GOLDEN DOME DEFENSE SYSTEM, GIVES THE U.S. A GREATER ROLE OVER SECURITY AND SENSITIVE INVEST",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1043667",
+   "title": "Microsoft tăng ưu đãi giảm giá Copilot khi ra mắt 'siêu ứng dụng' AI mới — The Information",
+   "translated": true,
+   "original_title": "MICROSOFT BOOSTS COPILOT DISCOUNTS AS IT LAUNCHES AI “SUPER APP” — THE INFORMATION ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:5087ca4901",
+   "title": "Nguồn tin: Bộ trưởng Tài chính Mỹ có thể kiêm nhiệm vai trò phụ trách AI của chính quyền Trump",
+   "translated": true,
+   "original_title": "US Treasury secretary could take on AI czar role, source says",
+   "link": "https://www.reuters.com/business/us-treasury-secretary-could-take-ai-czar-role-source-says-2026-09-22/"
+  },
+  {
+   "ref": "reuters:ec2bd9bf4c",
+   "title": "Bình luận Reuters: Nỗi sợ AI kiểu 'Terminator' có thể che khuất mối đe dọa thực sự từ Trung Quốc",
+   "translated": true,
+   "original_title": "AI 'Terminator’ fears may mask real Chinese threat: McGeever",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/ai-terminator-fears-may-mask-real-chinese-threat-mcgeever-2026-09-22/"
+  },
+  {
+   "ref": "reuters:ef7dea35ec",
+   "title": "Indonesia siết sản lượng nickel nhưng thị trường vẫn hoài nghi về tác động thực tế",
+   "translated": true,
+   "original_title": "Indonesia's nickel production curbs leave market unconvinced",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/indonesias-nickel-production-curbs-leave-market-unconvinced-2026-09-22/"
+  }
+ ],
+ "content_sha": "6e0ca566bdbbc69f6f532ee329de907c11a619e40e1e823911234ec2489ab75c"
+}
