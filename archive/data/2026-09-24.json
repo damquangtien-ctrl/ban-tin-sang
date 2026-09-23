@@ -494,5 +494,68 @@
    "link": "https://bbw.vn/canada-co-the-tro-thanh-thanh-vien-lien-ket-dau-tien-cua-eu-60477.html"
   }
  ],
- "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a"
+ "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "37b66dc9f2566c8419ab1d2d24997dcb1a08483f",
+   "published_at": "2026-09-24T06:52:55+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "265",
+   "sent_at": "2026-09-24T06:52:56+07:00",
+   "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "265",
+     "sent_at": "2026-09-24T06:52:56+07:00",
+     "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "f508998abc33de6a8725",
+   "sent_at": "2026-09-24T06:52:57+07:00",
+   "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "f508998abc33de6a8725",
+     "sent_at": "2026-09-24T06:52:57+07:00",
+     "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "f13affccda75b82ce163",
+     "sent_at": "2026-09-24T06:52:59+07:00",
+     "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "15ec626546dc24857dca",
+     "sent_at": "2026-09-24T06:53:00+07:00",
+     "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "a90a82e1a658c4019d4e",
+     "sent_at": "2026-09-24T06:53:01+07:00",
+     "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a"
+    }
+   ]
+  }
+ }
 }
