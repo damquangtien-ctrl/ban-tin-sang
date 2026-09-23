@@ -1,0 +1,498 @@
+{
+ "date": "2026-09-24",
+ "dividends": [
+  {
+   "event": "Trả cổ tức bằng tiền mặt tỷ lệ 12%/năm",
+   "record_date": "2026-09-30",
+   "ref": "vietstock:1856b67322",
+   "ticker": "QHW"
+  },
+  {
+   "event": "Tạm ứng cổ tức đợt 1/2026 bằng tiền mặt tỷ lệ 10%",
+   "record_date": "2026-10-06",
+   "ref": "cafef:8ccd54edd8",
+   "ticker": "DGW"
+  },
+  {
+   "event": "Chi trả cổ tức tổng tỷ lệ 20% (5% tiền mặt, 15% cổ phiếu)",
+   "record_date": "2026-10-05",
+   "ref": "tin-nhanh-ch-ng-kho-n:f7b34f35a7",
+   "ticker": "TPB"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Mỹ - Trung Quốc nhất trí gia hạn đình chiến thương mại thêm hai tháng, mở đường cho thỏa thuận lớn hơn trước thềm thượng đỉnh Trump - Tập."
+  },
+  {
+   "source": "Reuters",
+   "text": "Lợi suất trái phiếu Mỹ kỳ hạn 10 năm lên cao nhất từ 2007, kéo Phố Wall, vàng và dầu đồng loạt giảm."
+  },
+  {
+   "source": "Thị trường VN",
+   "text": "VN-Index đóng cửa phiên 23/9 tại 1.801,65 điểm, giảm 15,28 điểm khi khối ngoại bán ròng hơn 1.063 tỷ đồng."
+  },
+  {
+   "source": "Báo Đầu tư",
+   "text": "HDBank được chấp thuận tăng vốn điều lệ lên hơn 72.000 tỷ đồng."
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "TPBank chốt quyền chia cổ tức tổng tỷ lệ 20% (5% tiền mặt, 15% cổ phiếu), ngày ĐKCC 5/10."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:69216947bf",
+     "title": "Hai doanh nghiệp bị xử phạt do vi phạm trong lĩnh vực chứng khoán"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3168f47e9d",
+     "title": "Bộ công an vẫn đề nghị truy tố 29 người trong vụ án tại tập đoàn của Shark Thủy"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:898ddee3d3",
+     "title": "Capella Quảng Nam bị xử phạt vì vi phạm nghĩa vụ công bố thông tin tài chính và phát hành trái phiếu"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:76f3498326",
+     "title": "EVS: Báo cáo nội dung sai lệch, Chứng khoán EVS bị phạt"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:2ed9128443",
+     "title": "Công ty Đại Đông Hồ lọt Top 500 doanh nghiệp lớn nhất Việt Nam bị nêu tên nợ thuế"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:8fcf129fcb",
+     "title": "Chị em doanh nhân chuyển lậu 520 triệu USD sang Trung Quốc"
+    },
+    {
+     "ref": "vnexpress:945b656b54",
+     "title": "Đường dây lập 326 công ty 'ma' mua bán hóa đơn gần 20.000 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:c871c7404d",
+     "title": "Chủ tịch Công ty CP Thanh niên bị cáo buộc chiếm đoạt gần 500 tỷ của PVcombank"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-15,28 điểm (-0,84%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.801,65 điểm"
+   },
+   {
+    "change": "-0,48 điểm",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "276,45 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "17.745 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng hơn 1.063 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "142,5 - 145,5 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "25.810 - 26.190 đồng"
+   }
+  ],
+  "summary": "Phiên Mỹ đêm qua (23/9) chìm trong sắc đỏ khi lợi suất trái phiếu kho bạc kỳ hạn 10 năm vọt lên mức cao nhất kể từ năm 2007, kéo S&P 500 giảm 0,76%, Dow Jones giảm 1,03% và Nasdaq giảm 0,69%; giá dầu WTI, Brent cùng vàng thế giới đồng loạt giảm hơn 1%, USD-Index tăng 0,68% lên 101,11 điểm. Trong nước, VN-Index đóng cửa phiên 23/9 tại 1.801,65 điểm, giảm 15,28 điểm (-0,84%), lùi sát mốc 1.800 điểm dưới áp lực bán ở nhóm bất động sản và một số cổ phiếu vốn hóa lớn như VIC, VHM, VCB; HNX-Index giảm nhẹ 0,48 điểm còn 276,45 điểm. Thanh khoản HOSE cải thiện lên khoảng 17.745 tỷ đồng, trong khi khối ngoại tiếp tục bán ròng hơn 1.063 tỷ đồng, tập trung ở nhóm cổ phiếu ngân hàng. Tỷ giá USD/VND tại Vietcombank niêm yết 25.810 - 26.190 đồng, vàng SJC giao dịch quanh 142,5 - 145,5 triệu đồng/lượng.",
+  "tiles": [
+   {
+    "change_pct": -0.76,
+    "label": "S&P 500",
+    "value": "7.706,0"
+   },
+   {
+    "change_pct": -1.03,
+    "label": "Dow Jones",
+    "value": "51.511,6"
+   },
+   {
+    "change_pct": -0.69,
+    "label": "Nasdaq",
+    "value": "26.936,0"
+   },
+   {
+    "change_pct": -2.63,
+    "label": "Dầu WTI",
+    "value": "92,1 USD"
+   },
+   {
+    "change_pct": -1.47,
+    "label": "Dầu Brent",
+    "value": "97,8 USD"
+   },
+   {
+    "change_pct": -1.25,
+    "label": "Vàng thế giới",
+    "value": "4.322 USD"
+   },
+   {
+    "change_pct": -1.98,
+    "label": "Bitcoin",
+    "value": "84.470 USD"
+   },
+   {
+    "change_pct": 0.68,
+    "label": "DXY",
+    "value": "101,11"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:1c749a8641",
+     "title": "Kỳ vọng VN-Index hướng tới vùng 2.000 điểm trong kịch bản tích cực, CTCK điểm tên 5 nhóm ngành đáng chú ý"
+    },
+    {
+     "ref": "cafef:8a452b9b58",
+     "title": "Ông Lê Chí Phúc hé lộ kênh đầu tư có hiệu suất dài hạn vượt trội so với gửi tiết kiệm"
+    },
+    {
+     "ref": "cafef:9775d50184",
+     "title": "Highlands Coffee sắp về tay cổ đông Việt Nam: Jollibee bán 11% cổ phần chuỗi cà phê được định giá hơn 21.000 tỷ"
+    },
+    {
+     "ref": "cafef:066ef38960",
+     "title": "Diễn đàn Chứng khoán châu Á lần thứ 31 sẽ bàn cách hút vốn vào Việt Nam"
+    },
+    {
+     "ref": "cafef:bd1203ba1c",
+     "title": "Taseco Land “rót” hơn 410 tỷ đồng góp vốn thành lập 2 doanh nghiệp mới"
+    },
+    {
+     "ref": "cafef:1f43bd4396",
+     "title": "MSB: Ngược biến động thị trường, cổ phiếu lập đỉnh lịch sử mới"
+    },
+    {
+     "ref": "cafef:241486067c",
+     "title": "Bitcoin phá vỡ “lời nguyền” tồn tại 4 năm"
+    },
+    {
+     "ref": "cafef:2ee5aedefe",
+     "title": "TTC Hospitality muốn chuyển nhượng vốn góp tại công ty mới 1 tháng tuổi, giá không dưới 700 tỷ đồng"
+    },
+    {
+     "ref": "cafef:d456ecf3b0",
+     "title": "Sau nâng hạng, chứng khoán Việt cần gì để giữ dòng vốn quốc tế?"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:1856b67322",
+     "title": "QHW sắp trả cổ tức bằng tiền tỷ lệ 12%, duy trì đều đặn 10 năm"
+    },
+    {
+     "ref": "vietstock:7c425e4c8f",
+     "title": "Starbay Hà Nội giải chấp một phần tài sản bảo đảm cho lô trái phiếu 2,780 tỷ khi nợ tăng 500%"
+    },
+    {
+     "ref": "vietstock:cd95a78e33",
+     "title": "C47 tạm ngưng đợt chào bán với giá 10,000 đồng/cp giữa lúc cổ phiếu liên tục đi xuống"
+    },
+    {
+     "ref": "vietstock:27530e9f27",
+     "title": "TLP: Ủy viên HĐQT Thalexim thoái hết hơn 11,7 triệu cổ phiếu, BCTC bán niên bị ý kiến kiểm toán ngoại trừ"
+    },
+    {
+     "ref": "vietstock:0bb660e978",
+     "title": "SP2: Hơn 80% vốn điều lệ đổi chủ chỉ trong vài tháng"
+    },
+    {
+     "ref": "vietstock:ec6808b7a6",
+     "title": "VIB: Hoàn tất nâng vốn điều lệ lên hơn 37.354 tỷ đồng sau 2 đợt phát hành"
+    },
+    {
+     "ref": "vietstock:1d9688f84b",
+     "title": "PIA: Cha con Ủy viên HĐQT sang tay cổ phiếu cho công ty liên quan?"
+    },
+    {
+     "ref": "vietstock:19763e1d54",
+     "title": "SSB: Người nhà lãnh đạo SeABank đăng ký mua 8 triệu cổ phiếu"
+    },
+    {
+     "ref": "vietstock:22e2a99ee6",
+     "title": "MSN: Triển vọng nào cho cổ phiếu trong quý 3/2026?"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:a5914d304b",
+     "title": "Có thể kỳ vọng lãi suất giảm nhẹ vào cuối năm?"
+    },
+    {
+     "ref": "vneconomy:04eefc2146",
+     "title": "Vì sao biến động thị trường tài chính Nhật Bản có thể gây ảnh hưởng toàn cầu?"
+    },
+    {
+     "ref": "vneconomy:e073b251c6",
+     "title": "VinaCapital: Định giá chứng khoán Việt Nam đang ở mức hấp dẫn so với nhóm ASEAN"
+    },
+    {
+     "ref": "vneconomy:4fc4c68b85",
+     "title": "Quỹ ETF niêm yết tại Hàn Quốc đổ mạnh tiền vào Việt Nam"
+    },
+    {
+     "ref": "vneconomy:3ac0fc8f42",
+     "title": "Lãi suất trái phiếu doanh nghiệp duy trì mức cao 9,5%/năm, riêng nhóm bất động sản 10,5%"
+    },
+    {
+     "ref": "vneconomy:680acb3854",
+     "title": "Loạt tín hiệu tích cực về Hormuz: Iran tuyên bố sẵn sàng mở lại eo biển, dòng chảy dầu thô tăng nhanh"
+    },
+    {
+     "ref": "vneconomy:6ef278d4a9",
+     "title": "KDH: Cổ phiếu sắp bị loại khỏi rổ VN-Diamond?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fb083ab869",
+     "title": "DCM: PVCFC lợi nhuận tăng 50% so với cùng kỳ 8 tháng đầu năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4adcea3230",
+     "title": "VEA: VEAM điều chỉnh tỷ lệ sở hữu nước ngoài tối đa từ 49% về 0%"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b3a5436ca9",
+     "title": "PAP: Cảng Phước An lên kế hoạch lỗ 5.431 tỷ đồng giai đoạn 2026-2030"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:28d19d7782",
+     "title": "Chưa có khung giá điện, dự án năng lượng tái tạo Gia Lai khó huy động vốn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5bde354fa9",
+     "title": "ADB nâng dự báo tăng trưởng Việt Nam"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d94edf7e57",
+     "title": "Xuất khẩu công nghệ cao và “bẫy nhà cung cấp ẩn danh”"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ddf38ccf52",
+     "title": "Chi phí thuê tàu chở dầu lập kỷ lục vì gián đoạn hàng hải"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4bf1a16089",
+     "title": "KIS Research: Fed tăng lãi suất, áp lực nào đang chờ thị trường Việt Nam?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f7b34f35a7",
+     "title": "TPB: TPBank chốt quyền chia cổ tức 5% bằng tiền và 15% bằng cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3dedc8fa76",
+     "title": "Nam Phi khởi xướng điều tra xi măng nhập từ Việt Nam"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:9d6968c6ac",
+     "title": "Đắk Lắk: Solar Tân Lập rót 977 tỷ đồng đầu tư Nhà máy điện mặt trời Tây Hòa 1"
+    },
+    {
+     "ref": "b-o-u-t:c49c8d974a",
+     "title": "Gia Lai đầu tư 100 tỷ đồng xây phòng thí nghiệm, nghiên cứu chế tạo chip bán dẫn"
+    },
+    {
+     "ref": "b-o-u-t:ceec921567",
+     "title": "HDB: HDBank được chấp thuận tăng vốn lên hơn 72.000 tỷ đồng"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:439917337e",
+     "title": "Các ngân hàng đang đối mặt với bài toán thanh khoản"
+    },
+    {
+     "ref": "markettimes:4ca5d73fc1",
+     "title": "FRT, PET: Hai cổ phiếu bán lẻ 'nổi sóng' trong ngày VN-Index 'bốc hơi' hơn 15 điểm"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:6af7acaaf1",
+     "title": "Người dân để hơn 1,2 triệu tỷ đồng nhàn rỗi trong tài khoản ngân hàng"
+    },
+    {
+     "ref": "ti-n-phong:8c87156211",
+     "title": "Đề xuất bỏ phạt cộng dồn, gỡ vướng cho doanh nghiệp đóng mã số thuế"
+    },
+    {
+     "ref": "ti-n-phong:1eb1092840",
+     "title": "Agribank – PVEP ký kết Hợp đồng tín dụng, đồng hành triển khai dự án năng lượng trọng điểm quốc gia"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:a494447024",
+     "title": "KDH: Thông báo về ngày đăng ký cuối cùng trả cổ tức năm 2025 bằng cổ phiếu"
+    },
+    {
+     "ref": "hose:a16fe8b6e4",
+     "title": "SSI: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:2a83ceb141",
+     "title": "HCM: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả phát hành cổ phiếu ESOP của HCM"
+    },
+    {
+     "ref": "hose:02c49768ae",
+     "title": "HCM: Nghị quyết HĐQT về việc triển khai phương án chào bán CP riêng lẻ"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:ae430e669a",
+   "title": "Mỹ, Trung Quốc nhất trí gia hạn đình chiến thương mại thêm hai tháng, tiếp tục đàm phán thỏa thuận lớn hơn",
+   "translated": true,
+   "original_title": "US, China agree to extend trade truce by two months, work on bigger deal, Bessent says",
+   "link": "https://www.reuters.com/world/asia-pacific/us-treasurys-bessent-chinas-he-meet-unfinished-business-before-trump-xi-summit-2026-09-23/"
+  },
+  {
+   "ref": "reuters:d6eb0d3188",
+   "title": "Trump lên kế hoạch đón tiếp hoành tráng ông Tập trước cuộc gặp thượng đỉnh có thể căng thẳng",
+   "translated": true,
+   "original_title": "Trump plans grand spectacle for Xi as US says trade truce extended",
+   "link": "https://www.reuters.com/world/china/trump-plans-grand-spectacle-potentially-tense-xi-talks-2026-09-23/"
+  },
+  {
+   "ref": "reuters:f90c030b80",
+   "title": "Chứng khoán Mỹ giảm khi lợi suất trái phiếu kỳ hạn 10 năm lên cao nhất kể từ 2007",
+   "translated": true,
+   "original_title": "US stocks fall as 10-year Treasury yield hits highest since 2007",
+   "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-23/"
+  },
+  {
+   "ref": "reuters:ef0a8608c2",
+   "title": "Đầu tư thụ động? Quỹ chỉ số S&P 500 thực chất là một quỹ công nghệ",
+   "translated": true,
+   "original_title": "Passive investing? That S&P 500 index fund is basically a tech fund: McGeever",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/passive-investing-that-sp-500-index-fund-is-basically-tech-fund-mcgeever-2026-09-23/"
+  },
+  {
+   "ref": "reuters:bbab2947f9",
+   "title": "Đông Nam Á xây hơn 100 GW điện khí bất chấp rủi ro nguồn cung LNG",
+   "translated": true,
+   "original_title": "Southeast Asia building over 100 GW of gas power despite LNG supply risks, research shows",
+   "link": "https://www.reuters.com/business/energy/southeast-asia-building-over-100-gw-gas-power-despite-lng-supply-risks-research-2026-09-23/"
+  },
+  {
+   "ref": "reuters:e3a8498e7f",
+   "title": "Mỹ mời Putin dự thượng đỉnh G20 tháng 12, có thể gặp Trump",
+   "translated": true,
+   "original_title": "EUA convidam Putin para reunião do G20 em dezembro; possível encontro com Trump",
+   "link": "https://www.reuters.com/pt/mundo/CX5HRUPH4BOBTBLQ4MOGSJMDNI-2026-09-23/"
+  },
+  {
+   "ref": "reuters:b9bb4e7735",
+   "title": "Chủ sở hữu GCash - Mynt thu hút hơn 20 nhà đầu tư nền tảng cho thương vụ IPO có thể lớn nhất Philippines",
+   "translated": true,
+   "original_title": "GCash owner Mynt secures over 20 cornerstone investors for potentially biggest Philippine IPO",
+   "link": "https://www.reuters.com/world/asia-pacific/gcash-owner-mynt-secures-over-20-cornerstone-investors-potentially-biggest-2026-09-23/"
+  },
+  {
+   "ref": "reuters:1aa827bf53",
+   "title": "Các lãnh đạo AI cảnh báo Liên Hợp Quốc về rủi ro an ninh khi hệ thống ngày càng mạnh",
+   "translated": true,
+   "original_title": "AI leaders warn UN of security risks as systems grow more powerful",
+   "link": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/"
+  },
+  {
+   "ref": "reuters:6edea3a9ef",
+   "title": "Barry Diller rút lại đề nghị mua lại MGM Resorts",
+   "translated": true,
+   "original_title": "Barry Diller's People withdraws bid for MGM Resorts",
+   "link": "https://www.reuters.com/business/barry-diller-withdraws-bid-mgm-resorts-wsj-reports-2026-09-23/"
+  },
+  {
+   "ref": "reuters:1471468edb",
+   "title": "Ngân hàng Anh thực hiện giao dịch liên ngân hàng đầu tiên bằng tiền gửi token hóa",
+   "translated": true,
+   "original_title": "UK banks make first interbank transactions using tokenised deposits",
+   "link": "https://www.reuters.com/business/finance/uk-banks-make-first-interbank-transactions-using-tokenised-deposits-2026-09-23/"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:98dbc1c7e9",
+   "title": "Canada có thể trở thành “thành viên liên kết” đầu tiên của EU",
+   "translated": false,
+   "original_title": "Canada có thể trở thành “thành viên liên kết” đầu tiên của EU",
+   "link": "https://bbw.vn/canada-co-the-tro-thanh-thanh-vien-lien-ket-dau-tien-cua-eu-60477.html"
+  }
+ ],
+ "content_sha": "8889b637dd8160aa97cb35f1def96293e27a6fa5121f7ec53e927d4af32cde9a"
+}
