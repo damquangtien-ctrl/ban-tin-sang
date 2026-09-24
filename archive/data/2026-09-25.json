@@ -1,0 +1,666 @@
+{
+ "date": "2026-09-25",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VN-Index",
+   "text": "VN-Index giảm 26,56 điểm (-1,47%) về 1.775,09 điểm trong phiên 24/9, khối ngoại bán ròng hơn 900 tỷ đồng, tập trung xả VHM, VIC, VPB."
+  },
+  {
+   "source": "Reuters",
+   "text": "Chủ tịch Trung Quốc Tập Cận Bình gặp Tổng thống Trump tại Washington, hai nước nhất trí gia hạn thỏa thuận đình chiến thương mại."
+  },
+  {
+   "source": "Reuters",
+   "text": "Giá dầu WTI và Brent tăng vọt 2-3% do căng thẳng Iran, đẩy lợi suất trái phiếu Mỹ kỳ hạn 30 năm lên mức cao nhất hai thập kỷ."
+  },
+  {
+   "source": "Reuters",
+   "text": "Akamai ký hợp đồng điện toán đám mây trị giá 11,6 tỷ USD với Anthropic, đồng thời nhận quyền mua tới 5% cổ phần công ty AI này."
+  },
+  {
+   "source": "Thị trường trong nước",
+   "text": "Vàng SJC giảm 500.000 đồng/lượng còn 144,4 triệu đồng/lượng; tỷ giá USD/VND tại Vietcombank cũng giảm 20 đồng cả hai chiều."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:2354bcaff7",
+     "title": "Một công ty bị xử phạt vì để nhân viên chưa có chứng chỉ hành nghề mở tài khoản giao dịch chứng khoán cho khách hàng"
+    },
+    {
+     "ref": "cafef:1f458fb28e",
+     "title": "Vì sao Chứng khoán Smartmind bị xử phạt?"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:7e07f7010c",
+     "title": "VTG: Chứng khoán VTG bị phạt 187.5 triệu đồng do không tách biệt tài sản khách hàng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:b39cf76c3b",
+     "title": "Cơ quan Thuế thông báo: 40 cá nhân có tên trong danh sách sau đây bị tạm hoãn xuất cảnh"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:f78a337515",
+     "title": "Chuyển lậu 520 triệu USD sang Trung Quốc bằng giấy tờ giả"
+    },
+    {
+     "ref": "vnexpress:b405e4025d",
+     "title": "Tổng giám đốc GFDI cùng 4 người lĩnh án chung thân"
+    },
+    {
+     "ref": "vnexpress:c2d23375e7",
+     "title": "Sếp CIPCO trong vụ 'tặng 40.000 USD cho lãnh đạo Cần Thơ' được giảm án"
+    },
+    {
+     "ref": "vnexpress:72d1aad3b7",
+     "title": "Cựu chi cục trưởng nhận tiền của công ty sữa giả: 'Tôi đâu có đòi'"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:2708c01996",
+     "title": "Hải Phòng khởi tố đối tượng mua bán 114 tài khoản ngân hàng"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-26,56 điểm (-1,47%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.775,09 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": "HNX >570 tỷ, UPCoM >1.200 tỷ",
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "Hơn 16.600 tỷ đồng"
+   },
+   {
+    "change": "Tập trung bán VHM, VIC, VPB",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng hơn 900 tỷ đồng"
+   },
+   {
+    "change": "-500.000 đồng/lượng",
+    "direction": "down",
+    "label": "Vàng SJC",
+    "value": "144,4 triệu đồng/lượng"
+   },
+   {
+    "change": "-20 đồng",
+    "direction": "down",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.180 đồng/USD"
+   }
+  ],
+  "summary": "Thị trường Mỹ đêm qua diễn biến giằng co, S&P 500 giảm nhẹ 0,02% và Dow Jones giảm 0,31% trong khi Nasdaq gần như đi ngang, phản ánh tâm lý thận trọng trước căng thẳng Mỹ - Iran. Giá dầu WTI và Brent bật tăng mạnh lần lượt 2,06% và 3,09% do lo ngại nguồn cung Trung Đông, trong khi vàng thế giới giảm nhẹ 0,24% và chỉ số USD (DXY) nhích 0,15%. Tại thị trường trong nước, VN-Index phiên 24/9 giảm mạnh 26,56 điểm (-1,47%) xuống 1.775,09 điểm với 228 mã giảm áp đảo 81 mã tăng, khối ngoại bán ròng hơn 900 tỷ đồng, tập trung xả VHM, VIC, VPB; giá vàng SJC và tỷ giá USD/VND tại Vietcombank sáng nay cũng đồng loạt điều chỉnh giảm nhẹ.",
+  "tiles": [
+   {
+    "change_pct": -0.02,
+    "label": "S&P 500",
+    "value": "7.704,1"
+   },
+   {
+    "change_pct": -0.31,
+    "label": "Dow Jones",
+    "value": "51.350,0"
+   },
+   {
+    "change_pct": 0.01,
+    "label": "Nasdaq",
+    "value": "26.939,4"
+   },
+   {
+    "change_pct": 2.06,
+    "label": "Dầu WTI",
+    "value": "94,1 USD"
+   },
+   {
+    "change_pct": 3.09,
+    "label": "Dầu Brent",
+    "value": "106,3 USD"
+   },
+   {
+    "change_pct": -0.24,
+    "label": "Vàng thế giới",
+    "value": "4.308 USD"
+   },
+   {
+    "change_pct": 0.06,
+    "label": "Bitcoin",
+    "value": "84.436 USD"
+   },
+   {
+    "change_pct": 0.15,
+    "label": "DXY",
+    "value": "101,25"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:cbb3a289e7",
+     "title": "Một Phó Tổng Giám đốc ngân hàng nhầm lệnh mua bán cổ phiếu"
+    },
+    {
+     "ref": "cafef:6495f90e8a",
+     "title": "Việt Nam sắp có thêm một \"đại công trình\" thép gần 80.000 tỷ đồng: Diện tích lớn hơn cả Hòa Phát Dung Quất 2"
+    },
+    {
+     "ref": "cafef:41f5731038",
+     "title": "Khối ngoại bán thẳng tay 2.600 tỷ đồng ngay sau nâng hạng, điều gì đang diễn ra?"
+    },
+    {
+     "ref": "cafef:ca50b64130",
+     "title": "Nhóm công nghệ áp đảo top 10 công ty vốn hóa lớn nhất thế giới, không có bóng dáng ngân hàng, bất động sản"
+    },
+    {
+     "ref": "cafef:c70e454a4b",
+     "title": "Lọc hóa dầu Việt Nam đạt thoả thuận mua dầu thô từ ExxonMobil của Mỹ"
+    },
+    {
+     "ref": "cafef:9265f682b5",
+     "title": "Quỹ nắm những \"viên kim cương\" của chứng khoán Việt Nam bất ngờ bị rút vốn liên tiếp sau nâng hạng"
+    },
+    {
+     "ref": "cafef:d642928ac5",
+     "title": "Một Thành viên HĐQT độc lập của Đầu tư MST xin từ nhiệm"
+    },
+    {
+     "ref": "cafef:70497914fb",
+     "title": "Nhà cung ứng nguyên liệu đầu vào quan trọng cho Samsung Việt Nam công bố kế hoạch mới"
+    },
+    {
+     "ref": "cafef:2ca74b0533",
+     "title": "NVL: Một tổ chức muốn bán 2,5 triệu cổ phiếu Novaland"
+    },
+    {
+     "ref": "cafef:4a3194bbf9",
+     "title": "Chứng khoán Việt Nam \"bốc hơi\" gần 200.000 tỷ vốn hóa từ khi lên thị trường mới nổi"
+    },
+    {
+     "ref": "cafef:11d8bc45d7",
+     "title": "TMT: Làm ô điện giá chỉ từ 123 triệu đồng, tiềm lực của TMT Group mạnh cỡ nào?"
+    },
+    {
+     "ref": "cafef:28cbddc7fb",
+     "title": "Ông Đỗ Quang Vinh bất ngờ rời HĐQT Vietravel Airlines"
+    },
+    {
+     "ref": "cafef:145ad5e1ca",
+     "title": "KSB: Được cho phép chuyển mục đích sử dụng hơn 5ha đất để thực hiện dự án"
+    },
+    {
+     "ref": "cafef:bb98f8dffb",
+     "title": "Công ty đầu tiên hé lộ kết quả kinh doanh 9 tháng đầu năm"
+    },
+    {
+     "ref": "cafef:a8131a794b",
+     "title": "VAF: Chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 10% (Phân lân Văn Điển)"
+    },
+    {
+     "ref": "cafef:68b9031afe",
+     "title": "PVT Logistics chi trả cổ tức năm 2025 bằng tiền mặt tỷ lệ 6%"
+    },
+    {
+     "ref": "cafef:7ae3232889",
+     "title": "Các quỹ ETF toàn cầu âm thầm gom gần 200 tấn vàng từ đầu tháng 7, chuyện gì đang xảy ra?"
+    },
+    {
+     "ref": "cafef:f986c427b2",
+     "title": "VJC: Tỷ phú Nguyễn Thị Phương Thảo \"bắt tay\" Elon Musk đưa internet lên bầu trời"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:f7037871f4",
+     "title": "Dự kiến miễn, giảm, gia hạn gần 345 ngàn tỷ đồng thuế, phí"
+    },
+    {
+     "ref": "vietstock:03feb1bfe0",
+     "title": "Góc nhìn 25/09: Thận trọng hay giải ngân?"
+    },
+    {
+     "ref": "vietstock:ec0075039d",
+     "title": "\"Lão làng\" gần 70 năm tuổi ngành may dừng sản xuất để làm bất động sản, thay tên, đổi chủ sau đợt tăng vốn khủng"
+    },
+    {
+     "ref": "vietstock:396d635644",
+     "title": "PDV chốt ngày trả cổ tức bằng tiền tỷ lệ 6%, muốn tăng vốn điều lệ lên 1,363 tỷ"
+    },
+    {
+     "ref": "vietstock:256188865a",
+     "title": "AST: Hai thành viên HĐQT Taseco Airs xin từ nhiệm ngay sau khi Sojitz nắm gần 28% vốn"
+    },
+    {
+     "ref": "vietstock:c2a9d1ad0c",
+     "title": "BVB: BVBank dừng kế hoạch phát hành trái phiếu cũ, chốt phương án huy động 1.300 tỷ đồng trái phiếu năm 2026"
+    },
+    {
+     "ref": "vietstock:acf61167ca",
+     "title": "VHF: Cổ phiếu lao dốc 89%, vẫn chi hơn 6 tỷ trả cổ tức tiền mặt"
+    },
+    {
+     "ref": "vietstock:b1cf08e36c",
+     "title": "Khách VIP, cổ đông lớn, lãnh đạo ngân hàng được đưa vào dữ liệu giám sát chống rửa tiền"
+    },
+    {
+     "ref": "vietstock:a9602b1aa3",
+     "title": "ITC: TPHCM cho thuê gần 30ha đất làm Cảng tổng hợp quốc tế SP-ITC"
+    },
+    {
+     "ref": "vietstock:6a6cab6c9a",
+     "title": "TLG: Tập đoàn Thiên Long được vinh danh về hoạt động quan hệ nhà đầu tư, cổ phiếu được chọn vào FTSE Global Equity Index Series"
+    },
+    {
+     "ref": "vietstock:508341c2f0",
+     "title": "LHG muốn vay 760 tỷ cho khu dân cư giáp KCN Long Hậu"
+    },
+    {
+     "ref": "vietstock:f955b4c58d",
+     "title": "Khi tỷ giá trở thành một phần bài toán lợi nhuận của doanh nghiệp xuất nhập khẩu"
+    },
+    {
+     "ref": "vietstock:80013e25df",
+     "title": "ACB: Từ Việt Nam đến New York - Chủ tịch Trần Hùng Huy nói gì về chiến lược trong một thế giới liên tục thay đổi?"
+    },
+    {
+     "ref": "vietstock:60aa679fbe",
+     "title": "VADFCO chuẩn bị nâng vốn lên 414 tỷ sau khi chuyển sang UPCoM"
+    },
+    {
+     "ref": "vietstock:8ad0903cc7",
+     "title": "TV1 chuẩn bị chi hơn 40 tỷ trả cổ tức, EVN dự kiến nhận gần 22 tỷ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:c524b2bba5",
+     "title": "Thủng mốc 1800 điểm sau nâng hạng chính thức, các công ty chứng khoán nhận định gì?"
+    },
+    {
+     "ref": "vneconomy:d157d60e29",
+     "title": "Nâng hạng thị trường, nâng chuẩn doanh nghiệp niêm yết"
+    },
+    {
+     "ref": "vneconomy:3bd580568e",
+     "title": "Blog chứng khoán: Gãy trend ngắn hạn?"
+    },
+    {
+     "ref": "vneconomy:8c1fed2f2f",
+     "title": "Khủng hoảng thiếu dầu diesel: Bộ trưởng Năng lượng Mỹ phản đối ý tưởng cấm xuất khẩu"
+    },
+    {
+     "ref": "vneconomy:418c49031b",
+     "title": "VN-Index giảm mạnh nhất 9 phiên, loạt cổ phiếu trụ tác động lớn"
+    },
+    {
+     "ref": "vneconomy:423adee18c",
+     "title": "Các quan chức Fed tiếp tục kêu gọi tăng lãi suất"
+    },
+    {
+     "ref": "vneconomy:474db22492",
+     "title": "DCM: PVCFC thông qua các quyết sách quan trọng tại Đại hội Cổ đông bất thường 2026"
+    },
+    {
+     "ref": "vneconomy:18bfb1daba",
+     "title": "Ông Trump bán đi hàng chục triệu USD cổ phiếu công nghệ Mỹ chỉ trong một tháng"
+    },
+    {
+     "ref": "vneconomy:fc81cfb60b",
+     "title": "OECD nâng dự báo tăng trưởng kinh tế toàn cầu nhưng lo ngại về lợi suất trái phiếu tăng cao"
+    },
+    {
+     "ref": "vneconomy:30004b08e9",
+     "title": "Nhu cầu vay margin cá nhân thấp, rủi ro khi công ty chứng khoán tập trung tín dụng ở vài khách hàng lớn"
+    },
+    {
+     "ref": "vneconomy:0697ef9d9b",
+     "title": "Chủ tịch Trung Quốc Tập Cận Bình tới Mỹ, hai nước gia hạn thỏa thuận đình chiến thương mại"
+    },
+    {
+     "ref": "vneconomy:6837a9ab4b",
+     "title": "Đồng nhân dân tệ tăng giá chậm giữa căng thẳng thương mại với Mỹ và châu Âu"
+    },
+    {
+     "ref": "vneconomy:fc07cfa4c3",
+     "title": "Nhà đầu tư tổ chức nước ngoài đẩy mạnh giao dịch chứng khoán trong tháng 8"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1c6b842b9d",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 25/9: Rủi ro tiếp tục điều chỉnh đang gia tăng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:38f83e71d4",
+     "title": "Nâng chất thị trường trái phiếu để mở dòng vốn dài hạn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:18a7bd7ddc",
+     "title": "GEX: GELEX đã bán toàn bộ hơn 9,7 triệu cổ phiếu HAH"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:68686aa2af",
+     "title": "SBT: Chủ tịch AgriS tại Techcombank Wealth - Thừa kế tài sản không đồng nghĩa với kế thừa di sản"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:241e33178f",
+     "title": "Rau quả xuất khẩu gần 1,4 tỷ USD trong tháng 8, dự báo tháng 9, 10 vẫn khả quan"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cc17cfabb3",
+     "title": "PGV: Gần 90 triệu cổ phiếu phát hành thêm sắp được giao dịch"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b22a3fe8a0",
+     "title": "\"Soi\" giá trị xuất khẩu tăng thêm tại loạt thị trường chủ lực"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:29c0292cd5",
+     "title": "Chạy đua giải ngân vốn đầu tư công"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:dbd27ad7c6",
+     "title": "Thêm cách phân loại tín dụng địa ốc"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c4d1adec75",
+     "title": "CTG: VietinBank tiếp tục đăng ký bán toàn bộ 19,3 triệu cổ phiếu Cảng Sài Gòn (SGP)"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:74cc637379",
+     "title": "Các Khu chế xuất, khu công nghiệp TP.HCM thu hút 5,57 tỷ USD, vượt 31% kế hoạch năm"
+    },
+    {
+     "ref": "b-o-u-t:4c8670d6d3",
+     "title": "Hơn 1,2 tỷ USD đăng ký đầu tư vào Khu Công nghệ cao TP.HCM trong 9 tháng 2026"
+    },
+    {
+     "ref": "b-o-u-t:c762743109",
+     "title": "Doanh nghiệp Việt khánh thành nhà máy liên doanh lắp ráp UAV tại Mỹ"
+    },
+    {
+     "ref": "b-o-u-t:b0e03f040e",
+     "title": "Dự án Nhà máy điện gió Chơ Long được tháo gỡ, vận hành phát điện thương mại"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:263c334766",
+     "title": "VIB: Ngân hàng Quốc tế Việt Nam \"hút\" thêm 3.000 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "markettimes:989c7888f5",
+     "title": "CC1: Nâng vốn lên gần 5.000 tỷ đồng sau hai đợt phát hành cổ phiếu"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:63a11fd096",
+     "title": "PAP: Cảng Phước An - Doanh thu tăng 754% vẫn lỗ, kế hoạch 5 năm dự kiến lỗ 5.431 tỷ đồng"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:dfa33cf8d8",
+     "title": "Nhà đầu tư vàng, chứng khoán đi 'tàu lượn', vì sao bất động sản hút dòng tiền?"
+    },
+    {
+     "ref": "ti-n-phong:334e7074ce",
+     "title": "Hoàn thuế kéo dài, Cục Thuế yêu cầu phải trả lời rõ với doanh nghiệp"
+    },
+    {
+     "ref": "ti-n-phong:70967f0bf6",
+     "title": "Rà soát việc giải ngân vốn 'siêu dự án' đường sắt tốc độ cao"
+    },
+    {
+     "ref": "ti-n-phong:8fb8fc9ef5",
+     "title": "Rà soát toàn bộ hệ thống kiểm soát, kiểm toán ngân hàng"
+    },
+    {
+     "ref": "ti-n-phong:549d05c272",
+     "title": "Chuyến tàu đầu tiên qua 'kênh đào thế kỷ' Trung Quốc về Cần Thơ"
+    },
+    {
+     "ref": "ti-n-phong:407477cb1e",
+     "title": "Nghịch lý doanh nghiệp đã 'tắt thở' phải làm thủ tục 'sống lại'"
+    },
+    {
+     "ref": "ti-n-phong:651b66d468",
+     "title": "PGB: PGBank chào bán thêm cổ phiếu ra công chúng cho cổ đông hiện hữu"
+    },
+    {
+     "ref": "ti-n-phong:7789f25d93",
+     "title": "'Cha đẻ' người Việt chi 2.300 tỷ mua lại cổ phần Highlands Coffee"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:e0751f8ca3",
+     "title": "Tách tín dụng du lịch khỏi \"room\" bất động sản, ngân hàng thêm dư địa cho vay cuối năm"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:847d92ffe8",
+     "title": "SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Vũ Đình Khoán"
+    },
+    {
+     "ref": "hose:68101acd7f",
+     "title": "ICT: Nghị quyết HĐQT về việc thông qua chủ trương chấp thuận các hợp đồng, giao dịch giữa CTIN và các bên có liên quan năm 2026"
+    },
+    {
+     "ref": "hose:69c66e66dd",
+     "title": "TRC: Báo cáo kết quả đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu"
+    },
+    {
+     "ref": "hose:dc96ab822d",
+     "title": "CDC: Báo cáo về ngày không còn là cổ đông lớn Bùi Tuấn Khanh"
+    },
+    {
+     "ref": "hose:4391c0b067",
+     "title": "GDT: Báo cáo kết quả giao dịch mua lại cổ phiếu"
+    },
+    {
+     "ref": "hose:e34e1686ee",
+     "title": "BWE: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả chào bán thêm cổ phiếu ra công chúng của BWE"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:5f074c466b",
+   "title": "Tổng thống Iran: Mỹ mới là bên phải quyết định có muốn chấm dứt chiến tranh hay không",
+   "translated": true,
+   "original_title": "Iran's president says it is up to US to choose if it wants to end Iran war",
+   "link": "https://www.reuters.com/world/middle-east/irans-president-says-it-is-up-us-choose-if-it-wants-end-iran-war-2026-09-24/"
+  },
+  {
+   "ref": "reuters:86f2b16b37",
+   "title": "Oracle, Blue Owl trì hoãn dự án trung tâm dữ liệu, gây xáo trộn tài chính ngành AI",
+   "translated": true,
+   "original_title": "Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
+   "link": "https://www.reuters.com/business/energy/oracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-2026-09-24/"
+  },
+  {
+   "ref": "reuters:cb53148fcd",
+   "title": "Anthropic tìm cách giành 50,1% quyền biểu quyết cho các nhà đồng sáng lập trước thềm IPO",
+   "translated": true,
+   "original_title": "Anthropic seeks 50.1% voting control for co-founders ahead of IPO, The Information reports",
+   "link": "https://www.reuters.com/legal/legalindustry/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo-2026-09-24/"
+  },
+  {
+   "ref": "reuters:243dbac436",
+   "title": "Giá dầu tăng vọt đẩy lợi suất trái phiếu Mỹ kỳ hạn 30 năm lên mức cao nhất hai thập kỷ",
+   "translated": true,
+   "original_title": "Oil jump sends 30-year yields to two-decade high",
+   "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-24/"
+  },
+  {
+   "ref": "reuters:67f277f3b9",
+   "title": "S&P 500 giảm nhẹ khi nhà đầu tư tập trung chú ý vào chiến sự Mỹ - Iran",
+   "translated": true,
+   "original_title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
+   "link": "https://www.reuters.com/business/wall-st-futures-fall-middle-east-uncertainties-ahead-trump-xi-talks-2026-09-24/"
+  },
+  {
+   "ref": "reuters:9da2bd6241",
+   "title": "5 điểm đáng chú ý từ cuộc gặp thượng đỉnh Trump - Tập Cận Bình tại Washington",
+   "translated": true,
+   "original_title": "Five takeaways from Trump's summit with Xi in Washington",
+   "link": "https://www.reuters.com/world/china/four-takeaways-trumps-summit-with-xi-washington-2026-09-24/"
+  },
+  {
+   "ref": "reuters:5014fc48d6",
+   "title": "Ông Trump, Chủ tịch Hạ viện Mỹ và các CEO công nghệ sẽ họp bàn về AI vào ngày 29/9",
+   "translated": true,
+   "original_title": "Trump, US House speaker and tech CEOs to meet on AI on September 29, source says",
+   "link": "https://www.reuters.com/world/us/trump-us-house-speaker-tech-ceos-meet-ai-september-29-source-says-2026-09-24/"
+  },
+  {
+   "ref": "reuters:dac807fa9a",
+   "title": "Bên cạnh các cuộc chiến nổi bật, một cuộc chiến giành tài nguyên đang diễn ra trên toàn cầu",
+   "translated": true,
+   "original_title": "Beyond high-profile wars, a worldwide battle for resources",
+   "link": "https://www.reuters.com/markets/commodities/beyond-high-profile-wars-a-worldwide-battle-resources-2026-09-24/"
+  },
+  {
+   "ref": "reuters:9fb67af23f",
+   "title": "OpenAI sắp ra mắt bản xem trước mô hình GPT-6 Cyber trong vài ngày tới",
+   "translated": true,
+   "original_title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports",
+   "link": "https://www.reuters.com/technology/openai-preview-gpt-6-cyber-within-days-fortune-reports-2026-09-24/"
+  },
+  {
+   "ref": "reuters:5779472d3b",
+   "title": "Costco vượt dự báo doanh thu nhờ giá xăng chiết khấu và ưu đãi mua sỉ hút khách giữa lạm phát",
+   "translated": true,
+   "original_title": "Costco tops estimates as discount gas, bulk deals draw inflation-weary shoppers",
+   "link": "https://www.reuters.com/business/retail-consumer/costco-beats-quarterly-sales-estimates-resilient-demand-essentials-2026-09-24/"
+  },
+  {
+   "ref": "reuters:d82657f83d",
+   "title": "Akamai ký hợp đồng điện toán đám mây 11,6 tỷ USD với Anthropic, nhận quyền mua tới 5% cổ phần",
+   "translated": true,
+   "original_title": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake",
+   "link": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/"
+  },
+  {
+   "ref": "reuters:64507faa1f",
+   "title": "Đà tăng của đồng USD cho thấy Bộ Tài chính Mỹ dưới thời Trump đang ở thế bất lợi",
+   "translated": true,
+   "original_title": "Dollar rally tells Trump Treasury that the ‘house’ is losing",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/dollar-rally-tells-trump-treasury-that-house-is-losing-mcgeever-2026-09-24/"
+  },
+  {
+   "ref": "reuters:ea1b421b06",
+   "title": "Insurance Australia Group dàn xếp vụ kiện 2 tỷ USD với Credit Suisse liên quan vụ sụp đổ Greensill",
+   "translated": true,
+   "original_title": "Insurance Australia Group settles $2 billion Credit Suisse lawsuit over Greensill collapse",
+   "link": "https://www.reuters.com/legal/transactional/insurance-australia-group-settles-2-billion-credit-suisse-lawsuit-over-greensill-2026-09-24/"
+  },
+  {
+   "ref": "reuters:fcce395768",
+   "title": "Tesla chuẩn bị ra mắt chính thức xe tải điện Semi tại sự kiện ở Nevada",
+   "translated": true,
+   "original_title": "Tesla set to formally roll out Semi electric trucks at Nevada event",
+   "link": "https://www.reuters.com/business/autos-transportation/tesla-set-formally-roll-out-semi-electric-trucks-nevada-event-2026-09-24/"
+  },
+  {
+   "ref": "bloomberg:c591c51b05",
+   "title": "Xuất khẩu thực phẩm Anh lao dốc khi thuế quan Mỹ đánh vào các mặt hàng như cá hồi",
+   "translated": true,
+   "original_title": "UK Food Exports Slump as US Tariffs Hit Products Like Salmon",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-24/uk-food-exports-slump-as-us-tariffs-hit-products-like-salmon"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:fef34a9b29",
+   "title": "Mỹ - Trung thảo luận AI, đầu tư trong bối cảnh đàm phán thương mại tiếp diễn",
+   "translated": false,
+   "original_title": "Mỹ - Trung thảo luận AI, đầu tư trong bối cảnh đàm phán thương mại tiếp diễn",
+   "link": "https://bbw.vn/my-trung-thao-luan-ai-dau-tu-trong-boi-canh-dam-phan-thuong-mai-tiep-dien-60506.html"
+  },
+  {
+   "ref": "tg-vnwallstreet:400154",
+   "title": "Khảo sát Reuters: Ngân hàng Dự trữ Úc dự kiến tăng lãi suất lên 4,60%, chu kỳ thắt chặt có thể sắp kết thúc",
+   "translated": false,
+   "original_title": "▫️ Khảo sát Reuters: Ngân hàng Dự trữ Úc dự kiến tăng lãi suất lên 4.60%, chu kỳ thắt chặt có thể sắp kết thúc Theo khảo sát của Reuters từ 17 đến 24 tháng 9 với 34 nhà kinh tế, tất cả trừ một người dự đoán Ngân hàng Dự trữ Úc sẽ tăng lãi suất qua đêm thêm 25 điểm cơ bản lên 4.60% vào ngày 29 tháng 9, mức cao nhất kể từ cuối năm 2011. Đây sẽ là lần tăng lãi suất thứ tư trong năm nay, với tổng mức ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:400151",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust giữ nguyên khối lượng nắm giữ ở mức 1.056,836 tấn",
+   "translated": false,
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới, SPDR Gold Trust, giữ nguyên khối lượng nắm giữ ở mức 1.056,836 tấn so với ngày giao dịch trước đó. #vàng",
+   "link": null
+  }
+ ],
+ "content_sha": "8c3fd971b0f25038b2993c8cf743abf53999650462c972198e136e52e7d47145"
+}
