@@ -1,0 +1,449 @@
+{
+ "date": "2026-09-26",
+ "dividends": [
+  {
+   "event": "Cổ tức tiền mặt năm 2025 tỷ lệ 65% (6.500 đồng/cổ phiếu)",
+   "record_date": "2026-10-06",
+   "ref": "cafef:f6b0b671ec",
+   "ticker": "NET"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "PNJ điều chỉnh kế hoạch, dự lỗ kỷ lục 6.270 tỷ đồng trong năm 2026 và quyết định không chia cổ tức."
+  },
+  {
+   "source": "Thị trường",
+   "text": "VN-Index phiên 25/9 hồi phục hơn 10 điểm lên 1.785,11 điểm nhờ nhóm Vingroup và VPBank, khối ngoại giảm mạnh bán ròng còn khoảng 254 tỷ đồng."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Reuters: Một tập đoàn tài chính lớn của Nhật Bản đang đàm phán nâng sở hữu tại VPBank lên khoảng 20%, có thể mua trên sàn."
+  },
+  {
+   "source": "Reuters",
+   "text": "Tổng thống Mỹ Trump và Chủ tịch Trung Quốc Tập Cận Bình thảo luận về chiến sự Trung Đông khi Iran thúc đẩy kế hoạch chấm dứt xung đột trong 7 ngày."
+  },
+  {
+   "source": "CafeF",
+   "text": "Tòa tuyên án chung thân với 5 bị cáo trong vụ lừa đảo hơn 2.400 tỷ đồng tại Công ty GFDI."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:68ce867db0",
+     "title": "Vụ lừa đảo hơn 2.400 tỷ đồng tại Công ty GFDI: Tuyên án chung thân đối với 5 bị cáo"
+    },
+    {
+     "ref": "cafef:8d0b502cc4",
+     "title": "Ông Lê Cao Quyền bị bắt, doanh nghiệp thay loạt nhân sự"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:fe49b29860",
+     "title": "TIE: Bị xử phạt 213 triệu đồng do vi phạm quản trị và công bố thông tin"
+    },
+    {
+     "ref": "vietstock:72822478fc",
+     "title": "Cựu nhân viên Công ty SJC lĩnh 15 năm tù vì đánh tráo vàng trong kho"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a49b5cc3b0",
+     "title": "VTG: Bị xử phạt 187,5 triệu đồng do không tách biệt tài sản của khách hàng với tài sản của công ty"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:4d1bf2d0a5",
+     "title": "Cựu Bộ trưởng Nguyễn Thị Kim Tiến xin xét xử vắng mặt do đang điều trị bệnh"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:3f0103e3a6",
+     "title": "Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến khắc phục xong 108 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:50958ae694",
+     "title": "Cựu chi cục trưởng nhận tiền của công ty sữa giả bị đề nghị 15-16 năm tù"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+10,02 (+0,56%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.785,11"
+   },
+   {
+    "change": "-0,56 (-0,21%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "272,21"
+   },
+   {
+    "change": "Phiên giảm thứ 2 liên tiếp",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "~15.300 tỷ đồng"
+   },
+   {
+    "change": "Giảm mạnh so với trước",
+    "direction": null,
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~254 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "141,4 – 144,4 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.170"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ tăng điểm phiên 25/9 nhờ lực kéo từ nhóm công nghệ và AI, với S&P 500 tăng 0,51%, Dow Jones tăng 0,93% và Nasdaq tăng 0,48%; giá dầu WTI giảm 2,29% và Brent giảm mạnh 8,56%, trong khi vàng thế giới nhích nhẹ lên 4.320 USD/ounce, Bitcoin giảm 0,38% xuống quanh 84.062 USD và chỉ số USD (DXY) giảm nhẹ 0,25%. Trong nước, VN-Index phiên 25/9 hồi phục 10,02 điểm (+0,56%) lên 1.785,11 điểm nhờ nhóm cổ phiếu họ Vingroup và VPBank, trong khi HNX-Index giảm 0,21% xuống 272,21 điểm; thanh khoản HOSE đạt khoảng 15.300 tỷ đồng, phiên suy giảm thứ hai liên tiếp, còn khối ngoại bán ròng khoảng 254 tỷ đồng, giảm mạnh so với các phiên trước. Tỷ giá USD/VND tại Vietcombank niêm yết bán ra 26.170 đồng, vàng SJC giao dịch quanh 141,4 - 144,4 triệu đồng/lượng.",
+  "tiles": [
+   {
+    "change_pct": 0.51,
+    "label": "S&P 500",
+    "value": "7.743,4"
+   },
+   {
+    "change_pct": 0.93,
+    "label": "Dow Jones",
+    "value": "51.828,6"
+   },
+   {
+    "change_pct": 0.48,
+    "label": "Nasdaq",
+    "value": "27.068,7"
+   },
+   {
+    "change_pct": -2.29,
+    "label": "Dầu WTI",
+    "value": "92,4 USD"
+   },
+   {
+    "change_pct": -8.56,
+    "label": "Dầu Brent",
+    "value": "97,5 USD"
+   },
+   {
+    "change_pct": 0.52,
+    "label": "Vàng thế giới",
+    "value": "4.320 USD"
+   },
+   {
+    "change_pct": -0.38,
+    "label": "Bitcoin",
+    "value": "84.062 USD"
+   },
+   {
+    "change_pct": -0.25,
+    "label": "DXY",
+    "value": "101,03"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:5abad98225",
+     "title": "Lý do EVN TPHCM muốn áp giá kinh doanh với điện cung cấp cho data center của Viettel, CMC"
+    },
+    {
+     "ref": "cafef:2da6e948ef",
+     "title": "Chủ chuỗi bệnh viện tư lớn nhất Việt Nam: Do người Singapore sở hữu, lãi ròng 2.300 tỷ đồng trong 4 năm"
+    },
+    {
+     "ref": "cafef:24cf04edeb",
+     "title": "CTCK dự báo KQKD quý 3 nhóm bất động sản khu công nghiệp, một \"gã khổng lồ\" có thể báo lãi tăng 337%"
+    },
+    {
+     "ref": "cafef:50528a82c4",
+     "title": "BSR: Trao thỏa thuận khung mua dầu thô với ExxonMobil Châu Á - Thái Bình Dương"
+    },
+    {
+     "ref": "cafef:49036d9111",
+     "title": "PNJ: Trình kế hoạch lỗ kỷ lục, em trai bà Cao Thị Ngọc Dung đăng ký bán 9 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:af1d04d356",
+     "title": "PNJ: Điều chỉnh kế hoạch, dự lỗ kỷ lục 6.270 tỷ đồng, không chia cổ tức năm 2026"
+    },
+    {
+     "ref": "cafef:2b8f3ea782",
+     "title": "Ông Trần Quí Thanh sắp rót 920 tỷ đồng đầu tư vào công ty chứng khoán top đầu thị trường"
+    },
+    {
+     "ref": "cafef:982aff076e",
+     "title": "VDS: Chứng khoán Rồng Việt sắp phát hành hơn 27 triệu cổ phiếu trả cổ tức"
+    },
+    {
+     "ref": "cafef:fc31afbac6",
+     "title": "MWG: Ông Đoàn Văn Hiểu Em bán ra 1 triệu cổ phiếu MWG"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:cba11445fe",
+     "title": "Giao dịch QR của khách Thái, Lào, Campuchia tăng gấp 8 lần"
+    },
+    {
+     "ref": "vietstock:dd70a66047",
+     "title": "NAB: Nam A Bank nhận khoản tài trợ 60 triệu USD từ FMO, tiếp tục mở rộng dòng vốn xanh quốc tế"
+    },
+    {
+     "ref": "vietstock:b52fc46db6",
+     "title": "DTR: Cổ phiếu Đông Tây Land giao dịch ra sao trong ngày đầu tiên trên UPCoM?"
+    },
+    {
+     "ref": "vietstock:f793fcfb9f",
+     "title": "F88: Tận dụng đà lợi nhuận tăng cao, F88 chốt chuyển sàn HOSE ngay cuối năm nay"
+    },
+    {
+     "ref": "vietstock:13eb2e409d",
+     "title": "Agribank lên kế hoạch phát hành 15.000 tỷ đồng trái phiếu ra công chúng tăng vốn cấp 2 năm 2026"
+    },
+    {
+     "ref": "vietstock:d6d2f0e558",
+     "title": "Biến tại Highlands Coffee: CEO David Thái chi gần 2.300 tỷ đồng giành lại quyền kiểm soát từ Jollibee"
+    },
+    {
+     "ref": "vietstock:1d1740f90e",
+     "title": "GEX: GELEX bán toàn bộ cổ phiếu Hải An (HAH) sau một tháng làm cổ đông lớn"
+    },
+    {
+     "ref": "vietstock:a4167988ef",
+     "title": "PNP: Tân Cảng - Phú Hữu chốt chi cổ tức 1.600 đồng/cổ phiếu"
+    },
+    {
+     "ref": "vietstock:5c4b340ee3",
+     "title": "CSM: Sắp tổ chức ĐHĐCĐ bất thường năm 2026, bị HOSE nhắc nhở chậm công bố thông tin"
+    },
+    {
+     "ref": "vietstock:54b908a930",
+     "title": "Chính phủ ban hành Nghị định mới về kinh doanh xuất khẩu gạo"
+    },
+    {
+     "ref": "vietstock:a6913d564f",
+     "title": "VPB: Reuters - Ông lớn Nhật Bản đàm phán nâng sở hữu tại VPBank lên khoảng 20%, có thể mua trên sàn"
+    },
+    {
+     "ref": "vietstock:ae7ea073e4",
+     "title": "BWE: Trước đợt thưởng cổ phiếu khủng 162,5%, Biwase muốn nâng sở hữu tại NNT lên 37%"
+    },
+    {
+     "ref": "vietstock:e6605aef17",
+     "title": "Sắp có thay đổi khi xét duyệt khoản vay ngân hàng"
+    },
+    {
+     "ref": "vietstock:f14cb152c3",
+     "title": "GDA: Tôn Đông Á chốt ngày chi 149 tỷ đồng trả cổ tức"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:54813288d7",
+     "title": "Làn sóng bán tháo trái phiếu chính phủ toàn cầu chưa dừng lại"
+    },
+    {
+     "ref": "vneconomy:0e5ed2bc98",
+     "title": "14 công ty chứng khoán có nguy cơ không hoàn thành kế hoạch lợi nhuận 2026"
+    },
+    {
+     "ref": "vneconomy:d14e437f1b",
+     "title": "Cổ phiếu đầu tư công đã hấp dẫn, sóng ngành sẽ \"bùng nổ\" theo tốc độ giải ngân vào cuối năm?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6fe51bbff2",
+     "title": "PNJ: Dự kiến trích lập khoản dự phòng 7.071 tỷ đồng cho chính sách thu đổi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:aac47c428d",
+     "title": "Thị trường tài chính 24h: Ngân hàng đang kéo mạnh nguồn cung trái phiếu doanh nghiệp"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c1dc801012",
+     "title": "Cushman & Wakefield thực hiện nghiên cứu khả thi cho siêu dự án Stavian Digital Park 300ha tại TP.HCM"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:59397352ab",
+     "title": "NVL: Doanh nghiệp liên quan đến Chủ tịch HĐQT đăng ký bán 2,7 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a9debc08a9",
+     "title": "BVB: BVBank chào bán 320 triệu cổ phiếu cho cổ đông, tăng vốn lên gần 10.000 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8cd3c2c13b",
+     "title": "PET: VietinBank Capital \"chốt lời\" 7,25 triệu cổ phiếu Petrosetco"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a199462611",
+     "title": "Ngân hàng phải phân loại rủi ro rửa tiền với doanh nghiệp kinh doanh bất động sản, đá quý, sòng bạc..."
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:695b8d7b72",
+     "title": "POW: Nhiệt điện quý III tăng tốc, POW, NT2, QTP hưởng lợi ra sao?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a4f9ef5164",
+     "title": "Xuất khẩu tôm đạt 3,3 tỷ USD trong 8 tháng, tăng 12% so với cùng kỳ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:67122dec6c",
+     "title": "Việt Nam là đối tác thương mại lớn nhất của Canada tại ASEAN"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fa673d5e63",
+     "title": "ELC: ELCOM và những hợp đồng nghìn tỷ - Kết quả của một quá trình chuẩn bị nhiều năm"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:4cd098f847",
+     "title": "Hải Phòng thông qua 15 nghị quyết, quyết định đầu tư tuyến Đông - Tây hơn 22.669 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:9720a15540",
+     "title": "AMATA City Phú Thọ bổ sung 1.443,8 tỷ đồng vốn tín dụng cho giai đoạn 1"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:603a672ea3",
+     "title": "1/5 bao bì mềm tại Việt Nam không qua được \"mắt thần\" tái chế châu Âu"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:325397078f",
+     "title": "Hải quan Khu vực I thu gần 32.000 tỷ đồng trong 8 tháng"
+    },
+    {
+     "ref": "ti-n-phong:0a3af51284",
+     "title": "Kết nối dữ liệu, mở \"hồ sơ 360 độ\" về người nộp thuế"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:dd9992d3eb",
+     "title": "HOSE: Thông báo về việc nhận hồ sơ đăng ký niêm yết của Công ty Cổ phần Đông Sơn Holdings"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:abbf7ceb10",
+   "title": "Trump và Tập Cận Bình thảo luận về chiến sự Trung Đông khi Iran thúc đẩy kế hoạch chấm dứt xung đột trong 7 ngày",
+   "translated": true,
+   "original_title": "Trump, Xi discuss Middle East war as Iran presses 7-day plan to end fighting",
+   "link": "https://www.reuters.com/world/middle-east/allies-unite-behind-saudi-arabia-houthis-step-up-attacks-2026-09-25/"
+  },
+  {
+   "ref": "reuters:eb1b4ad3de",
+   "title": "Nghị sĩ Mỹ tìm cách ngăn công nghệ trung tâm dữ liệu Trung Quốc xâm nhập hệ thống chính phủ nhạy cảm",
+   "translated": true,
+   "original_title": "US lawmakers aim to keep China's datacenter tech out of sensitive government systems",
+   "link": "https://www.reuters.com/legal/litigation/us-lawmakers-aim-keep-chinas-datacenter-tech-out-sensitive-government-systems-2026-09-25/"
+  },
+  {
+   "ref": "reuters:516be5b6e3",
+   "title": "Đồn đoán Mỹ cấm xuất khẩu dầu diesel khiến giá dầu thô Mỹ giảm sâu hơn so với chuẩn quốc tế",
+   "translated": true,
+   "original_title": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark",
+   "link": "https://www.reuters.com/business/energy/talk-us-export-ban-diesel-deepens-us-crude-futures-discount-global-benchmark-2026-09-25/"
+  },
+  {
+   "ref": "reuters:47b422f964",
+   "title": "Phố Wall tăng điểm nhờ lực đẩy từ Microsoft và nhóm cổ phiếu AI",
+   "translated": true,
+   "original_title": "POINT MARCHÉS Wall Street termine en hausse avec Microsoft et l'IA",
+   "link": "https://www.reuters.com/fr/affaires/point-marchs-wall-street-termine-en-hausse-avec-microsoft-et-lia-2026-09-25/"
+  },
+  {
+   "ref": "bloomberg:9ac8738c7a",
+   "title": "Tổng thống Brazil Lula lên kế hoạch mua lại nợ 28 tỷ USD để hỗ trợ người tiêu dùng trước bầu cử",
+   "translated": true,
+   "original_title": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote"
+  },
+  {
+   "ref": "reuters:a65ac7799c",
+   "title": "Công đoàn tại mỏ đồng Escondida của BHP ở Chile từ chối tạm dừng đàm phán hợp đồng sau tai nạn chết người",
+   "translated": true,
+   "original_title": "Union at BHP's Escondida mine in Chile refuses to pause contract talks after fatal accident",
+   "link": "https://www.reuters.com/business/world-at-work/unions-chiles-escondida-mine-reject-bid-pause-contract-talks-after-workers-death-2026-09-25/"
+  },
+  {
+   "ref": "reuters:28d0ab9a90",
+   "title": "Chủ tịch FTC đề xuất nhà phát triển AI phải chịu trách nhiệm về hành vi của AI agent",
+   "translated": true,
+   "original_title": "FTC chair suggests AI developers should be liable for conduct of agents",
+   "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/"
+  },
+  {
+   "ref": "reuters:d0be330553",
+   "title": "Thiết bị Charm của Meta mang theo tham vọng AI lớn của CEO Zuckerberg",
+   "translated": true,
+   "original_title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+   "link": "https://www.reuters.com/business/media-telecom/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-2026-09-24/"
+  }
+ ],
+ "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385"
+}
