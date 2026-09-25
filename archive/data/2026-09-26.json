@@ -445,5 +445,68 @@
    "link": "https://www.reuters.com/business/media-telecom/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-2026-09-24/"
   }
  ],
- "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385"
+ "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "25265523883a2a2f666a0cbf6c1f8b207517a5bc",
+   "published_at": "2026-09-26T06:58:33+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "267",
+   "sent_at": "2026-09-26T06:58:33+07:00",
+   "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "267",
+     "sent_at": "2026-09-26T06:58:33+07:00",
+     "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "cf239a9b6f120b4b5204",
+   "sent_at": "2026-09-26T06:58:35+07:00",
+   "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "cf239a9b6f120b4b5204",
+     "sent_at": "2026-09-26T06:58:35+07:00",
+     "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385"
+    },
+    {
+     "target_id": "8fddff299f5f",
+     "kind": "group",
+     "ok": true,
+     "message_id": "4d3c8bf27e7b1a22436d",
+     "sent_at": "2026-09-26T06:58:36+07:00",
+     "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385"
+    },
+    {
+     "target_id": "240eac12bc5e",
+     "kind": "group",
+     "ok": true,
+     "message_id": "aed88e397ab01ee947a6",
+     "sent_at": "2026-09-26T06:58:37+07:00",
+     "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385"
+    },
+    {
+     "target_id": "8b7b62566b6c",
+     "kind": "group",
+     "ok": true,
+     "message_id": "5fd0b601428826d17f9e",
+     "sent_at": "2026-09-26T06:58:38+07:00",
+     "content_sha": "bd7a3d819a3d6e04e1957087b2de90f5306177f1ccd000c98452ef6432343385"
+    }
+   ]
+  }
+ }
 }
