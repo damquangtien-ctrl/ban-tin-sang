@@ -1,0 +1,185 @@
+{
+ "date": "2026-09-27",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Trump bác đề xuất mở lại eo biển Hormuz của Iran, căng thẳng Trung Đông tiếp tục đe dọa nguồn cung dầu."
+  },
+  {
+   "source": "Reuters",
+   "text": "Mỹ - Trung nhất trí đối thoại về AI và cắt giảm thuế quan 30 tỷ USD hàng hóa sau chuyến thăm của ông Tập."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Báo cáo việc làm Mỹ tháng 9 dự kiến chỉ thêm 90.000 việc làm, tỷ lệ thất nghiệp ở mức 4,1%."
+  },
+  {
+   "source": "Market Data",
+   "text": "Dầu Brent giảm mạnh 8,59% trong khi vàng thế giới tăng 0,54%; USD/VND tại Vietcombank quanh mức 26.170 đồng."
+  },
+  {
+   "source": "VN-Index",
+   "text": "VN-Index phiên 25/9 hồi phục hơn 10 điểm lên 1.785,11 điểm, khối ngoại vẫn bán ròng khoảng 254 tỷ đồng."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+10,02 (+0,56%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.785,11 điểm"
+   },
+   {
+    "change": "-0,56 (-0,21%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "272,21 điểm"
+   },
+   {
+    "change": "giảm phiên thứ hai liên tiếp",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "~16.235 tỷ đồng"
+   },
+   {
+    "change": "giảm so với 2 phiên trước",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~254 tỷ đồng"
+   },
+   {
+    "change": "đi ngang",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "141,4 - 144,4 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.170 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đêm qua đồng loạt tăng điểm: S&P 500 +0,51%, Dow Jones +0,93%, Nasdaq +0,48%, trong khi chỉ số USD (DXY) giảm nhẹ 0,25%. Dầu Brent lao dốc 8,59% và dầu WTI giảm 2,33% giữa lúc thị trường theo dõi căng thẳng quanh eo biển Hormuz, còn vàng thế giới nhích 0,54% lên 4.321 USD/ounce; Bitcoin tăng 0,4% lên 84.375 USD. Tại thị trường trong nước, phiên gần nhất 25/9 VN-Index hồi phục hơn 10 điểm (+0,56%) lên 1.785,11 điểm nhờ lực đỡ từ nhóm Vingroup, trong khi HNX-Index giảm nhẹ 0,21% còn 272,21 điểm; khối ngoại tiếp tục bán ròng khoảng 254 tỷ đồng trên HOSE, thanh khoản giảm phiên thứ hai liên tiếp. Giá vàng SJC trong nước đi ngang quanh 141,4 - 144,4 triệu đồng/lượng, còn tỷ giá USD/VND tại Vietcombank niêm yết mua 25.790 - bán 26.170 đồng.",
+  "tiles": [
+   {
+    "change_pct": 0.51,
+    "label": "S&P 500",
+    "value": "7.743,4"
+   },
+   {
+    "change_pct": 0.93,
+    "label": "Dow Jones",
+    "value": "51.828,6"
+   },
+   {
+    "change_pct": 0.48,
+    "label": "Nasdaq",
+    "value": "27.068,7"
+   },
+   {
+    "change_pct": -2.33,
+    "label": "Dầu WTI",
+    "value": "92,4 USD"
+   },
+   {
+    "change_pct": -8.59,
+    "label": "Dầu Brent",
+    "value": "97,4 USD"
+   },
+   {
+    "change_pct": 0.54,
+    "label": "Vàng thế giới",
+    "value": "4.321 USD"
+   },
+   {
+    "change_pct": 0.4,
+    "label": "Bitcoin",
+    "value": "84.375 USD"
+   },
+   {
+    "change_pct": -0.25,
+    "label": "DXY",
+    "value": "101,03"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "bloomberg:a780feccbe",
+   "title": "Báo cáo việc làm Mỹ dự kiến chỉ thêm 90.000 việc làm, tỷ lệ thất nghiệp 4,1%",
+   "translated": true,
+   "original_title": "US Jobs Report Seen Showing 90,000 Payrolls, 4.1% Unemployment Rate",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-26/us-jobs-report-seen-showing-90-000-payrolls-4-1-unemployment-rate"
+  },
+  {
+   "ref": "bloomberg:93188fcae8",
+   "title": "Biến động thị trường trái phiếu báo hiệu rủi ro cho nhà đầu tư nợ doanh nghiệp",
+   "translated": true,
+   "original_title": "Bond Market Volatility Signals Risks for Corporate Debt Investors",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly"
+  },
+  {
+   "ref": "reuters:f7853046bd",
+   "title": "Trump bác đề xuất của Iran về mở lại eo biển Hormuz và chấm dứt xung đột",
+   "translated": true,
+   "original_title": "Trump rejects Iranian proposal to open Hormuz and end fighting",
+   "link": "https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26/"
+  },
+  {
+   "ref": "reuters:1b809c511e",
+   "title": "Mỹ sắp chốt tiêu chuẩn tiết kiệm nhiên liệu thấp hơn, chấm dứt quy định xe điện thời ông Biden",
+   "translated": true,
+   "original_title": "US to finalize sharply lower vehicle fuel economy standards",
+   "link": "https://www.reuters.com/world/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate-2026-09-26/"
+  },
+  {
+   "ref": "reuters:c526a1f700",
+   "title": "Mỹ - Trung nhất trí đối thoại về AI, cắt giảm thuế quan 30 tỷ USD hàng hóa nhân chuyến thăm của ông Tập",
+   "translated": true,
+   "original_title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+   "link": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/"
+  },
+  {
+   "ref": "reuters:8e19e42552",
+   "title": "Boeing cảnh báo lỗi phần mềm 737 MAX ảnh hưởng tính năng dẫn đường khi hạ cánh, theo WSJ",
+   "translated": true,
+   "original_title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
+   "link": "https://www.reuters.com/business/aerospace-defense/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-2026-09-26/"
+  },
+  {
+   "ref": "reuters:64b278cf11",
+   "title": "Libya mở lại đường ống dẫn dầu Sharara-Zawiya sau thời gian đóng cửa",
+   "translated": true,
+   "original_title": "Libya reopens Sharara-Zawiya pipeline after closure",
+   "link": "https://www.reuters.com/business/energy/libya-reopens-sharara-zawiya-pipeline-after-closure-2026-09-26/"
+  },
+  {
+   "ref": "reuters:7eb06db00f",
+   "title": "Trung Quốc phản bác Mỹ về vấn đề Iran và Cuba trong phát biểu tại Liên Hợp Quốc",
+   "translated": true,
+   "original_title": "China pushes back against US on Iran and Cuba in UN speech",
+   "link": "https://www.reuters.com/world/china/china-pushes-back-against-us-iran-cuba-un-speech-2026-09-26/"
+  },
+  {
+   "ref": "tg-marketfeed:1046396",
+   "title": "OpenAI và Anthropic đang điều tra hàng chục nghìn sự cố an ninh AI, phức tạp hơn nhiều so với công bố, Axios đưa tin",
+   "translated": true,
+   "original_title": "JUST IN: OPENAI & ANTHROPIC ARE INVESTIGATING TENS OF THOUSANDS OF AI SECURITY INCIDENTS, FAR MORE COMPLEX THAN PUBLICLY KNOWN, AXIOS REPORTS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1046389",
+   "title": "Lưu lượng qua eo biển Hormuz duy trì quanh 13-14 triệu thùng/ngày, riêng dòng chảy dầu từ Iran về 0",
+   "translated": true,
+   "original_title": "#OOTT STRAIT OF HORMUZ FLOWS ARE HOVERING AT ~13-14 MILLION BARRELS A DAY (7-DAY AVERAGE). THAT'S ABOUT THE SAME AS THE BRIEF PEAK IN JULY. BUT WITH TWO NOTABLE DIFFERENCE: A) IRANIAN FLOWS ARE ZERO (RATHER THAN ~2M B/D); B) ALL FLOWS ARE FRESH LOADINGS, RATHER THAN PRE-LOADED TANKERS. - JAVIER BLAS ...",
+   "link": null
+  }
+ ],
+ "content_sha": "3671d22882c45e958a19af12e26d26c8f37a176e1c3f962643e3045e3229ce7a"
+}
