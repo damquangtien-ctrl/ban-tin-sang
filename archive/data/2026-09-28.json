@@ -1,0 +1,569 @@
+{
+ "date": "2026-09-28",
+ "dividends": [
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 65%",
+   "record_date": "2026-10-06",
+   "ref": "cafef:9ccd5be1e3",
+   "ticker": "NET"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 50% (cao nhất tuần 28/9-2/10)",
+   "record_date": "2026-09-30",
+   "ref": "vietstock:6ceae8dc20",
+   "ticker": "D2D"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Trump bác bỏ đề xuất mở lại eo biển Hormuz của Iran, giá dầu bật tăng mạnh, hợp đồng tương lai chứng khoán Mỹ giảm nhẹ."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Cựu quan chức BOJ nhận định khả năng ngân hàng trung ương Nhật tăng lãi suất vào tháng 10 là có thật."
+  },
+  {
+   "source": "Reuters",
+   "text": "Trump xác nhận đã gặp CEO Anthropic Dario Amodei, tiếp tục xem nhẹ các lo ngại về rủi ro AI."
+  },
+  {
+   "source": "CafeF",
+   "text": "Chứng khoán Việt Nam mất điểm ngay tuần đầu sau khi được nâng hạng, khối ngoại đảo chiều bán ròng."
+  },
+  {
+   "source": "CafeF",
+   "text": "Vingroup (VIC) rót thêm 9.500 tỷ đồng vào dự án khu công nghiệp gần 1.000 ha tại Hà Tĩnh."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:3ef0c8debb",
+     "title": "Xuất hiện thủ đoạn giả mạo công ty chứng khoán, công ty quản lý quỹ để lừa đảo"
+    },
+    {
+     "ref": "cafef:d119e274a1",
+     "title": "Hải quan siết nợ thuế, nhiều giám đốc bị tạm hoãn xuất cảnh"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:e1736793b1",
+     "title": "Vụ Shark Thủy: Hủy 18 bản án, 2 quyết định đã có hiệu lực"
+    },
+    {
+     "ref": "vnexpress:a20db78c8f",
+     "title": "Vụ án bà Kim Tiến: Vì sao không được xét giảm án dù nộp hết tiền khắc phục?"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:877244e14b",
+     "title": "Công an khởi tố 3 đối tượng kinh doanh tiền điện tử theo phương thức đa cấp, cam kết lợi nhuận tới 180%/năm"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+10,02 (+0,56%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.785,11 điểm"
+   },
+   {
+    "change": "-0,56 (-0,21%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "272,21 điểm"
+   },
+   {
+    "change": "624,2 triệu đơn vị, phiên 25/9",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "15.278,5 tỷ đồng"
+   },
+   {
+    "change": "phiên 25/9",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~293 tỷ đồng"
+   },
+   {
+    "change": "đi ngang so với 27/9",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "144,4 triệu đồng/lượng (bán ra)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "—"
+   }
+  ],
+  "summary": "Đêm qua, chứng khoán Mỹ đồng loạt tăng điểm với S&P 500 và Dow Jones khởi sắc, trong khi giá dầu bật tăng sau khi Tổng thống Mỹ Donald Trump bác đề xuất mở lại eo biển Hormuz của Iran; diễn biến trái chiều xuất hiện giữa dầu WTI (+1,27%) và dầu Brent (-5,3%). Vàng thế giới và chỉ số USD (DXY) hạ nhẹ trong phiên. Tại Việt Nam, phiên giao dịch gần nhất ngày 25/9, VN-Index tăng 10,02 điểm (+0,56%) lên 1.785,11 điểm nhờ lực đỡ của nhóm cổ phiếu Vingroup, trong khi HNX-Index giảm nhẹ 0,21%; thanh khoản HOSE đạt 15.278,5 tỷ đồng và khối ngoại tiếp tục bán ròng khoảng 293 tỷ đồng. Giá vàng SJC trong nước đứng yên quanh mốc 144,4 triệu đồng/lượng bán ra.",
+  "tiles": [
+   {
+    "change_pct": 0.51,
+    "label": "S&P 500",
+    "value": "7.743,4"
+   },
+   {
+    "change_pct": 0.93,
+    "label": "Dow Jones",
+    "value": "51.828,6"
+   },
+   {
+    "change_pct": 0.48,
+    "label": "Nasdaq",
+    "value": "27.068,7"
+   },
+   {
+    "change_pct": 1.27,
+    "label": "Dầu WTI",
+    "value": "93,6 USD"
+   },
+   {
+    "change_pct": -5.3,
+    "label": "Dầu Brent",
+    "value": "98,8 USD"
+   },
+   {
+    "change_pct": -0.55,
+    "label": "Vàng thế giới",
+    "value": "4.297 USD"
+   },
+   {
+    "change_pct": -0.07,
+    "label": "Bitcoin",
+    "value": "84.349 USD"
+   },
+   {
+    "change_pct": -0.25,
+    "label": "DXY",
+    "value": "101,03"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:d80d01ce06",
+     "title": "FPT: TCBS ước tính viết code bằng AI nhanh hơn 30% nhưng năng suất dự án chỉ tăng 10%"
+    },
+    {
+     "ref": "cafef:d9ebadaee8",
+     "title": "Chứng khoán Việt Nam đã phản ứng với tin nâng hạng hay chưa và câu trả lời của quỹ ngoại tỷ USD?"
+    },
+    {
+     "ref": "cafef:b5247aabb0",
+     "title": "Chứng khoán tuần qua: Hụt hơi ngắn hạn, ngóng 'trợ lực' quý III"
+    },
+    {
+     "ref": "cafef:7b6dc1cd3d",
+     "title": "DMX: Vietcap chỉ ra hưởng hoa hồng từ các công ty tài chính tiêu dùng mà không phải chịu rủi ro tín dụng"
+    },
+    {
+     "ref": "cafef:4da0a1053e",
+     "title": "MBS dự báo KQKD quý 3/2026 ngành bán lẻ: Thế Giới Di Động và FPT Retail tiếp tục bứt phá, hai tên tuổi tăng trưởng đột biến 3 chữ số"
+    },
+    {
+     "ref": "cafef:1b43a7eff3",
+     "title": "\"Thua\" VN-Index vì không nắm cổ phiếu Vingroup, nhà sáng lập PYN Elite Fund thẳng thắn thừa nhận một điều"
+    },
+    {
+     "ref": "cafef:019873b6bb",
+     "title": "Chứng khoán mất điểm ngay tuần đầu nâng hạng, nhà đầu tư nên hành động ra sao?"
+    },
+    {
+     "ref": "cafef:3e767fb983",
+     "title": "Thương vụ M&A mới nhất của hệ sinh thái Tasco: Nhóm SHB phủ quyết bất thành"
+    },
+    {
+     "ref": "cafef:01338716b0",
+     "title": "HPG: Nỗi lo quý 3 của tỷ phú Trần Đình Long"
+    },
+    {
+     "ref": "cafef:01430a6c59",
+     "title": "Tuần tới VN-Index có lấy lại được ngưỡng 1.800 điểm?"
+    },
+    {
+     "ref": "cafef:499a7a553c",
+     "title": "HGI: IPO đạt số lượng đặt mua 100%, công ty của Bầu Đức thu hút nhà đầu tư"
+    },
+    {
+     "ref": "cafef:8510c03c16",
+     "title": "KOS: Giảm sàn 5 phiên liên tiếp, Kosy Group giải trình gì?"
+    },
+    {
+     "ref": "cafef:e32073ccc3",
+     "title": "Góc nhìn chuyên gia: Khả năng thị trường còn điều chỉnh, 4 nhóm cổ phiếu đáng chú ý mùa KQKD quý 3"
+    },
+    {
+     "ref": "cafef:e8eae2b338",
+     "title": "CTCK dự báo KQKD quý 3 doanh nghiệp điện: Một \"ông lớn\" có thể lãi hơn 1.000 tỷ đồng, xuất hiện mức tăng trưởng 88%"
+    },
+    {
+     "ref": "cafef:64d83d3bde",
+     "title": "PVT: Chủ nhân 65 con tàu ở Việt Nam hưởng lợi nhờ căng thẳng ở eo biển Hormuz"
+    },
+    {
+     "ref": "cafef:84645e1a39",
+     "title": "VIC: Rót thêm 9.500 tỷ đồng vào công ty làm khu công nghiệp gần 1.000 ha tại Hà Tĩnh"
+    },
+    {
+     "ref": "cafef:9ccd5be1e3",
+     "title": "NET: Chốt ngày trả cổ tức bằng tiền mặt tỷ lệ 65%"
+    },
+    {
+     "ref": "cafef:1112d6ea7e",
+     "title": "Doanh nghiệp của đại gia Khoa 'khàn' được giao 273ha đất làm khu đô thị đa mục tiêu tại Hà Nội"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:2ae3da2d90",
+     "title": "Việt Nam nâng hạng thị trường chứng khoán: Cơ hội và thách thức nào cho doanh nghiệp Việt?"
+    },
+    {
+     "ref": "vietstock:9630b9b770",
+     "title": "Góc nhìn tuần 28/09-02/10: Thị trường vẫn khó sau nâng hạng"
+    },
+    {
+     "ref": "vietstock:0460471348",
+     "title": "Thị trường chứng quyền tuần 28/09-02/10/2026: Thị trường diễn biến phân hóa"
+    },
+    {
+     "ref": "vietstock:08dbbc2899",
+     "title": "Vietstock Weekly 28/09-02/10/2026: Chưa hết rung lắc?"
+    },
+    {
+     "ref": "vietstock:6ceae8dc20",
+     "title": "Cổ tức tuần 28/09 - 02/10: Cao nhất 50%"
+    },
+    {
+     "ref": "vietstock:7595702c44",
+     "title": "SCIC chuẩn bị bước chuyển lớn, hướng tới thành lập Quỹ Đầu tư quốc gia"
+    },
+    {
+     "ref": "vietstock:ac80be7230",
+     "title": "Thị trường chip AI toàn cầu có thể đạt 860 tỷ USD vào năm 2030"
+    },
+    {
+     "ref": "vietstock:5c58c5f64c",
+     "title": "Định giá 13.4 ngàn tỷ, lô cổ phiếu đấu giá của Seaprodex \"ế khách\""
+    },
+    {
+     "ref": "vietstock:33723b8cff",
+     "title": "Chứng khoán phái sinh tuần 28/09-02/10/2026: Rủi ro ngắn hạn vẫn hiện hữu?"
+    },
+    {
+     "ref": "vietstock:6240d10a82",
+     "title": "VDP: Phân phối thành công gần 10 triệu cp, nâng vốn điều lệ lên 320 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:8b943ff88e",
+     "title": "DRL chuẩn bị chi hơn 14 tỷ đồng trả cổ tức đợt 1/2026 dù lợi nhuận sau thuế nửa đầu 2026 giảm"
+    },
+    {
+     "ref": "vietstock:d04f91b568",
+     "title": "DQC thoát cảnh báo và 1 diện kiểm soát"
+    },
+    {
+     "ref": "vietstock:bd9f49de87",
+     "title": "EUDR mở cuộc đua truy xuất nguồn gốc nông sản Việt"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:1ce15794dc",
+     "title": "Xu thế dòng tiền: Kỳ vọng gì ở số liệu vĩ mô quý 3?"
+    },
+    {
+     "ref": "vneconomy:3bbe2b9996",
+     "title": "Dấu ấn kinh tế thế giới tuần 20-26/9/2026: Thượng đỉnh Mỹ-Trung và biến động thị trường trái phiếu"
+    },
+    {
+     "ref": "vneconomy:b1fcf78e15",
+     "title": "VN-Index giảm 1,68%, nhà đầu tư thận trọng trước áp lực bán"
+    },
+    {
+     "ref": "vneconomy:61cf63598f",
+     "title": "Vàng tụt giá tuần này vì mối lo lãi suất cao hơn lâu hơn"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:99b520adee",
+     "title": "Nhận định thị trường phiên giao dịch ngày 28/9: Duy trì trạng thái quan sát"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:55dab72467",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 28/9: Đà giảm nhiều khả năng sẽ chậm lại"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7b21265fe6",
+     "title": "Cổ phiếu cần quan tâm ngày 28/9"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d04685bbe7",
+     "title": "CTD: Coteccons lên kế hoạch lãi 1.050 tỷ đồng trong niên độ tài chính 2026 - 2027"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:057b1e758a",
+     "title": "QR xuyên biên giới: Mở cửa sức mua quốc tế"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6c538f0ffb",
+     "title": "Dòng tiền tìm nhóm cổ phiếu nào trước mùa kết quả kinh doanh quý III?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:318b7afa53",
+     "title": "Nguồn cung kho xưởng xây sẵn tăng nhanh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:31b1693da3",
+     "title": "Xuất khẩu dầu của Ả Rập Xê Út đạt mức cao nhất kể từ khi xung đột Trung Đông bùng phát"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9c3905c836",
+     "title": "Cơ hội tăng tốc dòng vốn đầu tư từ Mỹ vào Việt Nam"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:5dabe79026",
+     "title": "Góc nhìn TTCK tuần 28/9 - 2/10: Lực cầu yếu, VN-Index vẫn đối mặt khả năng rung lắc"
+    },
+    {
+     "ref": "b-o-u-t:a811a94a0a",
+     "title": "Ngành dệt may đạt doanh thu xuất khẩu 32 tỷ USD"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:030c110657",
+     "title": "PCB: PVcomBank muốn bán cổ phiếu riêng lẻ giá cao hơn 60% thị giá"
+    },
+    {
+     "ref": "markettimes:b9c1afe343",
+     "title": "Một cổ phiếu dầu khí \"bốc đầu\" kịch trần, lên đỉnh lịch sử trước thềm họp bất thường"
+    },
+    {
+     "ref": "markettimes:fdffaabcad",
+     "title": "Tài chính tuần qua: \"Sóng\" ngân hàng bán vốn cho nhà đầu tư nước ngoài nóng trở lại"
+    },
+    {
+     "ref": "markettimes:b4c6bc56bc",
+     "title": "VietinBank Capital có động thái trái ngược tại Xếp dỡ Hải An và Petrosetco"
+    },
+    {
+     "ref": "markettimes:bd73bf6d26",
+     "title": "Chứng khoán tuần qua: Thị trường rung lắc mạnh, người nhà lãnh đạo PNJ liên tục thoái vốn"
+    },
+    {
+     "ref": "markettimes:61baba1d7b",
+     "title": "Khi dòng chảy tín dụng ưu tiên cho du lịch"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:764c6f23e3",
+     "title": "Việt Nam có 8 tỷ phú USD, ông Nguyễn Đăng Quang trở lại danh sách Forbes"
+    },
+    {
+     "ref": "ti-n-phong:c6a34bd108",
+     "title": "Gỡ rào cản xuất khẩu gạo, doanh nghiệp nhỏ có thêm cơ hội"
+    },
+    {
+     "ref": "ti-n-phong:ac3bf8c11d",
+     "title": "Mua vàng đầu tuần, cuối tuần lỗ lớn"
+    },
+    {
+     "ref": "ti-n-phong:67aeb5600b",
+     "title": "NVL: Công ty liên quan Chủ tịch Novaland bán mạnh cổ phiếu"
+    },
+    {
+     "ref": "ti-n-phong:6c332eb789",
+     "title": "Đón sóng đầu tư 136,3 tỷ USD: Thị trường thiết bị năng lượng đứng trước cơ hội lịch sử"
+    },
+    {
+     "ref": "ti-n-phong:5ff4201c7c",
+     "title": "Cơ hội đón dòng vốn quốc tế lớn cho bất động sản Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:8f309441af",
+     "title": "Thúc đẩy hợp tác trong lĩnh vực năng lượng giữa EVN và bang Tây Úc"
+    }
+   ],
+   "source": "Tiền Phong"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:818b63a49f",
+   "title": "Cựu quan chức BOJ: Khả năng ngân hàng trung ương Nhật tăng lãi suất vào tháng 10 là có thật",
+   "translated": true,
+   "original_title": "BOJ Rate Hike in October Is Real Possibility, Ex-Official Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-27/boj-rate-hike-in-october-is-real-possibility-ex-official-says"
+  },
+  {
+   "ref": "bloomberg:e570f1600c",
+   "title": "Dầu tăng giá, hợp đồng tương lai chứng khoán Mỹ giảm nhẹ sau khi Trump bác bỏ đề xuất của Iran",
+   "translated": true,
+   "original_title": "Oil Gains, Stock Futures Dip as Trump Rebuffs Iran: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "bloomberg:fdfe0db337",
+   "title": "Cập nhật và phân tích mới nhất thị trường dầu mỏ ngày 28/9",
+   "translated": true,
+   "original_title": "Latest Oil Market News and Analysis for Sept. 28",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-27/latest-oil-market-news-and-analysis-for-sept-28"
+  },
+  {
+   "ref": "bloomberg:01ae8325b1",
+   "title": "Trump nói đang cân nhắc 'rất nghiêm túc' lệnh cấm xuất khẩu dầu diesel",
+   "translated": true,
+   "original_title": "Trump Says He’s ‘Very Seriously’ Looking at Diesel Export Ban",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-27/trump-says-he-s-very-seriously-looking-at-diesel-export-ban"
+  },
+  {
+   "ref": "reuters:56b4675b12",
+   "title": "Chính sách thắt chặt của Fed sẽ tác động mạnh nhất ở đâu tại châu Á?",
+   "translated": true,
+   "original_title": "Where will Fed tightening hit hardest in Asia?",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/where-will-fed-tightening-hit-hardest-asia-manishi-raychaudhuri-2026-09-27/"
+  },
+  {
+   "ref": "reuters:2716072021",
+   "title": "AI thách thức giới giao dịch hàng hoá kỳ cựu",
+   "translated": true,
+   "original_title": "AI challenges fuel trading's old guard",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/ai-challenges-fuel-tradings-old-guard-2026-09-25/"
+  },
+  {
+   "ref": "reuters:26ed476f6a",
+   "title": "Trump xác nhận gặp CEO Anthropic Dario Amodei, tiếp tục xem nhẹ lo ngại về AI",
+   "translated": true,
+   "original_title": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears",
+   "link": "https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27/"
+  },
+  {
+   "ref": "reuters:775daf406c",
+   "title": "Giá dầu phục hồi sau khi Trump bác bỏ đề xuất hoà bình của Iran",
+   "translated": true,
+   "original_title": "Oil rebounds after Trump rejects Iran peace deal",
+   "link": "https://www.reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27/"
+  },
+  {
+   "ref": "reuters:13f9352bd9",
+   "title": "Giá dầu diesel tăng vọt vì căng thẳng Iran khiến xe tải điện rẻ hơn xe diesel tại các thị trường EU chủ chốt",
+   "translated": true,
+   "original_title": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says",
+   "link": "https://www.reuters.com/business/autos-transportation/iran-linked-diesel-price-spike-makes-electric-trucks-cheaper-than-diesel-key-eu-2026-09-27/"
+  },
+  {
+   "ref": "tg-marketfeed:1046650",
+   "title": "Bộ trưởng Kinh doanh Anh: Lệnh cấm xuất khẩu diesel của Mỹ sẽ là mối lo ngại lớn cho nước Anh",
+   "translated": true,
+   "original_title": "U.K. BUSINESS SECRETARY JONATHAN REYNOLDS SAYS A FULL U.S. DIESEL EXPORT BAN WOULD BE A “SIGNIFICANT CONCERN” FOR BRITAIN, WHICH SOURCES ABOUT ONE-SIXTH OF ITS DIESEL FROM THE U.S., THOUGH HE STRESSED THE U.K. HAS A DIVERSE FUEL SUPPLY. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1046651",
+   "title": "Mỹ cân nhắc cấm xuất khẩu diesel 90 ngày, Tổng thống Pháp Macron cảnh báo Trump về biện pháp này",
+   "translated": true,
+   "original_title": "THE U.S. IS CONSIDERING A 90-DAY DIESEL EXPORT BAN OR MORE LIMITED VOLUNTARY RESTRICTIONS AMID HIGH DOMESTIC FUEL PRICES, WHILE FRENCH PRESIDENT EMMANUEL MACRON HAS ALSO WARNED TRUMP AGAINST SUCH MEASURES. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1046648",
+   "title": "ESWIN Computing Technology công bố chào bán toàn cầu 1,57 tỷ cổ phiếu H",
+   "translated": true,
+   "original_title": "BEING ESWIN COMPUTING TECHNOLOGY ANNOUNCES 1.57 BILLION H SHARES OFFERED GLOBALLY ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:400271",
+   "title": "Trump từ chối đề xuất mở lại eo biển Hormuz trong 7 ngày của Iran, giá dầu mở cửa tăng",
+   "translated": true,
+   "original_title": "▫️ Trump từ chối đề xuất của Iran, giá dầu mở cửa tăng Trump từ chối đề xuất của Iran, giá dầu mở cửa tăng. Việc Iran đề xuất mở lại eo biển Hormuz trong bảy ngày đã bị Trump bác bỏ, khiến nguy cơ trì hoãn mở lại tuyến đường quan trọng này gia tăng. Giá dầu WTI và Brent đã tăng hơn 1% khi mở cửa. Các nhà giao dịch sẽ tiếp tục theo dõi tình hình lưu thông thực tế tại eo biển Hormuz. Trump cho biết,",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:400268",
+   "title": "Iran bác bỏ thông tin về cuộc gặp với Mỹ tại New York",
+   "translated": true,
+   "original_title": "🔴 Tin tức: Iran bác bỏ thông tin về cuộc gặp với Mỹ tại New York Theo IRNA, một nguồn tin đã bác bỏ thông tin trái chiều về việc Iran và Mỹ sẽ có cuộc gặp tại New York. Đoàn đại biểu Iran hiện đang tham dự Đại hội đồng Liên Hợp Quốc. Nguồn tin cho biết: \"Iran đã truyền đạt rõ ràng lập trường của mình tới Mỹ thông qua trung gian Qatar vào thứ Ba tuần trước và đang chờ phản hồi từ phía Mỹ. Do đó, tr",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107462",
+   "title": "(Tiêu điểm) Vàng giảm nhẹ khi giá dầu giữ đà tăng do căng thẳng Hormuz và rủi ro lạm phát",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Vàng giảm nhẹ khi giá dầu giữ đà tăng do căng thẳng Hormuz và rủi ro lạm phát Chi tiết xem tại: https://dubaotiente.net/tieu-diem/vang-giam-nhe-khi-gia-dau-giu-da-tang-do-cang-thang-hormuz-va-rui-ro-lam-phat-112523.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107461",
+   "title": "(Tiêu điểm) Câu hỏi 84 triệu USD của Tether: Mỹ thực sự đã tịch thu tiền của ai?",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Câu hỏi 84 triệu USD của Tether: Mỹ thực sự đã tịch thu tiền của ai? Chi tiết xem tại: https://dubaotiente.net/tieu-diem/cau-hoi-84-trieu-usd-cua-tether-my-thuc-su-da-tich-thu-tien-cua-ai-112522.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107460",
+   "title": "(Tiêu điểm) Biên bản BOJ tháng 7: Quyết định giữ lãi suất đã bị vượt qua bởi đợt tăng lãi suất tháng 9",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Biên bản BOJ tháng 7: Quyết định giữ lãi suất đã bị vượt qua bởi đợt tăng lãi suất tháng 9 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bien-ban-boj-thang-7-quyet-dinh-giu-lai-suat-da-bi-vuot-qua-boi-dot-tang-lai-suat-thang-9-112521.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107459",
+   "title": "(Tiêu điểm) Giá dầu bật tăng mạnh ngay khi phiên Globex mở cửa tuần mới",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Giá dầu bật tăng mạnh ngay khi Globex mở cửa tuần mới Chi tiết xem tại: https://dubaotiente.net/tieu-diem/gia-dau-bat-tang-manh-ngay-khi-globex-mo-cua-tuan-moi-112520.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107457",
+   "title": "(Tiêu điểm) Bessent kêu gọi Fed giữ quan điểm cởi mở về lãi suất nhờ năng suất từ AI",
+   "translated": true,
+   "original_title": "(Tiêu điểm) Bessent kêu gọi Fed giữ quan điểm cởi mở về lãi suất nhờ năng suất từ AI Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bessent-keu-goi-fed-giu-quan-diem-coi-mo-ve-lai-suat-nho-nang-suat-tu-ai-112518.html",
+   "link": null
+  }
+ ],
+ "content_sha": "2dfc94499c70cbdd5cd6787fcde3a6c52a3e7652051700cab9b090418ead6bf7"
+}
