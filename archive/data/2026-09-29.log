@@ -1,0 +1,45 @@
+
+########## CHAY LUC 2026-09-29 06:51:53 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-29, ban daily)
+   the gioi 21 tin · Viet Nam 54 tin / 9 bao · phap ly 9 tin · chot quyen 4 ma
+   CANH BAO [C9] world[14]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[15]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[16]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[17]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[18]: tin lấy từ nguồn trong nước 'VnEconomy'
+   THAT BAI: 2 loi
+      [C9] legal: khối 'Tiền Phong' phải đứng trước 'Google News Pháp lý' theo thứ tự báo phổ biến
+      [C4] world[14]: URL không hợp lệ 'http://vietstock.vn/2026/09/nvidia-thong-qua-ke-hoach-mua-la' (nguồn web phải https)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-09-29 06:52:20 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-09-29, ban daily)
+   the gioi 20 tin · Viet Nam 54 tin / 9 bao · phap ly 9 tin · chot quyen 4 ma
+   CANH BAO [C9] world[14]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[15]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[16]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[17]: tin lấy từ nguồn trong nước 'VnEconomy'
+   DAT: khong loi, 4 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-09-29 · the gioi 20 · Viet Nam 54 · phap ly 9
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-09-29.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-09-29: commit bae138491739 · sha noi dung 310cdb3163166059
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 29/09 | content_sha 4989409e9335 | commit bae138491739
+   telegram user/928f6fc4179d OK message_id=270
+   zalo     user/593dd2adbb87 OK message_id=0ab004c0edb294ebcda4
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-09-29.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-09-29 06:52:56 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

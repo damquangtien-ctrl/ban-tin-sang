@@ -600,5 +600,44 @@
    "link": "https://bbw.vn/hoi-nghi-trump-tap-ceo-my-tham-du-dong-doanh-nhan-trung-quoc-vang-bong-60579.html"
   }
  ],
- "content_sha": "4989409e93358d40eef4a6650998aeaadfcd153779034c12cb2046d19bc10955"
+ "content_sha": "4989409e93358d40eef4a6650998aeaadfcd153779034c12cb2046d19bc10955",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "bae138491739188e68c68c25132979b0b3714603",
+   "published_at": "2026-09-29T06:52:54+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "270",
+   "sent_at": "2026-09-29T06:52:55+07:00",
+   "content_sha": "4989409e93358d40eef4a6650998aeaadfcd153779034c12cb2046d19bc10955",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "270",
+     "sent_at": "2026-09-29T06:52:55+07:00",
+     "content_sha": "4989409e93358d40eef4a6650998aeaadfcd153779034c12cb2046d19bc10955"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "0ab004c0edb294ebcda4",
+   "sent_at": "2026-09-29T06:52:56+07:00",
+   "content_sha": "4989409e93358d40eef4a6650998aeaadfcd153779034c12cb2046d19bc10955",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "0ab004c0edb294ebcda4",
+     "sent_at": "2026-09-29T06:52:56+07:00",
+     "content_sha": "4989409e93358d40eef4a6650998aeaadfcd153779034c12cb2046d19bc10955"
+    }
+   ]
+  }
+ }
 }
