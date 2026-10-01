@@ -1,0 +1,571 @@
+{
+ "date": "2026-10-02",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Vietstock",
+   "text": "VN-Index giảm 19,32 điểm (-1,09%) về 1.749,30 điểm, mất mốc 1.750 trong phiên 1/10"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Chủ tịch Fed Dallas Lorie Logan: Cần tăng lãi suất thêm ít nhất 50 điểm cơ bản để kiềm chế lạm phát"
+  },
+  {
+   "source": "CafeF",
+   "text": "MSR đón đối tác chiến lược Mỹ Elmet, công bố lộ trình niêm yết HoSE và tăng cổ tức"
+  },
+  {
+   "source": "SJC",
+   "text": "Giá vàng SJC tăng lên 141,3 – 144,3 triệu đồng/lượng, vàng thế giới vượt 4.200 USD/oz"
+  },
+  {
+   "source": "Vietstock",
+   "text": "Ngân hàng Nhà nước nới trần tỷ lệ LDR lên 95%, chốt lộ trình áp dụng chuẩn Basel III"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:fe3983d8f7",
+     "title": "Vụ Công ty Việt Mỹ: Đã khởi tố 9 bị can, thu hồi hơn 118 tỷ đồng và 261.000 USD"
+    },
+    {
+     "ref": "cafef:1c167eda15",
+     "title": "Khởi tố 48 bị can liên quan sai phạm tại dự án đường dây 500kV mạch 3"
+    },
+    {
+     "ref": "cafef:5f074424dd",
+     "title": "PC1: Bộ Công an thông tin mới nhất vụ án liên quan loạt lãnh đạo công ty điện lực PC1, TV1, TV2, TV3 bị khởi tố"
+    },
+    {
+     "ref": "cafef:df475fd9de",
+     "title": "WSS: Bị xử phạt do vi phạm công bố thông tin"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:4e729b0d1c",
+     "title": "Khắc phục thêm hậu quả, cựu Bộ trưởng Bộ Y tế tiếp tục được đề nghị giảm án"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-19,32 (-1,09%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.749,30"
+   },
+   {
+    "change": "-2,98 (-1,10%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "268,66"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~11.300 tỷ đồng"
+   },
+   {
+    "change": "Toàn TT mua ròng ~3.078 tỷ",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~79 tỷ đồng"
+   },
+   {
+    "change": "+0,2 triệu so với hôm trước",
+    "direction": "up",
+    "label": "Vàng SJC",
+    "value": "141,3 – 144,3 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.180"
+   }
+  ],
+  "summary": "Phố Wall đóng cửa tăng nhẹ nhờ lợi suất trái phiếu kho bạc hạ nhiệt, dù Chủ tịch Fed Dallas Lorie Logan tiếp tục kêu gọi nâng lãi suất thêm ít nhất 50 điểm cơ bản để kiềm chế lạm phát. Dầu WTI bật tăng gần 3%, vàng thế giới và Bitcoin cùng đi lên trong phiên qua đêm. Tại thị trường trong nước, VN-Index giảm 19,32 điểm (-1,09%) về 1.749,30 điểm trong phiên 1/10, để mất mốc 1.750 điểm; HNX-Index giảm 1,10% về 268,66 điểm. Thanh khoản khớp lệnh HOSE đạt khoảng 11.300 tỷ đồng, toàn thị trường khoảng 19.553 tỷ đồng; khối ngoại mua ròng hơn 3.078 tỷ đồng nhờ giao dịch thỏa thuận đặc biệt tại MSR, nhưng nếu loại trừ giao dịch này thì khối ngoại vẫn bán ròng nhẹ trên HOSE.",
+  "tiles": [
+   {
+    "change_pct": 0.19,
+    "label": "S&P 500",
+    "value": "7.666,4"
+   },
+   {
+    "change_pct": 0.04,
+    "label": "Dow Jones",
+    "value": "50.926,6"
+   },
+   {
+    "change_pct": 0.04,
+    "label": "Nasdaq",
+    "value": "26.871,6"
+   },
+   {
+    "change_pct": 2.86,
+    "label": "Dầu WTI",
+    "value": "93,0 USD"
+   },
+   {
+    "change_pct": -1.01,
+    "label": "Dầu Brent",
+    "value": "102,5 USD"
+   },
+   {
+    "change_pct": 0.56,
+    "label": "Vàng thế giới",
+    "value": "4.210 USD"
+   },
+   {
+    "change_pct": 1.46,
+    "label": "Bitcoin",
+    "value": "84.774 USD"
+   },
+   {
+    "change_pct": 0.56,
+    "label": "DXY",
+    "value": "102,02"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:6abd881ffa",
+     "title": "TTT: Chốt trả cổ tức 2.000 đồng/cp, đều đặn chia tiền mặt suốt 13 năm"
+    },
+    {
+     "ref": "cafef:c064b4cf83",
+     "title": "CTCK điểm tên 6 cổ phiếu có định giá rẻ, lợi nhuận quý 3 dự kiến tăng mạnh"
+    },
+    {
+     "ref": "cafef:4c12d56676",
+     "title": "Lợi nhuận loạt doanh nghiệp xây lắp Đèo Cả, CII, CTD, VCG dự báo phân hóa mạnh trong quý III/2026"
+    },
+    {
+     "ref": "cafef:0aa765126d",
+     "title": "HPG: Rót gần 8.000 tỷ đồng vào một doanh nghiệp của đại gia Khoa 'khàn'"
+    },
+    {
+     "ref": "cafef:eb9ee604f5",
+     "title": "18 dự án điện LNG trọng điểm, chỉ Hiệp Phước được đánh giá có khả năng đáp ứng tiến độ"
+    },
+    {
+     "ref": "cafef:e8260eec2d",
+     "title": "BIG: Vừa trả xong cổ tức, đón quỹ ngoại làm cổ đông lớn"
+    },
+    {
+     "ref": "cafef:22cd7a9058",
+     "title": "KOS giảm sàn 9 phiên liên tiếp, lãnh đạo liên tục bị bán giải chấp"
+    },
+    {
+     "ref": "cafef:8a51491c9f",
+     "title": "PET: Chất đống sàn sau chuỗi tăng “bốc đầu” hơn 46%"
+    },
+    {
+     "ref": "cafef:abc78096f3",
+     "title": "PC1 sắp phát hành gần 62 triệu cổ phiếu trả cổ tức năm 2025"
+    },
+    {
+     "ref": "cafef:6c27518efb",
+     "title": "MSR: Đón cổ đông chiến lược Mỹ, công bố lộ trình niêm yết HoSE"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:f7ae974c13",
+     "title": "4 đợt vốn FTSE và quãng đường còn lại tới chuẩn MSCI"
+    },
+    {
+     "ref": "vietstock:1609d35168",
+     "title": "Vốn ngoại vào Việt Nam: Mở cửa thôi chưa đủ"
+    },
+    {
+     "ref": "vietstock:a8e99fe9f0",
+     "title": "VIFC-DN lần đầu vào bảng xếp hạng trung tâm tài chính toàn cầu GFCI"
+    },
+    {
+     "ref": "vietstock:6227027f5a",
+     "title": "Khi khoản nợ an toàn nhất Phố Wall cũng trở nên rủi ro"
+    },
+    {
+     "ref": "vietstock:bdb722e51e",
+     "title": "Góc nhìn 02/10: Giữ tỷ trọng tiền mặt cao, chưa vội bắt đáy"
+    },
+    {
+     "ref": "vietstock:0566deaf87",
+     "title": "HAH: Tăng thêm 225 tỷ vốn góp cho 3 tàu container đóng mới"
+    },
+    {
+     "ref": "vietstock:ece9f9c6b9",
+     "title": "Cuộc đua T+1 ở châu Á và những rào cản ngoại hối"
+    },
+    {
+     "ref": "vietstock:766d4a6d7a",
+     "title": "VDS tạm dừng phương án chào bán cổ phiếu"
+    },
+    {
+     "ref": "vietstock:16214f51ca",
+     "title": "Ngân hàng Nhà nước nới trần LDR lên 95% và chốt lộ trình chuẩn Basel III"
+    },
+    {
+     "ref": "vietstock:3105db5132",
+     "title": "Nhịp đập Thị trường 01/10: VN-Index lao dốc trước nhiều sức ép, VIC lấy đi hơn 12 điểm"
+    },
+    {
+     "ref": "vietstock:7bb6d85c16",
+     "title": "Kết nối thị trường vốn Việt Nam và Singapore: Phát triển sản phẩm DR, trao đổi kinh nghiệm quản lý tài sản mã hóa"
+    },
+    {
+     "ref": "vietstock:17c43d98a7",
+     "title": "AFX: Giá về dưới mệnh, muốn phát hành 45,5 triệu cp, tăng vốn lên gấp hơn 2 lần"
+    },
+    {
+     "ref": "vietstock:f7521c2d5c",
+     "title": "ASG: Chủ tịch và cổ đông lớn lần lượt giảm sở hữu"
+    },
+    {
+     "ref": "vietstock:40f16f3d8c",
+     "title": "SZG đầu tư depot container hơn 1.200 tỷ tại KCN Phước An của PAP"
+    },
+    {
+     "ref": "vietstock:ec646d0016",
+     "title": "Chứng khoán Kafi ấn định giá chào bán ra công chúng cao hơn thị giá trong bối cảnh thị trường kém thuận lợi"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:c30aa3ac96",
+     "title": "Khối ngoại mua ròng hơn 3.100 tỷ nhờ thỏa thuận MSR"
+    },
+    {
+     "ref": "vneconomy:ed45c0b0fe",
+     "title": "Khối ngoại bán ròng 37.500 tỷ đồng cổ phiếu ngân hàng từ đầu năm"
+    },
+    {
+     "ref": "vneconomy:12abc46802",
+     "title": "VinaCapital: Sau nâng hạng, tâm điểm thị trường quay về yếu tố cơ bản doanh nghiệp"
+    },
+    {
+     "ref": "vneconomy:8742bf99fd",
+     "title": "Giảm mạnh khả năng Fed tăng lãi suất trong tháng 10 sau báo cáo lạm phát"
+    },
+    {
+     "ref": "vneconomy:9a78add266",
+     "title": "Tín dụng bất động sản khu công nghiệp tăng 32%"
+    },
+    {
+     "ref": "vneconomy:a987a6a692",
+     "title": "Vàng trượt giá dù số liệu lạm phát Mỹ yếu hơn dự báo, SPDR Gold Trust bán ròng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6b666273e4",
+     "title": "Chainalysis: Thị trường tài sản mã hóa Việt Nam đang tăng trưởng theo hướng tập trung vào các giao dịch nhỏ, trực tiếp giữa các cá nhân"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:86c6707d76",
+     "title": "HGI: Sẽ cung ứng cà phê Arabica nhân xanh cho MQ Coffee"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1a4b7f1b37",
+     "title": "Amy Grupo tăng trả nợ vay ngân hàng trong kế hoạch sử dụng vốn đợt IPO"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:343927ef87",
+     "title": "Hà Nội xuất khẩu gần 16,9 tỷ USD trong 9 tháng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:184411ddb6",
+     "title": "BAF: Thông báo chào bán cổ phiếu ra công chúng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:62d9ff355b",
+     "title": "VPB: Duy trì hợp tác với AIA Việt Nam song song với việc chuẩn bị đưa VPLife vào hoạt động"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:617ef15d26",
+     "title": "Hoạt động sản xuất tại châu Á mở rộng trong tháng 9 nhờ sự bùng nổ AI toàn cầu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:106ac908c1",
+     "title": "BSR mở hướng phát triển sản phẩm mới"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:db007a20c9",
+     "title": "CTD: Ban kiểm soát cảnh báo tồn kho và nợ vay tăng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:a55c0eca77",
+     "title": "Khắc phục những vướng mắc trong đăng ký, giao dịch trái phiếu doanh nghiệp riêng lẻ"
+    },
+    {
+     "ref": "b-o-u-t:3cc3f06860",
+     "title": "Kinh tế TP.HCM tăng hơn 9% trong 9 tháng năm 2026"
+    },
+    {
+     "ref": "b-o-u-t:0f66a2fc77",
+     "title": "SEMIEXPO Vietnam 2026 hội tụ 200 doanh nghiệp bán dẫn toàn cầu"
+    },
+    {
+     "ref": "b-o-u-t:d87bac3ad4",
+     "title": "Theo dõi sát diễn biến xuất nhập khẩu, nhập siêu trong quý IV/2026"
+    },
+    {
+     "ref": "b-o-u-t:af59369597",
+     "title": "Tỷ giá cuối năm chịu áp lực, nhưng biến động tăng vừa phải"
+    },
+    {
+     "ref": "b-o-u-t:4ca48e5a5c",
+     "title": "Chuông ngân giữa Manhattan: “Cuộc chơi mới” cho doanh nghiệp Việt"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:5361e106b0",
+     "title": "PVcomBank (PCB) huy động thành công 200 tỷ đồng trái phiếu với lãi suất kỷ lục 10,5%/năm"
+    },
+    {
+     "ref": "markettimes:d9049786fe",
+     "title": "LPB: Mua lại trước hạn 1.000 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "markettimes:e78f6aabe9",
+     "title": "PC1 muốn bán toàn bộ cổ phần tại một công ty liên kết"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:f6edb36eb7",
+     "title": "Tỷ giá USD/VND hạ nhiệt ngày đầu tháng 10, giữ vững thế chủ động trước mùa cao điểm"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:48defa539b",
+     "title": "Trái phiếu doanh nghiệp chịu áp lực đáo hạn vào quý cuối năm"
+    },
+    {
+     "ref": "ti-n-phong:8b3121c75e",
+     "title": "Tập đoàn công nghệ Trung Quốc muốn nâng mức đầu tư tỷ USD tại Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:011f5e8b9f",
+     "title": "HPG: Đạt chứng chỉ xuất khẩu cáp dự ứng lực vào thị trường Ba Lan"
+    },
+    {
+     "ref": "ti-n-phong:fb3663df68",
+     "title": "BIC: Được AM Best xếp hạng năng lực tài chính ở mức B++ năm 2026"
+    },
+    {
+     "ref": "ti-n-phong:0ad5ae4ae8",
+     "title": "PNJ: Vốn hóa giảm hơn 5.000 tỷ đồng chỉ trong vài ngày"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:13f2639b6f",
+     "title": "Nâng hạng chứng khoán chưa lập tức đảo chiều dòng vốn ngoại"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:eb602f4f6e",
+     "title": "DSC: Báo cáo kết quả giao dịch mua lại cổ phiếu"
+    },
+    {
+     "ref": "hose:7ed2a05fec",
+     "title": "CTG: Báo cáo kết quả đợt chào bán cổ phiếu PHP do Vietinbank sở hữu ra công chúng"
+    },
+    {
+     "ref": "hose:8d1da04dbf",
+     "title": "VPI: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:74c688ec87",
+     "title": "VVS: Báo cáo tiến độ sử dụng số tiền thu được từ đợt chào bán"
+    },
+    {
+     "ref": "hose:72c5f05ebc",
+     "title": "GEG: Báo cáo về thay đổi sở hữu của cổ đông lớn Công ty Cổ phần Thành Thành Công - Biên Hòa"
+    },
+    {
+     "ref": "hose:ca50ba1ff6",
+     "title": "MBB: Quyết định về việc thực hiện góp vốn để tăng vốn điều lệ của MBV"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:eec543919f",
+   "title": "Chủ tịch Fed Dallas Logan: Cần tăng lãi suất thêm, nhưng biến động lợi suất trái phiếu có thể hỗ trợ",
+   "translated": true,
+   "original_title": "Fed’s Logan Says More Hikes Needed, But Bond Moves Could Help",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-01/fed-s-logan-says-more-hikes-needed-but-bond-moves-could-help"
+  },
+  {
+   "ref": "tg-vnwallstreet:401252",
+   "title": "CPI Tokyo tháng 9 của Nhật Bản tăng 2,7% so với cùng kỳ, vượt dự báo 2,5%, tăng mạnh từ mức 1,9% tháng trước",
+   "translated": false,
+   "original_title": "▫️ Chỉ số giá tiêu dùng (CPI) Tokyo tháng 9 của Nhật Bản tăng 2.7% so với cùng kỳ năm trước, vượt quá dự báo 2.5% và tăng đáng kể từ mức 1.9% tháng trước. #lạm_phát #boj",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1050506",
+   "title": "CPI tháng 9 của Hàn Quốc tăng 2,9% so với cùng kỳ, đúng dự báo, giảm so với mức 3,1% trước đó; CPI lõi tăng 2,8%",
+   "translated": true,
+   "original_title": "SOUTH KOREA'S SEPTEMBER CONSUMER PRICE INDEX ROSE 2.9% YEAR-ON-YEAR, IN LINE WITH THE FORECAST AND EASING FROM 3.10%, AND WAS UP 0.3% MONTH-ON-MONTH, WITH CORE CPI UP 2.8% Y/Y, DOWN FROM 3.4% IN AUGUST - STATS OFFICE ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:0c467efd59",
+   "title": "Thống đốc Ngân hàng Trung ương Indonesia: Chiến lược bảo vệ tỷ giá không đổi dù công cụ can thiệp thay đổi",
+   "translated": true,
+   "original_title": "Bank Indonesia Chief Says FX Defense Unchanged as Tactics Shift",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-01/bank-indonesia-chief-says-fx-defense-unchanged-as-tactics-shift"
+  },
+  {
+   "ref": "reuters:316d585c54",
+   "title": "Liên quân do Saudi Arabia dẫn đầu: Houthi tấn công nhà máy điện tại Medina",
+   "translated": true,
+   "original_title": "Saudi-led coalition says Houthis attacked power station in Medina",
+   "link": "https://www.reuters.com/business/energy/saudi-led-coalition-says-houthis-attacked-power-station-medina-2026-10-01/"
+  },
+  {
+   "ref": "reuters:c748715942",
+   "title": "Chứng khoán Mỹ phục hồi, đóng cửa tăng điểm khi lợi suất trái phiếu kho bạc hạ nhiệt",
+   "translated": true,
+   "original_title": "Equities rebound to close higher as surging Treasury yields recede",
+   "link": "https://www.reuters.com/business/dow-futures-hit-three-month-low-yields-surge-micron-earnings-offer-support-2026-10-01/"
+  },
+  {
+   "ref": "reuters:af5a75fb89",
+   "title": "Bộ trưởng Thương mại G20 sẽ lên án việc ép buộc thương mại lương thực nhưng bỏ qua vấn đề dư thừa công suất sản xuất",
+   "translated": true,
+   "original_title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
+   "link": "https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/"
+  },
+  {
+   "ref": "tg-dubaotiente:107723",
+   "title": "Mỹ dọa cấm xuất khẩu dầu diesel nếu châu Âu không xả kho dự trữ, yêu cầu 120 triệu thùng",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Mỹ dọa cấm xuất khẩu dầu diesel nếu châu Âu không xả kho dự trữ, yêu cầu 120 triệu thùng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/my-doa-cam-xuat-khau-dau-diesel-neu-chau-au-khong-xa-kho-du-tru-112754.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:926ae97fa4",
+   "title": "Làn sóng M&A toàn cầu hạ nhiệt trong quý III khi chi phí vay tăng cao",
+   "translated": true,
+   "original_title": "Global M&A deal rush fades in third quarter as rising borrowing costs bite",
+   "link": "https://www.reuters.com/business/finance/global-ma-deal-rush-fades-third-quarter-rising-borrowing-costs-bite-2026-10-01/"
+  },
+  {
+   "ref": "reuters:f7ff0e0626",
+   "title": "Bang New Mexico muốn Meta nộp phạt tới 40 tỷ USD sau phiên tòa về quyền riêng tư dữ liệu",
+   "translated": true,
+   "original_title": "New Mexico wants Meta to pay up to $40 billion in penalties after data privacy trial",
+   "link": "https://www.reuters.com/world/us/new-mexico-wants-meta-pay-up-40-billion-penalties-after-data-privacy-trial-2026-10-01/"
+  },
+  {
+   "ref": "reuters:001fd8feb3",
+   "title": "Nhân viên văn phòng Boeing thông qua thỏa thuận hợp đồng, nguy cơ đình công được hóa giải",
+   "translated": true,
+   "original_title": "Boeing white-collar workers approve contract offer, averting strike fears",
+   "link": "https://www.reuters.com/business/world-at-work/boeing-white-collar-workers-approve-latest-contract-offer-averting-strike-fears-2026-10-01/"
+  },
+  {
+   "ref": "reuters:e54b033e33",
+   "title": "Nike dự kiến cắt giảm thêm nhân sự để thúc đẩy quá trình phục hồi ì ạch, dự báo doanh thu giảm mạnh",
+   "translated": true,
+   "original_title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop",
+   "link": "https://www.reuters.com/business/retail-consumer/nike-quarterly-sales-miss-estimates-china-weakness-competition-weigh-2026-10-01/"
+  },
+  {
+   "ref": "tg-marketfeed:1050505",
+   "title": "Chủ tịch SEC Paul Atkins: Thị trường tiền mã hóa đã lớn mạnh từ một ý tưởng ngách thành tài sản trị giá hàng nghìn tỷ USD",
+   "translated": true,
+   "original_title": "JUST IN: 🇺🇸 SEC CHAIR PAUL ATKINS SAYS THE CRYPTO MARKET GREW FROM A \"NICHE CURIOSITY INTO A MULTI-TRILLION-DOLLAR ASSET CLASS.\" ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107722",
+   "title": "Chứng khoán Hồng Kông mở cửa trở lại, thị trường Trung Quốc đại lục và Stock Connect nghỉ đến ngày 8/10",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Chứng khoán Hồng Kông mở cửa trở lại, thị trường Trung Quốc đại lục và Stock Connect nghỉ đến ngày 8/10 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/chung-khoan-hong-kong-mo-cua-tro-lai-thi-truong-trung-quoc-dai-luc-va-stock-connect-nghi-den-ngay-8-10-112753.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:d2a03b7f2b",
+   "title": "AMD chi 8,2 tỉ USD thâu tóm World Labs của Fei-Fei Li",
+   "translated": false,
+   "original_title": "AMD chi 8,2 tỉ USD thâu tóm World Labs của Fei-Fei Li",
+   "link": "https://bbw.vn/amd-chi-82-ty-usd-thau-tom-world-labs-cua-fei-fei-li-60673.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:f452d0320b",
+   "title": "Đường cong lợi suất Mỹ đảo chiều, rủi ro kinh tế gia tăng khi Fed tăng lãi suất",
+   "translated": false,
+   "original_title": "Đường cong lợi suất Mỹ đảo chiều, rủi ro kinh tế gia tăng khi Fed tăng lãi suất",
+   "link": "https://bbw.vn/duong-cong-loi-suat-my-dao-chieu-rui-ro-kinh-te-gia-tang-khi-fed-tang-lai-suat-60672.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:a69f2f962b",
+   "title": "Jev cạnh tranh với các mô hình AI lớn bằng tốc độ và chi phí",
+   "translated": false,
+   "original_title": "Jev cạnh tranh với các mô hình AI lớn bằng tốc độ và chi phí",
+   "link": "https://bbw.vn/jev-canh-tranh-voi-cac-mo-hinh-ai-lon-bang-toc-do-va-chi-phi-60671.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:0c04610972",
+   "title": "Sam Altman hé lộ Dots: Trợ lý AI “luôn trực” mới của OpenAI, chưa vội IPO",
+   "translated": false,
+   "original_title": "Sam Altman hé lộ Dots: Trợ lý AI \"luôn trực\" mới của OpenAI, chưa vội IPO",
+   "link": "https://bbw.vn/sam-altman-he-lo-dots-tro-ly-ai-luon-truc-moi-cua-openai-chua-voi-ipo-60668.html"
+  }
+ ],
+ "content_sha": "3ef7aa7e2c879bc4bc5f1302c24ba391731ee7473912906d0ae4ad0e7dc28062"
+}
