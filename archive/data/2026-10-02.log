@@ -1,0 +1,41 @@
+
+########## CHAY LUC 2026-10-02 06:57:26 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-02, ban daily)
+   the gioi 20 tin · Viet Nam 62 tin / 10 bao · phap ly 5 tin · chot quyen 2 ma
+   CANH BAO [C9] world[18]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[19]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C3] dividends[0]: ĐKCC 2026-10-26 ngoài khoảng hôm nay→+10 ngày
+   CANH BAO [C3] dividends[1]: ĐKCC 2026-10-13 ngoài khoảng hôm nay→+10 ngày
+   THAT BAI: 3 loi
+      [C1] bulletin.market_data.domestic[2].value: chuỗi quá dài (49 > 40)
+      [C1] bulletin.market_data.domestic[3].change: chuỗi quá dài (68 > 30)
+      [C4] world[18]: URL không hợp lệ 'http://vietstock.vn/2026/10/cong-ty-do-ty-phu-jensen-huang-l' (nguồn web phải https)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-10-02 06:58:24 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-02, ban daily)
+   the gioi 18 tin · Viet Nam 62 tin / 10 bao · phap ly 5 tin · chot quyen 0 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-02 · the gioi 18 · Viet Nam 62 · phap ly 5
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-02.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-10-02: commit e739adc1a08d · sha noi dung c8b89f493d633091
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 02/10 | content_sha 3ef7aa7e2c87 | commit e739adc1a08d
+   telegram user/928f6fc4179d OK message_id=273
+   zalo     user/593dd2adbb87 OK message_id=39d6c0a42a0d5154081b
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-02.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-10-02 06:59:01 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

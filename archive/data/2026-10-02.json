@@ -567,5 +567,44 @@
    "link": "https://bbw.vn/sam-altman-he-lo-dots-tro-ly-ai-luon-truc-moi-cua-openai-chua-voi-ipo-60668.html"
   }
  ],
- "content_sha": "3ef7aa7e2c879bc4bc5f1302c24ba391731ee7473912906d0ae4ad0e7dc28062"
+ "content_sha": "3ef7aa7e2c879bc4bc5f1302c24ba391731ee7473912906d0ae4ad0e7dc28062",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "e739adc1a08d48ed5982e0a9f966814cc678a78c",
+   "published_at": "2026-10-02T06:58:58+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "273",
+   "sent_at": "2026-10-02T06:58:59+07:00",
+   "content_sha": "3ef7aa7e2c879bc4bc5f1302c24ba391731ee7473912906d0ae4ad0e7dc28062",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "273",
+     "sent_at": "2026-10-02T06:58:59+07:00",
+     "content_sha": "3ef7aa7e2c879bc4bc5f1302c24ba391731ee7473912906d0ae4ad0e7dc28062"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "39d6c0a42a0d5154081b",
+   "sent_at": "2026-10-02T06:59:01+07:00",
+   "content_sha": "3ef7aa7e2c879bc4bc5f1302c24ba391731ee7473912906d0ae4ad0e7dc28062",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "39d6c0a42a0d5154081b",
+     "sent_at": "2026-10-02T06:59:01+07:00",
+     "content_sha": "3ef7aa7e2c879bc4bc5f1302c24ba391731ee7473912906d0ae4ad0e7dc28062"
+    }
+   ]
+  }
+ }
 }
