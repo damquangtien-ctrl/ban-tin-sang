@@ -188,5 +188,44 @@
    "link": "https://bbw.vn/trung-tam-du-lieu-ai-lam-nong-ca-khu-dan-cu-my-co-noi-tang-toi-2-do-c-60714.html"
   }
  ],
- "content_sha": "a659aa54b0671864f4ea088179e04c61e23112c64cba26b90b1caabbfeeadcd9"
+ "content_sha": "a659aa54b0671864f4ea088179e04c61e23112c64cba26b90b1caabbfeeadcd9",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "e741f13c52488737c6a53ae3bccf0a080d582026",
+   "published_at": "2026-10-04T06:48:59+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "275",
+   "sent_at": "2026-10-04T06:48:59+07:00",
+   "content_sha": "a659aa54b0671864f4ea088179e04c61e23112c64cba26b90b1caabbfeeadcd9",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "275",
+     "sent_at": "2026-10-04T06:48:59+07:00",
+     "content_sha": "a659aa54b0671864f4ea088179e04c61e23112c64cba26b90b1caabbfeeadcd9"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "241c5db25e6c23357a7a",
+   "sent_at": "2026-10-04T06:49:01+07:00",
+   "content_sha": "a659aa54b0671864f4ea088179e04c61e23112c64cba26b90b1caabbfeeadcd9",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "241c5db25e6c23357a7a",
+     "sent_at": "2026-10-04T06:49:01+07:00",
+     "content_sha": "a659aa54b0671864f4ea088179e04c61e23112c64cba26b90b1caabbfeeadcd9"
+    }
+   ]
+  }
+ }
 }
