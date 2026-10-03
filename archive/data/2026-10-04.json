@@ -1,0 +1,192 @@
+{
+ "date": "2026-10-04",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Houthi Yemen tuyên bố tấn công cơ sở Aramco tại Riyadh bằng tên lửa và drone, làm nóng rủi ro địa chính trị với giá dầu."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Biên bản họp Fed và ECB công bố tuần tới dự kiến nêu bật lo ngại lạm phát sau dữ liệu việc làm yếu của Mỹ."
+  },
+  {
+   "source": "Reuters",
+   "text": "Jay Clayton được chọn đứng đầu lực lượng đặc nhiệm AI của Tổng thống Trump, phải nộp báo cáo trong 120 ngày."
+  },
+  {
+   "source": "Reuters",
+   "text": "Petroecuador tuyên bố bất khả kháng tại một trạm bơm đường ống SOTE sau vụ cháy, đe dọa nguồn cung dầu."
+  },
+  {
+   "source": "Vietstock",
+   "text": "VN-Index giảm phiên thứ năm liên tiếp về 1.737,71 điểm, khối ngoại bán ròng hơn 3.361 tỷ đồng trên HOSE."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-11,59 (-0,66%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.737,71"
+   },
+   {
+    "change": "-1,91 (-0,71%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "266,75"
+   },
+   {
+    "change": "+19,6% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "19.176 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 3.361 tỷ đồng"
+   },
+   {
+    "change": "-0,6 triệu đồng/lượng",
+    "direction": "down",
+    "label": "Vàng SJC",
+    "value": "Mua 140,5 · Bán 143,5 (triệu đồng/lượng)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "Mua CK 25.790 · Bán 26.170"
+   }
+  ],
+  "summary": "Các chỉ số Mỹ đồng loạt tăng trong phiên qua đêm, S&P 500 (+0,73%), Dow Jones (+0,49%) và Nasdaq (+1,19%) đều lập mức cao mới. Giá dầu WTI giảm 1,9% dù căng thẳng Trung Đông leo thang, vàng thế giới hạ 0,95% còn quanh 4.162 USD/ounce. Tại thị trường trong nước, VN-Index đóng cửa phiên 2/10 giảm 11,59 điểm (-0,66%) xuống 1.737,71 điểm, phiên giảm thứ năm liên tiếp; thanh khoản HOSE tăng 19,6% lên 19.176 tỷ đồng trong khi khối ngoại bán ròng hơn 3.361 tỷ đồng. Giá vàng SJC trong nước giảm về 140,5-143,5 triệu đồng/lượng, USD/VND tại Vietcombank niêm yết mua 25.790 - bán 26.170 đồng.",
+  "tiles": [
+   {
+    "change_pct": 0.73,
+    "label": "S&P 500",
+    "value": "7.722,7"
+   },
+   {
+    "change_pct": 0.49,
+    "label": "Dow Jones",
+    "value": "51.177,0"
+   },
+   {
+    "change_pct": 1.19,
+    "label": "Nasdaq",
+    "value": "27.190,9"
+   },
+   {
+    "change_pct": -1.9,
+    "label": "Dầu WTI",
+    "value": "91,1 USD"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "Dầu Brent",
+    "value": "102,2 USD"
+   },
+   {
+    "change_pct": -0.95,
+    "label": "Vàng thế giới",
+    "value": "4.162 USD"
+   },
+   {
+    "change_pct": 0.33,
+    "label": "Bitcoin",
+    "value": "84.779 USD"
+   },
+   {
+    "change_pct": -0.17,
+    "label": "DXY",
+    "value": "101,92"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "reuters:4a45bb8bb2",
+   "title": "Triều Tiên tuyên bố đã tiến hành diễn tập bắn tên lửa chiến lược tầm trung",
+   "translated": true,
+   "original_title": "North Korea says it conducted intermediate-range strategic missile drill",
+   "link": "https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill-2026-10-03/"
+  },
+  {
+   "ref": "reuters:436b02d009",
+   "title": "Petroecuador tuyên bố bất khả kháng tại một trạm bơm của đường ống SOTE sau vụ cháy",
+   "translated": true,
+   "original_title": "Petroecuador declara fuerza mayor en una estación de bombeo del oleoducto SOTE tras incendio",
+   "link": "https://www.reuters.com/es/mundo/4TVJCNMHZVJ4FKAKN363JWLCFU-2026-10-03/"
+  },
+  {
+   "ref": "reuters:9d25097f4b",
+   "title": "Jay Clayton sẽ đứng đầu lực lượng đặc nhiệm AI của Tổng thống Trump, nộp báo cáo trong 120 ngày - WSJ",
+   "translated": true,
+   "original_title": "Jay Clayton to lead Trump's AI task force, deliver report in 120 days, WSJ reports",
+   "link": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03/"
+  },
+  {
+   "ref": "reuters:b87493f6c8",
+   "title": "Lực lượng vũ trang Yemen tuyên bố đang không kích nhằm vào Houthi tại Sanaa",
+   "translated": true,
+   "original_title": "Yemen's armed forces say it is conducting strikes against Houthis in Sanaa",
+   "link": "https://www.reuters.com/world/middle-east/yemens-armed-forces-say-it-is-conducting-strikes-against-houthis-sanaa-2026-10-03/"
+  },
+  {
+   "ref": "reuters:9ac4af3c16",
+   "title": "Houthi Yemen tuyên bố tấn công cơ sở Aramco tại Riyadh bằng tên lửa và drone",
+   "translated": true,
+   "original_title": "Yemen's Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
+   "link": "https://www.reuters.com/business/energy/fire-smoke-seen-near-aramco-facility-riyadh-witness-says-2026-10-03/"
+  },
+  {
+   "ref": "tg-vnwallstreet:401529",
+   "title": "Theo Tasnim (Iran): tấn công tên lửa của Houthi khiến chuyến bay tại sân bay Vua Fahd, Dammam (Saudi Arabia) gián đoạn",
+   "translated": false,
+   "original_title": "▫️ Theo thông tấn xã Tasnim của Iran, do tấn công tên lửa của Yemen, các chuyến bay tại sân bay Vua Fahd ở Dammam, Saudi Arabia đã gặp gián đoạn và bị dừng hoạt động. #địa_chính_trị #dầu",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:401528",
+   "title": "Truyền thông Iran: Vệ binh Cách mạng Hồi giáo (IRGC) đã áp sát ít nhất 7 tàu chở dầu \"vi phạm\" trong 5 ngày qua",
+   "translated": false,
+   "original_title": "▫️ Truyền thông Iran: Lực lượng vệ binh Cách mạng Hồi giáo Iran gần đây tác động vào 7 tàu chở dầu \"vi phạm\" Theo Hãng thông tấn Farshnews ngày 3 tháng 10, trong 5 ngày qua, Hải quân Lực lượng vệ binh Cách mạng Hồi giáo Iran đã tác động vào ít nhất 7 tàu chở dầu \"vi phạm\" ở eo biển Hormuz. Theo báo cáo dẫn lại các nguồn thông tin, dù Chính phủ Mỹ liên tục tuyên bố \"eo biển Hormuz vẫn mở cửa và nằm",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:401527",
+   "title": "Biên bản họp Fed và ECB công bố tuần tới, dự kiến nêu bật lo ngại lạm phát",
+   "translated": false,
+   "original_title": "▫️ Biên bản họp Fed và ECB sẽ công bố tuần tới, dự kiến nêu bật lo ngại về lạm phát Dưới tác động của dữ liệu việc làm yếu ở Mỹ và biến động dữ dội trên thị trường tài chính Pháp, cảm giác khẩn cấp của các nhà hoạch định chính sách Fed và ECB trong việc tiếp theo các hành động tăng lãi suất tháng 9 đã giảm đi. Hai ngân hàng trung ương sẽ công bố biên bản họp tháng trước trong những ngày tới. Trong",
+   "link": null
+  },
+  {
+   "ref": "reuters:0366864f08",
+   "title": "Ukraine sẽ tăng cường tấn công các nhà máy lọc dầu của Nga để đáp trả \"học thuyết mới\" của Moscow, theo ông Zelenskiy",
+   "translated": true,
+   "original_title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says",
+   "link": "https://www.reuters.com/business/aerospace-defense/ukraine-will-hit-russian-refineries-response-moscows-new-doctrine-airstrikes-2026-10-03/"
+  },
+  {
+   "ref": "reuters:5e817ccbe7",
+   "title": "Iraq cho biết đã vận chuyển 2 triệu thùng dầu thô qua eo biển Hormuz",
+   "translated": true,
+   "original_title": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz",
+   "link": "https://www.reuters.com/business/energy/iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz-2026-10-03/"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:073787cc14",
+   "title": "Trung tâm dữ liệu AI làm nóng cả khu dân cư Mỹ, có nơi tăng tới 2 độ C",
+   "translated": false,
+   "original_title": "Trung tâm dữ liệu AI làm nóng cả khu dân cư Mỹ, có nơi tăng tới 2 độ C",
+   "link": "https://bbw.vn/trung-tam-du-lieu-ai-lam-nong-ca-khu-dan-cu-my-co-noi-tang-toi-2-do-c-60714.html"
+  }
+ ],
+ "content_sha": "a659aa54b0671864f4ea088179e04c61e23112c64cba26b90b1caabbfeeadcd9"
+}
