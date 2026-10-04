@@ -1,0 +1,632 @@
+{
+ "date": "2026-10-05",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Vietstock",
+   "text": "VN-Index giảm phiên thứ 5 liên tiếp về 1.737,71 điểm, khối ngoại bán ròng thêm hơn 3.283 tỷ đồng trên HOSE"
+  },
+  {
+   "source": "CafeF",
+   "text": "PNJ giảm sàn 5 phiên liên tiếp, khối ngoại tiếp tục bán ròng mạnh nhất lịch sử giao dịch"
+  },
+  {
+   "source": "MarketTimes",
+   "text": "MBB trở thành ngân hàng đầu tiên tại Việt Nam vượt mốc 100.000 tỷ đồng vốn điều lệ"
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "CME FedWatch: xác suất Fed giữ nguyên lãi suất tháng 10 ở mức 77,9%"
+  },
+  {
+   "source": "Reuters",
+   "text": "OPEC+ giữ nguyên sản lượng dầu tháng 11, giá dầu tăng sau vụ Houthi tấn công Saudi Aramco"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:e7ea801b6c",
+     "title": "CTB: Bị xử phạt và truy thu thuế hơn 4,6 tỷ đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f9690d6809",
+     "title": "Tăng chế tài xử phạt với các vi phạm về chào bán, giao dịch trái phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8435977959",
+     "title": "ILB: Bị xử phạt 157,5 triệu đồng liên quan nhiều vi phạm công bố thông tin"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:2141c1fd31",
+     "title": "Những thông tin toà án bắt buộc phải công khai từ tháng 10"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:eef4ba5efa",
+     "title": "Thao túng, thổi phồng giá trị danh mục toàn cổ phiếu \"rác\", loạt quỹ đầu tư tại thị trường chứng khoán 400 tỷ USD sụp đổ, gần nửa triệu nhà đầu tư lao đao"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-11,59 (-0,66%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.737,71 điểm"
+   },
+   {
+    "change": "-0,71%",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "266,75 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "hơn 14.400 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng hơn 3.283 tỷ đồng"
+   },
+   {
+    "change": "Đi ngang",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "Mua 140,5 - Bán 143,5 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.170 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ tăng điểm phiên cuối tuần khi kỳ vọng Fed giữ nguyên lãi suất tháng 10 gia tăng (77,9% theo CME FedWatch), với S&P 500 tăng 0,73%, Dow Jones tăng 0,49%, Nasdaq tăng 1,19%; giá dầu đi lên sau vụ Houthi tấn công cơ sở Saudi Aramco và OPEC+ giữ nguyên sản lượng tháng 11, vàng thế giới nhích nhẹ lên quanh 4.172 USD/ounce. Trong nước, VN-Index khép phiên 2/10 tại 1.737,71 điểm, giảm 11,59 điểm (-0,66%), đánh dấu phiên giảm thứ 5 liên tiếp; HNX-Index giảm 0,71% về 266,75 điểm. Thanh khoản HOSE đạt hơn 14.400 tỷ đồng trong khi khối ngoại tiếp tục bán ròng hơn 3.283 tỷ đồng trên HOSE, tập trung tại PNJ, HDB, VIC và TCB. Giá vàng SJC giữ nguyên quanh 140,5-143,5 triệu đồng/lượng, USD/VND tại Vietcombank niêm yết bán ra 26.170 đồng.",
+  "tiles": [
+   {
+    "change_pct": 0.73,
+    "label": "S&P 500",
+    "value": "7.722,7"
+   },
+   {
+    "change_pct": 0.49,
+    "label": "Dow Jones",
+    "value": "51.177,0"
+   },
+   {
+    "change_pct": 1.19,
+    "label": "Nasdaq",
+    "value": "27.190,9"
+   },
+   {
+    "change_pct": -0.02,
+    "label": "Dầu WTI",
+    "value": "91,1 USD"
+   },
+   {
+    "change_pct": 0.37,
+    "label": "Dầu Brent",
+    "value": "102,6 USD"
+   },
+   {
+    "change_pct": 0.23,
+    "label": "Vàng thế giới",
+    "value": "4.172 USD"
+   },
+   {
+    "change_pct": 2.0,
+    "label": "Bitcoin",
+    "value": "86.459 USD"
+   },
+   {
+    "change_pct": -0.04,
+    "label": "DXY",
+    "value": "101,89"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:1c6c14a5a2",
+     "title": "VIC: Tỷ phú Phạm Nhật Vượng dốc 9.000 người, 2.000 máy móc vào siêu dự án 18 tỷ USD, Đại lộ Thiên đường dần lộ diện"
+    },
+    {
+     "ref": "cafef:df36426fbb",
+     "title": "Bộ Tài chính triển khai đồng bộ 4 nhóm giải pháp phát triển thị trường chứng khoán sau nâng hạng"
+    },
+    {
+     "ref": "cafef:81f8a59aae",
+     "title": "Dấu hiệu xác nhận đáy của VN-Index?"
+    },
+    {
+     "ref": "cafef:17ba94e367",
+     "title": "GDP quý 3/2026 tăng trưởng gần 10%, chuyên gia chứng khoán nói gì?"
+    },
+    {
+     "ref": "cafef:f82c67a23b",
+     "title": "Trước PNJ, một cổ phiếu Việt Nam cũng từng khiến loạt quỹ ngoại vất vả “tháo chạy”"
+    },
+    {
+     "ref": "cafef:010c787ab5",
+     "title": "Chứng khoán tuần tới: Có lấy lại được ngưỡng 1.800 điểm?"
+    },
+    {
+     "ref": "cafef:57039b10c2",
+     "title": "Góc nhìn chuyên gia: Hiệu ứng \"tin ra là bán\" có thể chưa kết thúc, một nhóm ngành được kỳ vọng là điểm sáng tăng trưởng trong quý 3"
+    },
+    {
+     "ref": "cafef:a81250703c",
+     "title": "Chứng khoán sau 5 phiên giảm liên tiếp: Rủi ro chưa qua?"
+    },
+    {
+     "ref": "cafef:ab0c880a1f",
+     "title": "GEE: Gelex Electric muốn đổi tên, mở rộng sang lĩnh vực công nghiệp và công nghệ"
+    },
+    {
+     "ref": "cafef:f9d02dd6cd",
+     "title": "Một cổ phiếu trên HoSE bất ngờ “cưa đôi” chỉ sau 2 tuần"
+    },
+    {
+     "ref": "cafef:efa45fb634",
+     "title": "Hơn cả nâng hạng, một sự kiện có thể tác động mạnh đến thị trường vốn Việt Nam, Chính phủ \"chốt KPI\" thực hiện"
+    },
+    {
+     "ref": "cafef:43528a6903",
+     "title": "90% giao dịch chứng khoán đến từ cá nhân, Chủ tịch HSC chỉ ra một vấn đề lớn"
+    },
+    {
+     "ref": "cafef:9b5aec2688",
+     "title": "Tín dụng đã xấp xỉ 150% GDP, chuyên gia gợi ý cách mở thêm “đường dẫn” cho vốn dài hạn"
+    },
+    {
+     "ref": "cafef:51372e1074",
+     "title": "PNJ: Nêu lý do khiến cổ phiếu giảm sàn 5 phiên liên tiếp"
+    },
+    {
+     "ref": "cafef:b1ec7cc726",
+     "title": "Thứ trưởng Bộ Tài chính: Sẽ trình Quốc hội sửa Luật Chứng khoán ngay kỳ họp tháng 10"
+    },
+    {
+     "ref": "cafef:2b5a364cdc",
+     "title": "Ngăn chặn, xử lý nghiêm các vi phạm trên thị trường chứng khoán"
+    },
+    {
+     "ref": "cafef:6945c6e50b",
+     "title": "Bộ Công Thương yêu cầu tuyệt đối không găm xăng dầu"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:153ff065eb",
+     "title": "Chuyển cổ phiếu niêm yết HNX về HOSE"
+    },
+    {
+     "ref": "vietstock:7eb1b0ec1e",
+     "title": "Góc nhìn tuần 05-09/10: Chọn cổ phiếu khỏe khi thị trường còn dò đáy"
+    },
+    {
+     "ref": "vietstock:1083c86268",
+     "title": "Giao dịch CFD qua broker nước ngoài chưa thể mặc định chịu thuế 0.1%"
+    },
+    {
+     "ref": "vietstock:6f750046e0",
+     "title": "Xuất khẩu gạo sang Iraq trong 9 tháng của năm 2026 tăng đột biến"
+    },
+    {
+     "ref": "vietstock:57edfbbd93",
+     "title": "Samsung muốn kỹ sư Việt tham gia sâu hơn vào R&D"
+    },
+    {
+     "ref": "vietstock:923e921ba1",
+     "title": "Thị trường chứng quyền tuần 05/10-09/10/2026: Triển vọng thị trường vẫn còn tiêu cực"
+    },
+    {
+     "ref": "vietstock:b605aaba5f",
+     "title": "Chuyên gia gợi ý những định hướng phát triển chuỗi giá trị đất hiếm Việt Nam"
+    },
+    {
+     "ref": "vietstock:244363dc8a",
+     "title": "Vietstock Weekly 05-09/10/2026: Tiếp tục suy yếu?"
+    },
+    {
+     "ref": "vietstock:3e39a2e531",
+     "title": "Bài toán thuế carbon trong chuỗi cung ứng toàn cầu"
+    },
+    {
+     "ref": "vietstock:74faa86bc2",
+     "title": "DPG: Đạt Phương tiếp tục điều chỉnh quy mô tổ hợp nghỉ dưỡng ven biển Đà Nẵng gần 200ha"
+    },
+    {
+     "ref": "vietstock:59724970d6",
+     "title": "Nghịch lý vận tải biển (Kỳ 2): Tàu chở dầu và chuyên dụng liên tục tạo đỉnh giá và làn sóng đặt siêu tàu"
+    },
+    {
+     "ref": "vietstock:d1c2fc4f17",
+     "title": "Vàng giảm 50 triệu đồng từ đỉnh, người mua nóng ruột tính bán gửi ngân hàng"
+    },
+    {
+     "ref": "vietstock:4980aa4e63",
+     "title": "Chuyển động quỹ đầu tư: VietinBank Capital giao dịch sôi động tại HAH và PET"
+    },
+    {
+     "ref": "vietstock:a86f32ad49",
+     "title": "Chứng khoán phái sinh tuần 05-09/10/2026: Tâm lý bi quan bao trùm"
+    },
+    {
+     "ref": "vietstock:0115825a49",
+     "title": "Tập trung tín dụng vào các lĩnh vực ưu tiên, lĩnh vực là động lực của tăng trưởng kinh tế"
+    },
+    {
+     "ref": "vietstock:0ee4c7c667",
+     "title": "Thứ trưởng Bộ Tài chính: Cắt giảm thủ tục hành chính, tạo thuận lợi cho nhà đầu tư ngoại tiếp cận TTCK Việt Nam"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:c4390be485",
+     "title": "Dòng tiền bắt đáy xuất hiện, VN-Index vẫn chịu áp lực giảm"
+    },
+    {
+     "ref": "vneconomy:336b423736",
+     "title": "Thanh khoản UpCom tăng 25,22% trong tháng 9"
+    },
+    {
+     "ref": "vneconomy:d3b2237e69",
+     "title": "Xu thế dòng tiền: Không nên “nhắm mắt” bán tháo theo chỉ số"
+    },
+    {
+     "ref": "vneconomy:259589ab77",
+     "title": "Thông tư 50/2026: Hỗ trợ thanh khoản, tạo dự đia cho vay tác động tích cực tới nhóm ngân hàng niêm yết"
+    },
+    {
+     "ref": "vneconomy:e30cb51689",
+     "title": "Bộ trưởng Tài chính: Kiên trì tất cả mục tiêu phát triển thị trường chứng khoán trong thời gian tới"
+    },
+    {
+     "ref": "vneconomy:ad11e64a6a",
+     "title": "Thanh khoản \"teo tóp\" , tiền vẫn rút ra khỏi cổ phiếu ngân hàng và bất động sản trong tuần qua"
+    },
+    {
+     "ref": "vneconomy:2cde78a81d",
+     "title": "Khối ngoại bất ngờ xả ròng ồ ạt 3.300 tỷ phiên cuối tuần, tiếp tục bán tháo PNJ"
+    },
+    {
+     "ref": "vneconomy:c6738c9756",
+     "title": "Vàng sụt giá dù số liệu việc làm Mỹ yếu hơn dự báo, hoàn tất một tuần giảm"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:77bfe7f0ec",
+     "title": "Nhận định thị trường phiên giao dịch ngày 5/10: Quản trị rủi ro, hạ tỷ trọng margin"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9eca832f7d",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 5/10: Có thể xuất hiện nhịp hồi kỹ thuật"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1db9caa96e",
+     "title": "Cổ phiếu cần quan tâm ngày 5/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:21ad9c38a8",
+     "title": "G7 xả kho dầu: Hạ nhiệt được bao lâu?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c89f21eade",
+     "title": "Mở đường cho dòng vốn dài hạn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5dfcafff93",
+     "title": "Góc nhìn chuyên gia chứng khoán tuần mới: Tìm kiếm cơ hội đầu tư, đón đầu mùa báo cáo quý III"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:84cf98b09e",
+     "title": "Bộ trưởng Ngô Văn Tuấn: Tiếp tục cải cách thủ tục thuế, tạo thuận lợi cho doanh nghiệp"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9b766fdf74",
+     "title": "Kinh tế 9 tháng năm 2026: Lộ diện 12 địa phương tăng trưởng 2 con số"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:10b5069df0",
+     "title": "Xuất khẩu điện tử 9 tháng đạt 175,4 tỷ USD, mốc 200 tỷ USD đang đến gần"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:958eac95ea",
+     "title": "Môi trường kinh doanh: Những tín hiệu mới từ cấp thực thi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8e41582026",
+     "title": "KAI: Chứng khoán KAFI huy động 500 tỷ đồng trái phiếu để cơ cấu nợ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d8220c69bf",
+     "title": "Nhìn lại dự báo chứng khoán tuần qua"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a851f22929",
+     "title": "Gần 149.700 doanh nghiệp thành lập mới trong tháng 9, vốn đăng ký tăng 32,7%"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ea3e1db0b2",
+     "title": "Sản xuất công nghiệp tăng 12,3%, cao nhất 9 tháng kể từ năm 2019"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a5f2ea8a2b",
+     "title": "1.450 tỷ USD và bài toán hấp thụ vốn cho chu kỳ tăng trưởng mới"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f0d10535ac",
+     "title": "Sẽ sửa Luật Điện lực và điều chỉnh Quy hoạch Điện VIII"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:427151d234",
+     "title": "Bài toán phía sau cuộc đua xanh của khu công nghiệp thế hệ mới"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:748c49dbb1",
+     "title": "LPS: Duyệt chi gần 123 tỷ đồng đầu tư vào Sacom Life"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6e2b49ed42",
+     "title": "Ông Johan Nyvene: Nguồn vốn dài hạn phải bắt đầu từ thị trường nội địa"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:df61e91363",
+     "title": "Thị trường bán lẻ: Không còn cuộc đua mở thêm cửa hàng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:58fa1b87e9",
+     "title": "Cán cân thương mại đảo chiều, xuất siêu quay trở lại trong tháng 9/2026"
+    },
+    {
+     "ref": "b-o-u-t:1a37f583c6",
+     "title": "Giao dịch ngược chiều của khối ngoại trên HoSE và UPCoM, PNJ vẫn là tâm điểm"
+    },
+    {
+     "ref": "b-o-u-t:71c5cd09fc",
+     "title": "Bộ Công thương yêu cầu thương nhân lo đủ xăng dầu cho thị trường quý IV/2026"
+    },
+    {
+     "ref": "b-o-u-t:5a97764b0a",
+     "title": "Góc nhìn TTCK tuần 5/10 - 9/10: VN-Index tìm điểm cân bằng"
+    },
+    {
+     "ref": "b-o-u-t:dfbc76d2fd",
+     "title": "Bộ Tài chính chủ trì tổ chức công tác đánh giá xếp hạng tín nhiệm quốc gia"
+    },
+    {
+     "ref": "b-o-u-t:8c72ff4e13",
+     "title": "Chứng khoán Pinetree thông báo phát hành 10 mã chứng quyền có bảo đảm mới (Kỳ 3)"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:5e9e9282fc",
+     "title": "MBB: Trở thành ngân hàng đầu tiên tại Việt Nam vượt mốc 100.000 tỷ đồng vốn điều lệ"
+    },
+    {
+     "ref": "markettimes:9a6361269e",
+     "title": "Tài chính tuần qua: Lãi suất huy động nguồn vốn qua kênh trái phiếu của ngân hàng neo lên 10,5%/năm"
+    },
+    {
+     "ref": "markettimes:461ba22d61",
+     "title": "Chứng khoán tuần qua: Thị trường \"lao dốc\", khối ngoại \"xả\" ròng hơn 5.000 tỷ đồng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:1f1848d36f",
+     "title": "GDP năm 2026 có thể đạt 10%, nhưng thành quả tăng trưởng phải lan tỏa rộng hơn"
+    },
+    {
+     "ref": "vnbusiness:b3bada21df",
+     "title": "Đường sắt tốc độ cao Hà Nội - Quảng Ninh và Bến Thành - Cần Giờ đồng loạt thi công những phiến dầm đầu tiên"
+    },
+    {
+     "ref": "vnbusiness:bb567f58cb",
+     "title": "CPI 9 tháng vượt ngưỡng 4,5%, dư địa kiểm soát lạm phát còn bao nhiêu?"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:d80b5d0d78",
+     "title": "Doanh nghiệp Trung Quốc được cấp phép tham gia làm metro hơn 55.000 tỷ tại TPHCM"
+    },
+    {
+     "ref": "ti-n-phong:0576031605",
+     "title": "Chưa thể hết lo với thị trường xăng dầu cuối năm"
+    },
+    {
+     "ref": "ti-n-phong:6632c21246",
+     "title": "9 tháng năm 2026, TKV nộp ngân sách Nhà nước 20.042 tỷ đồng"
+    },
+    {
+     "ref": "ti-n-phong:5fc0cde482",
+     "title": "'Bộ lọc' mới của dòng tiền đầu tư bất động sản"
+    },
+    {
+     "ref": "ti-n-phong:e7da5d8d59",
+     "title": "Những động lực thúc đẩy tăng trưởng 12,5% trong quý IV"
+    },
+    {
+     "ref": "ti-n-phong:86e688d517",
+     "title": "Doanh nghiệp Việt đang đầu tư AI như thế nào?"
+    },
+    {
+     "ref": "ti-n-phong:ea5a69f5c9",
+     "title": "Lý do các đơn vị đồng loạt nâng dự báo tăng trưởng GDP Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:9d43ddeb9e",
+     "title": "Hơn 5.000 dự án với tổng vốn 3,5 triệu tỷ đồng đang 'mắc kẹt'"
+    },
+    {
+     "ref": "ti-n-phong:e10c231a28",
+     "title": "Lý do triển khai Quy hoạch điện VIII 'tương đối chậm'"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:ae73d9a363",
+     "title": "Nghịch lý sau nâng hạng: VN-Index đỏ lửa, khối ngoại xả hàng"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:54be7ed2ba",
+     "title": "EVNNPT chủ động đa dạng hóa nguồn vốn phát triển lưới truyền tải điện đến năm 2030"
+    },
+    {
+     "ref": "bnews:ad51c55742",
+     "title": "Một tuần \"lệch pha\" trên chứng khoán Phố Wall"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:321910f0cc",
+   "title": "Chứng khoán châu Á dự báo tăng khi kỳ vọng tăng lãi suất hạ nhiệt, giá dầu đi lên",
+   "translated": true,
+   "original_title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap"
+  },
+  {
+   "ref": "reuters:af94682726",
+   "title": "Công nhân Apache ủng hộ đình công, có thể làm gián đoạn đường ống dầu Forties ở Biển Bắc",
+   "translated": true,
+   "original_title": "Apache workers back strike that could disrupt North Sea Forties oil pipeline, union says",
+   "link": "https://www.reuters.com/business/energy/apache-workers-back-strike-that-could-disrupt-north-sea-forties-oil-pipeline-2026-10-04/"
+  },
+  {
+   "ref": "reuters:907784f688",
+   "title": "Giá dầu tăng sau khi lực lượng Houthi (Yemen) tấn công các cơ sở của Saudi Aramco",
+   "translated": true,
+   "original_title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites",
+   "link": "https://www.reuters.com/business/energy/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-2026-10-04/"
+  },
+  {
+   "ref": "reuters:a0385e9415",
+   "title": "Anh sắp áp thuế quan lên xe điện Trung Quốc, theo The Times",
+   "translated": true,
+   "original_title": "Britain set to levy tariffs on Chinese electric cars, The Times reports",
+   "link": "https://www.reuters.com/world/uk/britain-expected-impose-tariffs-chinese-electric-cars-times-reports-2026-10-04/"
+  },
+  {
+   "ref": "reuters:a1edf1f8ce",
+   "title": "CEO OpenAI Sam Altman: Lợi ích của AI đủ lớn để chấp nhận một số rủi ro",
+   "translated": true,
+   "original_title": "OpenAI's Altman says AI benefits warrant accepting some risks",
+   "link": "https://www.reuters.com/business/openais-altman-says-ai-benefits-warrant-accepting-some-risks-2026-10-04/"
+  },
+  {
+   "ref": "reuters:11edae715c",
+   "title": "Quan hệ Ấn Độ - Trung Quốc tan băng nhưng đối mặt phép thử kinh tế lớn",
+   "translated": true,
+   "original_title": "India-China thaw faces major economic tests",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/india-china-thaw-faces-major-economic-tests-manishi-raychaudhuri-2026-10-04/"
+  },
+  {
+   "ref": "tg-dubaotiente:107777",
+   "title": "Bộ trưởng Tài chính Úc: Chiến tranh Iran là thảm họa kinh tế, lợi suất tăng khiến ngân sách tốn thêm hàng tỷ USD",
+   "original_title": "(Tiêu điểm) Bộ trưởng Tài chính Úc: Chiến tranh Iran là thảm họa kinh tế, lợi suất tăng khiến ngân sách tốn thêm hàng tỷ USD Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bo-truong-tai-chinh-uc-chien-tranh-iran-la-tham-hoa-kinh-te-loi-suat-tang-khien-ngan-sach-ton-them-hang-ty-usd-112803.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107776",
+   "title": "Giao dịch vàng hôm nay: Hợp đồng tương lai vàng nghiêng về giảm dưới 4.195 USD, phe mua cần lấy lại 4.217 USD",
+   "original_title": "(Tiêu điểm) Giao dịch vàng hôm nay: Hợp đồng tương lai vàng nghiêng về giảm dưới 4,195 USD, phe mua cần lấy lại 4,217 USD Chi tiết xem tại: https://dubaotiente.net/tieu-diem/giao-dich-vang-hom-nay-hop-dong-tuong-lai-vang-nghieng-ve-giam-duoi-4195-usd-phe-mua-can-lay-lai-4217-usd-112802.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107775",
+   "title": "Iran cáo buộc Mỹ bí mật gửi đề xuất hòa bình trong khi công khai tỏ thái độ cứng rắn",
+   "original_title": "(Tiêu điểm) Iran cáo buộc Mỹ bí mật gửi đề xuất hòa bình trong khi công khai tỏ thái độ cứng rắn Chi tiết xem tại: https://dubaotiente.net/tieu-diem/iran-cao-buoc-my-bi-mat-gui-de-xuat-hoa-binh-trong-khi-cong-khai-to-thai-do-cung-ran-112801.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107772",
+   "title": "Lịch kinh tế và sự kiện châu Á thứ Hai, ngày 5/10/2026 - Úc nghỉ lễ",
+   "original_title": "(Tiêu điểm) Lịch kinh tế và sự kiện châu Á thứ Hai, ngày 5/10/2026 - Úc nghỉ lễ Chi tiết xem tại: https://dubaotiente.net/tieu-diem/lich-kinh-te-va-su-kien-chau-a-thu-hai-ngay-5-10-2026-uc-nghi-le-112798.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107771",
+   "title": "OPEC+ giữ nguyên sản lượng tháng 11, nhóm nòng cốt vẫn thấp hơn mức trước chiến tranh 5 triệu thùng/ngày",
+   "original_title": "(Tiêu điểm) OPEC+ giữ nguyên sản lượng tháng 11, nhóm nòng cốt vẫn thấp hơn mức trước chiến tranh 5 triệu thùng/ngày Chi tiết xem tại: https://dubaotiente.net/tieu-diem/opec-giu-nguyen-san-luong-thang-11-nhom-nong-cot-van-thap-hon-muc-truoc-chien-tranh-5-trieu-thung-ngay-112797.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:401576",
+   "title": "Xác suất Fed giữ nguyên lãi suất tháng 10 là 77,9% (CME FedWatch); đến tháng 12, khả năng tăng 25 điểm cơ bản là 62,3%",
+   "original_title": "▫️ Xác suất Fed giữ nguyên lãi suất vào tháng 10 là 77,9% Theo CME Fed Watch: xác suất Fed giữ nguyên lãi suất đến tháng 10 là 77,9%, xác suất tăng lãi suất 25 điểm cơ bản là 22,1%. Đến tháng 12, xác suất giữ nguyên lãi suất là 11,4%, tăng 25 điểm cơ bản là 62,3%, tăng 50 điểm cơ bản là 24,3%, tăng 75 điểm cơ bản là 2,1%. #fed #lãi_suất",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1051826",
+   "title": "Mỹ di dời máy bay ném bom B-1 khỏi căn cứ ở Anh sau đe dọa tấn công từ Iran - Axios",
+   "translated": true,
+   "original_title": "US B-1 BOMBERS EVACUATED FROM UK BASE AFTER ATTACK THREATS FROM IRAN - AXIOS ...",
+   "link": null
+  }
+ ],
+ "content_sha": "52d07bb8a9a600f21ccf318a26455b30e0ffad08d6b10d3dfe090b6c744100f8"
+}
