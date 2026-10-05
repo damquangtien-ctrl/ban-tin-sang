@@ -1,0 +1,558 @@
+{
+ "date": "2026-10-06",
+ "dividends": [
+  {
+   "event": "Tạm ứng cổ tức tiền mặt tỷ lệ 65% (6.500 đồng/cp)",
+   "record_date": "2026-10-06",
+   "ref": "cafef:a44224b84d",
+   "ticker": "NET"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 14,4% (1.440 đồng/cp)",
+   "record_date": "2026-10-06",
+   "ref": "cafef:a44224b84d",
+   "ticker": "SNZ"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 10% (1.000 đồng/cp)",
+   "record_date": "2026-10-06",
+   "ref": "cafef:a44224b84d",
+   "ticker": "DGW"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 12% (1.200 đồng/cp)",
+   "record_date": "2026-10-08",
+   "ref": "cafef:a44224b84d",
+   "ticker": "BIC"
+  },
+  {
+   "event": "Trả cổ tức bằng cổ phiếu tỷ lệ 10%",
+   "record_date": "2026-10-08",
+   "ref": "cafef:a44224b84d",
+   "ticker": "KDH"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 10% (1.000 đồng/cp)",
+   "record_date": "2026-10-08",
+   "ref": "cafef:a44224b84d",
+   "ticker": "MWG"
+  },
+  {
+   "event": "Trả cổ tức tiền mặt tỷ lệ 5% (500 đồng/cp)",
+   "record_date": "2026-10-09",
+   "ref": "cafef:a44224b84d",
+   "ticker": "SHS"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VnEconomy",
+   "text": "VN-Index tăng 15,49 điểm (+0,89%) lên 1.753,2 điểm phiên 5/10, chấm dứt chuỗi 5 phiên giảm nhờ VIC, VHM"
+  },
+  {
+   "source": "CafeF",
+   "text": "Khối ngoại bán ròng hơn 283 tỷ đồng phiên 5/10, tháng thứ 9 liên tiếp bán ròng"
+  },
+  {
+   "source": "Bloomberg/Reuters",
+   "text": "Phố Wall lập đỉnh mới: S&P 500 áp sát kỷ lục, Nasdaq đóng cửa cao kỷ lục nhờ cổ phiếu công nghệ"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Giá dầu giảm gần 2% xuống thấp nhất nhiều năm sau khi Saudi Aramco hạ giá bán cho châu Á"
+  },
+  {
+   "source": "Vietstock",
+   "text": "DRH đối mặt nguy cơ bị đình chỉ giao dịch và hủy niêm yết bắt buộc trên HOSE"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:88f14c72ee",
+     "title": "TSB: Cựu Chủ tịch HĐQT Lưu Bách Đạt bị khởi tố, doanh nghiệp kiện toàn lại HĐQT"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:90316bc500",
+     "title": "9 người bị khởi tố trong vụ đưa hơn 10.000 tấn heo dùng chất cấm ra thị trường"
+    },
+    {
+     "ref": "vietstock:243bc905d1",
+     "title": "DRH: Sẽ bị đình chỉ giao dịch, đối mặt nguy cơ hủy niêm yết bắt buộc"
+    },
+    {
+     "ref": "vietstock:c09c701f6c",
+     "title": "DST: Bị xử phạt thuế gần 170 triệu đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:a99ad55979",
+     "title": "Ống đồng rãnh xuất khẩu sang Ấn Độ vướng điều tra \"kép\""
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:1ace0f7cf1",
+     "title": "TPB: Công bố kết luận thanh tra tại chi nhánh Hải Phòng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:b1554c45b2",
+     "title": "FTS: Thông báo nhận được Quyết định của Thuế Hà Nội về việc xử phạt vi phạm hành chính về thuế"
+    }
+   ],
+   "source": "HOSE"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:8c206b3a95",
+     "title": "Giám đốc Dược Mỹ phẩm Vintechpharm bị khởi tố trong vụ 1,2 triệu lọ C sủi giả"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+15,49 (+0,89%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.753,2"
+   },
+   {
+    "change": "+2,87 (+1,08%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "269,62"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "10.126 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng ~283 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.810 · Bán 26.190"
+   }
+  ],
+  "summary": "Phố Wall tiếp tục lập đỉnh mới trong phiên 5/10 khi S&P 500 áp sát kỷ lục và Nasdaq đóng cửa cao kỷ lục nhờ cổ phiếu công nghệ, trong khi giá dầu giảm gần 2% sau khi Saudi Aramco hạ giá bán cho châu Á. Tại thị trường trong nước, VN-Index đóng cửa phiên 5/10 tăng 15,49 điểm (+0,89%) lên 1.753,2 điểm, chấm dứt chuỗi 5 phiên giảm liên tiếp, với lực đỡ chính từ VIC và VHM; HNX-Index tăng 1,08% lên 269,62 điểm. Thanh khoản khớp lệnh HOSE đạt khoảng 10.126 tỷ đồng, giảm so với phiên trước, trong khi khối ngoại bán ròng hơn 283 tỷ đồng trên cả ba sàn. Giá vàng SJC trong nước chưa truy cập được từ nguồn chính thức sáng nay.",
+  "tiles": [
+   {
+    "change_pct": 0.66,
+    "label": "S&P 500",
+    "value": "7.773,9"
+   },
+   {
+    "change_pct": 0.18,
+    "label": "Dow Jones",
+    "value": "51.267,9"
+   },
+   {
+    "change_pct": 1.05,
+    "label": "Nasdaq",
+    "value": "27.477,3"
+   },
+   {
+    "change_pct": -2.12,
+    "label": "Dầu WTI",
+    "value": "89,2 USD"
+   },
+   {
+    "change_pct": -1.98,
+    "label": "Dầu Brent",
+    "value": "100,2 USD"
+   },
+   {
+    "change_pct": 0.12,
+    "label": "Vàng thế giới",
+    "value": "4.167 USD"
+   },
+   {
+    "change_pct": -0.75,
+    "label": "Bitcoin",
+    "value": "85.836 USD"
+   },
+   {
+    "change_pct": 0.17,
+    "label": "DXY",
+    "value": "102,10"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:fe64f494ec",
+     "title": "Ông Nguyễn Việt Cường tiếp tục bị bán giải chấp, CTCK vẫn không bán được cổ phiếu nào"
+    },
+    {
+     "ref": "cafef:ef5b1f54bd",
+     "title": "Chuyên gia Mirae Asset gọi tên 2 cổ phiếu tiềm năng giữa môi trường lãi suất tăng cao"
+    },
+    {
+     "ref": "cafef:698b886360",
+     "title": "Khối ngoại bán ròng tháng thứ 9 liên tiếp, tiền vào chứng khoán xuống thấp nhất hơn một năm rưỡi"
+    },
+    {
+     "ref": "cafef:f40231da17",
+     "title": "Luật Chứng khoán sắp sửa đổi: Hàng loạt vấn đề nóng được đưa ra thảo luận"
+    },
+    {
+     "ref": "cafef:c7a0b78615",
+     "title": "Con trai tỷ phú Trần Đình Long \"phát tín hiệu\", nhóm cổ phiếu thép đồng loạt nổi sóng, có mã tăng kịch trần"
+    },
+    {
+     "ref": "cafef:15bbce783f",
+     "title": "Ông Phạm Nhật Vượng thuê \"bộ não\" tư vấn đường sắt cao tốc Hà Nội – Quảng Ninh"
+    },
+    {
+     "ref": "cafef:3f121937cb",
+     "title": "Một mã trên HOSE \"rơi tự do\" 60% sau nửa tháng, doanh nghiệp nói gì?"
+    },
+    {
+     "ref": "cafef:803fba9950",
+     "title": "Vốn hóa cổ phiếu trên HOSE \"bốc hơi\" 298.000 tỷ đồng trong tháng 9"
+    },
+    {
+     "ref": "cafef:e13975e84c",
+     "title": "Vượt kỳ vọng: 'Ông lớn' dầu khí Việt khai thác thêm gần 700.000 thùng dầu trong 9 tháng, khoan 27 giếng mới"
+    },
+    {
+     "ref": "cafef:efb7be2e37",
+     "title": "Cổ phiếu liên quan tỷ phú Phạm Nhật Vượng bất ngờ tăng trần"
+    },
+    {
+     "ref": "cafef:bbf7db3ef4",
+     "title": "Bộ Tài chính triển khai hỗ trợ tín dụng qua Ngân hàng Phát triển Việt Nam để DN phát triển hạ tầng bán lẻ"
+    },
+    {
+     "ref": "cafef:5667e3d688",
+     "title": "THD: Rót thêm tiền vào Thaigroup"
+    },
+    {
+     "ref": "cafef:c7d70fa3c4",
+     "title": "Một thay đổi lớn sắp áp dụng với ngân hàng: Nới tỷ lệ cho vay lên 95%, cổ phiếu nào hưởng lợi nhất?"
+    },
+    {
+     "ref": "cafef:27ed61a304",
+     "title": "LPB: Cổ phiếu tăng trần, \"cháy hàng\" sau chuỗi giảm sâu"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:1b06c1219f",
+     "title": "MZG: Sắp chào bán 30 triệu cổ phiếu cho cổ đông hiện hữu"
+    },
+    {
+     "ref": "vietstock:59e5805700",
+     "title": "PVT Logistics xin ý kiến cổ đông để chào bán thêm cổ phần, huy động vốn mở rộng đội tàu"
+    },
+    {
+     "ref": "vietstock:2e7f39a915",
+     "title": "Môi giới HOSE quý 3: Thị phần VPS tiếp tục suy giảm"
+    },
+    {
+     "ref": "vietstock:7f06254fb8",
+     "title": "Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại ASG, KOS và HPG"
+    },
+    {
+     "ref": "vietstock:9692d58da9",
+     "title": "Báo cáo Chiến lược thị trường quý 4/2026 (Kỳ 1): Trong nguy có cơ?"
+    },
+    {
+     "ref": "vietstock:245084752d",
+     "title": "MBB: Tổng Công ty 28 chào bán 2.5 triệu cổ phiếu, giá tối thiểu 20.290 đồng/cp"
+    },
+    {
+     "ref": "vietstock:97a5fee032",
+     "title": "DMX: Sắp mở mới ngành hàng AI và Robotics"
+    },
+    {
+     "ref": "vietstock:984a0e5c22",
+     "title": "HBC: Nâng vốn lên gần 4.000 tỷ sau đợt phát hành cổ phiếu hoán đổi nợ"
+    },
+    {
+     "ref": "vietstock:b69cf26d8a",
+     "title": "MSN, MSB và DXP có gì hấp dẫn?"
+    },
+    {
+     "ref": "vietstock:1b78639c21",
+     "title": "Chuyển sàn cổ phiếu HNX về HOSE, nhà đầu tư cần lưu ý gì?"
+    },
+    {
+     "ref": "vietstock:0e1ef71a54",
+     "title": "Tỷ lệ LDR và chuẩn mực Basel III: Cân bằng bài toán tăng trưởng tín dụng và an toàn hệ thống"
+    },
+    {
+     "ref": "vietstock:4fd951e8cf",
+     "title": "HDC: Tăng vốn công ty con tại Tây Ninh lên gấp 12 lần"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:0e9aa4995b",
+     "title": "Hiệu suất tăng trưởng tháng 10 thấp, yếu tố mùa vụ có thay đổi?"
+    },
+    {
+     "ref": "vneconomy:85216fee99",
+     "title": "65 cổ phiếu bị cắt margin trong quý 4/2026"
+    },
+    {
+     "ref": "vneconomy:336b423736",
+     "title": "Thanh khoản UpCom tăng 25,22% trong tháng 9"
+    },
+    {
+     "ref": "vneconomy:259589ab77",
+     "title": "Thông tư 50/2026: Hỗ trợ thanh khoản, tạo dư địa cho vay tác động tích cực tới nhóm ngân hàng niêm yết"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e637aa5f2a",
+     "title": "DGW: Vượt mốc 1 tỷ USD doanh thu sau 9 tháng, hoàn thành 84% kế hoạch năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:39c51bcb93",
+     "title": "Thủ tướng chỉ đạo ban hành ngay nghị định giảm 30% thuế"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ea190c8b7b",
+     "title": "Nhu cầu vốn dài hạn sẽ quyết định mặt bằng lãi suất"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f517ded791",
+     "title": "DMX: CEO Đoàn Văn Hiểu Em mua vào 732.000 cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d046ea910d",
+     "title": "NTL: Giá trị nội tại và nguy cơ thị trường"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:19d99f3dcc",
+     "title": "Doanh nghiệp ô tô gánh chi phí trả lãi tăng 47%, người mua xe \"gồng\" lãi thả nổi 19,5%/năm"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:f5fc35a499",
+     "title": "Cổ phiếu ngân hàng liên quan tỷ phú Phạm Nhật Vượng bất ngờ hút tiền nhóm CTCK phiên đầu tuần"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:eed815fca6",
+     "title": "Các định chế quốc tế đồng loạt nâng dự báo tăng trưởng Việt Nam"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:068fa7e5d8",
+     "title": "Dự thảo nghị định mới về kinh doanh xăng dầu có nhiều lỗ hổng cần vá?"
+    },
+    {
+     "ref": "ti-n-phong:42f0dcf98a",
+     "title": "EVN đề nghị đàm phán giảm giá điện với loạt dự án năng lượng tái tạo"
+    },
+    {
+     "ref": "ti-n-phong:d5b3928c68",
+     "title": "MBB: Trở thành ngân hàng đầu tiên tại Việt Nam vượt mốc 100.000 tỷ đồng vốn điều lệ"
+    },
+    {
+     "ref": "ti-n-phong:5fc0cde482",
+     "title": "'Bộ lọc' mới của dòng tiền đầu tư bất động sản"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:22ee49b7fd",
+     "title": "Chứng khoán hôm nay 5/10: 6 doanh nghiệp giao dịch cổ phiếu số lượng lớn"
+    },
+    {
+     "ref": "bnews:ee37a59a58",
+     "title": "Tin chứng khoán: Cập nhật mới nhất tỷ lệ nắm giữ của khối ngoại tại 3 ngân hàng \"big four\""
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:0616a3cfb1",
+     "title": "GMD: CBTT góp vốn thành lập công ty"
+    },
+    {
+     "ref": "hose:c0e098e8ac",
+     "title": "MHC: Báo cáo về ngày không còn là cổ đông lớn CTCP Thương mại và Đầu tư HT Đông Nam Á"
+    },
+    {
+     "ref": "hose:67b4310820",
+     "title": "TLD: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "ref": "hose:3c1c01a629",
+     "title": "CLW: CBTT chi trả cổ tức đợt 2 năm 2025"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:5adae7229b",
+   "title": "Phố Wall: S&P 500 áp sát đỉnh lịch sử khi cổ phiếu công nghệ tăng mạnh",
+   "translated": true,
+   "original_title": "S&P 500 Closes In on Record High as Tech Rallies: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz"
+  },
+  {
+   "ref": "reuters:4f54d33ee3",
+   "title": "Nasdaq lập đỉnh mới khi USD và lợi suất trái phiếu Mỹ tăng, giá dầu hạ nhiệt",
+   "translated": true,
+   "original_title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease",
+   "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/"
+  },
+  {
+   "ref": "tg-marketfeed:1052502",
+   "title": "Giá dầu giảm gần 2% sau khi Saudi Aramco hạ giá bán dầu Arab Light cho châu Á xuống thấp nhất 6 năm; WTI giảm 1,8% còn 89,43 USD, Brent giảm 1,9% còn 100,32 USD",
+   "translated": true,
+   "original_title": "OIL FELL NEARLY 2% AFTER SAUDI ARAMCO CUT ARAB LIGHT PRICES FOR ASIAN BUYERS TO $5 A BARREL BELOW THE REGIONAL BENCHMARK, THE LOWEST LEVEL IN SIX YEARS, AS CRUDE FLOWS THROUGH THE STRAIT OF HORMUZ RECOVERED; WTI DROPPED 1.8% TO $89.43 AND BRENT FELL 1.9% TO $100.32. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1052504",
+   "title": "Bộ Tư lệnh Trung tâm Mỹ (CENTCOM): đã điều hướng 130 tàu thương mại trong đợt phong tỏa hải quân nhằm vào Iran tính đến ngày 5/10",
+   "translated": true,
+   "original_title": "U.S. CENTRAL COMMAND SAYS THAT AS OF OCT. 5, CENTCOM FORCES HAVE REDIRECTED 130 COMMERCIAL VESSELS DURING STRICT ENFORCEMENT OF THE ONGOING U.S. NAVAL BLOCKADE AGAINST IRAN. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:2b71bfc65f",
+   "title": "Lực lượng chính phủ Yemen đẩy lùi phiến quân Houthi khỏi eo biển chiến lược Bab el-Mandeb",
+   "translated": true,
+   "original_title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait",
+   "link": "https://www.reuters.com/world/yemeni-government-forces-seize-district-by-bab-el-mandeb-military-sources-say-2026-10-05/"
+  },
+  {
+   "ref": "reuters:783cb6785f",
+   "title": "Ông Trump: Mỹ di chuyển máy bay ném bom khỏi Anh do có mối đe dọa an ninh",
+   "translated": true,
+   "original_title": "Trump says US bombers moved from UK due to threats",
+   "link": "https://www.reuters.com/world/uk/us-removes-b-1-bombers-uk-base-amid-security-concerns-2026-10-04/"
+  },
+  {
+   "ref": "tg-marketfeed:1052521",
+   "title": "Vàng đi ngang quanh 4.141 USD/ounce sau khi tăng tới 0,7%, chịu áp lực từ đồng USD mạnh và lo ngại nợ công châu Âu, trong khi lợi suất trái phiếu Mỹ lên mức cao nhiều thập kỷ",
+   "translated": true,
+   "original_title": "GOLD STEADIED AFTER RISING AS MUCH AS 0.7%, WITH SPOT GOLD LITTLE CHANGED AT $4,141.27 AN OUNCE AS A STRONGER US DOLLAR AND EUROPEAN DEBT CONCERNS PRESSURED THE METAL, WHILE US TREASURY YIELDS CLIMBED TO MULTI-DECADE HIGHS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:401837",
+   "title": "Xác suất Fed giữ nguyên lãi suất tháng 10 là 77,3% theo CME FedWatch; xác suất tăng 25 điểm cơ bản là 22,7%",
+   "original_title": "▫️ Xác suất Fed giữ nguyên lãi suất vào tháng 10 là 77,3% Theo CME FedWatch: xác suất Fed giữ nguyên lãi suất đến tháng 10 là 77,3%, xác suất tăng lãi suất 25 điểm cơ bản là 22,7%. Xác suất Fed giữ nguyên lãi suất đến tháng 12 là 13,4%, xác suất tăng lãi suất 25 điểm cơ bản là 67,8%, xác suất tăng lãi suất 50 điểm cơ bản là 18,8%. #fed #lãi_suất",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107828",
+   "title": "Fed New York rà soát rủi ro tín dụng tư nhân tại các ngân hàng lớn sau đợt hạ giá trị khoản vay của JPMorgan",
+   "original_title": "(Tiêu điểm) Fed New York rà soát rủi ro tín dụng tư nhân tại các ngân hàng lớn sau đợt hạ giá trị khoản vay của JPMorgan Chi tiết xem tại: https://dubaotiente.net/tieu-diem/fed-new-york-ra-soat-rui-ro-tin-dung-tu-nhan-tai-cac-ngan-hang-lon-112849.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:401838",
+   "title": "Quỹ ETF vàng lớn nhất toàn cầu SPDR Gold Trust tăng lưu trữ thêm 0,57 tấn, tổng lưu trữ đạt 1.056,27 tấn",
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất toàn cầu SPDR Gold Trust tăng lưu trữ 0,57 tấn so với ngày hôm trước, với tổng lưu trữ hiện tại đạt 1.056,266 tấn. #vàng #chứng_khoán",
+   "link": null
+  },
+  {
+   "ref": "reuters:bfde29d4b1",
+   "title": "Wikipedia: tác nhân AI 'nổi loạn' của OpenAI có thể liên quan sự cố gián đoạn dữ liệu hồi tháng 5",
+   "translated": true,
+   "original_title": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May",
+   "link": "https://www.reuters.com/technology/wikipedia-operator-says-openais-rogue-agents-possibly-tied-data-service-2026-10-05/"
+  },
+  {
+   "ref": "reuters:ac1e55e307",
+   "title": "Zerra DC (Singapore) nhận vốn từ Macquarie để mở rộng trung tâm dữ liệu khu vực châu Á - Thái Bình Dương",
+   "translated": true,
+   "original_title": "Singapore's Zerra DC lands Macquarie backing for Asia-Pacific data center expansion",
+   "link": "https://www.reuters.com/world/asia-pacific/singapores-zerra-dc-lands-macquarie-backing-asia-pacific-data-center-expansion-2026-10-05/"
+  },
+  {
+   "ref": "reuters:cd1390b867",
+   "title": "Chiến sự Trung Đông thúc đẩy ASEAN đẩy mạnh kế hoạch an ninh năng lượng",
+   "translated": true,
+   "original_title": "Middle East war sharpens focus on ASEAN energy security plans",
+   "link": "https://www.reuters.com/business/energy/middle-east-war-sharpens-focus-asean-energy-security-plans-2026-10-05/"
+  },
+  {
+   "ref": "tg-dubaotiente:107829",
+   "title": "CEO Aramco cảnh báo cần tới hai năm để tái thiết lập kho dự trữ dầu toàn cầu sau khủng hoảng Hormuz",
+   "original_title": "(Tiêu điểm) CEO Aramco cảnh báo cần tới hai năm để tái thiết lập kho dự trữ dầu toàn cầu sau khủng hoảng Hormuz Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ceo-aramco-canh-bao-can-toi-hai-nam-de-tai-thiet-lap-kho-du-tru-dau-toan-cau-112850.html",
+   "link": null
+  }
+ ],
+ "content_sha": "bd6f3d40adde623cfec5689e780a8ce5d1d9f04f317631d1eadb582b5f9c03de"
+}
