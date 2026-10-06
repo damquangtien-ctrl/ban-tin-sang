@@ -554,5 +554,44 @@
    "link": null
   }
  ],
- "content_sha": "bd6f3d40adde623cfec5689e780a8ce5d1d9f04f317631d1eadb582b5f9c03de"
+ "content_sha": "bd6f3d40adde623cfec5689e780a8ce5d1d9f04f317631d1eadb582b5f9c03de",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "78fe72807aa8fbe7b01c01705b8b099f75295541",
+   "published_at": "2026-10-06T07:00:08+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "277",
+   "sent_at": "2026-10-06T07:00:09+07:00",
+   "content_sha": "bd6f3d40adde623cfec5689e780a8ce5d1d9f04f317631d1eadb582b5f9c03de",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "277",
+     "sent_at": "2026-10-06T07:00:09+07:00",
+     "content_sha": "bd6f3d40adde623cfec5689e780a8ce5d1d9f04f317631d1eadb582b5f9c03de"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "5118b8d44aaa35f36cbc",
+   "sent_at": "2026-10-06T07:00:11+07:00",
+   "content_sha": "bd6f3d40adde623cfec5689e780a8ce5d1d9f04f317631d1eadb582b5f9c03de",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "5118b8d44aaa35f36cbc",
+     "sent_at": "2026-10-06T07:00:11+07:00",
+     "content_sha": "bd6f3d40adde623cfec5689e780a8ce5d1d9f04f317631d1eadb582b5f9c03de"
+    }
+   ]
+  }
+ }
 }

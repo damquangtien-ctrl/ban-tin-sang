@@ -1,0 +1,57 @@
+
+########## CHAY LUC 2026-10-06 06:58:38 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-06, ban daily)
+   the gioi 14 tin · Viet Nam 48 tin / 10 bao · phap ly 8 tin · chot quyen 7 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-06 · the gioi 14 · Viet Nam 48 · phap ly 8
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-06.html
+
+=== 3/5 XUAT BAN ===
+remote: Internal Server Error        
+remote: Request ID C036:C0109:D42A22:111293A:6AC439AF        
+remote: Time 2026-10-05T23:58:41Z
+To https://github.com/damquangtien-ctrl/ban-tin-sang
+ ! [remote rejected] HEAD -> main (Internal Server Error)
+error: failed to push some refs to 'https://github.com/damquangtien-ctrl/ban-tin-sang'
+Push that bai, dong bo lai roi thu lan 2...
+remote: Internal Server Error        
+remote: Request ID C036:C0109:D43153:11132BD:6AC439B2        
+remote: Time 2026-10-05T23:58:43Z
+To https://github.com/damquangtien-ctrl/ban-tin-sang
+ ! [remote rejected] HEAD -> main (Internal Server Error)
+error: failed to push some refs to 'https://github.com/damquangtien-ctrl/ban-tin-sang'
+LOI: push that bai lan 2
+DUNG: xuat ban that bai (exit 43) - KHONG gui tin nhan
+
+########## CHAY LUC 2026-10-06 06:58:50 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-06, ban daily)
+   the gioi 14 tin · Viet Nam 48 tin / 10 bao · phap ly 8 tin · chot quyen 7 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-06 · the gioi 14 · Viet Nam 48 · phap ly 8
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-06.html
+
+=== 3/5 XUAT BAN ===
+Noi dung trung ban da xuat ban, khong tao commit moi.
+CANH BAO: sau 6 lan kiem, trang phuc vu van chua khop sha noi dung moi.
+  GitHub Pages co the build cham - trang se tu len sau. KHONG chan buoc gui tin.
+Da xuat ban 2026-10-06: commit 78fe72807aa8 · sha noi dung 5bfa88caf9aa6dfb
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 06/10 | content_sha bd6f3d40adde | commit 78fe72807aa8
+   telegram user/928f6fc4179d OK message_id=277
+   zalo     user/593dd2adbb87 OK message_id=5118b8d44aaa35f36cbc
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-06.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-10-06 07:00:11 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
