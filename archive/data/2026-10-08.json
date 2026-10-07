@@ -1,0 +1,555 @@
+{
+ "date": "2026-10-08",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Vietstock",
+   "text": "VN-Index giảm 5,69 điểm (-0,32%) về 1.753,39 điểm phiên 7/10, khối ngoại bán ròng hơn 920 tỷ đồng, tâm điểm PNJ."
+  },
+  {
+   "source": "MarketTimes",
+   "text": "Cổ phiếu PNJ rơi về vùng thấp nhất gần 10 năm, vốn hóa xuống dưới 10.000 tỷ đồng khi khối ngoại liên tục xả hàng."
+  },
+  {
+   "source": "Reuters",
+   "text": "Phố Wall giảm điểm, rời đỉnh lịch sử khi lợi suất trái phiếu Mỹ tăng; vàng thế giới rơi xuống đáy hai tháng."
+  },
+  {
+   "source": "Reuters",
+   "text": "Lợi nhuận quý III của Samsung Electronics tăng gần 9 lần nhờ bùng nổ bộ nhớ AI, vượt kỳ vọng thị trường."
+  },
+  {
+   "source": "Báo Đầu tư",
+   "text": "Ngân hàng Nhà nước: lãi suất quốc tế đang đi lên, Việt Nam khó đứng ngoài xu hướng tăng lãi suất toàn cầu."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:814626665e",
+     "title": "Mr Pips, Mr Hunter, Shark Bình sắp hầu toà trong vụ án lừa đảo, rửa tiền"
+    },
+    {
+     "ref": "cafef:0aed792622",
+     "title": "Shark Bình liên quan thế nào trong đường dây lừa đảo gần 1.600 tỷ đồng của \"ông trùm\" Mr Pips?"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:5b5e968add",
+     "title": "SPC và PSH bị phạt do vi phạm công bố thông tin"
+    },
+    {
+     "ref": "vietstock:dba9e2b824",
+     "title": "TSB: Ắc quy Tia Sáng liên tục thay Chủ tịch sau khi các lãnh đạo bị khởi tố"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:9d0ba7aa72",
+     "title": "Bầu Đoan 'lại quả' bao nhiêu tiền cho nhiều quan chức tỉnh Thanh Hóa?"
+    },
+    {
+     "ref": "vnexpress:ec8e91582e",
+     "title": "Ông trùm buôn filler, botox doanh thu 500 tỷ đồng bị bắt"
+    },
+    {
+     "ref": "vnexpress:d875dfc177",
+     "title": "'Bà trùm' vụ thao túng Viện Pháp y tâm thần Trung ương bị tuyên 30 năm tù"
+    },
+    {
+     "ref": "vnexpress:0e3e57c3a5",
+     "title": "Cựu Bộ trưởng Nguyễn Thị Kim Tiến được giảm còn 3 năm tù"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:ecd440b493",
+     "title": "Bộ Y tế xử phạt 3 doanh nghiệp dược, 2 phòng khám y dược cổ truyền hơn 500 triệu đồng"
+    },
+    {
+     "ref": "google-news-ph-p-l:caa56b7210",
+     "title": "Khởi tố các đối tượng 'ăn chênh' 80 tỷ đồng của 300 khách hàng mua nhà ở xã hội tại Dự án New City"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-5,69 (-0,32%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.753,39 điểm"
+   },
+   {
+    "change": "-5,71 (-2,15%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "259,82 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~12.400 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~923 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.790 · Bán 26.170"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ giảm điểm trong phiên 7/10, rời đỉnh lịch sử khi lợi suất trái phiếu tăng và giá dầu neo cao; vàng thế giới rơi xuống đáy hai tháng trước sức ép của USD và lợi suất, trong khi Bitcoin giảm sâu. Tại Việt Nam, VN-Index giảm 5,69 điểm (-0,32%) về 1.753,39 điểm, HNX-Index giảm 2,15% về 259,82 điểm; thanh khoản khớp lệnh HOSE đạt khoảng 12.400 tỷ đồng và khối ngoại tiếp tục bán ròng hơn 920 tỷ đồng, tâm điểm là cổ phiếu PNJ.",
+  "tiles": [
+   {
+    "change_pct": -0.22,
+    "label": "S&P 500",
+    "value": "7.801,8"
+   },
+   {
+    "change_pct": -0.66,
+    "label": "Dow Jones",
+    "value": "51.179,9"
+   },
+   {
+    "change_pct": -0.22,
+    "label": "Nasdaq",
+    "value": "27.538,7"
+   },
+   {
+    "change_pct": -0.7,
+    "label": "Dầu WTI",
+    "value": "88,8 USD"
+   },
+   {
+    "change_pct": 0.31,
+    "label": "Dầu Brent",
+    "value": "100,9 USD"
+   },
+   {
+    "change_pct": -1.27,
+    "label": "Vàng thế giới",
+    "value": "4.134 USD"
+   },
+   {
+    "change_pct": -2.63,
+    "label": "Bitcoin",
+    "value": "83.304 USD"
+   },
+   {
+    "change_pct": 0.41,
+    "label": "DXY",
+    "value": "102,25"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:ce210fa0a0",
+     "title": "BID: BIDV siết nợ một doanh nghiệp lâu đời chuyên sản xuất, lắp ráp ô tô"
+    },
+    {
+     "ref": "cafef:d342aa07d8",
+     "title": "Quê nhà tỷ phú Phạm Nhật Vượng tăng tốc sản xuất xe điện: Hơn 62.000 ô tô và 169.000 xe máy xuất xưởng từ đầu năm"
+    },
+    {
+     "ref": "cafef:4e61c7d7bc",
+     "title": "VNDIRECT dự báo VN-Index có thể lên 1.860 điểm, “chọn mặt gửi vàng” 3 cổ phiếu cho tháng 10"
+    },
+    {
+     "ref": "cafef:271be06c59",
+     "title": "Một thương vụ 1.300 tỷ đồng tại công ty sở hữu Kem Tràng Tiền: Đích đến là doanh nghiệp có dự án hơn 35 ha, 200 villa và loạt cao ốc Hà Nội"
+    },
+    {
+     "ref": "cafef:f3201907f7",
+     "title": "Buồn: Khối ngoại bán ròng hơn 100.000 tỷ đồng trên TTCK Việt Nam từ đầu năm"
+    },
+    {
+     "ref": "cafef:135c1f2c11",
+     "title": "CTCK bất ngờ hạ dự báo VN-Index vào cuối năm 2026"
+    },
+    {
+     "ref": "cafef:fcfbd8c427",
+     "title": "2 tập đoàn nhà nước và tư nhân lớn nhất Việt Nam bắt tay nghiên cứu pin hydrogen cho xe điện"
+    },
+    {
+     "ref": "cafef:5c478975bd",
+     "title": "9 tháng đầu năm, doanh nghiệp bất động sản giải thể tăng mạnh"
+    },
+    {
+     "ref": "cafef:b7cbc6f532",
+     "title": "VIC: Cập nhật đại công trường của Vingroup: Đường sắt Hà Nội – Quảng Ninh 5,6 tỷ USD đang đúc phiến dầm đầu tiên, sân vận động lớn nhất thế giới chuẩn bị nâng mái thép"
+    },
+    {
+     "ref": "cafef:3c8e152274",
+     "title": "Tái cơ cấu EVN: Định hướng tách truyền tải, phân phối và bán lẻ điện"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:fc7fe91821",
+     "title": "Tín dụng nhà ở xã hội: Vốn đã mở rộng, nút thắt vẫn ở khả năng hấp thụ"
+    },
+    {
+     "ref": "vietstock:6396b768e7",
+     "title": "Bộ Công Thương thông tin về tiến trình đàm phán Hiệp định thương mại đối ứng với Hoa Kỳ"
+    },
+    {
+     "ref": "vietstock:5be765b8e4",
+     "title": "Dệt may đơn hàng ổn định, áp lực cạnh tranh gia tăng"
+    },
+    {
+     "ref": "vietstock:79f3286bb8",
+     "title": "Quỹ PYN Elite lỗ hơn 6% trong tháng 9"
+    },
+    {
+     "ref": "vietstock:3e23c17c83",
+     "title": "Đến 30/09, tín dụng toàn hệ thống tăng 11.59%"
+    },
+    {
+     "ref": "vietstock:7ab5f17c93",
+     "title": "VC9 muốn chào bán cổ phiếu gấp hơn 2 lần thị giá, huy động kỷ lục 1,800 tỷ cho dự án Khu Đô thị Chi Đông"
+    },
+    {
+     "ref": "vietstock:c506bc9946",
+     "title": "EVS: Muốn tái cơ cấu, kéo dài thời gian thu hồi khoản phải thu hơn 500 tỷ"
+    },
+    {
+     "ref": "vietstock:bed9ead3d3",
+     "title": "PNJ về thấp nhất gần 10 năm, nhóm T. Rowe rời ghế cổ đông lớn"
+    },
+    {
+     "ref": "vietstock:142409a9fb",
+     "title": "HDB: S&P Global Market Intelligence xếp HDBank dẫn đầu nhóm ngân hàng Việt Nam, Á quân hiệu quả hoạt động Top 50 ngân hàng niêm yết lớn nhất Đông Nam Á"
+    },
+    {
+     "ref": "vietstock:2fc6a3f789",
+     "title": "TMS: Transimex hoàn tất trả cổ tức 2025, nâng vốn lên gần 1.850 tỷ"
+    },
+    {
+     "ref": "vietstock:a8c15f3827",
+     "title": "Đà Nẵng đưa 2 dự án gần 7,400 tỷ bỏ hoang nhiều năm vào diện thí điểm gỡ vướng"
+    },
+    {
+     "ref": "vietstock:0eaec939c1",
+     "title": "BCM: TP.HCM giao gần 710ha đất cho THACO và BCM làm dự án"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:057bbc2062",
+     "title": "Dòng tiền ETF rút khỏi châu Á, đổ mạnh vào cổ phiếu và trái phiếu Mỹ"
+    },
+    {
+     "ref": "vneconomy:a9a9ee4a8c",
+     "title": "Chứng khoán tháng 10: Kết quả kinh doanh quý 3 sẽ \"cân\" yếu tố lãi suất và khối ngoại bán ròng"
+    },
+    {
+     "ref": "vneconomy:67ebf45327",
+     "title": "Bất chấp lãi suất tăng mạnh, thêm gần 245 ngàn tài khoản chứng khoán mở mới trong tháng 9"
+    },
+    {
+     "ref": "vneconomy:b78b4bcee6",
+     "title": "Sau chuyển sàn, chứng khoán sẽ được phân loại chất lượng để phục vụ \"khẩu vị đầu tư\""
+    },
+    {
+     "ref": "vneconomy:8a8ffda871",
+     "title": "Tỷ phú Ray Dalio cảnh báo Trung Quốc và Nhật Bản có thể giảm nắm giữ trái phiếu kho bạc Mỹ"
+    },
+    {
+     "ref": "vneconomy:c65e3d4e70",
+     "title": "Dòng vốn ngoại khó đảo chiều trong ngắn hạn do lãi suất toàn cầu duy trì cao lâu hơn"
+    },
+    {
+     "ref": "vneconomy:c22b84e0de",
+     "title": "Thanh khoản trên HNX giảm 15,12% trong tháng 9"
+    },
+    {
+     "ref": "vneconomy:6014b5c431",
+     "title": "BIS: “Nợ công cao sẽ khiến các ngân hàng trung ương khó ứng phó với khủng hoảng”"
+    },
+    {
+     "ref": "vneconomy:dd43c2a1f7",
+     "title": "HOSE loại cổ phiếu VPG, PLP khỏi chỉ số VNX Allshare"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e724b70721",
+     "title": "Nhận định thị trường phiên giao dịch ngày 8/10: Chỉ giải ngân khi xuất hiện tín hiệu tạo đáy"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e86330888e",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 8/10: Hướng đến vùng 1.760-1.780 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c241b05164",
+     "title": "Cổ phiếu cần quan tâm ngày 8/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2bfb6b93a3",
+     "title": "SSI Research: Công nghệ, viễn thông tăng trưởng mạnh, gọi tên 2 cổ phiếu dẫn dắt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:735f11f213",
+     "title": "DCM: Nhà máy Đạm Cà Mau hoàn thành bảo dưỡng tổng thể, trở lại sản xuất"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b6f50a5355",
+     "title": "SSI Research: Nhu cầu điện 2027 có thể tăng 8-9%, 2 cổ phiếu nhiệt điện hưởng lợi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8013e712c7",
+     "title": "Nghiên cứu giao dịch chứng khoán xuyên trưa, nới biên độ giá"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2fd261048d",
+     "title": "Một quỹ ngoại bán ra hơn 5,46 triệu cổ phiếu PNJ trong phiên kỷ lục ngày 2/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2fdc521da4",
+     "title": "HSBC: Doanh nghiệp dự kiến dành 21% doanh thu cho AI"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c6882ba6bd",
+     "title": "Chuyển đổi khu công nghiệp, TP.HCM tính hỗ trợ doanh nghiệp 30% tiền thuê đất, nhà xưởng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:38e11cd574",
+     "title": "Thanh khoản cải thiện, lãi suất vẫn neo cao"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:c74d98c278",
+     "title": "Ngân hàng Nhà nước: Lãi suất quốc tế đang đi lên, Việt Nam không thể đứng ngoài xu hướng"
+    },
+    {
+     "ref": "b-o-u-t:7ca5cfa607",
+     "title": "Sản xuất công nghiệp vẫn tiềm ẩn rủi ro giảm tốc"
+    },
+    {
+     "ref": "b-o-u-t:1fe5eb1dba",
+     "title": "Xuất khẩu gạo giảm cả lượng lẫn trị giá, 9 tháng thu hơn 3 tỷ USD"
+    },
+    {
+     "ref": "b-o-u-t:b922cb50c2",
+     "title": "Mua trước trả sau tăng mạnh, người trẻ ngập trong nợ nần"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:1bb8aaf26e",
+     "title": "HUT: Tasco lên kế hoạch huy động 3.561 tỷ đồng từ phát hành trái phiếu chuyển đổi “2 không”"
+    },
+    {
+     "ref": "markettimes:2ac46846ef",
+     "title": "MSN: Cổ phiếu \"họ\" Masan nổi sóng, tăng bứt phá giữa thị trường rung lắc"
+    },
+    {
+     "ref": "markettimes:5519ab9cbb",
+     "title": "PNJ: Nhà đầu tư tháo chạy, vốn hóa xuống dưới 10.000 tỷ đồng, thấp nhất gần một thập kỷ"
+    },
+    {
+     "ref": "markettimes:8ee2990469",
+     "title": "ABB: Moody’s nâng xếp hạng tín nhiệm ABBANK từ B2 lên B1, duy trì triển vọng tích cực"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:20212a016c",
+     "title": "Gói tín dụng nhà ở xã hội vượt 153.000 tỷ đồng, cam kết cho vay tăng gần 3 lần"
+    },
+    {
+     "ref": "vnbusiness:27cacee142",
+     "title": "Tín dụng quý IV bứt tốc ngoạn mục, ngân hàng đón sóng lợi nhuận những tháng cuối năm"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:d07e7184c5",
+     "title": "Sửa Luật đấu thầu: Có chặn được 'quân xanh, quân đỏ'?"
+    },
+    {
+     "ref": "ti-n-phong:262e398af6",
+     "title": "Đề xuất đánh thuế đất bỏ hoang cao gấp 7 lần vẫn quá nhẹ?"
+    },
+    {
+     "ref": "ti-n-phong:cc7d57db14",
+     "title": "TPHCM muốn phát hành trái phiếu qua trung tâm tài chính quốc tế"
+    },
+    {
+     "ref": "ti-n-phong:fa7065bf8c",
+     "title": "Nguồn điện chậm tiến độ, lấy gì bù thiếu hụt?"
+    },
+    {
+     "ref": "ti-n-phong:36b71263dd",
+     "title": "Bộ Công Thương ban hành quy định mới về lập, thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả"
+    },
+    {
+     "ref": "ti-n-phong:ffb7acee57",
+     "title": "Lạm phát 'chạm trần' 4,5%, dư địa nào cho những tháng cuối năm?"
+    },
+    {
+     "ref": "ti-n-phong:e66a966dc1",
+     "title": "PNJ: Hút gần 1.000 tỷ đồng bắt đáy, khối ngoại vẫn xả mạnh"
+    },
+    {
+     "ref": "ti-n-phong:740d98720b",
+     "title": "Kế hoạch huy động vốn lớn nhất lịch sử của ngân hàng Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:0016781ed6",
+     "title": "Hà Nội đồng hành cùng EVNNPT đẩy nhanh tiến độ các dự án truyền tải điện"
+    },
+    {
+     "ref": "ti-n-phong:fe0303d434",
+     "title": "GE2: EVNGENCO2 và CC1 hợp tác phát triển các dự án trong lĩnh vực năng lượng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:d981aef529",
+     "title": "DGW: Nghị quyết HĐQT về việc cấp hạn mức tín dụng tại Vietinbank - Chi nhánh 1"
+    },
+    {
+     "ref": "hose:4afbfb888c",
+     "title": "CDC: Nghị quyết HĐQT về việc phê duyệt ủy quyền ký kết hợp đồng BOT Công trình Gò Dầu - Xa Mát"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:afd7fb382f",
+   "title": "Phố Wall còn tiệc tùng được bao lâu khi thị trường trái phiếu \"bốc cháy\"?",
+   "translated": true,
+   "original_title": "Can Wall Street keep partying while bond markets burn?",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/can-wall-street-keep-partying-while-bond-markets-burn-2026-10-07/"
+  },
+  {
+   "ref": "reuters:25a5dfff7f",
+   "title": "Vàng rơi xuống đáy 2 tháng khi đồng USD mạnh và lợi suất tăng gây áp lực",
+   "translated": true,
+   "original_title": "Gold slides to two-month low as robust dollar, yields add pressure",
+   "link": "https://www.reuters.com/world/india/gold-edges-lower-with-focus-fed-minutes-rate-path-clues-2026-10-07/"
+  },
+  {
+   "ref": "reuters:254544e098",
+   "title": "Phố Wall giảm điểm, rời đỉnh lịch sử khi lợi suất trái phiếu Mỹ tăng",
+   "translated": true,
+   "original_title": "Wall Street ends lower, off record highs, as Treasury yields climb",
+   "link": "https://www.reuters.com/business/wall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07/"
+  },
+  {
+   "ref": "reuters:56fc6de56b",
+   "title": "Chứng khoán toàn cầu và đồng euro giảm khi giá dầu cao và lo ngại tài khóa kéo dài",
+   "translated": true,
+   "original_title": "World shares, euro slide as high oil prices, fiscal worries linger",
+   "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-07/"
+  },
+  {
+   "ref": "reuters:6adf2243e8",
+   "title": "Lợi nhuận quý III của Samsung tăng gần 9 lần nhờ bùng nổ bộ nhớ AI",
+   "translated": true,
+   "original_title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+   "link": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/"
+  },
+  {
+   "ref": "reuters:d830aa2f45",
+   "title": "Cổ phiếu Webull lao dốc sau báo cáo của Hạ viện Mỹ về quan hệ với Trung Quốc",
+   "translated": true,
+   "original_title": "Webull sinks after US House panel report flags China ties",
+   "link": "https://www.reuters.com/world/asia-pacific/webull-sinks-after-cnbc-reports-us-house-panel-flagged-china-ties-2026-10-07/"
+  },
+  {
+   "ref": "reuters:6ec85c8565",
+   "title": "Biến động giá dầu là rủi ro lợi nhuận lớn nhất với doanh nghiệp Nhật Bản: khảo sát Reuters",
+   "translated": true,
+   "original_title": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll",
+   "link": "https://www.reuters.com/business/energy/oil-price-volatility-tops-list-earnings-risks-japan-firms-reuters-survey-2026-10-07/"
+  },
+  {
+   "ref": "bloomberg:ad2b6641b6",
+   "title": "Fortescue: Tranh chấp với CMRG của Trung Quốc ảnh hưởng doanh số quặng sắt",
+   "translated": true,
+   "original_title": "Fortescue Says Dispute With China’s CMRG Hits Iron Ore Sales",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-07/fortescue-flags-lower-iron-ore-sales-as-china-dispute-drags-on"
+  },
+  {
+   "ref": "tg-vnwallstreet:402592",
+   "title": "Lầu Năm Góc chỉ đạo CENTCOM chuẩn bị khả năng tấn công Iran, Trump cân nhắc thời điểm",
+   "translated": false,
+   "original_title": "🔴 Truyền thông Mỹ: Quân đội Mỹ được yêu cầu chuẩn bị sẵn sàng cho các cuộc tấn công lại Iran Theo AXIOS, các quan chức Mỹ cho biết Lầu Năm Góc đã chỉ thị Bộ Tư lệnh Trung ương Mỹ (CENTCOM) chuẩn bị cho các hoạt động quân sự quy mô lớn lại với Iran. Chỉ thị này không đặt thời gian tấn công cụ thể, và ông Trump chưa đưa ra quyết định cuối cùng. Tuy nhiên, các nguồn tin từ Mỹ và Israel cho rằng cuộc ",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107944",
+   "title": "Khảo sát Fed New York: Kỳ vọng lạm phát 1 năm của người Mỹ tăng lên 3,9%, cao nhất từ tháng 5/2023",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Khảo sát Fed New York: Kỳ vọng lạm phát 1 năm của người Mỹ tăng lên 3.9%, cao nhất kể từ tháng 5/2023 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/khao-sat-fed-new-york-ky-vong-lam-phat-1-nam-cua-nguoi-my-tang-len-3-9-cao-nhat-ke-tu-thang-5-2023-112948.html",
+   "link": null
+  },
+  {
+   "ref": "markettimes:8fe8724553",
+   "title": "Hố đen AI hút tiền: Elon Musk muốn huy động 40 tỷ USD để SpaceX mua chip NVIDIA",
+   "translated": false,
+   "original_title": "\"Hố đen\" AI hút tiền: Elon Musk muốn huy động 40 tỷ USD để SpaceX mua chip NVIDIA",
+   "link": "https://markettimes.vn/ho-den-ai-hut-tien-elon-musk-muon-huy-dong-40-ty-usd-de-spacex-mua-chip-nvidia-132463.html"
+  }
+ ],
+ "content_sha": "ff6525d4d7d7ae259236a9ce745bae9ef8b2495cc5cc764d1d5625a0a8bc7701"
+}
