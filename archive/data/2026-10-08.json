@@ -551,5 +551,44 @@
    "link": "https://markettimes.vn/ho-den-ai-hut-tien-elon-musk-muon-huy-dong-40-ty-usd-de-spacex-mua-chip-nvidia-132463.html"
   }
  ],
- "content_sha": "ff6525d4d7d7ae259236a9ce745bae9ef8b2495cc5cc764d1d5625a0a8bc7701"
+ "content_sha": "ff6525d4d7d7ae259236a9ce745bae9ef8b2495cc5cc764d1d5625a0a8bc7701",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "54c1296f379186fc76eaa4ff46e35e42da12cd13",
+   "published_at": "2026-10-08T06:59:11+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "279",
+   "sent_at": "2026-10-08T06:59:12+07:00",
+   "content_sha": "ff6525d4d7d7ae259236a9ce745bae9ef8b2495cc5cc764d1d5625a0a8bc7701",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "279",
+     "sent_at": "2026-10-08T06:59:12+07:00",
+     "content_sha": "ff6525d4d7d7ae259236a9ce745bae9ef8b2495cc5cc764d1d5625a0a8bc7701"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "d779868079c2089b51d4",
+   "sent_at": "2026-10-08T06:59:13+07:00",
+   "content_sha": "ff6525d4d7d7ae259236a9ce745bae9ef8b2495cc5cc764d1d5625a0a8bc7701",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "d779868079c2089b51d4",
+     "sent_at": "2026-10-08T06:59:13+07:00",
+     "content_sha": "ff6525d4d7d7ae259236a9ce745bae9ef8b2495cc5cc764d1d5625a0a8bc7701"
+    }
+   ]
+  }
+ }
 }
