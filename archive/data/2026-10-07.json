@@ -1,0 +1,549 @@
+{
+ "date": "2026-10-07",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Vietstock",
+   "text": "VN-Index đóng cửa phiên 6/10 tăng 0,34% lên 1.759,08 điểm, thanh khoản HOSE vượt 647 triệu đơn vị"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Khối ngoại bán ròng hơn 2.600 tỷ đồng trên HOSE, tập trung tại HDB và VJC"
+  },
+  {
+   "source": "Reuters",
+   "text": "SpaceX tìm kiếm 40 tỷ USD để mua chip Nvidia, theo Financial Times"
+  },
+  {
+   "source": "Reuters",
+   "text": "Samsung dự báo lợi nhuận quý 3 tăng gấp 9 lần nhờ nhu cầu AI, nhưng biên lợi nhuận chip có thể đi ngang"
+  },
+  {
+   "source": "Vietstock",
+   "text": "Novaland (NVL) lên tiếng phản hồi tin đồn \"phá sản\", khẳng định hoạt động ổn định"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:0b339450ba",
+     "title": "VCS: Bị xử phạt và truy thu thuế hơn 260 triệu đồng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:49a8ca3f19",
+     "title": "Số vụ lừa đảo giảm 52% nhờ xác thực sinh trắc học, phong tỏa hơn 400 tài khoản nghi ngờ vi phạm"
+    },
+    {
+     "ref": "b-o-u-t:55a8a84061",
+     "title": "Loạt doanh nghiệp dược bị xử phạt, siết quản lý thị trường thuốc"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:5ddefca33b",
+     "title": "FTS: Vi phạm hành chính về thuế, bị xử phạt"
+    },
+    {
+     "ref": "markettimes:f52361cb4d",
+     "title": "Ông Lê Cao Quyền bị bắt, doanh nghiệp phát thông báo quan trọng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:53904d5653",
+     "title": "Bầu Đoan và nhiều cựu lãnh đạo Thanh Hóa bị đề nghị truy tố"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:ebc37247bd",
+     "title": "Thanh tra Hà Nội được giao nhiệm vụ hạn chế chồng chéo, bảo đảm minh bạch với doanh nghiệp"
+    },
+    {
+     "ref": "google-news-ph-p-l:a5002ee82f",
+     "title": "Đồng Tháp khởi tố đường dây mua bán hóa đơn hàng ngàn tỷ đồng"
+    },
+    {
+     "ref": "google-news-ph-p-l:3fd1f5a632",
+     "title": "Thanh tra Hàng không Việt Nam: Điểm mặt loạt tồn tại, vi phạm trong cung cấp dịch vụ hàng không của 13 đơn vị"
+    },
+    {
+     "ref": "google-news-ph-p-l:65325fd5aa",
+     "title": "Địa Ốc Phú Long bị phạt vì chậm công bố loạt báo cáo tài chính"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+5,88 (+0,34%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.759,08 điểm"
+   },
+   {
+    "change": "-4,06 (-1,52%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "265,53 điểm"
+   },
+   {
+    "change": "+49,5% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "647 triệu đơn vị"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~2.600 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.800 · Bán 26.180"
+   }
+  ],
+  "summary": "Phố Wall đêm qua đồng loạt tăng điểm, với S&P 500 (+0,58%), Dow Jones (+0,49%) và Nasdaq (+0,45%) cùng đi lên nhờ kỳ vọng Fed hạ lãi suất sau dữ liệu việc làm Mỹ yếu hơn dự báo. Giá dầu WTI và Brent tăng nhẹ trên 0,6-0,8%, trong khi vàng thế giới vượt 4.196 USD/ounce (+0,96%) khi lợi suất trái phiếu Mỹ vẫn neo cao. Trong nước, VN-Index đóng cửa phiên 6/10 ở 1.759,08 điểm (+0,34%), trong khi HNX-Index giảm 1,52% xuống 265,53 điểm; thanh khoản HOSE tăng mạnh lên khoảng 647 triệu đơn vị khớp lệnh nhưng khối ngoại tiếp tục bán ròng hơn 2.600 tỷ đồng, tập trung tại HDB và VJC. Giá vàng SJC trong nước chưa có số liệu cập nhật do nguồn dữ liệu tạm thời không truy cập được.",
+  "tiles": [
+   {
+    "change_pct": 0.58,
+    "label": "S&P 500",
+    "value": "7.818,9"
+   },
+   {
+    "change_pct": 0.49,
+    "label": "Dow Jones",
+    "value": "51.521,3"
+   },
+   {
+    "change_pct": 0.45,
+    "label": "Nasdaq",
+    "value": "27.599,9"
+   },
+   {
+    "change_pct": 0.63,
+    "label": "Dầu WTI",
+    "value": "90,0 USD"
+   },
+   {
+    "change_pct": 0.83,
+    "label": "Dầu Brent",
+    "value": "101,2 USD"
+   },
+   {
+    "change_pct": 0.96,
+    "label": "Vàng thế giới",
+    "value": "4.196 USD"
+   },
+   {
+    "change_pct": -0.3,
+    "label": "Bitcoin",
+    "value": "85.530 USD"
+   },
+   {
+    "change_pct": -0.32,
+    "label": "DXY",
+    "value": "101,84"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:53ebf46482",
+     "title": "KOS: Sau 12 phiên giảm sàn liên tiếp, cổ phiếu cuối cùng cũng khớp lệnh với số lượng bất ngờ"
+    },
+    {
+     "ref": "cafef:47492b43fb",
+     "title": "UBCKNN đang nghiên cứu giao dịch chứng khoán xuyên trưa, nới biên độ giá"
+    },
+    {
+     "ref": "cafef:357e84e20a",
+     "title": "Dự báo VN-Index sắp có nhịp hồi phục, Vietcap gọi tên 4 cổ phiếu tiềm năng trong tháng 10"
+    },
+    {
+     "ref": "cafef:02206f98ba",
+     "title": "FPT: Cổ phiếu bất ngờ giảm 10 phiên liên tiếp, vốn hóa \"bốc hơi\" gần 12.000 tỷ đồng chỉ sau 2 tuần"
+    },
+    {
+     "ref": "cafef:c195021160",
+     "title": "Dự báo một sóng tăng mới có thể kéo dài sang đầu 2027, CTCK điểm tên 8 doanh nghiệp đáng chú ý, phù hợp để \"xuống tiền\" trong tháng 10"
+    },
+    {
+     "ref": "cafef:a00f6b3dc3",
+     "title": "\"Báu vật\" chứa 17 tỷ m3 khí cùng 74 triệu thùng dầu ngoài khơi Việt Nam đang được các ông lớn dầu khí hợp sức đưa về bờ"
+    },
+    {
+     "ref": "cafef:a4ca00c58b",
+     "title": "Bắt tay ông Phạm Nhật Vượng làm 200 đoàn tàu không người lái, 'gã khổng lồ' Pháp đứng sau kỷ lục tàu cao tốc 574,8 km/h đã nói gì?"
+    },
+    {
+     "ref": "cafef:fe2d4db3b3",
+     "title": "NVL: Một chủ nợ nước ngoài đổi khoản nợ lấy cổ phiếu với giá gây sốc"
+    },
+    {
+     "ref": "cafef:4aac2176ed",
+     "title": "EVF: Công bố phương án phát hành tối đa 300 triệu USD trái phiếu quốc tế"
+    },
+    {
+     "ref": "cafef:894afa581d",
+     "title": "Hàng nghìn người bị mạo danh lập doanh nghiệp, Bộ Tài chính nói gì?"
+    },
+    {
+     "ref": "cafef:1bcdb56c68",
+     "title": "PNJ: Cổ phiếu lại chất đống sàn, dư bán hơn 14,7 triệu đơn vị"
+    },
+    {
+     "ref": "cafef:a1a92e7461",
+     "title": "MSN: Tỷ phú Nguyễn Đăng Quang sắp có thương vụ 400 triệu USD nâng sở hữu Masan Consumer"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:5ec676090a",
+     "title": "Nắng nóng và giá lương thực: Vì sao CPI phản ứng chậm?"
+    },
+    {
+     "ref": "vietstock:6c3358c86e",
+     "title": "Nhiều địa phương chạy đua giải phóng mặt bằng cho tuyến đường sắt gần 290 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:dfec423fe2",
+     "title": "NVL: Phản hồi tin đồn \"phá sản\""
+    },
+    {
+     "ref": "vietstock:fa0eef6ca6",
+     "title": "NST: Ulatech trở thành cổ đông lớn"
+    },
+    {
+     "ref": "vietstock:35689f305d",
+     "title": "KOS: Bán hết vốn công ty thủy điện giữa lúc cổ phiếu giảm sàn 12 phiên liên tiếp"
+    },
+    {
+     "ref": "vietstock:5012c5088d",
+     "title": "ILS: Con trai Chủ tịch HĐQT gom 500 ngàn cổ phiếu"
+    },
+    {
+     "ref": "vietstock:832db0c266",
+     "title": "SBA: Phát hành 3 triệu cổ phiếu thưởng, nâng vốn lên hơn 635 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:664776897a",
+     "title": "Agribank Chi nhánh 10 thông báo thu giữ Trung tâm Siêu thị Đà Lạt để xử lý nợ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:9d5e9a1ddf",
+     "title": "Chuyên gia SHS: Phần nhiều nhà đầu tư trung và dài hạn đang thua lỗ, cần tiếp tục chờ đợi"
+    },
+    {
+     "ref": "vneconomy:15fbdad486",
+     "title": "Đại diện Pyn Elite Fund: Thị trường toàn cầu có thể đối diện một cú sập lớn, tác động đến chứng khoán Việt Nam"
+    },
+    {
+     "ref": "vneconomy:c9146591ac",
+     "title": "Thông tư 50: Mở rộng dư địa cho vay và bài toán thúc đẩy huy động vốn"
+    },
+    {
+     "ref": "vneconomy:48f6a060d3",
+     "title": "Thấy gì khi dòng tiền tiếp tục đổ mạnh vào cổ phiếu Mỹ, rút khỏi nhóm mới nổi bao gồm Việt Nam?"
+    },
+    {
+     "ref": "vneconomy:25114026c1",
+     "title": "VCI, FRT rời khỏi \"câu lạc bộ\" vốn hóa tỷ USD tháng 9/2026"
+    },
+    {
+     "ref": "vneconomy:92058b7783",
+     "title": "TCBS tăng thị phần môi giới lên hơn 10% trong quý 3/2026"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:91de0eeb2f",
+     "title": "HDC: Chủ tịch, Tổng giám đốc và người thân đăng ký mua 2 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4df636c853",
+     "title": "MHC: Biến động cổ đông lớn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e0a1855c77",
+     "title": "HNX nhập HOSE, UPCOM còn doanh nghiệp nào đang chia cổ tức tốt với P/E rẻ?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d98613d637",
+     "title": "VNDIRECT: Mùa lợi nhuận quý III tạo điểm tựa cho VN-Index"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9262f8df43",
+     "title": "Thêm kênh tín dụng đầu tư cho doanh nghiệp bán lẻ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:18bfd38bc2",
+     "title": "DIG: Chủ tịch Nguyễn Hùng Cường quay lại đăng ký mua 5 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:66386cfafb",
+     "title": "Cổ phiếu VPG và PLP bị loại khỏi một số chỉ số ngành từ ngày 9/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:867389ad11",
+     "title": "Mặt bằng lãi suất khó sớm hạ nhiệt"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:4663cba26d",
+     "title": "Các tiêu chí, điều kiện thành lập khu thương mại tự do"
+    },
+    {
+     "ref": "b-o-u-t:530197af90",
+     "title": "TP.HCM muốn phát hành trái phiếu công trình để huy động vốn cho dự án trọng điểm"
+    },
+    {
+     "ref": "b-o-u-t:899f423a22",
+     "title": "Xuất nhập khẩu dịch vụ vượt 60 tỷ USD, nhập siêu hơn 8,2 tỷ USD"
+    },
+    {
+     "ref": "b-o-u-t:f88367a6e9",
+     "title": "AkzoNobel chuyển nhượng mảng kinh doanh Sơn trang trí khu vực Đông Nam Á cho Nippon Paint với giá trị 1,35 tỷ đô"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:2753898440",
+     "title": "Ông Trương Bá Tuấn: Bộ Tài chính sẽ phối hợp xây dựng tiêu chuẩn cụ thể để xác định đất bỏ hoang"
+    },
+    {
+     "ref": "markettimes:f186ddf6e5",
+     "title": "Việt Nam chính thức cán mốc 14 triệu tài khoản chứng khoán"
+    },
+    {
+     "ref": "markettimes:7f416a49d8",
+     "title": "Phó Tổng Giám đốc Chứng khoán OCBS: Sau nâng hạng chứng khoán, dòng vốn ngoại sẽ vào từng bước, không phải cùng lúc"
+    },
+    {
+     "ref": "markettimes:0aef20cb6c",
+     "title": "MWG: iPhone cháy hàng, Điện Máy Xanh báo doanh thu kỷ lục gần 100.000 tỷ đồng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:5f6c069261",
+     "title": "Làm gì để kìm lạm phát về mức mục tiêu?"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:bde30096e8",
+     "title": "Tôm, cá mang về hàng tỷ USD cho Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:26bb836622",
+     "title": "Gần 660.000 tấn thịt giá rẻ tràn về, lợn hơi trong nước giảm giá sâu"
+    },
+    {
+     "ref": "ti-n-phong:9943e13c10",
+     "title": "Đề xuất tăng gấp 3 quy mô kho dự trữ dầu thô quốc gia"
+    },
+    {
+     "ref": "ti-n-phong:52ae0a520b",
+     "title": "EVN: Sản lượng điện 9 tháng tăng hơn 9%, tăng tốc nguồn và lưới điện cuối năm"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:912090e7d2",
+     "title": "KOS: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Việt Cường"
+    },
+    {
+     "ref": "hose:e635a16143",
+     "title": "VDP: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo kết quả đợt chào bán thêm cổ phiếu ra công chúng"
+    },
+    {
+     "ref": "hose:bba5b242bf",
+     "title": "HCM: Báo cáo tiến độ sử dụng số tiền thu được từ đợt phát hành ESOP 2026"
+    },
+    {
+     "ref": "hose:e2d80e1726",
+     "title": "SHB: Nghị quyết HĐQT số 47, 48 ngày 05/10/2026"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:b719017ef1",
+   "title": "Lương thực tế Nhật Bản tăng tháng thứ 8 liên tiếp, nhờ các biện pháp hỗ trợ của Thủ tướng Takaichi",
+   "translated": true,
+   "original_title": "Japan Real Wages Rise for Eighth Month, Aided by Takaichi Relief",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-06/japan-real-wages-rise-for-eighth-month-aided-by-takaichi-relief"
+  },
+  {
+   "ref": "reuters:519e04c17f",
+   "title": "SpaceX tìm kiếm 40 tỷ USD để mua chip Nvidia, theo Financial Times",
+   "translated": true,
+   "original_title": "SpaceX seeks $40 billion to buy Nvidia chips, FT reports",
+   "link": "https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/"
+  },
+  {
+   "ref": "reuters:571b22f4c4",
+   "title": "Thành viên ôn hòa bất đồng của BOJ phát tín hiệu ủng hộ tăng lãi suất trong tương lai",
+   "translated": true,
+   "original_title": "BOJ's dovish dissenter signals support for future rate hikes",
+   "link": "https://www.reuters.com/world/asia-pacific/bojs-sato-signals-support-future-rate-hikes-kyodo-reports-2026-10-06/"
+  },
+  {
+   "ref": "reuters:e9ddebc213",
+   "title": "Lợi nhuận quý 3 của Samsung được dự báo tăng gấp 9 lần nhờ nhu cầu AI, nhưng biên lợi nhuận chip có thể đi ngang",
+   "translated": true,
+   "original_title": "Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat",
+   "link": "https://www.reuters.com/world/china/samsungs-q3-profit-seen-jumping-nine-fold-chip-margins-may-be-flat-2026-10-06/"
+  },
+  {
+   "ref": "reuters:2379fc5995",
+   "title": "Tâm lý nhà sản xuất Nhật Bản cao nhất gần 5 năm, lĩnh vực dịch vụ lao dốc",
+   "translated": true,
+   "original_title": "Japan manufacturers' mood hits near 5-year high, service-sector sentiment slumps",
+   "link": "https://www.reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-near-5-year-high-service-sector-sentiment-slumps-2026-10-06/"
+  },
+  {
+   "ref": "bloomberg:53cbaafc05",
+   "title": "Lợi suất tăng vọt giáng vào phát hành trái phiếu châu Á khi huy động vốn AI tụt lại sau Mỹ",
+   "translated": true,
+   "original_title": "Surging Yields Hit Asian Bond Sales as AI Fundraising Trails US",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-06/surging-yields-hit-asian-bond-sales-as-ai-fundraising-trails-us"
+  },
+  {
+   "ref": "reuters:f494ef3efa",
+   "title": "Phó Tổng thống Mỹ Vance: Iran phải giảm làm giàu uranium để chấm dứt chiến tranh",
+   "translated": true,
+   "original_title": "In interview, US Vice President Vance says Iran must cut enrichment to end war",
+   "link": "https://www.reuters.com/world/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war-2026-10-06/"
+  },
+  {
+   "ref": "tg-dubaotiente:107888",
+   "title": "Bitcoin giữ vững khi dữ liệu việc làm Mỹ yếu làm giảm khả năng Fed tăng lãi suất, nhưng lợi suất vẫn cao",
+   "original_title": "(Tiêu điểm) Bitcoin giữ vững khi dữ liệu việc làm Mỹ yếu làm giảm khả năng Fed tăng lãi suất, nhưng lợi suất vẫn cao Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bitcoin-giu-vung-khi-du-lieu-viec-lam-my-yeu-lam-giam-kha-nang-fed-tang-lai-suat-112903.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:107886",
+   "title": "Nga sẽ mua khoảng 280 tỷ rúp vàng và ngoại tệ khi giá dầu vượt ngưỡng ngân sách",
+   "original_title": "(Tiêu điểm) Nga sẽ mua khoảng 280 tỷ rúp vàng và ngoại tệ khi giá dầu vượt ngưỡng ngân sách Chi tiết xem tại: https://dubaotiente.net/tieu-diem/nga-se-mua-khoang-280-ty-rup-vang-va-ngoai-te-khi-gia-dau-vuot-nguong-ngan-sach-112900.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:402204",
+   "title": "SPDR Gold Trust, ETF vàng lớn nhất toàn cầu, tăng nắm giữ 3,707 tấn so với hôm trước, đạt mức nắm giữ hiện tại 1.059.973 tấn",
+   "original_title": "🔴 SPDR Gold Trust, ETF vàng lớn nhất toàn cầu, tăng nhân vị 3,707 tấn so với hôm trước, đạt mức nắm giữ hiện tại 1.059,973 tấn. #gold #etf",
+   "link": null
+  },
+  {
+   "ref": "reuters:76b4faa98b",
+   "title": "Mỹ dự báo bão xuất hiện trong tuần này tại Vịnh Mexico",
+   "translated": true,
+   "original_title": "US forecasts hurricane later this week in Gulf of Mexico",
+   "link": "https://www.reuters.com/business/environment/us-forecasts-hurricane-later-this-week-gulf-mexico-2026-10-06/"
+  },
+  {
+   "ref": "reuters:1c4f5e2129",
+   "title": "Chi tiêu hàng xa xỉ tại Mỹ chậm lại trước bầu cử giữa kỳ, theo dữ liệu thẻ tín dụng",
+   "translated": true,
+   "original_title": "US luxury spending slows ahead of midterms, credit card data shows",
+   "link": "https://www.reuters.com/business/finance/us-luxury-spending-slows-ahead-midterms-credit-card-data-shows-2026-10-06/"
+  },
+  {
+   "ref": "tg-marketfeed:1053358",
+   "title": "OpenAI cho biết sẽ công bố có trách nhiệm mô hình AI nội bộ tiên tiến đứng sau các kết quả toán học mới, sau khi đã công bố nhiều kết quả do mô hình này tạo ra",
+   "translated": true,
+   "original_title": "OPENAI SAYS IT WILL RELEASE THE INTERNAL FRONTIER MODEL BEHIND NEW MATHEMATICAL RESULTS RESPONSIBLY, HAVING PUBLISHED A BROAD RANGE OF RESULTS PRODUCED BY THE MODEL ...",
+   "link": null
+  },
+  {
+   "ref": "vneconomy:01b70e8c79",
+   "title": "Lo thị trường quá phụ thuộc vào AI, các quỹ hưu trí toàn cầu giảm tỷ trọng cổ phiếu Mỹ",
+   "original_title": "Lo thị trường quá phụ thuộc vào AI, các quỹ hưu trí toàn cầu giảm tỷ trọng cổ phiếu Mỹ",
+   "link": "https://vneconomy.vn/lo-thi-truong-qua-phu-thuoc-vao-ai-cac-quy-huu-tri-toan-cau-giam-ty-trong-co-phieu-my.htm"
+  },
+  {
+   "ref": "vneconomy:1fabc36567",
+   "title": "Nvidia tiến sát mốc vốn hóa thị trường 6 nghìn tỷ USD",
+   "original_title": "Nvidia tiến sát mốc vốn hóa thị trường 6 nghìn tỷ USD",
+   "link": "https://vneconomy.vn/nvidia-tien-sat-moc-von-hoa-thi-truong-6-nghin-ty-usd.htm"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:a6d1461a7f",
+   "title": "Châu Á đối mặt rủi ro kinh tế nếu làn sóng AI đảo chiều",
+   "original_title": "Châu Á đối mặt rủi ro kinh tế nếu làn sóng AI đảo chiều - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmw2ZGpIbDVRSXZtMXlRRWtWOTRMOGUzZUNxNld3dHJwQVBEWTdNbVFxWTZ1M3R4ckNiTC1KcHlGMWhJM0RSRDJKbGw4bVlJNVRIckJhQXNHNG5hd0wwR1J6amVXejBhMERJdTlYSG56Z3BxSjZvbnVoY3ZZX0NXQklRY1ZKbVhFQU56aGpyUnJEc2V2TTRoc1pOM3Fzc2lXRmR3WdIBpAFBVV95cUxQQmw2ZGpIbDVRSXZtMXlRRWtWOTRMOGUzZUNxNld3dHJwQVBEWTdNbVFxWTZ1M3R4ckNiTC1KcHlGMWhJM0RSRDJKbGw4bVlJNVRIckJhQXNHNG5hd0wwR1J6amVXejBhMERJdTlYSG56Z3BxSjZvbnVoY3ZZX0NXQklRY1ZKbVhFQU56aGpyUnJEc2V2TTRoc1pOM3Fzc2lXRmR3WQ?oc=5"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:785f179ee5",
+   "title": "Vận tải biển Bắc Cực tăng mạnh khi xung đột và băng tan thúc đẩy các tuyến đường thay thế",
+   "original_title": "Vận tải biển Bắc Cực tăng mạnh khi xung đột và băng tan thúc đẩy các tuyến đường thay thế - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOUtQem5iVG9LTDI1akU0UGNkZ2ptOGhIQnJKOTNIODdCRWZpX0FmZVc4aVlSMGhKR0dfX3plR3g3SllHbGhhcXNlYXlFc3ZXTURTanZTX25FYUlreEhQTU1oQzd5Y202YTRMUGxic0lIbkRZblpMMDhrem1NMGc0WFdVelM4b3FTREROSElDRFJWbEZXc1EteV81Rlg4UWUwak9uYnRfaFZIR2d2MlE1UTN1WGFQU214TFd4OXc2NktxTng4WERIcGRxcXUxdUo2QlHSAdIBQVVfeXFMUDlLUHpuYlRvS0wyNWpFNFBjZGdqbThoSEJySjkzSDg3QkVmaV9BZmVXOGlZUjBoSkdHX196ZUd4N0pZR2xoYXFzZWF5RXN2V01EU2p2U19uRWFJa3hIUE1NaEM3eWNtNmE0TFBsYnNJSG5EWW5aTDA4a3ptTTBnNFhXVXpTOG9xU0RETkhJQ0RSVmxGV3NRLXlfNUZYOFFlMGpPbmJ0X2hWSEdndjJRNVEzdVhhUFNteExXeDl3NjZLcU54OFhESHBkcXF"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:3afef91e89",
+   "title": "Ben Affleck: AI sẽ không thể thay thế ngành làm phim",
+   "original_title": "Ben Affleck: AI sẽ không thể thay thế ngành làm phim",
+   "link": "https://bbw.vn/ben-affleck-ai-se-khong-the-thay-the-nganh-lam-phim-60735.html"
+  }
+ ],
+ "content_sha": "79f75a97efbd42707f97e4dd79fa4fc5ac81d489a239287b18073a66038283ec"
+}
