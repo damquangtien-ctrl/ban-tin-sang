@@ -545,5 +545,44 @@
    "link": "https://bbw.vn/ben-affleck-ai-se-khong-the-thay-the-nganh-lam-phim-60735.html"
   }
  ],
- "content_sha": "79f75a97efbd42707f97e4dd79fa4fc5ac81d489a239287b18073a66038283ec"
+ "content_sha": "79f75a97efbd42707f97e4dd79fa4fc5ac81d489a239287b18073a66038283ec",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "ac04cbf5dbfce10c82db2ba4f5df781a25dc0940",
+   "published_at": "2026-10-07T07:01:33+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "278",
+   "sent_at": "2026-10-07T07:01:33+07:00",
+   "content_sha": "79f75a97efbd42707f97e4dd79fa4fc5ac81d489a239287b18073a66038283ec",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "278",
+     "sent_at": "2026-10-07T07:01:33+07:00",
+     "content_sha": "79f75a97efbd42707f97e4dd79fa4fc5ac81d489a239287b18073a66038283ec"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "457a256e72310c685527",
+   "sent_at": "2026-10-07T07:01:35+07:00",
+   "content_sha": "79f75a97efbd42707f97e4dd79fa4fc5ac81d489a239287b18073a66038283ec",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "457a256e72310c685527",
+     "sent_at": "2026-10-07T07:01:35+07:00",
+     "content_sha": "79f75a97efbd42707f97e4dd79fa4fc5ac81d489a239287b18073a66038283ec"
+    }
+   ]
+  }
+ }
 }
