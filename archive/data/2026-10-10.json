@@ -1,0 +1,678 @@
+{
+ "date": "2026-10-10",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Market Data",
+   "text": "VN-Index giảm 3,88 điểm về 1.735,09 điểm, khối ngoại bán ròng hơn 9.700 tỷ đồng, tập trung tại MCH"
+  },
+  {
+   "source": "CafeF",
+   "text": "Novaland, PNJ đồng loạt tăng trần, Quốc Cường Gia Lai bật mạnh sau thông tin liên quan bà Nguyễn Thị Như Loan"
+  },
+  {
+   "source": "CafeF",
+   "text": "Khối ngoại có tuần bán ròng đột biến 13.500 tỷ đồng ngay đầu tháng 10, một mã bất ngờ bị xả hơn 9.000 tỷ"
+  },
+  {
+   "source": "Thời báo Ngân hàng",
+   "text": "Fed đồng thuận tăng lãi suất nhưng bất đồng về lý do, giới đầu tư dõi theo bước đi tiếp theo"
+  },
+  {
+   "source": "Reuters",
+   "text": "Nhà thầu của Super Micro nhận tội trong đường dây chuyển lậu máy chủ AI chứa chip Nvidia sang Trung Quốc"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:6ad605a615",
+     "title": "PC1: Thành viên duy nhất không bị khởi tố được bầu vào ghế HĐQT công ty khai thác mỏ sắt 3.000 tỷ"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:cbf6b0cec2",
+     "title": "Đề nghị truy tố 31 bị can trong vụ án Công ty Khoáng sản và Luyện kim Việt Trung"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:3b57a40ec3",
+     "title": "NVL: Bà Nguyễn Thị Như Loan từ án treo xuống cải tạo không giam giữ, đã chấp hành xong"
+    },
+    {
+     "ref": "vnexpress:7de091eee9",
+     "title": "Cựu phó tổng giám đốc ngân hàng VNCB bị đề nghị truy tố vắng mặt"
+    },
+    {
+     "ref": "vnexpress:3f061fd375",
+     "title": "NVL: Công an làm việc với người đăng nhiều thông tin về Novaland để 'câu view'"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-3,88 (-0,22%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.735,09 điểm"
+   },
+   {
+    "change": "+5,38 (+2,1%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "261,6 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "Hơn 27.500 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (3 sàn)",
+    "value": "Bán ròng hơn 9.700 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.690 · Bán 26.070"
+   }
+  ],
+  "summary": "Thị trường Mỹ đêm qua đồng thuận tăng điểm: S&P 500 +0,59%, Dow Jones +0,83%, Nasdaq +0,64%, giới đầu tư chờ đợi mùa báo cáo lợi nhuận tuần tới. Dầu thô và vàng thế giới cùng đi lên, Bitcoin và chỉ số DXY cũng nhích nhẹ. Tại Việt Nam, phiên 9/10 VN-Index giảm 3,88 điểm (-0,22%) về 1.735,09 điểm dù thanh khoản HOSE vượt 27.500 tỷ đồng, trong khi HNX-Index tăng điểm; khối ngoại bán ròng mạnh hơn 9.700 tỷ đồng trên cả ba sàn, tập trung tại MCH.",
+  "tiles": [
+   {
+    "change_pct": 0.59,
+    "label": "S&P 500",
+    "value": "7.811,5"
+   },
+   {
+    "change_pct": 0.83,
+    "label": "Dow Jones",
+    "value": "51.654,9"
+   },
+   {
+    "change_pct": 0.64,
+    "label": "Nasdaq",
+    "value": "27.366,2"
+   },
+   {
+    "change_pct": 0.19,
+    "label": "Dầu WTI",
+    "value": "91,7 USD"
+   },
+   {
+    "change_pct": 0.14,
+    "label": "Dầu Brent",
+    "value": "104,4 USD"
+   },
+   {
+    "change_pct": 1.52,
+    "label": "Vàng thế giới",
+    "value": "4.220 USD"
+   },
+   {
+    "change_pct": 1.04,
+    "label": "Bitcoin",
+    "value": "82.527 USD"
+   },
+   {
+    "change_pct": 0.09,
+    "label": "DXY",
+    "value": "102,23"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:aa77199686",
+     "title": "Giáo sư giàu nhất Việt Nam mất 1.500 tỷ từ đầu năm"
+    },
+    {
+     "ref": "cafef:147bb6fd90",
+     "title": "SHS: Huy động lô trái phiếu 123 tỷ đồng"
+    },
+    {
+     "ref": "cafef:34f0cd35c9",
+     "title": "CTCK dự báo lợi nhuận một \"đại gia\" dầu khí có thể lập kỷ lục 32.600 tỷ đồng năm 2026"
+    },
+    {
+     "ref": "cafef:3f50ccaf4b",
+     "title": "Chuyện gì đây: Khối ngoại có tuần bán ròng đột biến 13.500 tỷ ngay đầu tháng 10, một mã bất ngờ bị \"xả\" hơn 9.000 tỷ"
+    },
+    {
+     "ref": "cafef:7176af953d",
+     "title": "Khoản phải trả 7.100 tỷ đồng cho đối tác Trung Quốc và cách 'đại gia' bán xe tải 'Hổ vồ' thu tiền trước, trả tiền sau"
+    },
+    {
+     "ref": "cafef:5dc322874c",
+     "title": "HNX công bố 67 mã chứng khoán bị cắt margin trong quý IV/2026"
+    },
+    {
+     "ref": "cafef:7d2a68b743",
+     "title": "PNJ: Từng thắng lớn với dầu gội X-Men, ông Phan Quốc Công đang tạm lỗ 16 tỷ đồng"
+    },
+    {
+     "ref": "cafef:4a14be0bf3",
+     "title": "Các tập đoàn dầu khí Mỹ, Nhật, Nga đổ xô vào Việt Nam, khai thác một kho báu tương đương nhà máy hạt nhân 1 GW, đang dùng lương cao giành giật nhân sự để triển khai loạt dự án tỷ USD"
+    },
+    {
+     "ref": "cafef:d606978d50",
+     "title": "CII: Liên tiếp huy động vốn lãi suất trên 11%, quy mô nợ trái phiếu mở rộng ra sao?"
+    },
+    {
+     "ref": "cafef:2d364de858",
+     "title": "VFS: VinFast dự chi 1 tỷ USD mở rộng nhà máy, phần lớn tại Ấn Độ và Indonesia"
+    },
+    {
+     "ref": "cafef:120d21549e",
+     "title": "Doanh nghiệp không kinh doanh nhiều năm vẫn có thể gánh 100 triệu đồng tiền phạt, chậm nộp: Chuyên gia kiến nghị gỡ vướng"
+    },
+    {
+     "ref": "cafef:226a340801",
+     "title": "Novaland, PNJ đồng loạt tăng trần, Quốc Cường Gia Lai bật mạnh sau thông tin liên quan bà Nguyễn Thị Như Loan"
+    },
+    {
+     "ref": "cafef:2e6eb526e3",
+     "title": "Chủ tịch Vinachem kiến nghị đẩy nhanh dự án muối mỏ kali tại Lào"
+    },
+    {
+     "ref": "cafef:fdc1cadd86",
+     "title": "Tỷ phú Nguyễn Thị Phương Thảo đang tuyển dụng vị trí không cần bằng đại học, chuẩn bị vận hành trung tâm bảo dưỡng gần 100 triệu USD"
+    },
+    {
+     "ref": "cafef:ff69055bff",
+     "title": "MSR: Đặt nền móng cho chính sách cổ tức tiền mặt dài hạn, dự kiến 6.000 đồng/cổ phiếu năm 2026"
+    },
+    {
+     "ref": "cafef:ec595e7101",
+     "title": "KOS: Người nhà Chủ tịch Kosy Group muốn gom 8 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:780e061365",
+     "title": "MWG: Điện Máy Xanh hé lộ kế hoạch cổ tức \"khủng\", tung chương trình \"độc lạ\" dành cho lãnh đạo chủ chốt"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:f5fe409a4b",
+     "title": "SHB: Khẳng định hoạt động ổn định, triển khai tăng vốn đúng quy định, đa dạng hóa nguồn lực tài chính"
+    },
+    {
+     "ref": "vietstock:e5dd42609e",
+     "title": "Tuần 05-09/10: USD quốc tế giằng co mạnh, tỷ giá tự do trong nước tăng mạnh"
+    },
+    {
+     "ref": "vietstock:0ad62dafd9",
+     "title": "SBT: Bà Huỳnh Bích Ngọc và công ty liên quan muốn bán gần 90 triệu cổ phiếu"
+    },
+    {
+     "ref": "vietstock:a1092980d5",
+     "title": "Hàng rào “nấu chảy và đúc phôi” của EU: Bài toán thích ứng của ngành thép Việt Nam"
+    },
+    {
+     "ref": "vietstock:1ee985daff",
+     "title": "HDS: Cựu Phó Thủ tướng Đức Philipp Roesler được giới thiệu vào HĐQT"
+    },
+    {
+     "ref": "vietstock:434753d7e3",
+     "title": "DMX muốn triển khai chương trình trái phiếu kèm chứng quyền mô phỏng “stock option” cho dàn lãnh đạo"
+    },
+    {
+     "ref": "vietstock:fb2fa81d45",
+     "title": "Chứng khoán Tuần 05-09/10/2026: Chưa thể khởi sắc"
+    },
+    {
+     "ref": "vietstock:be2d90ff90",
+     "title": "Đại Quang Minh hút thêm 500 tỷ từ trái phiếu lãi suất 11%/năm"
+    },
+    {
+     "ref": "vietstock:1ce4940682",
+     "title": "ANV: Sắp chi gần 270 tỷ đồng trả cổ tức năm 2025 và 2026"
+    },
+    {
+     "ref": "vietstock:b7f92302c5",
+     "title": "VPB: Hoàn tất đợt tăng vốn điều lệ lên 100.000 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:6b7e518e34",
+     "title": "DPG: Có thêm gói thầu hơn 1.200 tỷ đồng tại tuyến đường kết nối sân bay Gia Bình với Hà Nội"
+    },
+    {
+     "ref": "vietstock:aca0fa4337",
+     "title": "Đề xuất giao thêm chỉ tiêu kiểm soát CPI cho các địa phương từ năm 2027"
+    },
+    {
+     "ref": "vietstock:6764073717",
+     "title": "VIX: Sở hữu 1,17% vốn tại VPBank"
+    },
+    {
+     "ref": "vietstock:ed38d5ab7e",
+     "title": "HPT: Chốt phát hành hơn 1,7 triệu cổ phiếu trả cổ tức"
+    },
+    {
+     "ref": "vietstock:62fed95b8e",
+     "title": "TDT: Tổng Giám đốc thoái 1 triệu cổ phiếu, rời ghế cổ đông lớn"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:364d9697fc",
+     "title": "Lợi nhuận quý 3/2026: Dầu khí bùng nổ, Xây dựng giảm mạnh nhất?"
+    },
+    {
+     "ref": "vneconomy:592798d881",
+     "title": "PNJ: Dự báo sắp được các quỹ ETF mua vào hơn 3 triệu cổ phiếu"
+    },
+    {
+     "ref": "vneconomy:a0c80d2ed0",
+     "title": "Dự báo lợi nhuận bất động sản khu công nghiệp sẽ tăng mạnh trong năm 2027 nhờ dòng vốn FDI"
+    },
+    {
+     "ref": "vneconomy:902343f3cf",
+     "title": "Báo lỗ gần 20% trong 12 tháng, Pyn Elite Fund nói rằng thị trường giảm thật vô lý"
+    },
+    {
+     "ref": "vneconomy:dc097513a7",
+     "title": "DSE: Đạt kỷ lục 26,62% thị phần phái sinh, nối dài 8 quý liên tiếp giữ vị trí Top 2"
+    },
+    {
+     "ref": "vneconomy:01abc435be",
+     "title": "VPS dẫn đầu thị phần môi giới trên HNX quý 3/2026"
+    },
+    {
+     "ref": "vneconomy:b96588d3a4",
+     "title": "Phát hành trái phiếu bất động sản tăng mạnh, lãi suất bình quân 11,4%"
+    },
+    {
+     "ref": "vneconomy:6d4f581997",
+     "title": "Dự báo tăng trưởng EPS toàn thị trường tăng 33% trong năm 2026"
+    },
+    {
+     "ref": "vneconomy:ac05fec0f3",
+     "title": "Quỹ ngoại: Giai đoạn hiện tại là cơ hội tích lũy hấp dẫn, thị trường dài hạn rất tích cực"
+    },
+    {
+     "ref": "vneconomy:2422768c83",
+     "title": "Giới đầu tư coi lãi suất và lợi suất trái phiếu tăng là rủi ro lớn nhất đối với tăng trưởng kinh tế"
+    },
+    {
+     "ref": "vneconomy:dab6f29c82",
+     "title": "Ba nhóm cổ phiếu tâm điểm \"hút tiền\" trong những tháng cuối năm nhờ tăng trưởng GDP"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ade4212ba2",
+     "title": "Thị trường ô tô bứt tốc, doanh số tháng 9 tăng 38% - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:625e920e0e",
+     "title": "KBSV điểm tên bốn nhóm ngành triển vọng quý IV - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7b90002924",
+     "title": "Nhìn lại diễn biến nhóm cổ phiếu được các công ty chứng khoán khuyến nghị tuần qua - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:58346b2a6a",
+     "title": "El Niño 2026: Phép thử mới với ngành bảo hiểm và tái bảo hiểm - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3e60e1ecc1",
+     "title": "TP.HCM đề xuất cơ chế mới khắc phục khoảng trống pháp lý vận hành công trình BT - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c493176aeb",
+     "title": "KSV: Mới chia cổ tức hơn 90%, tiếp tục tạm ứng 30% cổ tức bằng tiền mặt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8dc789b1eb",
+     "title": "OCH: Huy động thành công 1.300 tỷ đồng để mua cổ phần tại EDS Equity Holdings"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:eea67ee7f1",
+     "title": "TCBS: Giá hàng hóa biến động mạnh, những nhóm ngành hưởng lợi - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fca87c880e",
+     "title": "Doanh nghiệp dệt may xoay xở giữ đơn hàng cuối năm - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:81dbbf2386",
+     "title": "Vốn FDI thực hiện tại Đà Nẵng tăng cao, vượt hơn 9.300 tỷ đồng - Baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:fe5f159888",
+     "title": "TCTT và CMIT đưa bến chung tại Cái Mép - Thị Vải vào khai thác thương mại - Baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:6efc5d6c14",
+     "title": "Đồng Nai: Thu hồi hàng loạt khu đất làm dự án của nhiều doanh nghiệp - Baodautu.vn"
+    },
+    {
+     "ref": "b-o-u-t:5c3089a01a",
+     "title": "Bộ Công thương thông tin về kết quả làm việc với doanh nghiệp điện tử - Baodautu.vn"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:9cebd80d0f",
+     "title": "SHB: Cổ phiếu rơi về đáy hơn 1 năm, lãnh đạo ngân hàng đăng ký mua thêm 2 triệu cổ phiếu"
+    },
+    {
+     "ref": "markettimes:465a3dc238",
+     "title": "Khi làn sóng nâng hạng thị trường đến: Làm ăn tốt vẫn khó lên sàn vì tám hạng mục doanh nghiệp Việt thường bỏ sót"
+    },
+    {
+     "ref": "markettimes:40b1603b5c",
+     "title": "HoSE cập nhật danh sách cắt margin đầu tháng 10"
+    },
+    {
+     "ref": "markettimes:32928279e7",
+     "title": "Nhu cầu điện tăng vọt, cổ phiếu nào được SSI đánh giá cao?"
+    },
+    {
+     "ref": "markettimes:04a9ec04c5",
+     "title": "VBB: Chốt ngày chào bán gần 296,2 triệu cổ phiếu cho cổ đông"
+    },
+    {
+     "ref": "markettimes:fe4a037c3e",
+     "title": "“Gã khổng lồ” bất động sản khu công nghiệp sắp trả cổ tức 6.000 đồng/cp"
+    },
+    {
+     "ref": "markettimes:9da891416c",
+     "title": "Sun Group đang xây \"thành phố bọt biển\" gần 186.000 tỷ giữa Hà Nội: Rộng 447 ha, 3 tuyến metro chạy qua, mô hình từng được Trung Quốc, Hà Lan, Singapore áp dụng"
+    },
+    {
+     "ref": "markettimes:8b52c82caa",
+     "title": "PNJ: AIGS công bố kết quả kiểm định, 100% mẫu kim cương là kim cương thiên nhiên"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:aa77b020a5",
+     "title": "Robusta Việt muốn vươn tầm, phải thoát vai trò cung cấp nguyên liệu"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:90ee0990c0",
+     "title": "Tái cơ cấu EVN: Hai bộ vênh nhau về lộ trình tách truyền tải, bán lẻ"
+    },
+    {
+     "ref": "ti-n-phong:d336bde911",
+     "title": "Lãi vay mua ô tô tăng vọt, ngân hàng thanh lý từ xe cũ đến Rolls-Royce"
+    },
+    {
+     "ref": "ti-n-phong:a9ccbb48ae",
+     "title": "Xăng tăng gần 5.000 đồng/lít từ tháng 9, lo giá hàng hóa khó hạ nhiệt"
+    },
+    {
+     "ref": "ti-n-phong:b62b323935",
+     "title": "Tăng trưởng kinh tế quý IV: Các địa phương ‘chạy nước rút’ bằng động lực nào?"
+    },
+    {
+     "ref": "ti-n-phong:f5a5039964",
+     "title": "Nông sản tăng tốc hướng đến mốc 18 tỷ USD cuối năm"
+    },
+    {
+     "ref": "ti-n-phong:0b7b642458",
+     "title": "Tây Ninh xếp thứ 7 cả nước về thu hút vốn FDI"
+    },
+    {
+     "ref": "ti-n-phong:735634e403",
+     "title": "GAS: PV GAS hợp tác mở rộng nguồn cung và chuỗi giá trị khí"
+    },
+    {
+     "ref": "ti-n-phong:a2d4559e30",
+     "title": "Sau Savan 1, T&T Group tiếp tục đầu tư điện gió Savan 2 gần 500 MW tại Lào"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:a65e469ef5",
+     "title": "Tập đoàn Đường sắt quốc gia thành lập đơn vị phát triển tài sản và TOD đường sắt - Bnews.vn"
+    },
+    {
+     "ref": "bnews:7da4d7b1f5",
+     "title": "Bắc Ninh đưa gần 300 MW điện mặt trời mái nhà vào vận hành - Bnews.vn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:3dca56dccb",
+     "title": "DC4: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:3d46ac2d4c",
+     "title": "SGN: Thông báo ngày ĐKCC trả cổ tức năm 2025 bằng tiền"
+    },
+    {
+     "ref": "hose:ba0beaff2a",
+     "title": "REE: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết"
+    },
+    {
+     "ref": "hose:4dfff030b1",
+     "title": "PDV: Nghị quyết HĐQT về việc ban hành Điều lệ công ty (kèm điều lệ)"
+    },
+    {
+     "ref": "hose:01866b90f3",
+     "title": "BMI: Thông báo công văn của Bộ Tài Chính về việc chấp thuận nguyên tắc thay đổi vốn điều lệ của BMI"
+    },
+    {
+     "ref": "hose:f4cab5aec3",
+     "title": "TCO: Báo cáo về thay đổi sở hữu của CĐ lớn La Văn Thêm"
+    },
+    {
+     "ref": "hose:964cfd12f4",
+     "title": "SAB: Nghị quyết HĐQT về việc thông qua đề xuất gia hạn các khoản vay nội bộ CDBECO"
+    },
+    {
+     "ref": "hose:daa4fed6b5",
+     "title": "MCP: Nghị quyết HĐQT về việc thông qua ngày đăng ký cuối cùng để thực hiện chi trả cổ tức năm 2025 bằng tiền"
+    },
+    {
+     "ref": "hose:2bf0a13c21",
+     "title": "QNP: Nghị quyết HĐQT về việc ký hợp đồng với Vosa Nha Trang"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:df99a67ae6",
+   "title": "Điện Kremlin: Trong cuộc điện đàm với Trump, Putin hạ thấp khả năng sớm nối lại đàm phán Ukraine",
+   "translated": true,
+   "original_title": "Kremlin says Putin in phone call with Trump downplays immediate Ukraine talks resumption",
+   "link": "https://www.reuters.com/world/europe/kremlin-says-putin-phone-call-with-trump-downplays-immediate-ukraine-talks-2026-10-09/"
+  },
+  {
+   "ref": "tg-marketfeed:1055524",
+   "title": "Nguồn tin: Đàm phán viên Mỹ, Ukraine và Nga đàm phán 6 giờ tại Miami để xây dựng đề xuất chung chấm dứt chiến tranh Ukraine",
+   "translated": true,
+   "original_title": "NEGOTIATORS FOR US, UKRAINE AND RUSSIA HOLD SIX-HOUR TALKS IN MIAMI FOR JOINT PROPOSAL TO END WAR IN UKRAINE, SOURCE SAYS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:403224",
+   "title": "Phó Thủ tướng Nga: Nga sẽ dỡ bỏ lệnh cấm xuất khẩu dầu diesel sớm hơn kế hoạch, sẵn sàng cung cấp thêm cho Mỹ và các đối tác",
+   "translated": false,
+   "original_title": "▫️ Phó Thủ tướng Nga: Nga sẽ dỡ bỏ lệnh cấm xuất khẩu dầu diesel sớm hơn Phó Thủ tướng Nga Novak tuyên bố nước này sẽ bắt đầu ngay dỡ bỏ các hạn chế xuất khẩu dầu diesel, sớm hơn kế hoạch ban đầu. Theo ông, Nga sẵn sàng cung cấp thêm dầu diesel cho Mỹ và tất cả các đối tác vào tháng 10 với khối lượng 300.000 tấn, tháng 11 tăng lên 500.000 tấn, và tháng 12 lên 1 triệu tấn. Novak cũng nhấn mạnh thị ",
+   "link": null
+  },
+  {
+   "ref": "reuters:7a03d098ea",
+   "title": "Nhà thầu của Super Micro nhận tội trong đường dây chuyển lậu máy chủ AI chứa chip Nvidia sang Trung Quốc",
+   "translated": true,
+   "original_title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+   "link": "https://www.reuters.com/legal/government/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-with-nvidia-chips-2026-10-09/"
+  },
+  {
+   "ref": "reuters:d7c765de52",
+   "title": "Nguồn tin: Startup chip Nuvacore được Sequoia hậu thuẫn đang gọi vốn với mức định giá khoảng 2,5 tỷ USD",
+   "translated": true,
+   "original_title": "Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
+   "link": "https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/"
+  },
+  {
+   "ref": "tg-marketfeed:1055527",
+   "title": "Axios: Chính quyền Trump yêu cầu các công ty AI báo cáo và khắc phục lỗ hổng an ninh sau vụ Anthropic bị cáo buộc dùng 'gian lận' hệ thống chính phủ",
+   "translated": true,
+   "original_title": "TRUMP ADMINISTRATION: NOW REQUIRING AI COMPANIES TO REPORT AND FIX SECURITY BREACHES AFTER ANTHROPIC’S 'FRAUDULENT' USE OF GOVERNMENT SYSTEMS - AXIOS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1055528",
+   "title": "Anthropic: Các AI agent 'nổi loạn' từng tìm cách truy cập trái phép vào các trang web của chính phủ Mỹ",
+   "translated": true,
+   "original_title": "JUST IN: 🇺🇸 ANTHROPIC SAYS ROGUE AI AGENTS TRIED TO GAIN ACCESS TO US GOVERNMENT SITES. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1055521",
+   "title": "Bộ Tư pháp Mỹ xem xét việc Binance tuân thủ thỏa thuận dàn xếp năm 2023, có thể đối mặt cáo buộc và tiền phạt hồi tố nếu vi phạm",
+   "translated": true,
+   "original_title": "*BINANCE COULD FACE REVIVED CHARGES, FINES IF DEAL BREACHED: REPORT *BINANCE: FULLY COMMITTED TO COOPERATING WITH LAW ENFORCEMENT ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:6f9a60781c",
+   "title": "Bão lớn áp sát bờ Vịnh Mexico của Mỹ, người dân đóng ván cửa sổ và di tản",
+   "translated": true,
+   "original_title": "Boarded windows and evacuations as major hurricane nears US Gulf coast",
+   "link": "https://www.reuters.com/business/environment/boarded-windows-evacuations-major-hurricane-nears-us-gulf-coast-2026-10-09/"
+  },
+  {
+   "ref": "tg-marketfeed:1055508",
+   "title": "Trump: Vụ tấn công sân bay ở Saudi Arabia là 'điều không tốt', để ngỏ khả năng hành động với Iran trước kỳ bầu cử giữa kỳ",
+   "translated": true,
+   "original_title": "*TRUMP: ATTACK ON AIRPORT IN SAUDI ARABIA IS 'NOT A GOOD THING' *TRUMP ON ACTION ON IRAN BEFORE MIDTERM: WE MAY ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:8e35819be8",
+   "title": "CEO Flexport nói về chi phí tàu chở dầu và giá diesel",
+   "translated": true,
+   "original_title": "Flexport CEO on Oil Tanker Costs, Diesel Prices",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video"
+  },
+  {
+   "ref": "bloomberg:79ab4c4c4c",
+   "title": "Wall Street tăng điểm trước mùa báo cáo lợi nhuận tuần tới",
+   "translated": true,
+   "original_title": "Wall Street Rallies Ahead of Next Week's Earnings | Closing Bell",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-rallies-closing-bell-video"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:cc9d74d712",
+   "title": "Mỹ mất bao lâu để đuổi kịp Trung Quốc về đất hiếm?",
+   "translated": false,
+   "original_title": "Mỹ mất bao lâu để đuổi kịp Trung Quốc về đất hiếm?",
+   "link": "https://bbw.vn/my-mat-bao-lau-de-duoi-kip-trung-quoc-ve-dat-hiem-60824.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:57f8949041",
+   "title": "Mỹ đình chỉ chương trình thị thực dành cho Microsoft và các công ty công nghệ",
+   "translated": false,
+   "original_title": "Mỹ đình chỉ chương trình thị thực dành cho Microsoft và các công ty công nghệ",
+   "link": "https://bbw.vn/my-dinh-chi-chuong-trinh-thi-thuc-danh-cho-microsoft-va-cac-cong-ty-cong-nghe-60865.html"
+  },
+  {
+   "ref": "vneconomy:ab5c9ee401",
+   "title": "Nhật Bản sắp loại hàng trăm cổ phiếu khỏi chỉ số Topix trong đợt cải tổ lớn chưa từng có",
+   "translated": false,
+   "original_title": "Nhật Bản sắp loại hàng trăm cổ phiếu khỏi chỉ số Topix trong đợt cải tổ lớn chưa từng có",
+   "link": "https://vneconomy.vn/nhat-ban-sap-loai-hang-tram-co-phieu-khoi-chi-so-topix-trong-dot-cai-to-lon-chua-tung-co.htm"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:389c758943",
+   "title": "Lợi suất trái phiếu Trung Quốc đi ngược xu hướng toàn cầu, hút dòng vốn vay quốc tế",
+   "translated": false,
+   "original_title": "Lợi suất trái phiếu Trung Quốc đi ngược xu hướng toàn cầu, hút dòng vốn vay quốc tế - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOU1pRU9TUVhDeEp4MHVfbmFDN0s5dU5XX2F4UzFWVmFnRFJrWHVIUG5IZXJmN3poU1hYRVc2al9VaG82WXJqVkRQZHZsQVF6V0F5TGJNMXR6Y1g0TVJjcDktdFJzT1dpRTZtbksyaDN5RFlFc3Vwa0tMMkU3V0hFMEpIa2pTTjdZZFZnWWRtREY3Wld1a2d4SF9wNXJ1Wmd4QThRNkYtTktXRFBBaHE1dlYxX2pGY1puUEVwU2piWGhLMFZBNjdyedIByAFBVV95cUxNOU1pRU9TUVhDeEp4MHVfbmFDN0s5dU5XX2F4UzFWVmFnRFJrWHVIUG5IZXJmN3poU1hYRVc2al9VaG82WXJqVkRQZHZsQVF6V0F5TGJNMXR6Y1g0TVJjcDktdFJzT1dpRTZtbksyaDN5RFlFc3Vwa0tMMkU3V0hFMEpIa2pTTjdZZFZnWWRtREY3Wld1a2d4SF9wNXJ1Wmd4QThRNkYtTktXRFBBaHE1dlYxX2pGY1puUEVwU2piWGhLMFZBNjdyeQ?oc=5"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:577776add0",
+   "title": "Tại sao Chính phủ Mỹ liên tiếp chuyển Bitcoin đến sàn Coinbase?",
+   "translated": false,
+   "original_title": "Tại sao Chính phủ Mỹ liên tiếp chuyển Bitcoin đến sàn Coinbase? - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWZndnpHc0w5dHl3RHNlNWo1b0trLThBU2lJVzJzamREOVpCRHh3bkxPb2JoVVpRc0tRcGhwV0x6OEFpVTNGbDBtQ1hLQlZNQi1SV2RVTDRfNVQ1UVRVck9jV293QmlPZko3bVhlRDNhTmw3R3pMVnNTY1ZTbzQxYVZzRXlJenIzV0JUcWFvZW03dmxuZ0FtcHc4U0FxZ1FqNU9id2E4ZkE1anV2ejNLZXJn0gGuAUFVX3lxTE01V1RiWFA1MWFCdlhFblhEUVZOa19lN2FjWmRNMUh3NWFlSXRabzRCV1l4VDl4S3BtTEtXSXdPNERzcWljZzg1N2dnTlZHRVZ2QmRadHM4WU41ZDEwUWVocUJ5WDhFWGRpRlhLUTlnMWRLcXUyZzVzWEV5bFRuVTVidjVFeW5DUktKeUIzZFZIcllwT1NyNXlFT0tIcW5aQU5QcHhrMU9PcWVhaU5ndw?oc=5"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:af7d3a42ad",
+   "title": "Sau nhiều năm lao dốc, bất động sản Trung Quốc sắp bước vào chu kỳ hồi phục",
+   "translated": false,
+   "original_title": "Sau nhiều năm lao dốc, bất động sản Trung Quốc sắp bước vào chu kỳ hồi phục - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2I4bE1fTGU5TTJ4em9ONm9Ia0VpSThYa2hHLVFNcUlJMmhEazFQT3pRYVV5RHRaTmxnbHVIQmVxNjc2OVM5dUh0VXlJenBuNjlpa3NaRHM2SVk2SE5OTjdBZnlieEx1aERzNlczZjBRTE83YVp3Vzdpb19FUXpscUFjX01VdjR6MVdTaW5oOTNvWEpCZUhiNUMxWk9BMnlHSWVKVExRcDMyLV9RV19SVVRUUm5uQzlUNER2c2FB0gG-AUFVX3lxTE9TYjhsTV9MZTlNMnh6b042b0hrRWlJOFhraEctUU1xSUkyaERrMVBPelFhVXlEdFpObGdsdUhCZXE2NzY5Uzl1SHRVeUl6cG42OWlrc1pEczZJWTZITk5ON0FmeWJ4THVoRHM2VzNmMFFMTzdhWndXN2lvX0VRemxxQWNfTVV2NHoxV1Npbmg5M29YSkJlSGI1QzFaT0EyeUdJZUpUTFFwMzItX1FXX1JVVFRSbm5DOVQ0RHZzYUE?oc=5"
+  },
+  {
+   "ref": "markettimes:664fee227d",
+   "title": "Trung Quốc mua vàng mạnh nhất trong 3 năm, chuyện gì đang xảy ra?",
+   "translated": false,
+   "original_title": "Trung Quốc mua vàng mạnh nhất trong 3 năm, chuyện gì đang xảy ra?",
+   "link": "https://markettimes.vn/trung-quoc-mua-vang-manh-nhat-trong-3-nam-chuyen-gi-dang-xay-ra-132541.html"
+  },
+  {
+   "ref": "th-i-b-o-ng-n-h-ng:1b62473b3c",
+   "title": "Fed đồng thuận tăng lãi suất nhưng bất đồng về lý do: Điều gì tiếp theo?",
+   "translated": false,
+   "original_title": "Fed đồng thuận tăng lãi suất nhưng bất đồng về lý do: Điều gì tiếp theo? - Thời Báo Ngân Hàng",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclNSQ1M3X1k3dzhfWlU4SldDQVRHSjdRXy1URExMX3ZLc0Z5R3ZtWWdGTFBMYkFjcUw0Yi1HSWVEaGJvamdEajUwOF9uRlFUU0VNWU9uZzZ5MVZyYXljR0VtLThDeWxOMTY3ZzJobnZQT1FyTHV2YkVwWThYU19WamwyZVB0cmpLXzdycldWSW11VFBnT0ZnckUtT1Y3eTBNdjZEbURxME80blctX2c?oc=5"
+  }
+ ],
+ "content_sha": "bbcbf287591906da8de1ef019bb878c56e8fe4d669e412ba88a2cc90455bf9a1"
+}
