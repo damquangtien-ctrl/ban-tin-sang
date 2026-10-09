@@ -1,0 +1,37 @@
+
+########## CHAY LUC 2026-10-09 07:00:18 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-09, ban daily)
+   the gioi 14 tin · Viet Nam 73 tin / 10 bao · phap ly 10 tin · chot quyen 1 ma
+   CANH BAO [C7] vietnam[9].items[2] và vietnam[9].items[3] có thể trùng sự kiện (giống 80%)
+   THAT BAI: 1 loi
+      [C1] bulletin.market_data.domestic[3].change: chuỗi quá dài (31 > 30)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-10-09 07:00:33 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-09, ban daily)
+   the gioi 14 tin · Viet Nam 73 tin / 10 bao · phap ly 10 tin · chot quyen 1 ma
+   CANH BAO [C7] vietnam[9].items[2] và vietnam[9].items[3] có thể trùng sự kiện (giống 80%)
+   DAT: khong loi, 1 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-09 · the gioi 14 · Viet Nam 73 · phap ly 10
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-09.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-10-09: commit 2fa022ba4069 · sha noi dung c7fe3bc4d0f459ac
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 09/10 | content_sha 64a9272fbca8 | commit 2fa022ba4069
+   telegram user/928f6fc4179d OK message_id=280
+   zalo     user/593dd2adbb87 OK message_id=5fd757449ee2efbbb6f4
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-09.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-10-09 07:01:10 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

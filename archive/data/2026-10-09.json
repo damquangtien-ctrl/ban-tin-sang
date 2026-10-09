@@ -615,5 +615,44 @@
    "link": "https://bbw.vn/my-mat-bao-lau-de-duoi-kip-trung-quoc-ve-dat-hiem-60824.html"
   }
  ],
- "content_sha": "64a9272fbca8a30c1cf9dee24e1ca4505384b90127775fb43708a65e98eca4f6"
+ "content_sha": "64a9272fbca8a30c1cf9dee24e1ca4505384b90127775fb43708a65e98eca4f6",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "2fa022ba40692416ad7e2ce548f078ddaf83dd14",
+   "published_at": "2026-10-09T07:01:08+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "280",
+   "sent_at": "2026-10-09T07:01:08+07:00",
+   "content_sha": "64a9272fbca8a30c1cf9dee24e1ca4505384b90127775fb43708a65e98eca4f6",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "280",
+     "sent_at": "2026-10-09T07:01:08+07:00",
+     "content_sha": "64a9272fbca8a30c1cf9dee24e1ca4505384b90127775fb43708a65e98eca4f6"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "5fd757449ee2efbbb6f4",
+   "sent_at": "2026-10-09T07:01:10+07:00",
+   "content_sha": "64a9272fbca8a30c1cf9dee24e1ca4505384b90127775fb43708a65e98eca4f6",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "5fd757449ee2efbbb6f4",
+     "sent_at": "2026-10-09T07:01:10+07:00",
+     "content_sha": "64a9272fbca8a30c1cf9dee24e1ca4505384b90127775fb43708a65e98eca4f6"
+    }
+   ]
+  }
+ }
 }
