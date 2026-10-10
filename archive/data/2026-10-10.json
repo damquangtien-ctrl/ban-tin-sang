@@ -674,5 +674,44 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclNSQ1M3X1k3dzhfWlU4SldDQVRHSjdRXy1URExMX3ZLc0Z5R3ZtWWdGTFBMYkFjcUw0Yi1HSWVEaGJvamdEajUwOF9uRlFUU0VNWU9uZzZ5MVZyYXljR0VtLThDeWxOMTY3ZzJobnZQT1FyTHV2YkVwWThYU19WamwyZVB0cmpLXzdycldWSW11VFBnT0ZnckUtT1Y3eTBNdjZEbURxME80blctX2c?oc=5"
   }
  ],
- "content_sha": "bbcbf287591906da8de1ef019bb878c56e8fe4d669e412ba88a2cc90455bf9a1"
+ "content_sha": "bbcbf287591906da8de1ef019bb878c56e8fe4d669e412ba88a2cc90455bf9a1",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "5ef445108924feb2c70c986ee086aa6bf800ed77",
+   "published_at": "2026-10-10T07:00:15+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "281",
+   "sent_at": "2026-10-10T07:00:16+07:00",
+   "content_sha": "bbcbf287591906da8de1ef019bb878c56e8fe4d669e412ba88a2cc90455bf9a1",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "281",
+     "sent_at": "2026-10-10T07:00:16+07:00",
+     "content_sha": "bbcbf287591906da8de1ef019bb878c56e8fe4d669e412ba88a2cc90455bf9a1"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "686b2ff4247d54240d6b",
+   "sent_at": "2026-10-10T07:00:17+07:00",
+   "content_sha": "bbcbf287591906da8de1ef019bb878c56e8fe4d669e412ba88a2cc90455bf9a1",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "686b2ff4247d54240d6b",
+     "sent_at": "2026-10-10T07:00:17+07:00",
+     "content_sha": "bbcbf287591906da8de1ef019bb878c56e8fe4d669e412ba88a2cc90455bf9a1"
+    }
+   ]
+  }
+ }
 }
