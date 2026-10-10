@@ -1,0 +1,186 @@
+{
+ "date": "2026-10-11",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Reuters",
+   "text": "Vụ tập kích sân bay quốc tế King Khalid ở Riyadh khiến ít nhất 12 người thiệt mạng, sân bay phải tạm ngừng hoạt động."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Liên minh do Saudi Arabia dẫn đầu cáo buộc Houthi gây ra vụ tấn công sân bay Riyadh và tuyên bố sẽ đáp trả mạnh mẽ."
+  },
+  {
+   "source": "Reuters",
+   "text": "Tàu chở dầu phát nổ sau khi trúng mìn tại Eo biển Hormuz theo cáo buộc của Vệ binh Cách mạng Iran, làm dấy lên lo ngại an toàn hàng hải khu vực."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "CEO Microsoft Satya Nadella kêu gọi áp dụng 'phanh khẩn cấp' đối với sự phát triển của AI tiên tiến."
+  },
+  {
+   "source": "Reuters",
+   "text": "Nvidia đang đàm phán đầu tư thêm vào hoặc mua lại startup AI Reflection AI, theo Financial Times."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-3,88 (-0,22%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.735,09 điểm"
+   },
+   {
+    "label": "Thanh khoản HOSE",
+    "value": "~27.542,8 tỷ đồng"
+   },
+   {
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~9.272 tỷ đồng"
+   },
+   {
+    "label": "Vàng SJC",
+    "value": "Mua 14.180.000 – Bán 14.480.000 đồng/chỉ"
+   },
+   {
+    "label": "USD/VND (VCB bán)",
+    "value": "26.070 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ tăng điểm trong phiên cuối tuần qua với S&P 500 +0,59%, Dow Jones +0,83% và Nasdaq +0,64%, trong khi dầu WTI và Brent cùng nhích nhẹ 0,39% và 0,42%. Vàng thế giới bật tăng 1,43% lên 4.216 USD/ounce và Bitcoin nhích 0,5% lên gần 83.000 USD, phản ánh tâm lý tìm nơi trú ẩn khi căng thẳng địa chính trị tại Trung Đông leo thang sau vụ tấn công sân bay Riyadh và sự cố tàu chở dầu tại Eo biển Hormuz. Trong phiên giao dịch gần nhất tại Việt Nam ngày 9/10, VN-Index giảm 3,88 điểm (-0,22%) về 1.735,09 điểm, thanh khoản HOSE tăng vọt lên hơn 27.500 tỷ đồng, trong đó khối ngoại bán ròng khoảng 9.272 tỷ đồng, chủ yếu qua một giao dịch thỏa thuận cổ phiếu MCH.",
+  "tiles": [
+   {
+    "change_pct": 0.59,
+    "label": "S&P 500",
+    "value": "7.811,5"
+   },
+   {
+    "change_pct": 0.83,
+    "label": "Dow Jones",
+    "value": "51.654,9"
+   },
+   {
+    "change_pct": 0.64,
+    "label": "Nasdaq",
+    "value": "27.366,2"
+   },
+   {
+    "change_pct": 0.39,
+    "label": "Dầu WTI",
+    "value": "91,8 USD"
+   },
+   {
+    "change_pct": 0.42,
+    "label": "Dầu Brent",
+    "value": "104,7 USD"
+   },
+   {
+    "change_pct": 1.43,
+    "label": "Vàng thế giới",
+    "value": "4.216 USD"
+   },
+   {
+    "change_pct": 0.5,
+    "label": "Bitcoin",
+    "value": "82.957 USD"
+   },
+   {
+    "change_pct": 0.09,
+    "label": "DXY",
+    "value": "102,23"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "reuters:3a7c233ed2",
+   "title": "Vụ tập kích mới vào sân bay Riyadh khiến 12 người thiệt mạng, theo các nguồn tin",
+   "translated": true,
+   "original_title": "Une nouvelle attaque contre l'aéroport de Ryad fait douze morts, selon des sources",
+   "link": "https://www.reuters.com/fr/affaires/une-nouvelle-attaque-contre-laroport-de-ryad-fait-douze-morts-selon-des-sources-2026-10-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1055711",
+   "title": "Liên minh do Saudi Arabia dẫn đầu: Houthi ở Yemen chịu trách nhiệm vụ tấn công sân bay King Khalid hôm thứ Bảy",
+   "translated": true,
+   "original_title": "SAUDI-LED COALITION: YEMEN'S HOUTHIS RESPONSIBLE FOR SATURDAY ATTACK ON KING KHALID AIRPORT IN RIYADH ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1055691",
+   "title": "Sân bay quốc tế King Khalid ở Riyadh tạm ngừng hoạt động để đánh giá thiệt hại sau vụ tấn công",
+   "translated": true,
+   "original_title": "SAUDI CIVIL AVIATION AUTHORITY : OPERATIONS AT KING KHALID INTERNATIONAL AIRPORT IN RIYADH ARE TEMPORARILY SUSPENDED PENDING DAMAGE ASSESSMENT. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:4d98ca2fa5",
+   "title": "Vệ binh Cách mạng Iran: Tàu chở dầu phát nổ sau khi trúng mìn tại Eo biển Hormuz",
+   "translated": true,
+   "original_title": "Guarda Revolucionária do Irã diz que petroleiro explodiu após atingir mina no Estreito de Ormuz",
+   "link": "https://www.reuters.com/pt/mundo/VLFARZ7NXRNINBK5LFC3Y5CEYU-2026-10-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1055702",
+   "title": "Bộ Năng lượng Mỹ xuất kho dự trữ dầu chiến lược để giảm gián đoạn do bão",
+   "translated": true,
+   "original_title": "LATEST SPR RELEASE TO EASE DISRUPTIONS FROM US STORM: ENERGY DEPT ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:f330fdb4a0",
+   "title": "Nga nới lỏng lệnh cấm xuất khẩu dầu diesel sau thỏa thuận giữa Putin và Trump",
+   "translated": true,
+   "original_title": "Rússia flexibiliza proibição às exportações de diesel após acordo entre Putin e Trump",
+   "link": "https://www.reuters.com/pt/negocio/PAVSQPWSQFN5JPZZ4U7VI242UU-2026-10-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1055709",
+   "title": "CEO Microsoft Satya Nadella kêu gọi 'phanh khẩn cấp' với AI tiên tiến",
+   "translated": true,
+   "original_title": "JUST IN: MICROSOFT $MSFT CEO SATYA NADELLA CALLS FOR \"EMERGENCY BRAKE\" ON ADVANCED AI. ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:88dd928e99",
+   "title": "Nvidia đàm phán đầu tư thêm vào Reflection AI hoặc mua lại startup này, theo FT",
+   "translated": true,
+   "original_title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+   "link": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/"
+  },
+  {
+   "ref": "bloomberg:ed8c121921",
+   "title": "Lạm phát Mỹ tháng này dự báo tăng do giá xăng cao hơn",
+   "translated": true,
+   "original_title": "US CPI to Show Overall Inflation Boosted by Higher Gasoline Prices",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-10/us-cpi-to-show-overall-inflation-boosted-by-higher-gasoline-prices"
+  },
+  {
+   "ref": "bloomberg:82dafa0a3e",
+   "title": "Phát hành nợ cho AI bất chấp lợi suất tăng, SpaceX và Broadcom lên kế hoạch thương vụ lớn",
+   "translated": true,
+   "original_title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly"
+  },
+  {
+   "ref": "reuters:8aa503aacc",
+   "title": "Trump nói Zelensky 'nên dừng' tấn công các nhà máy lọc dầu Nga, kêu gọi lãnh đạo mới",
+   "translated": true,
+   "original_title": "Trump dice que a Zelenski \"más le vale dejar\" de atacar refinerías rusas, pide un nuevo líder",
+   "link": "https://www.reuters.com/latam/mundo/VK3ILK522JI7BDQEXDTXRVNHYE-2026-10-10/"
+  },
+  {
+   "ref": "tg-marketfeed:1055696",
+   "title": "Đài truyền hình Israel: Sẽ không có cuộc tấn công nào do Israel khởi xướng vào Iran trước bầu cử",
+   "translated": true,
+   "original_title": "ISRAELI CHANNEL 12, QUOTING A SENIOR OFFICIAL: THERE WILL BE NO ISRAELI-INITIATED ATTACK ON IRAN BEFORE THE ELECTIONS. ...",
+   "link": null
+  }
+ ],
+ "content_sha": "5976f4336d2637f6a1e95f0b0f05a453b51391878debed25b483b551c74387f5"
+}
