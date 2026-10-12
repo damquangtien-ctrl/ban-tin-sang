@@ -1,0 +1,591 @@
+{
+ "date": "2026-10-12",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VnEconomy",
+   "text": "VN-Index giảm nhẹ về 1.735,09 điểm phiên cuối tuần, khối ngoại bất ngờ bán ròng gần 9.732 tỷ đồng do một giao dịch thỏa thuận lớn tại MCH."
+  },
+  {
+   "source": "Reuters",
+   "text": "Dầu tăng giá do căng thẳng Trung Đông leo thang: sân bay quốc tế Riyadh bị tấn công, nhiều tàu chở dầu gần Hormuz và Oman bị drone tập kích."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "CME FedWatch: Xác suất Fed giữ nguyên lãi suất trong tháng 10 ở mức 81,7%."
+  },
+  {
+   "source": "CafeF",
+   "text": "Cổ phiếu PNJ về đáy 9 năm sau khi người nhà Chủ tịch Cao Thị Ngọc Dung bị công ty chứng khoán bán giải chấp gần 3 triệu cổ phiếu."
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "Các ngân hàng lớn dự kiến thu về khoảng 5 tỷ USD từ kinh doanh vàng trong năm nay, mức chưa từng có tiền lệ."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:6ef99050ca",
+     "title": "Triệt phá đường dây lừa đảo đầu tư vàng ảo qua ứng dụng Phantom"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:78a2754ef6",
+     "title": "Đầu tư Phúc Hậu bị xử phạt vi phạm công bố thông tin tài chính và trái phiếu"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:880b6deed7",
+     "title": "Cảnh sát Hong Kong bắt 127 người trong đường dây cho vay nặng lãi do người Việt cầm đầu"
+    },
+    {
+     "ref": "vnexpress:6d1790ea76",
+     "title": "Bảy người Việt 'rửa tiền' hàng nghìn tỷ đồng cho nhóm lừa đảo qua mạng"
+    },
+    {
+     "ref": "vnexpress:656a56b9ad",
+     "title": "Thầy phong thuỷ đạo diễn 13 tỷ đồng hối lộ và vụ 'dựa hơi' Bí thư Tỉnh ủy"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:10c88e5055",
+     "title": "TRA: Bị xử phạt liên quan đến hoạt động sản xuất thuốc"
+    },
+    {
+     "ref": "google-news-ph-p-l:f912df0b2a",
+     "title": "Loạt giám đốc, phó giám đốc doanh nghiệp ở TP.HCM bị bắt tạm giam: Danh sách 21 bị can do công an công bố"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-3,88 (-0,22%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.735,09"
+   },
+   {
+    "change": "+5,38 (+2,1%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "261,60"
+   },
+   {
+    "change": "~27.542,81 tỷ đồng",
+    "direction": "flat",
+    "label": "Thanh khoản HOSE",
+    "value": "911,32 triệu đơn vị"
+   },
+   {
+    "change": "chủ yếu do deal lớn MCH",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~9.732 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.070"
+   }
+  ],
+  "summary": "Phố Wall đêm qua đồng loạt tăng điểm với S&P 500, Dow Jones và Nasdaq đều đi lên, trong khi dầu WTI và Brent giảm nhẹ do điều chỉnh sau khi tăng mạnh vì căng thẳng tại Trung Đông; vàng thế giới nhích nhẹ và Bitcoin cũng tăng giá. Tại thị trường trong nước, phiên giao dịch gần nhất (thứ Sáu 9/10, do thứ Bảy và Chủ nhật nghỉ giao dịch) ghi nhận VN-Index giảm nhẹ về 1.735,09 điểm trong khi HNX-Index tăng, thanh khoản HOSE tăng mạnh lên hơn 911 triệu đơn vị. Khối ngoại bất ngờ bán ròng đột biến gần 9.732 tỷ đồng, chủ yếu do một giao dịch thỏa thuận khối lớn tại cổ phiếu MCH.",
+  "tiles": [
+   {
+    "change_pct": 0.59,
+    "label": "S&P 500",
+    "value": "7.811,5"
+   },
+   {
+    "change_pct": 0.83,
+    "label": "Dow Jones",
+    "value": "51.654,9"
+   },
+   {
+    "change_pct": 0.64,
+    "label": "Nasdaq",
+    "value": "27.366,2"
+   },
+   {
+    "change_pct": -0.56,
+    "label": "Dầu WTI",
+    "value": "91,3 USD"
+   },
+   {
+    "change_pct": -0.53,
+    "label": "Dầu Brent",
+    "value": "104,2 USD"
+   },
+   {
+    "change_pct": 0.11,
+    "label": "Vàng thế giới",
+    "value": "4.221 USD"
+   },
+   {
+    "change_pct": 0.84,
+    "label": "Bitcoin",
+    "value": "83.608 USD"
+   },
+   {
+    "change_pct": 0.0,
+    "label": "DXY",
+    "value": "102,21"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:cdd46f87d4",
+     "title": "CTCK chỉ ra một yếu tố có thể trở thành lực cản lớn cho thị trường chứng khoán trong quý 4"
+    },
+    {
+     "ref": "cafef:c61a3a6a64",
+     "title": "Chứng khoán tháng 10 từng xuất hiện những cú giảm sâu, nhóm cổ phiếu nào thường chịu áp lực lớn nhất?"
+    },
+    {
+     "ref": "cafef:169defda29",
+     "title": "SGI Capital: Một chỉ báo cần đặc biệt lưu ý trong BCTC quý 3, ngân hàng và BĐS có thể không còn \"dẫn sóng\" 5-10 năm tới"
+    },
+    {
+     "ref": "cafef:624a63052e",
+     "title": "Chuyên gia: Chứng khoán tuần tới tiếp tục dao động quanh ngưỡng 1.730 điểm"
+    },
+    {
+     "ref": "cafef:e04531dfed",
+     "title": "Một yếu tố có thể kích hoạt vòng xoáy \"call margin\" trên TTCK"
+    },
+    {
+     "ref": "cafef:59ab291015",
+     "title": "PNJ: Từ \"viên kim cương\" đến \"hòn than nóng\""
+    },
+    {
+     "ref": "cafef:c99dbd4c08",
+     "title": "Ông Đặng Thành Tâm hợp tác với tỷ phú Elon Musk, lên kế hoạch đưa Internet Starlink tới 13 tỉnh thành"
+    },
+    {
+     "ref": "cafef:f04a2f12d0",
+     "title": "Samsung đưa 100 kỹ sư Việt Nam sang Hàn Quốc học công nghệ bán dẫn, chuẩn bị sản xuất \"vàng AI\" vừa tăng giá gần 5 lần"
+    },
+    {
+     "ref": "cafef:0c235cefc2",
+     "title": "Giá cao su sát đỉnh 13 năm, một 'ông lớn' Việt Nam lại chuyển đất trồng thành khu công nghiệp"
+    },
+    {
+     "ref": "cafef:a1e3705b31",
+     "title": "FDI vào Việt Nam tăng 76%, vì sao lợi nhuận các \"ông chủ\" khu công nghiệp lại lao dốc 40%?"
+    },
+    {
+     "ref": "cafef:a47b0adbff",
+     "title": "Góc nhìn chuyên gia: Cần tính kịch bản VN-Index lùi về 1.700 điểm, 4 nhóm ngành đáng chú ý trước mùa báo cáo quý"
+    },
+    {
+     "ref": "cafef:42ad25f1c2",
+     "title": "SEA: SCIC tiếp tục bán đấu giá lô cổ phiếu Seaprodex với giá khởi điểm hơn 8.500 tỷ đồng"
+    },
+    {
+     "ref": "cafef:875cbb06cb",
+     "title": "Lợi nhuận quý III có giúp VN-Index thoát đà giảm?"
+    },
+    {
+     "ref": "cafef:4d5434fdd1",
+     "title": "ANV: Chia cổ tức bằng tiền mặt tỷ lệ 10%"
+    },
+    {
+     "ref": "cafef:5753bfb40d",
+     "title": "PNJ: Người nhà Chủ tịch Cao Thị Ngọc Dung bị bán giải chấp gần 3 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:09edabc15c",
+     "title": "Chứng khoán tuần qua: VN-Index chật vật tìm lực đỡ"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:2296d52e53",
+     "title": "Vietstock Weekly 12-16/10/2026: Đà giảm chưa dừng?"
+    },
+    {
+     "ref": "vietstock:0a672123e8",
+     "title": "Bắc Ninh nâng cao vị thế trong chuỗi giá trị điện tử, bán dẫn"
+    },
+    {
+     "ref": "vietstock:83fcc7c497",
+     "title": "NVL: Diamond Properties tiếp tục bán hàng triệu cổ phiếu Novaland"
+    },
+    {
+     "ref": "vietstock:7babad1f74",
+     "title": "Tuần 12-16/10: Cổ tức nhỏ giọt, cao nhất 15%"
+    },
+    {
+     "ref": "vietstock:fb0d9b9db9",
+     "title": "Mỹ xuất kho 4 triệu thùng dầu dự trữ bù đắp gián đoạn nguồn cung do bão Isaias"
+    },
+    {
+     "ref": "vietstock:a0d5382be5",
+     "title": "Chứng khoán Mỹ: Làn sóng AI thúc đẩy lợi nhuận nhưng rủi ro gia tăng"
+    },
+    {
+     "ref": "vietstock:fd72017193",
+     "title": "Thỏa thuận cung cấp dầu diesel của Nga khó giúp hạ giá nhiên liệu tại Mỹ"
+    },
+    {
+     "ref": "vietstock:c86959a27f",
+     "title": "Chuyển động quỹ đầu tư: Leadvisors Capital bơm vốn vào OCH, T. Rowe Price rời ghế cổ đông lớn PNJ"
+    },
+    {
+     "ref": "vietstock:5983a5c554",
+     "title": "Tuần 05-09/10: VIC và VHM kéo VN-Index theo hai hướng trái ngược"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:9d8e87232b",
+     "title": "Khối ngoại bán ròng gần 14.000 tỷ tuần qua, chủ yếu thỏa thuận"
+    },
+    {
+     "ref": "vneconomy:4f6758da34",
+     "title": "Xu thế dòng tiền: Cơ hội tạo đáy ngắn hạn?"
+    },
+    {
+     "ref": "vneconomy:10b4296e61",
+     "title": "Huy động hơn 70.139 tỷ đồng qua đấu thầu trái phiếu chính phủ, tăng 152% so với tháng trước"
+    },
+    {
+     "ref": "vneconomy:3bd193db39",
+     "title": "Chờ tín hiệu VN-Index hồi phục từ vùng 1.720 điểm"
+    },
+    {
+     "ref": "vneconomy:cf2dc1bf8a",
+     "title": "MCH: Khối ngoại bán thỏa thuận hơn 9.600 tỷ cho cá nhân trong nước phiên cuối tuần"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:90dccdaa1d",
+     "title": "Nhận định thị trường phiên giao dịch ngày 12/10: Cân nhắc giải ngân thăm dò"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3a51594cf9",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 12/10: Thị trường có tín hiệu cân bằng hơn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:39b8277120",
+     "title": "Kinh tế tăng trưởng cao, vì sao chứng khoán chưa bứt phá?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:160dda03df",
+     "title": "Nhóm cổ phiếu nào có thể dẫn nhịp hồi phục thị trường?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:15f55eb803",
+     "title": "HAG: Nhận giấy phép đầu tư ra nước ngoài trồng và chế biến cà phê tại Lào"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c1eab7f9c4",
+     "title": "Cổ phiếu cần quan tâm ngày 12/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1e944cd749",
+     "title": "Vì sao giá nhiên liệu vẫn đắt đỏ dù eo biển Hormuz không còn tê liệt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:64e1f499af",
+     "title": "Chưa từng có tiền lệ: Các ngân hàng lớn sắp bỏ túi 5 tỷ USD từ hoạt động kinh doanh vàng trong năm nay"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f810ef4818",
+     "title": "Nghi vấn gần 100 triệu USD tài sản mã hóa từ ví Ledger bị tấn công"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9b44b58df9",
+     "title": "PVT: Phủ nhận tàu NV Sunshine bị tấn công tại khu vực eo biển Hormuz"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:f37df18f1c",
+     "title": "3 kịch bản xuất khẩu của Việt Nam năm 2030, kịch bản cao 1.040 tỷ USD"
+    },
+    {
+     "ref": "b-o-u-t:4897010115",
+     "title": "Vốn Mỹ tìm cơ hội ở nấc thang giá trị cao hơn"
+    },
+    {
+     "ref": "b-o-u-t:1208139941",
+     "title": "Góc nhìn TTCK tuần 12/10 - 16/10: Lực cầu dần quay lại"
+    },
+    {
+     "ref": "b-o-u-t:a7a880f5a0",
+     "title": "Đề xuất đầu tư 50.990 tỷ đồng xây cao tốc nối Lào Cai với Lai Châu"
+    },
+    {
+     "ref": "b-o-u-t:440df4d8b7",
+     "title": "Thương mại Việt Nam - Trung Quốc vượt 253 tỷ USD sau 9 tháng"
+    },
+    {
+     "ref": "b-o-u-t:99946feb03",
+     "title": "Xác định xuất xứ Việt Nam đối với hàng hóa sản xuất, lưu thông trong nước"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:8393ede287",
+     "title": "Doanh nghiệp bất động sản hút hơn 170.000 tỷ đồng trái phiếu sau 9 tháng, lãi suất lên tới 14,5%/năm"
+    },
+    {
+     "ref": "markettimes:38fa11e703",
+     "title": "ACB: Phát hành lô trái phiếu có kỳ hạn 10 năm"
+    },
+    {
+     "ref": "markettimes:4630c564be",
+     "title": "Xem xét giao dịch chứng khoán xuyên trưa, nới biên độ dao động giá"
+    },
+    {
+     "ref": "markettimes:a34921522e",
+     "title": "Tài chính tuần qua: Lãi suất tiết kiệm 12 tháng lên 7,5%/năm, nhiều ngân hàng dự báo lãi lớn trong quý III"
+    },
+    {
+     "ref": "markettimes:4528cda92a",
+     "title": "Cơ quan Thuế yêu cầu BIDV, MB, VPBank, Vietcombank... phong toả tài khoản của loạt người nộp thuế có tên sau"
+    },
+    {
+     "ref": "markettimes:52f0d42dcf",
+     "title": "SBT: Mẹ của Chủ tịch AgriS và doanh nghiệp liên quan muốn bán gần 90 triệu cổ phiếu"
+    },
+    {
+     "ref": "markettimes:b9337f1089",
+     "title": "SHB: Khẳng định hoạt động ổn định, triển khai tăng vốn đúng quy định, đa dạng hóa nguồn lực tài chính"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:adc0c946ea",
+     "title": "Ngân hàng SCB chỉ còn 10 chi nhánh"
+    },
+    {
+     "ref": "ti-n-phong:3ef1e5372c",
+     "title": "Bắc Ninh vượt TPHCM về kim ngạch xuất khẩu"
+    },
+    {
+     "ref": "ti-n-phong:a57b120390",
+     "title": "Trái phiếu Chính phủ hút gần 300.000 tỷ đồng, kỳ hạn 10 năm đắt hàng"
+    },
+    {
+     "ref": "ti-n-phong:eca28adb53",
+     "title": "Tổng Công ty Truyền tải điện Quốc gia trước ngã rẽ tách khỏi EVN"
+    },
+    {
+     "ref": "ti-n-phong:3492f310e2",
+     "title": "EU đưa Việt Nam ra khỏi danh sách không hợp tác về thuế"
+    },
+    {
+     "ref": "ti-n-phong:588cca5f2d",
+     "title": "Chênh lệch mua vào - bán ra vàng miếng cao nhất 5 triệu đồng/lượng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:c159ed7347",
+     "title": "WTO nâng dự báo tăng trưởng thương mại toàn cầu"
+    },
+    {
+     "ref": "bnews:af8cd1bef2",
+     "title": "Bắc Ninh đẩy mạnh giải ngân kế hoạch vốn đầu tư công năm 2026"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-dubaotiente:108068",
+   "title": "EU lên kế hoạch áp hạn ngạch 350.000 xe hybrid Trung Quốc mỗi năm sau thỏa thuận 16 điểm với Bắc Kinh",
+   "original_title": "(Tiêu điểm) EU lên kế hoạch áp hạn ngạch 350,000 xe hybrid Trung Quốc mỗi năm sau thỏa thuận 16 điểm với Bắc Kinh Chi tiết xem tại: https://dubaotiente.net/tieu-diem/eu-len-ke-hoach-ap-han-ngach-350000-xe-hybrid-trung-quoc-moi-nam-113054.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:4ba4122710",
+   "title": "Dầu tăng giá khi xung đột Trung Đông và các vụ tấn công tàu chở dầu tiếp diễn",
+   "translated": true,
+   "original_title": "Oil climbs as Mideast conflict, tanker attacks persist",
+   "link": "https://www.reuters.com/business/energy/oil-climbs-mideast-conflict-tanker-attacks-persist-2026-10-11/"
+  },
+  {
+   "ref": "tg-dubaotiente:108067",
+   "title": "Dự báo CPI Mỹ: Năng lượng đẩy lạm phát lên 3,7%, lạm phát lõi dự kiến giữ ở 2,4%",
+   "original_title": "(Tiêu điểm) Dự báo CPI Mỹ: Năng lượng đẩy lạm phát lên 3.7%, lạm phát lõi dự kiến giữ ở 2.4% Chi tiết xem tại: https://dubaotiente.net/tieu-diem/du-bao-cpi-my-nang-luong-day-lam-phat-len-3-7-lam-phat-loi-giu-o-2-4-113053.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:300441230f",
+   "title": "Bộ trưởng Tài chính Anh kêu gọi các nền kinh tế lớn kiểm soát vay nợ tại hội nghị IMF",
+   "translated": true,
+   "original_title": "UK finance minister to call for big economies to get borrowing under control at IMF",
+   "link": "https://www.reuters.com/world/uk/uk-finance-minister-call-big-economies-get-borrowing-under-control-imf-2026-10-11/"
+  },
+  {
+   "ref": "reuters:dede8ac8fc",
+   "title": "Lãnh đạo Moonshot AI (Trung Quốc) đàm phán giải quyết tranh chấp với cổ đông trước kế hoạch IPO",
+   "translated": true,
+   "original_title": "Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say",
+   "link": "https://www.reuters.com/world/china/moonshot-execs-talks-settle-dispute-with-shareholder-ahead-planned-ipo-people-2026-10-11/"
+  },
+  {
+   "ref": "bloomberg:39b8164b31",
+   "title": "IFS: Bộ trưởng Tài chính Anh Healey cần thêm 35 tỷ bảng để thực hiện kế hoạch chi tiêu",
+   "translated": true,
+   "original_title": "Healey Needs £35 Billion to Meet UK Spending Plans, IFS Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-11/healey-needs-35-billion-to-meet-uk-spending-plans-ifs-says"
+  },
+  {
+   "ref": "bloomberg:ed239c93cd",
+   "title": "Thế giới lãi suất cao sẽ còn kéo dài khi các ngân hàng trung ương tiến gần năm 2027",
+   "translated": true,
+   "original_title": "A Higher-Rate World Is in Store as Central Banks Approach 2027",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-11/a-higher-rate-world-is-in-store-as-central-banks-approach-2027"
+  },
+  {
+   "ref": "tg-vnwallstreet:403292",
+   "title": "Sân bay và tàu chở dầu Saudi Arabia bị tấn công, dầu tăng nhẹ giữa lo ngại cung ứng",
+   "original_title": "▫️ Sân bay và tàu chở dầu Saudi Arabia bị tấn công, dầu tăng nhẹ giữa lo ngại cung ứng Sau khi sân bay chính của Saudi Arabia bị tấn công lần nữa và xảy ra các vụ tấn công tàu chở dầu mới gần eo biển Hormuz, thị trường lo ngại các hành động thù địch leo thang có thể làm trầm trọng thêm rủi ro cung ứng, đẩy giá dầu tăng nhẹ. Dầu thô WTI mở cửa tăng 1,00%, lên mức 91,88 USD/thùng; Dầu Brent lên 103,",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108066",
+   "title": "IEA kêu gọi đẩy nhanh xả kho dầu diesel, cam kết 400 triệu thùng từ tháng 3 vẫn chậm trễ, hội đồng họp ngày 15/10",
+   "original_title": "(Tiêu điểm) IEA kêu gọi đẩy nhanh xả kho dầu diesel khi cam kết 400 triệu thùng từ tháng 3 vẫn chậm trễ, hội đồng họp ngày 15/10 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/iea-keu-goi-day-nhanh-xa-kho-dau-diesel-hoi-dong-hop-ngay-15-10-113052.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:403291",
+   "title": "Nhóm nghị sĩ hai đảng Mỹ yêu cầu Trump hủy thỏa thuận nhập khẩu dầu diesel từ Nga",
+   "original_title": "▫️ Nhóm nghị sĩ hai đảng Mỹ yêu cầu Trump hủy thỏa thuận nhập khẩu dầu diesel từ Nga Theo Politico, một nhóm các nghị sĩ hai đảng tại Mỹ kêu gọi Tổng thống Trump \"thay đổi chính sách ngay lập tức\" và hủy bỏ quyết định cho phép nhập khẩu dầu diesel Nga. Họ cáo buộc chính phủ hiện tại vi phạm luật liên bang và cung cấp một tấn công kinh tế cho Mátxcơva trong khi Nga tiến hành quân sự chống lại Ukrai",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108065",
+   "title": "Triển vọng tuần: Biên bản họp RBA và dữ liệu việc làm Australia, tỷ lệ thất nghiệp dự kiến 4,6%",
+   "original_title": "(Tiêu điểm) Triển vọng tuần: Biên bản RBA và dữ liệu việc làm chi phối Australia, tỷ lệ thất nghiệp dự kiến 4.6% Chi tiết xem tại: https://dubaotiente.net/tieu-diem/trien-vong-tuan-bien-ban-rba-va-du-lieu-viec-lam-chi-phoi-australia-ty-le-that-nghiep-du-kien-4-6-113051.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108064",
+   "title": "Goldman: Xuất khẩu dầu vùng Vịnh phục hồi lên 22-23 triệu thùng/ngày nhưng giá Dated Brent vẫn rất cao",
+   "original_title": "(Tiêu điểm) Goldman: Xuất khẩu dầu vùng Vịnh phục hồi lên 22–23 triệu thùng/ngày nhưng giá Dated Brent vẫn rất cao Chi tiết xem tại: https://dubaotiente.net/tieu-diem/goldman-xuat-khau-dau-vung-vinh-phuc-hoi-nhung-gia-dated-brent-van-rat-cao-113050.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:412975a3bf",
+   "title": "FAA cảnh báo các hãng hàng không Mỹ cẩn trọng khi bay đến Saudi Arabia vì rủi ro an toàn",
+   "translated": true,
+   "original_title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks",
+   "link": "https://www.reuters.com/world/middle-east/faa-tells-us-airlines-exercise-caution-saudi-arabia-flights-citing-safety-risks-2026-10-11/"
+  },
+  {
+   "ref": "bloomberg:0c2f736dc4",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ tăng, dầu xóa bớt đà tăng đầu phiên: Tổng quan thị trường",
+   "translated": true,
+   "original_title": "US Stock Futures Advance, Oil Erases Early Gains: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap"
+  },
+  {
+   "ref": "bloomberg:c9655a0faa",
+   "title": "Cập nhật và phân tích thị trường dầu mới nhất ngày 12/10",
+   "translated": true,
+   "original_title": "Latest Oil Market News and Analysis for Oct. 12",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12"
+  },
+  {
+   "ref": "tg-vnwallstreet:403287",
+   "title": "Xác suất Fed giữ nguyên lãi suất tháng 10 là 81,7% theo CME FedWatch",
+   "original_title": "▫️ Xác suất Fed duy trì lãi suất không đổi tháng 10 là 81,7% Theo CME FedWatch: Xác suất Fed duy trì lãi suất không đổi đến tháng 10 là 81,7%, xác suất tăng lãi suất 25 điểm cơ bản là 18,3%. Với tháng 12, xác suất duy trì không đổi là 15,8%, tăng 25 điểm cơ bản là 69,5%, tăng 50 điểm cơ bản là 14,7%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108063",
+   "title": "Musk: Terrafab trị giá 15 tỷ USD có thể sản xuất chip tốt hơn bất kỳ ai, nhưng cần thêm thời gian",
+   "original_title": "(Tiêu điểm) Musk: Terrafab trị giá 15 tỷ USD có thể sản xuất chip tốt hơn bất kỳ ai, nhưng cần thời gian Chi tiết xem tại: https://dubaotiente.net/tieu-diem/musk-terrafab-tri-gia-15-ty-usd-co-the-san-xuat-chip-tot-hon-bat-ky-ai-113049.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108062",
+   "title": "Nga nới lệnh cấm xuất khẩu dầu diesel, cho phép xuất 500.000 tấn sau thỏa thuận Trump - Putin",
+   "original_title": "(Tiêu điểm) Nga nới lệnh cấm xuất khẩu dầu diesel: 500,000 tấn được phép xuất khẩu sau thỏa thuận Trump - Putin Chi tiết xem tại: https://dubaotiente.net/tieu-diem/nga-noi-lenh-cam-xuat-khau-dau-diesel-500000-tan-sau-thoa-thuan-trump-putin-113048.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:403284",
+   "title": "Tàu dầu bị tấn công bằng máy bay không người lái gần vùng biển Oman",
+   "original_title": "▫️ Tàu dầu bị tấn công bằng máy bay không người lái gần vùng biển Oman Sáng 11 tháng 10, Văn phòng Hành động Thương mại Biển Anh (UKMTO) thông báo rằng một tàu dầu đang neo đậu gần cảng Suhar, Oman bị tấn công bằng máy bay không người lái. Ban đầu, UKMTO nhận được báo cáo về sự cố an toàn trên tàu, sau đó được xác nhận là do tấn công của một chiếc máy bay không người lái, UKMTO đã chính thức phân ",
+   "link": null
+  },
+  {
+   "ref": "reuters:ab6bd9dcab",
+   "title": "Amazon đàm phán mua startup AI Decart với giá khoảng 7 tỷ USD, theo WSJ",
+   "translated": true,
+   "original_title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+   "link": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/"
+  },
+  {
+   "ref": "tg-dubaotiente:108061",
+   "title": "Thứ Hai: Châu Á khởi đầu trầm lắng khi Nhật Bản nghỉ lễ, trái phiếu Mỹ đóng cửa - tuần bận rộn phía trước",
+   "original_title": "(Tiêu điểm) Thứ Hai: Châu Á khởi đầu trầm lắng khi Nhật Bản nghỉ lễ, trái phiếu Mỹ đóng cửa – tuần bận rộn phía trước Chi tiết xem tại: https://dubaotiente.net/tieu-diem/chau-a-khoi-dau-tram-lang-khi-nhat-ban-nghi-le-trai-phieu-my-dong-cua-113047.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:1b1dba0c18",
+   "title": "Ngoại trưởng Saudi Arabia và Iran thảo luận về căng thẳng khu vực, theo hãng tin nhà nước",
+   "translated": true,
+   "original_title": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says",
+   "link": "https://www.reuters.com/world/middle-east/saudi-iranian-foreign-ministers-discuss-regional-tensions-state-news-agency-says-2026-10-11/"
+  }
+ ],
+ "content_sha": "7d38db34eca1a94388ac91224de9389dbbc59acf1f4242805d794d9f71b9a0da"
+}
