@@ -587,5 +587,44 @@
    "link": "https://www.reuters.com/world/middle-east/saudi-iranian-foreign-ministers-discuss-regional-tensions-state-news-agency-says-2026-10-11/"
   }
  ],
- "content_sha": "7d38db34eca1a94388ac91224de9389dbbc59acf1f4242805d794d9f71b9a0da"
+ "content_sha": "7d38db34eca1a94388ac91224de9389dbbc59acf1f4242805d794d9f71b9a0da",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "71d776658775131edebb16639438dc94e8048c66",
+   "published_at": "2026-10-12T07:05:27+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "283",
+   "sent_at": "2026-10-12T07:05:27+07:00",
+   "content_sha": "7d38db34eca1a94388ac91224de9389dbbc59acf1f4242805d794d9f71b9a0da",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "283",
+     "sent_at": "2026-10-12T07:05:27+07:00",
+     "content_sha": "7d38db34eca1a94388ac91224de9389dbbc59acf1f4242805d794d9f71b9a0da"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "d3eccd4ab250c0099946",
+   "sent_at": "2026-10-12T07:05:29+07:00",
+   "content_sha": "7d38db34eca1a94388ac91224de9389dbbc59acf1f4242805d794d9f71b9a0da",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "d3eccd4ab250c0099946",
+     "sent_at": "2026-10-12T07:05:29+07:00",
+     "content_sha": "7d38db34eca1a94388ac91224de9389dbbc59acf1f4242805d794d9f71b9a0da"
+    }
+   ]
+  }
+ }
 }
