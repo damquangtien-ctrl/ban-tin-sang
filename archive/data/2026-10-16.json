@@ -1,0 +1,571 @@
+{
+ "date": "2026-10-16",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VnEconomy",
+   "text": "VN-Index giảm phiên thứ sáu liên tiếp, thủng mốc 1.700 điểm; khối ngoại bán ròng phiên thứ chín liên tiếp"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Giá vàng thế giới vượt 4.180 USD/oz (+1,82%), Dow Jones đêm qua tăng 1,08% nhờ kỳ vọng Fed hạ lãi suất"
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "TSMC lãi quý 3 tăng gần 70% nhờ AI, nhưng cổ phiếu Dell giảm 17% trong 2 phiên do Barclays nghi ngờ nhu cầu AI doanh nghiệp"
+  },
+  {
+   "source": "CafeF",
+   "text": "Vinhomes - SGC đầu tư gần 900.000 tỷ đồng xây dựng 5 tuyến metro Hà Nội"
+  },
+  {
+   "source": "nguoiquansat.vn",
+   "text": "Cựu chủ tịch bị khởi tố, một doanh nghiệp niêm yết đối diện nguy cơ mất trắng 147 tỷ đồng, bốc hơi gần 99% vốn chủ sở hữu"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:d1b23561e4",
+     "title": "Thủ đoạn trốn thuế thông qua chi trả cổ tức 655 tỷ đồng của Shark Bình"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:212df07340",
+     "title": "Yêu cầu xử lý nghiêm các hành vi đầu cơ, găm hàng, thao túng giá"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:cb47ee3892",
+     "title": "10 người bị khởi tố vì sửa kết quả phân tích quan trắc môi trường"
+    },
+    {
+     "ref": "vnexpress:a09379f884",
+     "title": "PNJ: Nữ kế toán tham ô 20 tỷ đồng để đánh bạc online"
+    },
+    {
+     "ref": "vnexpress:5a50d92037",
+     "title": "Giám đốc phòng giao dịch ngân hàng bị bắt vì tội lừa đảo"
+    },
+    {
+     "ref": "vnexpress:67c97c8cf5",
+     "title": "Đấu giá biệt thự hơn 202 tỷ đồng liên quan bà Trương Mỹ Lan"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:3d3c4dbf8f",
+     "title": "Cựu chủ tịch bị khởi tố, một doanh nghiệp niêm yết đối diện nguy cơ bốc hơi gần 99% vốn chủ sở hữu, mất trắng 147 tỷ đồng"
+    },
+    {
+     "ref": "google-news-ph-p-l:0d36948823",
+     "title": "MIC: Vì sao bị xử phạt 150 triệu đồng?"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-6,52 (-0,38%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.698,35"
+   },
+   {
+    "change": "-5,87 (-2,21%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "259,29"
+   },
+   {
+    "change": "+9,5% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "15.043 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~686 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.060"
+   }
+  ],
+  "summary": "Phố Wall đêm qua tăng điểm, Dow Jones dẫn đầu với +1,08% nhờ kỳ vọng Fed hạ lãi suất, Nasdaq chỉ nhích nhẹ +0,08%. Giá vàng thế giới vượt 4.180 USD/ounce (+1,82%), dầu WTI tăng hơn 1% lên 96,1 USD/thùng. Tại Việt Nam, VN-Index giảm phiên thứ sáu liên tiếp, mất 6,52 điểm (-0,38%) về 1.698,35 điểm, thủng mốc tâm lý 1.700 điểm; HNX-Index giảm sâu hơn, mất 5,87 điểm (-2,21%) về 259,29 điểm. Thanh khoản HOSE đạt 15.043 tỷ đồng (+9,5% so với phiên trước), khối ngoại tiếp tục bán ròng khoảng 686 tỷ đồng, phiên bán ròng thứ chín liên tiếp.",
+  "tiles": [
+   {
+    "change_pct": 0.33,
+    "label": "S&P 500",
+    "value": "7.744,1"
+   },
+   {
+    "change_pct": 1.08,
+    "label": "Dow Jones",
+    "value": "52.177,7"
+   },
+   {
+    "change_pct": 0.08,
+    "label": "Nasdaq",
+    "value": "26.713,0"
+   },
+   {
+    "change_pct": 1.03,
+    "label": "Dầu WTI",
+    "value": "96,1 USD"
+   },
+   {
+    "change_pct": -0.41,
+    "label": "Dầu Brent",
+    "value": "105,6 USD"
+   },
+   {
+    "change_pct": 1.82,
+    "label": "Vàng thế giới",
+    "value": "4.183 USD"
+   },
+   {
+    "change_pct": 0.65,
+    "label": "Bitcoin",
+    "value": "82.090 USD"
+   },
+   {
+    "change_pct": -0.53,
+    "label": "DXY",
+    "value": "102,00"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:7198085e4d",
+     "title": "8 ngân hàng rục rịch huy động 5,4 tỷ USD: Cuộc đua mới của những \"ông lớn\" ngân hàng Việt Nam"
+    },
+    {
+     "ref": "cafef:fd01b10b98",
+     "title": "So găng 2 'chiến thần' châu Âu được tỷ phú Phạm Nhật Vượng và Trần Đình Long chọn bắt tay làm thép ray đường sắt"
+    },
+    {
+     "ref": "cafef:8f66f976a0",
+     "title": "Dự báo bất ngờ về lợi nhuận nhóm chứng khoán, dầu khí, phân bón trong năm 2027"
+    },
+    {
+     "ref": "cafef:f1954b8240",
+     "title": "HAH: Giá cước tăng vọt, doanh nghiệp sở hữu đội tàu container lớn nhất Việt Nam đứng trước cơ hội lớn"
+    },
+    {
+     "ref": "cafef:72874ed975",
+     "title": "Vừa rót 1.300 tỷ vào chủ Kem Tràng Tiền, lại muốn chi 540 tỷ mua Tài chính Điện lực: Leadvisors Capital là ai?"
+    },
+    {
+     "ref": "cafef:9726c6a087",
+     "title": "Lợi nhuận CTCP Tập đoàn Mặt trời tăng 200%, tổng tài sản tăng vọt lên gần 100.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:c6bb145327",
+     "title": "Đại dự án 16 tỷ USD của Việt Nam: Hàng loạt \"ông lớn\" ráo riết chuẩn bị cho thời điểm lịch sử"
+    },
+    {
+     "ref": "cafef:01e0b6b291",
+     "title": "Thấy gì về thương vụ tăng vốn trăm nghìn tỷ của các ngân hàng?"
+    },
+    {
+     "ref": "cafef:051b633624",
+     "title": "VHM: Vinhomes - SGC ký hợp đồng gần 900.000 tỷ xây 5 tuyến metro ở Hà Nội, huy động hơn 100 dây chuyền thi công hầm metro hiện đại nhất thế giới"
+    },
+    {
+     "ref": "cafef:fadc5616a3",
+     "title": "Giải ngân tới 17.300 tỷ đồng chỉ trong 9 tháng, lãnh đạo F88 nói gì?"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:4a91af92e6",
+     "title": "SCR: Trúng đấu giá 51% vốn chủ đầu tư dự án Đảo Kim Quy, nâng sở hữu lên 87,63%"
+    },
+    {
+     "ref": "vietstock:b3a8980433",
+     "title": "Vĩnh Long sắp gọi đầu tư nhà máy điện gió gần 5.700 tỷ"
+    },
+    {
+     "ref": "vietstock:e2b073000a",
+     "title": "Giảm lãi suất để gỡ nút thắt vốn cho doanh nghiệp sản xuất có dễ?"
+    },
+    {
+     "ref": "vietstock:29302d96be",
+     "title": "Tăng cường các biện pháp quản lý, điều hành giá trong những tháng cuối năm 2026"
+    },
+    {
+     "ref": "vietstock:d9fae9090b",
+     "title": "Kinh tế Việt Nam quý IV: Tăng tốc nhưng không chủ quan với lạm phát"
+    },
+    {
+     "ref": "vietstock:2ffe6fdfd9",
+     "title": "VBB: Vietbank sắp chào bán 296 triệu cổ phiếu, lãi 9 tháng tăng 50% ước đạt 1.297 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:39e8d1c559",
+     "title": "NAB: Nam A Bank hợp tác JPMorgan Chase, nâng tầm năng lực thanh toán quốc tế và tài trợ xuất nhập khẩu"
+    },
+    {
+     "ref": "vietstock:6ad25f3397",
+     "title": "MBS: Lợi nhuận bước lùi trong quý 3, doanh thu mảng môi giới giảm đến 66%"
+    },
+    {
+     "ref": "vietstock:ad53c70c46",
+     "title": "IMF cảnh báo cú sốc năng lượng và rủi ro AI đe dọa kinh tế châu Á"
+    },
+    {
+     "ref": "vietstock:c55c8a7eae",
+     "title": "GAS: PV GAS lãi trước thuế 5,4 nghìn tỷ đồng trong quý 3, tăng trưởng 68%"
+    },
+    {
+     "ref": "vietstock:b32fc924b6",
+     "title": "ACV: Lãi trước thuế công ty mẹ ước gần 9,2 nghìn tỷ đồng sau 9 tháng, chỉ tăng trưởng một chữ số"
+    },
+    {
+     "ref": "vietstock:5c043a1e7c",
+     "title": "CTR: Viettel Construction tăng trưởng doanh thu 23% sau 9 tháng, động lực đến từ mảng xây dựng và dịch vụ kỹ thuật"
+    },
+    {
+     "ref": "vietstock:94462de7ab",
+     "title": "POW: Tổng Công ty PV Power ước lãi trước thuế gần 5,5 nghìn tỷ sau 9 tháng"
+    },
+    {
+     "ref": "vietstock:f7f07edf6f",
+     "title": "FPT: Khai trương văn phòng đầu tiên tại Ai Cập"
+    },
+    {
+     "ref": "vietstock:d5f201d7d5",
+     "title": "SSH: Sunshine Homes tính tăng vốn công ty con thêm 2.385 tỷ sau kế hoạch mua phần dự án khu trung tâm Tây Hồ Tây"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:3973e074c3",
+     "title": "Tiền trong nước bắt đáy khi VN-Index thủng 1.700 điểm, khối ngoại vẫn tích cực xả hàng"
+    },
+    {
+     "ref": "vneconomy:1c268178a8",
+     "title": "EVF: Nhiều nhà đầu tư lớn quan tâm cổ phiếu sắp phát hành riêng lẻ"
+    },
+    {
+     "ref": "vneconomy:aaab216929",
+     "title": "Hiệu suất các quỹ trái phiếu cao hơn lãi suất tiền gửi nhưng vẫn bị rút ròng 8.300 tỷ"
+    },
+    {
+     "ref": "vneconomy:6fb975001b",
+     "title": "21 quỹ mở cổ phiếu đẩy mạnh giải ngân, chủ yếu thuộc nhóm quy mô nhỏ"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:eab98a33c4",
+     "title": "TTF: Cổ phiếu Gỗ Trường Thành vào diện hạn chế giao dịch"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:07d49573ea",
+     "title": "OIL: PVOIL giảm giá 350 đồng/lít xăng dầu tại 1.100 cửa hàng trên toàn quốc"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:416b8fa57b",
+     "title": "TCBS Research: Đề xuất bỏ thuế xuất khẩu phân bón, 3 cổ phiếu kỳ vọng hưởng lợi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:361881c8b2",
+     "title": "Techcom Life hoàn tất tăng vốn điều lệ lên 4.300 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b7e4392b91",
+     "title": "Quỹ UVEEF tăng tỷ trọng cổ phiếu lên hơn 98%, đặt kỳ vọng vào sự phục hồi cuối năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b6a94d7cff",
+     "title": "Đua thu hút FDI công nghệ cao: Việt Nam cần làm gì để bứt lên?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8cd9cbd4c2",
+     "title": "Đề xuất dừng trích lập và chi Quỹ bình ổn xăng dầu từ năm 2027"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:60da67e31f",
+     "title": "TCB: Techcombank tăng vốn \"khủng\", mở rộng dư địa tăng trưởng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:9779f52efd",
+     "title": "Quảng Ninh tăng tốc giải ngân gần 13.000 tỷ đồng vốn đầu tư công trong quý IV"
+    },
+    {
+     "ref": "b-o-u-t:e0efb9758e",
+     "title": "Nóng cuộc đua mở rộng đội bay của các hãng hàng không Việt"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:cb326bc356",
+     "title": "VSC: Viconship nắm hơn 1% vốn điều lệ Eximbank"
+    },
+    {
+     "ref": "markettimes:743abdf6bd",
+     "title": "Cổ phiếu chứng khoán bật tăng mạnh trong ngày VN-Index giảm điểm phiên thứ 7 liên tiếp"
+    },
+    {
+     "ref": "markettimes:d6798bd496",
+     "title": "HBC: Xây dựng Hòa Bình và loạt doanh nghiệp bất động sản có tên trong danh sách nợ BHXH tại TP.HCM"
+    },
+    {
+     "ref": "markettimes:a152779af1",
+     "title": "Một nhóm 7 nhà đầu tư dự kiến nắm hơn 32% vốn PVcomBank, 4 doanh nghiệp sở hữu sát ngưỡng 5%"
+    },
+    {
+     "ref": "markettimes:21a87587a2",
+     "title": "DGW: Quý 3 lập kỷ lục, doanh thu Digiworld vượt 1 tỷ USD sau 9 tháng"
+    },
+    {
+     "ref": "markettimes:5277338a6a",
+     "title": "Ngân hàng tăng tốc xử lý nợ, loạt bất động sản trị giá hàng chục tỷ đồng được ra đấu giá"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:9ae73048bb",
+     "title": "Giá căn hộ Hà Nội đang đi xuống"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:d698a053e1",
+     "title": "Áp lực lãi suất nhưng giá bất động sản chưa thể giảm ngay"
+    },
+    {
+     "ref": "ti-n-phong:ff2a5c0ab0",
+     "title": "Thủ tướng: Kiểm soát giá điện, xăng dầu"
+    },
+    {
+     "ref": "ti-n-phong:df396541ef",
+     "title": "Chạy đua bổ sung gần 2.600 MW điện cuối năm"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:db2a721ce2",
+     "title": "SBA: Giải trình chênh lệch KQKD quý 3/2026 so với cùng kỳ năm trước"
+    },
+    {
+     "ref": "hose:1110cbc43c",
+     "title": "HCD: Giải trình biến động lợi nhuận quý 3/2026"
+    },
+    {
+     "ref": "hose:50e09b6596",
+     "title": "HDB: Báo cáo kết quả phát hành cổ phiếu để trả cổ tức và tăng vốn cổ phần từ nguồn vốn chủ sở hữu"
+    },
+    {
+     "ref": "hose:b3516cb2b1",
+     "title": "CCC: Thông báo nhận được công văn của UBCKNN về báo cáo phát hành cổ phiếu để trả cổ tức"
+    },
+    {
+     "ref": "hose:ed69141b5d",
+     "title": "AFX: Thông báo thay đổi nhân sự, bổ nhiệm Phó Tổng giám đốc"
+    },
+    {
+     "ref": "hose:522f5aa34f",
+     "title": "PIT: Thông báo giao dịch cổ phiếu của tổ chức liên quan người nội bộ - Tổng Công ty Xây lắp và Thương mại Petrolimex"
+    },
+    {
+     "ref": "hose:5ca79b2263",
+     "title": "KOS: Báo cáo kết quả giao dịch cổ phiếu của tổ chức liên quan người nội bộ - Leo Regulus, Đầu tư Địa ốc Kosy"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:ff1d08a035",
+   "title": "Lệnh hạn chế Ukraine tiếp cận hệ thống vệ tinh Starshield xuất phát từ Nhà Trắng, Reuters dẫn nguồn tin",
+   "translated": true,
+   "original_title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
+   "link": "https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/"
+  },
+  {
+   "ref": "reuters:f80700ac0e",
+   "title": "Doanh số xe điện toàn cầu giảm 2% trong tháng 9, chấm dứt chuỗi tăng trưởng 6 tháng",
+   "translated": true,
+   "original_title": "Global EV sales fall 2% in September, ending six-month growth streak",
+   "link": "https://www.reuters.com/business/autos-transportation/global-ev-sales-fall-2-september-ending-six-month-growth-streak-2026-10-15/"
+  },
+  {
+   "ref": "reuters:7da872ed67",
+   "title": "Lãnh đạo mảng năng lượng của Tesla, ông Snyder, từ chức - WSJ",
+   "translated": true,
+   "original_title": "Tesla energy executive Snyder steps down, WSJ reports",
+   "link": "https://www.reuters.com/legal/litigation/tesla-energy-executive-snyder-steps-down-wsj-reports-2026-10-15/"
+  },
+  {
+   "ref": "bloomberg:bc31c6dffc",
+   "title": "Kế hoạch quốc tế hóa đồng nhân dân tệ của Trung Quốc bước vào giai đoạn tăng tốc",
+   "translated": true,
+   "original_title": "China’s Plan to Make Yuan a Global Currency Enters Faster Phase",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-15/china-s-plan-to-make-yuan-a-global-currency-enters-faster-phase"
+  },
+  {
+   "ref": "bloomberg:a3aec7527d",
+   "title": "Hong Kong trở lại đăng cai APEC, cho thấy hình ảnh thành phố được Bắc Kinh tái định hình",
+   "translated": true,
+   "original_title": "Hong Kong’s APEC Comeback Showcases a City Remade by Beijing",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-15/hong-kong-s-apec-comeback-showcases-a-city-remade-by-beijing"
+  },
+  {
+   "ref": "tg-marketfeed:1059133",
+   "title": "Giá đồng giảm 1% xuống 14.347 USD/tấn, phiên giảm thứ ba do lạm phát Mỹ cao, USD mạnh và kỳ vọng Fed tăng lãi suất",
+   "translated": true,
+   "original_title": "COPPER FELL 1% TO $14,347/TON, EXTENDING LOSSES TO THREE DAYS AS STRONG US INFLATION, A FIRM DOLLAR AND FED RATE-HIKE EXPECTATIONS WEIGHED ON METALS. CONCERNS OVER AI SPENDING ALSO ADDED PRESSURE. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1059129",
+   "title": "Hàn Quốc đề nghị Mỹ ưu đãi thuế cho dự án khí LNG Alaska",
+   "translated": true,
+   "original_title": "S.KOREA ASKS US FOR TAX BREAK FOR ALASKA LNG PROJECT - MAEIL ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1059128",
+   "title": "Morgan Stanley dẫn đầu thu xếp vốn 4 tỷ USD cho nhà máy lọc dầu mới tại Texas, lớn nhất của Mỹ sau khoảng 50 năm, dự kiến vận hành năm 2029",
+   "translated": true,
+   "original_title": "MORGAN STANLEY IS LEADING DEBT AND EQUITY FUNDRAISING FOR AMERICA FIRST REFINING’S $4 BILLION TEXAS REFINERY, THE FIRST MAJOR NEW US REFINERY IN ABOUT 50 YEARS, WITH OPERATIONS TARGETED FOR 2029. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1059125",
+   "title": "Thành viên Fed Goolsbee: lạm phát tháng này gây thất vọng, vẫn lạc quan nếu các yếu tố đẩy giá giảm sớm; lo ngại hơn nếu lạm phát do nhu cầu AI gây quá nhiệt",
+   "translated": true,
+   "original_title": "FED'S GOOLSBEE: A DISCOURAGING MONTH IN TERMS OF INFLATION - CNN - STILL FEEL SOME OPTIMISM IF DRIVERS OF INFLATION CAN GO AWAY IN SHORT ORDER - IF INFLATION IS FROM OVERHEATING DEMAND FROM AI, THAT'S MORE DISTURBING, HAVE TO ADDRESS IT ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1059120",
+   "title": "Tiến trình đàm phán thuế quan Mỹ - Mexico đình trệ do Bộ trưởng Thương mại Lutnick phản đối - WSJ",
+   "translated": true,
+   "original_title": "PROGRESS TOWARD U.S.-MEXICO TARIFF PACT STALLS AFTER OPPOSITION FROM COMMERCE SECRETARY HOWARD LUTNICK: WSJ ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1059113",
+   "title": "CEO Nvidia Jensen Huang bảo vệ sức khỏe tài chính của CoreWeave, cổ phiếu hồi phục 2,1%; công ty vẫn gánh hơn 40 tỷ USD nợ, thị trường tín dụng định giá rủi ro vỡ nợ 5 năm trên 60%",
+   "translated": true,
+   "original_title": "NVIDIA CEO JENSEN HUANG DEFENDED COREWEAVE’S FINANCIAL HEALTH, HELPING ITS SHARES REBOUND 2.1% AFTER A SHARP SELLOFF. HOWEVER, COREWEAVE HAS OVER $40 BILLION IN DEBT, WITH CREDIT MARKETS PRICING IN MORE THAN 60% FIVE-YEAR DEFAULT RISK. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1059112",
+   "title": "Mỹ xác nhận Vệ binh Cách mạng Iran bắn chìm tàu GFS Pride treo cờ Singapore tại eo biển Hormuz, toàn bộ 21 thủy thủ được cứu an toàn",
+   "translated": true,
+   "original_title": "US CENTRAL COMMAND CONFIRMED AN IRANIAN REVOLUTIONARY GUARD CORPS PROJECTILE SANK THE SINGAPORE-FLAGGED GFS PRIDE IN THE STRAIT OF HORMUZ, WITH ALL 21 CREW MEMBERS RESCUED SAFELY. MORE THAN 40 VESSELS TRANSITED THE WATERWAY IN THE PREVIOUS 24 HOURS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:404676",
+   "title": "Chỉ số S&P/ASX200 của Úc tăng 1,2% lên 8.824,5 điểm, mức cao nhất kể từ ngày 10/9",
+   "translated": false,
+   "original_title": "▫️ Chỉ số S&P/ASX200 của Úc tăng 1,2% trong phiên giao dịch, đạt 8824,5 điểm, mức cao nhất kể từ ngày 10 tháng 9. #stocks #aud",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:404673",
+   "title": "Lãnh đạo đối lập Venezuela Maria Corina Machado cáo buộc đối tác dầu mỏ mới mà Washington chọn cho Venezuela dính tham nhũng",
+   "translated": false,
+   "original_title": "▫️ Lãnh đạo phe đối lập Venezuela cáo buộc đối tác dầu mỏ của Trump tham nhũng Lãnh đạo phe đối lập Venezuela lưu vong Maria Corina Machado tuyên bố trong một cuộc phỏng vấn tuần này rằng Washington đã chọn Alejandro Betancourt làm đối tác dầu mỏ mới của Venezuela, nhưng ông ta liên quan đến \"những vụ tham nhũng cực kỳ nghiêm trọng\". Machado nhấn mạnh rằng nếu cô nắm quyền trong tương lai, sẽ khôn",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:404671",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust giảm nắm giữ 0,285 tấn, còn 1.053,911 tấn",
+   "translated": false,
+   "original_title": "🔴 SPDR Gold Trust, quỹ ETF vàng lớn nhất thế giới, giảm nắm giữ 0,285 tấn so với hôm trước, hiện tại nắm giữ 1.053,911 tấn. #gold #etf",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108316",
+   "title": "Cổ phiếu Dell giảm 17% trong hai phiên khi Barclays nghi ngờ nhu cầu AI doanh nghiệp",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Cổ phiếu Dell giảm 17% trong hai phiên khi Barclays nghi ngờ nhu cầu AI doanh nghiệp Chi tiết xem tại: https://dubaotiente.net/tieu-diem/co-phieu-dell-giam-17-trong-hai-phien-khi-barclays-nghi-ngo-nhu-cau-ai-doanh-nghiep-113273.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108315",
+   "title": "TSMC: Lợi nhuận quý 3 tăng gần 70% nhờ nhu cầu AI, nhưng triển vọng biên lợi nhuận đè nặng lên cổ phiếu",
+   "translated": false,
+   "original_title": "(Tiêu điểm) TSMC: Lợi nhuận quý 3 tăng gần 70% nhờ nhu cầu AI, nhưng triển vọng biên lợi nhuận đè nặng lên cổ phiếu Chi tiết xem tại: https://dubaotiente.net/tieu-diem/tsmc-loi-nhuan-quy-3-tang-gan-70-nho-nhu-cau-ai-nhung-trien-vong-bien-loi-nhuan-de-nang-len-co-phieu-113272.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108313",
+   "title": "Moody's hạ triển vọng Nike xuống tiêu cực, dự báo lợi nhuận giảm đến năm tài chính 2028",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Moody's hạ triển vọng Nike xuống tiêu cực, dự báo lợi nhuận giảm đến năm tài chính 2028 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/moodys-ha-trien-vong-nike-xuong-tieu-cuc-du-bao-loi-nhuan-giam-den-nam-tai-chinh-2028-113270.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:ed556abae8",
+   "title": "Làn sóng AI thúc đẩy doanh nghiệp vay hàng trăm tỉ USD",
+   "translated": false,
+   "original_title": "Làn sóng AI thúc đẩy doanh nghiệp vay hàng trăm tỉ USD",
+   "link": "https://bbw.vn/lan-song-ai-thuc-day-doanh-nghiep-vay-hang-tram-ti-usd-60968.html"
+  }
+ ],
+ "content_sha": "fc5d29e6b6866c01226969e9dcde38d9ed1a33ed40dd7526d6a9c229ce23c0ee"
+}
