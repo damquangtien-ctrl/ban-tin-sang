@@ -566,5 +566,44 @@
    "link": "https://bbw.vn/lan-song-ai-thuc-day-doanh-nghiep-vay-hang-tram-ti-usd-60968.html"
   }
  ],
- "content_sha": "140322ee88d7d583b2b3c8e6aa87991d0f20a2877a21445f1a953901f062387c"
+ "content_sha": "140322ee88d7d583b2b3c8e6aa87991d0f20a2877a21445f1a953901f062387c",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "2bf94463ba2dde76804c843a8b90e7d055b9bbaa",
+   "published_at": "2026-10-17T06:58:38+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "288",
+   "sent_at": "2026-10-17T06:58:40+07:00",
+   "content_sha": "140322ee88d7d583b2b3c8e6aa87991d0f20a2877a21445f1a953901f062387c",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "288",
+     "sent_at": "2026-10-17T06:58:40+07:00",
+     "content_sha": "140322ee88d7d583b2b3c8e6aa87991d0f20a2877a21445f1a953901f062387c"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "2ebbf84873d105885cc7",
+   "sent_at": "2026-10-17T06:58:41+07:00",
+   "content_sha": "140322ee88d7d583b2b3c8e6aa87991d0f20a2877a21445f1a953901f062387c",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "2ebbf84873d105885cc7",
+     "sent_at": "2026-10-17T06:58:41+07:00",
+     "content_sha": "140322ee88d7d583b2b3c8e6aa87991d0f20a2877a21445f1a953901f062387c"
+    }
+   ]
+  }
+ }
 }
