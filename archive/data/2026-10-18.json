@@ -149,5 +149,44 @@
    "link": "https://www.reuters.com/world/middle-east/lebanon-says-military-delegation-will-press-halt-israeli-attacks-us-talks-2026-10-17/"
   }
  ],
- "content_sha": "d862b34ec1f90dd84c9ea7db27ad0b6a9cb84f620dd2598aba78e002bdac0da3"
+ "content_sha": "d862b34ec1f90dd84c9ea7db27ad0b6a9cb84f620dd2598aba78e002bdac0da3",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "d99d58ad8d88611fe22684157905d525010f1677",
+   "published_at": "2026-10-18T06:39:35+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "289",
+   "sent_at": "2026-10-18T06:39:36+07:00",
+   "content_sha": "d862b34ec1f90dd84c9ea7db27ad0b6a9cb84f620dd2598aba78e002bdac0da3",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "289",
+     "sent_at": "2026-10-18T06:39:36+07:00",
+     "content_sha": "d862b34ec1f90dd84c9ea7db27ad0b6a9cb84f620dd2598aba78e002bdac0da3"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "c8278c0fc8e881b1d8fe",
+   "sent_at": "2026-10-18T06:39:37+07:00",
+   "content_sha": "d862b34ec1f90dd84c9ea7db27ad0b6a9cb84f620dd2598aba78e002bdac0da3",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "c8278c0fc8e881b1d8fe",
+     "sent_at": "2026-10-18T06:39:37+07:00",
+     "content_sha": "d862b34ec1f90dd84c9ea7db27ad0b6a9cb84f620dd2598aba78e002bdac0da3"
+    }
+   ]
+  }
+ }
 }

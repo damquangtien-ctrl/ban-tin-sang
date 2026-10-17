@@ -1,0 +1,27 @@
+
+########## CHAY LUC 2026-10-18 06:38:15 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-18, ban sunday)
+   the gioi 8 tin · Viet Nam 0 tin / 0 bao · phap ly 0 tin · chot quyen 0 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-18 · the gioi 8 · Viet Nam 0 · phap ly 0
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-18.html
+
+=== 3/5 XUAT BAN ===
+CANH BAO: sau 6 lan kiem, trang phuc vu van chua khop sha noi dung moi.
+  GitHub Pages co the build cham - trang se tu len sau. KHONG chan buoc gui tin.
+Da xuat ban 2026-10-18: commit d99d58ad8d88 · sha noi dung 36b5c63aedcf8854
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 18/10 | content_sha d862b34ec1f9 | commit d99d58ad8d88
+   telegram user/928f6fc4179d OK message_id=289
+   zalo     user/593dd2adbb87 OK message_id=c8278c0fc8e881b1d8fe
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-18.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-10-18 06:39:37 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
