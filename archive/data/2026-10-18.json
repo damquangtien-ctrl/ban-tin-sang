@@ -1,0 +1,153 @@
+{
+ "date": "2026-10-18",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "VN Wall Street",
+   "text": "Iran nổ súng chặn tàu \"vi phạm\" qua eo biển Hormuz; Mỹ hướng dẫn 138 tàu đổi quốc tịch để đối phó phong tỏa"
+  },
+  {
+   "source": "Tổng hợp",
+   "text": "Giá dầu thế giới tăng mạnh, Brent vượt 3,7% do lo ngại nguồn cung qua Hormuz; Nga cảnh báo dầu còn tăng thêm"
+  },
+  {
+   "source": "Thị trường quốc tế",
+   "text": "Chứng khoán Mỹ giảm cuối tuần, Nasdaq mất 2,15% do áp lực nhóm công nghệ"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Lạm phát Anh có thể giúp BOE củng cố quyết định tăng lãi suất vào tháng 11"
+  },
+  {
+   "source": "Reuters",
+   "text": "Venezuela kỳ vọng thu hút gần 76 tỷ USD đầu tư dầu khí trong 5 năm tới"
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": null,
+    "direction": null,
+    "label": "VN-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ giảm điểm cuối tuần, S&P 500 mất 1,09%, Nasdaq giảm sâu 2,15% do áp lực nhóm công nghệ. Giá dầu tăng mạnh, Brent vượt 3,7% và WTI tăng hơn 1%, do lo ngại nguồn cung qua eo biển Hormuz. Vàng nhích nhẹ 0,26%, Bitcoin giảm 0,44%, chỉ số DXY yếu đi. Đây là ấn bản Chủ Nhật rút gọn nên không có số liệu phiên VN-Index, tỷ giá và vàng trong nước.",
+  "tiles": [
+   {
+    "change_pct": -1.09,
+    "label": "S&P 500",
+    "value": "7.659,4"
+   },
+   {
+    "change_pct": -0.34,
+    "label": "Dow Jones",
+    "value": "52.002,4"
+   },
+   {
+    "change_pct": -2.15,
+    "label": "Nasdaq",
+    "value": "26.140,0"
+   },
+   {
+    "change_pct": 1.07,
+    "label": "Dầu WTI",
+    "value": "99,0 USD"
+   },
+   {
+    "change_pct": 3.72,
+    "label": "Dầu Brent",
+    "value": "109,9 USD"
+   },
+   {
+    "change_pct": 0.26,
+    "label": "Vàng thế giới",
+    "value": "4.181 USD"
+   },
+   {
+    "change_pct": -0.44,
+    "label": "Bitcoin",
+    "value": "81.140 USD"
+   },
+   {
+    "change_pct": -0.22,
+    "label": "DXY",
+    "value": "101,78"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:404972",
+   "title": "Iran nổ súng ngăn chặn tàu bị cho là \"vi phạm\" khi đi qua eo biển Hormuz",
+   "translated": false,
+   "original_title": "🔴 Lực lượng vũ trang Iran mở fire chặn tàu thuyền \"vi phạm\" thông hành qua eo biển Hormuz Theo thông tin từ phía Iran, vào lúc 18 giờ 15 phút ngày 17 tháng 10 (giờ địa phương), lực lượng vũ trang Iran đã mở fire từ khu vực gần Strait of Hormuz nhằm vào tàu thuyền cố gắng thông hành \"vi phạm\" và tiến hành chặn bắt. #geopolitics #hormuz",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:404978",
+   "title": "Bộ Tư lệnh Trung tâm Mỹ: Đã hướng dẫn 138 tàu thương mại đổi quốc tịch để siết chặt phong tỏa Iran",
+   "translated": false,
+   "original_title": "🔴 Bộ Chỉ huy Trung Tâm Mỹ công bố rằng, tính đến ngày 17 tháng 10, đã hướng dẫn 138 tàu thương mại thay đổi hộ chiếu nhằm đảm bảo thực thi nghiêm ngặt các biện pháp phong tỏa. #geopolitics #shipping",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:404974",
+   "title": "Phó Thủ tướng Nga: Giá dầu sẽ tiếp tục tăng vọt nếu phong tỏa eo biển Hormuz kéo dài",
+   "translated": false,
+   "original_title": "▫️ Phó Thủ tướng Nga: Nếu phong tỏa Eo biển Hormuz kéo dài, giá dầu sẽ tiếp tục tăng vọt Theo hãng tin Sputnik của Nga, Phó Thủ tướng Nga Alexander Novak phát biểu trong Tuần lễ năng lượng Nga rằng nếu tình hình ở Eo biển Hormuz tiếp tục kéo dài, giá dầu sẽ tăng mạnh hơn nữa. Novak cho biết: \"Hiện tại chúng tôi vẫn quan sát thấy rằng nguồn cung qua Eo biển Hormuz chưa được phục hồi... biến động rấ",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1059994",
+   "title": "Liên minh do Saudi Arabia dẫn đầu đánh chặn, phá hủy hai tên lửa đạn đạo của Houthi nhằm vào Khamis Mushait",
+   "translated": true,
+   "original_title": "SAUDI-LED COALITION: INTERCEPTS AND DESTROYS TWO BALLISTIC MISSILES LAUNCHED BY HOUTHI TOWARD KHAMIS MUSHAIT ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:ca3075ef18",
+   "title": "Lạm phát Anh có thể giúp BOE củng cố quyết định tăng lãi suất vào tháng 11",
+   "translated": true,
+   "original_title": "UK Inflation Can Seal the Deal on the BOE’s November Rate Hike",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/uk-inflation-can-seal-the-deal-on-the-boe-s-november-rate-hike"
+  },
+  {
+   "ref": "reuters:a1ea6d58bc",
+   "title": "Venezuela kỳ vọng thu hút gần 76 tỷ USD đầu tư dầu khí trong 5 năm tới",
+   "translated": true,
+   "original_title": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says",
+   "link": "https://www.reuters.com/business/energy/venezuela-expects-nearly-76-billion-oil-investment-over-five-years-acting-2026-10-17/"
+  },
+  {
+   "ref": "bloomberg:8e11a0641c",
+   "title": "Niger ngừng xuất khẩu dầu diesel và xăng để bảo vệ nguồn cung nội địa",
+   "translated": true,
+   "original_title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply"
+  },
+  {
+   "ref": "reuters:e8e13336a5",
+   "title": "Lebanon: Đoàn quân sự sẽ yêu cầu Mỹ thúc đẩy chấm dứt các cuộc tấn công của Israel trong đàm phán sắp tới",
+   "translated": true,
+   "original_title": "Lebanon says military delegation will press for halt to Israeli attacks at US talks",
+   "link": "https://www.reuters.com/world/middle-east/lebanon-says-military-delegation-will-press-halt-israeli-attacks-us-talks-2026-10-17/"
+  }
+ ],
+ "content_sha": "d862b34ec1f90dd84c9ea7db27ad0b6a9cb84f620dd2598aba78e002bdac0da3"
+}
