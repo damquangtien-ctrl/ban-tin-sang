@@ -517,5 +517,44 @@
    "link": "https://bbw.vn/chu-tich-quy-blackstone-tiet-lo-dieu-gi-co-the-gay-an-tuong-trong-buoi-phong-van-61009.html"
   }
  ],
- "content_sha": "b3c7c3a8041a3df460768d65fe1a7a96f058caf229ed463b2aa74353fdeac139"
+ "content_sha": "b3c7c3a8041a3df460768d65fe1a7a96f058caf229ed463b2aa74353fdeac139",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "8162f4f0623b1255548075285cbef6e0431f582e",
+   "published_at": "2026-10-19T06:52:46+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "290",
+   "sent_at": "2026-10-19T06:52:47+07:00",
+   "content_sha": "b3c7c3a8041a3df460768d65fe1a7a96f058caf229ed463b2aa74353fdeac139",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "290",
+     "sent_at": "2026-10-19T06:52:47+07:00",
+     "content_sha": "b3c7c3a8041a3df460768d65fe1a7a96f058caf229ed463b2aa74353fdeac139"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "129be386eb9aa3c3fa8c",
+   "sent_at": "2026-10-19T06:52:48+07:00",
+   "content_sha": "b3c7c3a8041a3df460768d65fe1a7a96f058caf229ed463b2aa74353fdeac139",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "129be386eb9aa3c3fa8c",
+     "sent_at": "2026-10-19T06:52:48+07:00",
+     "content_sha": "b3c7c3a8041a3df460768d65fe1a7a96f058caf229ed463b2aa74353fdeac139"
+    }
+   ]
+  }
+ }
 }
