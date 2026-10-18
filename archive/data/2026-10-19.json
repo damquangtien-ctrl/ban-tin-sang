@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-19",
+ "dividends": [
+  {
+   "event": "Tạm ứng cổ tức tiền mặt năm 2026 tỷ lệ 30% (3.000 đồng/cổ phiếu)",
+   "record_date": "2026-10-26",
+   "ref": "cafef:f3423845ec",
+   "ticker": "KSV"
+  },
+  {
+   "event": "Cổ tức tiền mặt năm 2025 tỷ lệ 20% (2.000 đồng/cổ phiếu)",
+   "record_date": "2026-10-26",
+   "ref": "cafef:f3423845ec",
+   "ticker": "TTT"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thị trường",
+   "text": "VN-Index chấm dứt chuỗi 7 phiên giảm, đóng cửa phiên 16/10 tăng 0,45% lên 1.705,91 điểm, khối ngoại vẫn bán ròng khoảng 534 tỷ đồng trên HOSE."
+  },
+  {
+   "source": "Vietstock",
+   "text": "NHNN yêu cầu các tổ chức tín dụng giảm lãi suất cho vay, tổ chức không tuân thủ sẽ bị cắt giảm room tín dụng."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Việt Nam chính thức ký Hiệp định thương mại tự do với Thụy Sĩ, Na Uy, Iceland và Liechtenstein (EFTA)."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Hợp đồng tương lai chứng khoán Mỹ hồi phục sau cú bán tháo cổ phiếu bán dẫn, giá dầu giảm khi Mỹ miễn trừ trừng phạt năng lượng Nga."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Xác suất Fed giữ nguyên lãi suất tháng 10 lên tới 83,9% theo công cụ CME FedWatch."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:42ce24843d",
+     "title": "DRC: Cao su Đà Nẵng thay đổi nhân sự sau khi Tổng giám đốc bị khởi tố"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:2442961513",
+     "title": "Thanh tra Chứng khoán xử phạt hành chính doanh nghiệp công bố thông tin chưa đúng quy định"
+    },
+    {
+     "ref": "google-news-ph-p-l:7edfcb7d80",
+     "title": "Thanh tra Chính phủ kiến nghị truy thu, xử lý vi phạm tại mỏ cát phục vụ cao tốc ở Cần Thơ"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+7,56 (+0,45%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.705,91"
+   },
+   {
+    "change": "-0,16 (-0,06%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "259,13"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "10.996 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~534 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.080"
+   }
+  ],
+  "summary": "Phiên qua đêm tại Mỹ, các chỉ số chứng khoán giảm mạnh do làn sóng bán tháo cổ phiếu bán dẫn (S&P 500 -1,09%, Nasdaq -2,15%), trong khi giá dầu WTI và Brent cùng giảm hơn 1% sau khi Mỹ miễn trừ trừng phạt năng lượng Nga; vàng và Bitcoin tăng nhẹ. Trong nước, VN-Index chấm dứt chuỗi 7 phiên giảm liên tiếp, đóng cửa phiên 16/10 tăng 7,56 điểm (+0,45%) lên 1.705,91 điểm và lấy lại mốc 1.700 điểm, trong khi HNX-Index giảm nhẹ. Thanh khoản HOSE đạt 10.996 tỷ đồng, thấp hơn các phiên trước, và khối ngoại tiếp tục bán ròng khoảng 534 tỷ đồng, đánh dấu phiên bán ròng thứ 11 liên tiếp.",
+  "tiles": [
+   {
+    "change_pct": -1.09,
+    "label": "S&P 500",
+    "value": "7.659,4"
+   },
+   {
+    "change_pct": -0.34,
+    "label": "Dow Jones",
+    "value": "52.002,4"
+   },
+   {
+    "change_pct": -2.15,
+    "label": "Nasdaq",
+    "value": "26.140,0"
+   },
+   {
+    "change_pct": -3.23,
+    "label": "Dầu WTI",
+    "value": "98,1 USD"
+   },
+   {
+    "change_pct": -1.09,
+    "label": "Dầu Brent",
+    "value": "108,7 USD"
+   },
+   {
+    "change_pct": 0.5,
+    "label": "Vàng thế giới",
+    "value": "4.202 USD"
+   },
+   {
+    "change_pct": 0.69,
+    "label": "Bitcoin",
+    "value": "81.945 USD"
+   },
+   {
+    "change_pct": 0.04,
+    "label": "DXY",
+    "value": "101,88"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:06a246bf3e",
+     "title": "Cập nhật số liệu CTCK ngày 19/10: Thêm công ty chứng khoán báo lợi nhuận quý 3 \"tăng bằng lần\""
+    },
+    {
+     "ref": "cafef:01fcdc9e85",
+     "title": "Cơ hội tích sản cổ phiếu dần xuất hiện, chuyên gia chỉ tên loạt nhóm cổ phiếu đáng chú ý"
+    },
+    {
+     "ref": "cafef:60acba8844",
+     "title": "Chuyên gia dự báo bất ngờ về vùng đáy của VN-Index"
+    },
+    {
+     "ref": "cafef:62df89d1e8",
+     "title": "HAX: Haxaco lãi sau thuế 9 tháng gấp 40 lần cùng kỳ, Nhựa Bình Minh lãi trước thuế gần 400 tỷ đồng"
+    },
+    {
+     "ref": "cafef:b6b6a123fc",
+     "title": "MSR: Vì sao khối ngoại \"bên trọng, bên khinh\" hai công ty tỷ đô của tỷ phú Nguyễn Đăng Quang: Một bên mua nghìn tỷ MSR, một bên bán mạnh tay MCH?"
+    },
+    {
+     "ref": "cafef:89e6d7cebd",
+     "title": "Một tháng từ khi nâng hạng: Khối ngoại bán ròng gần tỷ USD, VN-Index mất 110 điểm"
+    },
+    {
+     "ref": "cafef:53e8afa188",
+     "title": "Chuyên gia: Chứng khoán tuần tới có thể xuất hiện nhịp hồi phục kỹ thuật"
+    },
+    {
+     "ref": "cafef:e47755acf8",
+     "title": "Lãi suất cao tiếp tục 'thử thách' chứng khoán?"
+    },
+    {
+     "ref": "cafef:5fd33d963f",
+     "title": "Góc nhìn chuyên gia: VN-Index còn nguy cơ giảm, ba nhóm cổ phiếu kỳ vọng hút dòng tiền sau mùa KQKD quý 3"
+    },
+    {
+     "ref": "cafef:32e54254f9",
+     "title": "AGG: Cổ phiếu rơi về vùng đáy lịch sử, chị gái Chủ tịch Nguyễn Bá Sáng đăng ký gom thêm 3 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:a563d1939b",
+     "title": "VPG: Cổ phiếu bị chuyển sang diện hạn chế giao dịch"
+    },
+    {
+     "ref": "cafef:645a5886ae",
+     "title": "FDC: Một cổ đông của Fideco đăng ký mua 1,85 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:68d5ad4016",
+     "title": "BMI: Vì sao Bảo Minh tạm dừng kế hoạch chuyển sàn từ UpCOM lên HOSE"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:50fd139535",
+     "title": "Tuần 12-16/10: Vingroup kéo lùi, ngân hàng đỡ VN-Index"
+    },
+    {
+     "ref": "vietstock:45ab3af1f4",
+     "title": "Thủ tướng: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng"
+    },
+    {
+     "ref": "vietstock:d2e8ca4fc3",
+     "title": "Góc nhìn tuần 19-23/10: Có hồi cũng khoan mua đuổi"
+    },
+    {
+     "ref": "vietstock:026e39bffc",
+     "title": "Thụy Sĩ đề xuất hợp tác giữa \"thủ phủ tiền mã hóa\" Crypto Valley và Việt Nam"
+    },
+    {
+     "ref": "vietstock:13ab77e1af",
+     "title": "Phó Thủ tướng: Tăng trưởng hai con số là \"mệnh lệnh chính trị\""
+    },
+    {
+     "ref": "vietstock:e27a098371",
+     "title": "Mua bán vàng từ 5 triệu đồng phải thanh toán không dùng tiền mặt"
+    },
+    {
+     "ref": "vietstock:0c64d99a84",
+     "title": "NHNN yêu cầu các TCTD giảm lãi suất, kiểm soát chặt nợ xấu và rủi ro tín dụng"
+    },
+    {
+     "ref": "vietstock:ae0dc2f060",
+     "title": "KSV: Tuần 19-23/10 nổi bật khoản tạm ứng cổ tức 900 tỷ của Vimico"
+    },
+    {
+     "ref": "vietstock:a088d623bc",
+     "title": "Việt Nam chính thức ký FTA với Thụy Sĩ, Na Uy, Iceland và Liechtenstein"
+    },
+    {
+     "ref": "vietstock:267ffeb49e",
+     "title": "Antesco muốn huy động 200 tỷ từ phát hành cổ phiếu để trả nợ"
+    },
+    {
+     "ref": "vietstock:62b3fc484d",
+     "title": "SCL: Sông Đà Cao Cường lập kỷ lục doanh thu quý 3, lãi 9 tháng vượt kế hoạch năm"
+    },
+    {
+     "ref": "vietstock:f984e0e09b",
+     "title": "PNJ: Chuyển động quỹ tuần 12-16/10: PNJ là tâm điểm rút vốn, nhóm Dragon Capital trở thành cổ đông lớn tại TNG"
+    },
+    {
+     "ref": "vietstock:71ec304fd2",
+     "title": "Tuần 12-16/10: Tỷ giá ngân hàng và tự do đồng loạt hạ nhiệt"
+    },
+    {
+     "ref": "vietstock:1695c6967c",
+     "title": "SHB: Đã nhận toàn bộ giá trị chuyển nhượng SHBFinance từ Krungsri"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:2322c96984",
+     "title": "Thanh khoản suy yếu, khối ngoại bán ròng thêm 3.100 tỷ đồng tuần qua"
+    },
+    {
+     "ref": "vneconomy:124a8b1177",
+     "title": "Xu thế dòng tiền: Sức ép từ nhóm trụ có thể đẩy VN-Index về 1650 điểm?"
+    },
+    {
+     "ref": "vneconomy:f51a7a4eda",
+     "title": "VN-Index hồi phục nhẹ nhưng lực cầu bắt đáy còn yếu"
+    },
+    {
+     "ref": "vneconomy:c2157e2f38",
+     "title": "Tự doanh bất ngờ mua ròng hơn 500 tỷ, cổ phiếu nào được gom nhiều nhất?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a70453e71a",
+     "title": "Thị trường vốn Đông Nam Á sôi động hơn với thương vụ IPO gần 1 tỷ USD trong lĩnh vực Fintech"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:dc62ee871c",
+     "title": "Đề nghị luật hoá quy định chứng khoán hoá khoản nợ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:80914578df",
+     "title": "Nhận định thị trường phiên giao dịch ngày 19/10: Chỉ giải ngân thăm dò tại vùng hỗ trợ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c4387a50bb",
+     "title": "NHNN yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm đối với các kỳ hạn từ 6 tháng trở lên"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:16023ad868",
+     "title": "Kỳ vọng kéo giảm nhập siêu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5f20c04f89",
+     "title": "KAI: Chứng khoán KAFI lãi sau thuế quý III/2026 đạt 136,81 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a5cf7b36cd",
+     "title": "Giao dịch chứng khoán khối ngoại tuần 12-16/10: Nhiều cổ phiếu ngành tài chính bị bán mạnh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3aecefb17f",
+     "title": "Quốc hội chính thức sửa Luật Chứng khoán, mở đường tiếp cận vốn cho doanh nghiệp"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:176fb920d9",
+     "title": "CTD: Coteccons muốn trả cổ tức tiền mặt tỷ lệ 25%"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:61932f0e61",
+     "title": "CII: Đầu tư Hạ tầng Kỹ thuật TP.HCM sắp tổ chức Đại hội đồng cổ đông bất thường"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:528e805836",
+     "title": "Hợp nhất Luật NSNN và Luật Đầu tư công: Cắt giảm thủ tục, tăng hiệu quả sử dụng vốn"
+    },
+    {
+     "ref": "b-o-u-t:bd0b7e5cf6",
+     "title": "Thủ tướng: Chắc chắn giá đất và giá bất động sản sẽ giảm"
+    },
+    {
+     "ref": "b-o-u-t:5aab56004c",
+     "title": "Ngân hàng bắt đầu giảm lãi vay có chọn lọc"
+    },
+    {
+     "ref": "b-o-u-t:17604552d3",
+     "title": "Đề xuất thí điểm cơ chế thu hồi và xử lý tài sản liên quan đến tội phạm không qua kết tội"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:2113ad1050",
+     "title": "BID: BIDV giảm lãi suất cho vay tới 2,0%/năm"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:2c7d095bad",
+     "title": "Quảng Ninh khác Cao Bằng, không nên yêu cầu tất cả phải tăng trưởng hai con số"
+    },
+    {
+     "ref": "ti-n-phong:45ee70af51",
+     "title": "Dừng thu phí BOT Bến Thủy từ ngày 20/10, doanh nghiệp dự án nói gì?"
+    },
+    {
+     "ref": "ti-n-phong:eb6ff2bd18",
+     "title": "TPHCM sắp thoái vốn tại nhiều doanh nghiệp"
+    },
+    {
+     "ref": "ti-n-phong:cf5bd22a02",
+     "title": "QCG: Quốc Cường Gia Lai gây chú ý sau tái bổ nhiệm CEO"
+    },
+    {
+     "ref": "ti-n-phong:03233b4b00",
+     "title": "Vinmetal hợp tác với Danieli sản xuất thép ray đường sắt cao tốc và đô thị tại Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:40b3c610d5",
+     "title": "Tiền gửi ngân hàng lập kỷ lục, chủ yếu là của người dân"
+    }
+   ],
+   "source": "Tiền Phong"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-dubaotiente:108370",
+   "title": "Putin đề xuất thượng đỉnh Trump – Tập về Ukraine tại APEC, không có Kyiv",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Putin đề xuất thượng đỉnh Trump – Tập về Ukraine tại APEC, không có Kyiv Chi tiết xem tại: https://dubaotiente.net/tieu-diem/putin-de-xuat-thuong-dinh-trump-tap-ve-ukraine-tai-apec-khong-co-kyiv-113317.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:e165aef8d7",
+   "title": "Đồng Euro giảm khi rủi ro Nga và biểu tình ở Pháp làm xói mòn tâm lý nhà đầu tư",
+   "translated": true,
+   "original_title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment"
+  },
+  {
+   "ref": "reuters:fe041c0d80",
+   "title": "Tăng trưởng GDP quý 3 của Trung Quốc dự báo tăng tốc nhờ xuất khẩu",
+   "translated": true,
+   "original_title": "China's Q3 GDP growth set to pick up as exports power ahead",
+   "link": "https://www.reuters.com/world/china/chinas-q3-gdp-growth-set-pick-up-exports-power-ahead-2026-10-18/"
+  },
+  {
+   "ref": "reuters:dccf94aed8",
+   "title": "AI không phải là cuộc chơi duy nhất ở châu Á: Góc nhìn của Manishi Raychaudhuri",
+   "translated": true,
+   "original_title": "AI isn’t Asia’s only game in town: Manishi Raychaudhuri",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/ai-isnt-asias-only-game-town-manishi-raychaudhuri-2026-10-18/"
+  },
+  {
+   "ref": "bloomberg:8e9b126605",
+   "title": "EQT đồng ý mua lại Cleanaway Waste của Australia với giá 6,5 tỷ USD",
+   "translated": true,
+   "original_title": "EQT Agrees to Buy Australia’s Cleanaway Waste for $6.5 Billion",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion"
+  },
+  {
+   "ref": "tg-dubaotiente:108369",
+   "title": "Giá dầu giảm nhẹ khi Trump miễn trừ trừng phạt năng lượng Nga, lấn át vụ nổ tàu chở dầu tại Hormuz",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Giá dầu giảm nhẹ khi Trump miễn trừ trừng phạt năng lượng Nga, lấn át vụ nổ tàu chở dầu tại Hormuz Chi tiết xem tại: https://dubaotiente.net/tieu-diem/gia-dau-giam-nhe-khi-trump-mien-tru-trung-phat-nang-luong-nga-lan-at-vu-no-tau-cho-dau-tai-hormuz-113316.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:f3cf159b47",
+   "title": "Brookfield vượt qua rào cản 'go shop' với đề nghị mua Reliance Worldwide giá 2,53 tỷ USD",
+   "translated": true,
+   "original_title": "Brookfield's $2.53 billion bid for Reliance Worldwide clears 'go shop' hurdle",
+   "link": "https://www.reuters.com/legal/transactional/brookfields-253-billion-bid-reliance-worldwide-clears-go-shop-hurdle-2026-10-18/"
+  },
+  {
+   "ref": "bloomberg:4cf3038fb2",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ hồi phục sau cú bán tháo cổ phiếu bán dẫn, giá dầu giảm",
+   "translated": true,
+   "original_title": "US Stock Futures Bounce After Chip Rout, Oil Slips: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-vnwallstreet:405023",
+   "title": "Xác suất Fed giữ nguyên lãi suất tháng 10 là 83,9%, theo công cụ CME FedWatch",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed giữ lãi suất không đổi tháng 10 là 83,9% Theo CME \"Công cụ theo dõi Fed\": xác suất Fed giữ lãi suất không đổi đến tháng 10 là 83,9%, xác suất tăng lãi suất cộng gộp 25 điểm cơ bản là 16,1%. Xác suất Fed giữ lãi suất không đổi đến tháng 12 là 8,2%, xác suất tăng lãi suất cộng gộp 25 điểm cơ bản là 77,3%, xác suất tăng lãi suất cộng gộp 50 điểm cơ bản là 14,5%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:4808c60e6c",
+   "title": "Daiichi Life chào mua 4,4 tỷ USD để sở hữu toàn bộ Challenger",
+   "translated": true,
+   "original_title": "Daiichi Life Offers $4.4 Billion to Buy Rest of Challenger",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/daiichi-life-offers-to-buy-remainder-of-australia-s-challenger"
+  },
+  {
+   "ref": "bloomberg:a42c560d78",
+   "title": "Cổ phiếu Kioxia chịu áp lực vì làn sóng mua ký quỹ đảo chiều",
+   "translated": true,
+   "original_title": "Kioxia Shares Face Headwinds From Margin-Buying Gone Wrong",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/kioxia-shares-face-headwinds-from-margin-buying-gone-wrong"
+  },
+  {
+   "ref": "tg-dubaotiente:108363",
+   "title": "EUR chịu áp lực khi bạo loạn bùng phát tại Pháp: 2.400 người bị bắt, biểu tình chi phí sinh hoạt biến thành cướp phá",
+   "translated": false,
+   "original_title": "(Tiêu điểm) EUR chịu áp lực khi bạo loạn bùng phát tại Pháp: 2,400 người bị bắt, biểu tình chi phí sinh hoạt biến thành cướp phá Chi tiết xem tại: https://dubaotiente.net/tieu-diem/eur-chiu-ap-luc-khi-bao-loan-bung-phat-tai-phap-2400-nguoi-bi-bat-113310.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:405013",
+   "title": "Hải quân Iran công bố video tàu chở dầu chạm mìn phía nam eo biển Hormuz",
+   "translated": false,
+   "original_title": "▫️ Hải quân Iran công bố video tàu chở dầu chạm mìn phía nam eo biển Hormuz Hải quân Vệ binh Cách mạng Hồi giáo Iran công bố video cho thấy một tàu chở dầu vi phạm quy định đã chạm vào mìn ở phía nam eo biển Hormuz, gây nổ buồng máy và cháy tàu. Tàu này dự định rời khỏi eo biển nhưng đã tắt toàn bộ hệ thống định vị và dẫn hướng từ lúc khởi hành, vi phạm quy tắc thông hành và cố gắng đi qua tuyến đ",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108362",
+   "title": "Mỹ đe doạ trả đũa nặng nề nếu EU hạn chế Starlink tiếp cận phổ tần",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Mỹ đe doạ trả đũa nặng nề nếu EU hạn chế Starlink tiếp cận phổ tần Chi tiết xem tại: https://dubaotiente.net/tieu-diem/my-de-doa-tra-dua-neu-eu-han-che-starlink-tiep-can-pho-tan-113309.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:22bbccb139",
+   "title": "Anthropic sẽ dành 5% cổ phần cho một quỹ lợi ích công mới",
+   "translated": true,
+   "original_title": "Anthropic destinará una participación del 5 % a un nuevo fondo de interés público",
+   "link": "https://www.reuters.com/latam/negocio/JWO24VGFOZLZJE2LMLJVIHB7WI-2026-10-18/"
+  },
+  {
+   "ref": "reuters:067be8c31e",
+   "title": "Rubio: Ông Trump sẽ cần tới 60 ngày để đánh giá các lệnh trừng phạt Nga",
+   "translated": true,
+   "original_title": "Rubio afirma que Trump tardará hasta 60 días en valorar las sanciones a Rusia",
+   "link": "https://www.reuters.com/latam/negocio/KOMAHTIIZ5KZHPNANPVOLCPWU4-2026-10-18/"
+  },
+  {
+   "ref": "tg-vnwallstreet:405012",
+   "title": "Trump phát biểu lập trường đàm phán Nga-Ukraine và chính sách với Iran",
+   "translated": false,
+   "original_title": "🔴 Trump phát biểu lập trường đàm phán Nga-Ukraine và chính sách với Iran Donald Trump phát biểu về quyết định chính sách đối với Nga, nêu rõ ông đang đàm phán hòa bình giữa Nga và Ukraine và không muốn hành động nào khiến Nga rời khỏi bàn đàm phán. Ông khẳng định đã đạt tiến triển lớn, bao gồm đàm phán về con tin. Trump nói sẽ ký một tài liệu sau này hoặc bất cứ khi nào muốn. Ông lưu ý Nga hiện là",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:49db53dca4",
+   "title": "Chủ tịch quỹ Blackstone tiết lộ điều gì có thể gây ấn tượng trong buổi phỏng vấn?",
+   "translated": false,
+   "original_title": "Chủ tịch quỹ Blackstone tiết lộ điều gì có thể gây ấn tượng trong buổi phỏng vấn?",
+   "link": "https://bbw.vn/chu-tich-quy-blackstone-tiet-lo-dieu-gi-co-the-gay-an-tuong-trong-buoi-phong-van-61009.html"
+  }
+ ],
+ "content_sha": "b3c7c3a8041a3df460768d65fe1a7a96f058caf229ed463b2aa74353fdeac139"
+}
