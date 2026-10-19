@@ -1,0 +1,35 @@
+
+########## CHAY LUC 2026-10-20 06:44:15 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-20, ban daily)
+   the gioi 18 tin · Viet Nam 56 tin / 8 bao · phap ly 8 tin · chot quyen 0 ma
+   THAT BAI: 1 loi
+      [C9] legal: khối 'Tin nhanh Chứng khoán' phải đứng trước 'MarketTimes' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-10-20 06:44:31 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-20, ban daily)
+   the gioi 18 tin · Viet Nam 56 tin / 8 bao · phap ly 8 tin · chot quyen 0 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-20 · the gioi 18 · Viet Nam 56 · phap ly 8
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-20.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-10-20: commit 85a79ac61d56 · sha noi dung c1adbe517663cd6d
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 20/10 | content_sha 68c58ba6bc57 | commit 85a79ac61d56
+   telegram user/928f6fc4179d OK message_id=291
+   zalo     user/593dd2adbb87 OK message_id=90ecd9be2ab761ee38a1
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-20.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-10-20 06:45:06 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
