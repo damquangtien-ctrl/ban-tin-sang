@@ -596,5 +596,44 @@
    "link": "https://vneconomy.vn/vang-giam-gia-vi-usd-va-loi-suat-trai-phieu-cung-tang.htm"
   }
  ],
- "content_sha": "98a53ea92224fd51472a74ebd2cb37da76fef0ab95603b0e010e83d248b77fed"
+ "content_sha": "98a53ea92224fd51472a74ebd2cb37da76fef0ab95603b0e010e83d248b77fed",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "5b223f48e930ffd57590f0de00bfca6e480343e2",
+   "published_at": "2026-10-21T06:50:21+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "292",
+   "sent_at": "2026-10-21T06:50:22+07:00",
+   "content_sha": "98a53ea92224fd51472a74ebd2cb37da76fef0ab95603b0e010e83d248b77fed",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "292",
+     "sent_at": "2026-10-21T06:50:22+07:00",
+     "content_sha": "98a53ea92224fd51472a74ebd2cb37da76fef0ab95603b0e010e83d248b77fed"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "b630794311465b1f0250",
+   "sent_at": "2026-10-21T06:50:23+07:00",
+   "content_sha": "98a53ea92224fd51472a74ebd2cb37da76fef0ab95603b0e010e83d248b77fed",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "b630794311465b1f0250",
+     "sent_at": "2026-10-21T06:50:23+07:00",
+     "content_sha": "98a53ea92224fd51472a74ebd2cb37da76fef0ab95603b0e010e83d248b77fed"
+    }
+   ]
+  }
+ }
 }

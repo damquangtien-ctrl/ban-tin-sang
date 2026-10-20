@@ -1,0 +1,45 @@
+
+########## CHAY LUC 2026-10-21 06:48:53 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-21, ban daily)
+   the gioi 23 tin · Viet Nam 61 tin / 8 bao · phap ly 6 tin · chot quyen 0 ma
+   CANH BAO [C9] world[18]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[19]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[20]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[21]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[22]: tin lấy từ nguồn trong nước 'VnEconomy'
+   THAT BAI: 1 loi
+      [C9] legal: khối 'VnBusiness' phải đứng trước 'Google News Pháp lý' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-10-21 06:49:32 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-21, ban daily)
+   the gioi 23 tin · Viet Nam 61 tin / 8 bao · phap ly 6 tin · chot quyen 0 ma
+   CANH BAO [C9] world[18]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[19]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[20]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[21]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[22]: tin lấy từ nguồn trong nước 'VnEconomy'
+   DAT: khong loi, 5 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-21 · the gioi 23 · Viet Nam 61 · phap ly 6
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-21.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 4/6)
+Da xuat ban 2026-10-21: commit 5b223f48e930 · sha noi dung 82f0a4f141f74167
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 21/10 | content_sha 98a53ea92224 | commit 5b223f48e930
+   telegram user/928f6fc4179d OK message_id=292
+   zalo     user/593dd2adbb87 OK message_id=b630794311465b1f0250
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-21.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-10-21 06:50:23 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
