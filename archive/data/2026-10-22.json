@@ -1,0 +1,639 @@
+{
+ "date": "2026-10-22",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thị trường",
+   "text": "VN-Index tăng mạnh nhất nhiều tháng, bứt phá 46,70 điểm (+2,76%) lên 1.738,67 điểm, khối ngoại mua ròng mạnh nhất từ đầu năm"
+  },
+  {
+   "source": "Vietstock",
+   "text": "FPT lãi ròng gần 7,8 ngàn tỷ đồng sau 9 tháng"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Elon Musk xác nhận Tesla và SpaceX lập ủy ban đặc biệt để xem xét sáp nhập"
+  },
+  {
+   "source": "Vietstock",
+   "text": "NHNN tiếp tục chỉ đạo giảm mặt bằng lãi suất cho vay, sẽ giám sát chặt quá trình tuân thủ"
+  },
+  {
+   "source": "CafeF",
+   "text": "GIL: Nữ Tổng giám đốc Gilimex nộp đơn từ nhiệm sau vụ kiện 840 triệu USD với Amazon"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:99a604e014",
+     "title": "Khởi tố kế toán, thủ quỹ liên quan đến Hải Sapa TV"
+    },
+    {
+     "ref": "cafef:dce04eda97",
+     "title": "Ông Dương Sơn Bá bị bắt, doanh nghiệp bất ngờ chuyển từ lỗ sang lãi trong quý 3"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:de4c642d0f",
+     "title": "TDC: Cùng hai doanh nghiệp bất động sản bị xử phạt công bố thông tin"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:3455b60959",
+     "title": "Chiêu dồn người chơi Forex vào thế 'càng thua càng phải gỡ' của nhóm Mr Pips"
+    },
+    {
+     "ref": "vnexpress:1b9d5b36a3",
+     "title": "Bị thu 'núi tài sản', Mr Hunter tự nguyện sung công hết tiền thừa sau khi bồi thường"
+    },
+    {
+     "ref": "vnexpress:e4ec82c991",
+     "title": "Nữ giám đốc hãng phim bị truy tố lừa đảo 'chạy án', chạy sổ đỏ"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:3bcc5c6f46",
+     "title": "Thanh tra Chính phủ công bố Quyết định thanh tra tại Tổng Công ty Đầu tư và Phát triển nhà Hà Nội"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+46,70 (+2,76%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.738,67 điểm"
+   },
+   {
+    "change": "+3,71 (+1,44%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "261,67 điểm"
+   },
+   {
+    "change": "+53,1% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "20.291 tỷ đồng"
+   },
+   {
+    "change": "Mạnh nhất từ đầu năm",
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~2.368,75 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "Mua 25.670 · Bán 26.050"
+   }
+  ],
+  "summary": "Phiên quốc tế đêm qua, ba chỉ số chính của Mỹ đồng loạt tăng mạnh (S&P 500 +0,58%, Dow Jones +0,69%, Nasdaq +1,05%) trong bối cảnh dầu WTI giảm sâu 3,78% xuống 97,9 USD/thùng còn dầu Brent nhích nhẹ lên 109,8 USD, vàng thế giới gần như đi ngang quanh 4.144 USD/ounce. Tại thị trường trong nước, phiên 21/10 VN-Index bứt phá tăng 46,70 điểm (+2,76%) lên 1.738,67 điểm - mức tăng mạnh nhất nhiều tháng qua, dẫn dắt bởi nhóm bất động sản và cổ phiếu họ Vingroup đồng loạt tăng trần. Thanh khoản HOSE đạt 20.291 tỷ đồng, tăng 53,1% so với phiên trước, trong khi khối ngoại quay lại mua ròng gần 2.369 tỷ đồng - mức mạnh nhất kể từ đầu năm.",
+  "tiles": [
+   {
+    "change_pct": 0.58,
+    "label": "S&P 500",
+    "value": "7.757,2"
+   },
+   {
+    "change_pct": 0.69,
+    "label": "Dow Jones",
+    "value": "52.856,1"
+   },
+   {
+    "change_pct": 1.05,
+    "label": "Nasdaq",
+    "value": "26.702,9"
+   },
+   {
+    "change_pct": -3.78,
+    "label": "Dầu WTI",
+    "value": "97,9 USD"
+   },
+   {
+    "change_pct": 0.97,
+    "label": "Dầu Brent",
+    "value": "109,8 USD"
+   },
+   {
+    "change_pct": 0.03,
+    "label": "Vàng thế giới",
+    "value": "4.144 USD"
+   },
+   {
+    "change_pct": 1.52,
+    "label": "Bitcoin",
+    "value": "84.200 USD"
+   },
+   {
+    "change_pct": -0.04,
+    "label": "DXY",
+    "value": "101,69"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:814dd9bf44",
+     "title": "CTD: Lãnh đạo Coteccons nói gì khi tỷ lệ nghỉ việc tăng mạnh, nhân sự được mời chào mức lương gấp 2-3 lần?"
+    },
+    {
+     "ref": "cafef:437061c6fe",
+     "title": "Chứng khoán sau nâng hạng: IPO tăng tốc, giao dịch xuyên trưa có khả thi?"
+    },
+    {
+     "ref": "cafef:ee9f0e4d6b",
+     "title": "Dấu hiệu tạo đáy của thị trường chứng khoán"
+    },
+    {
+     "ref": "cafef:1ace3f591b",
+     "title": "Cập nhật BCTC quý 3/2026 sáng ngày 22/10: SASCO, VEFAC, Nhựa Tiền Phong, Vosco... công bố"
+    },
+    {
+     "ref": "cafef:bc1a3bdb0f",
+     "title": "Một doanh nghiệp trúng tới 46 gói thầu từ Sungroup, Vingroup, Masterise trong vòng 1 năm, thu về hơn 34.300 tỷ trong 12 tháng gần nhất"
+    },
+    {
+     "ref": "cafef:bfe7771fff",
+     "title": "Lợi nhuận toàn ngành sụt giảm mạnh, nhà đầu tư thua lỗ, CTCK vẫn kiếm bẫm từ cho vay"
+    },
+    {
+     "ref": "cafef:ea58969bae",
+     "title": "GIL: Sau vụ kiện 840 triệu USD với Amazon, nữ Tổng giám đốc SN 1977 nộp đơn từ nhiệm"
+    },
+    {
+     "ref": "cafef:3cd642a996",
+     "title": "Một người Việt có thêm nhiều tiền nhất thế giới ngày 21/10, vượt qua cả Elon Musk, Warren Buffet"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:25645d4324",
+     "title": "RYG: Phân phối 5,55 triệu cổ phiếu \"ế\" cho hai cá nhân"
+    },
+    {
+     "ref": "vietstock:20e69436e4",
+     "title": "Định chế tài chính Hà Lan FMO tính rót tiền vào doanh nghiệp cà phê của Tuấn Lộc Group"
+    },
+    {
+     "ref": "vietstock:d19623449a",
+     "title": "Thủ tướng yêu cầu khắc phục triệt để tình trạng mua bán xăng dầu lòng vòng"
+    },
+    {
+     "ref": "vietstock:b68e11139f",
+     "title": "Phó Thủ tướng: Sẽ trình Trung ương nghị quyết mới về chính sách tiền lương và bảo hiểm xã hội"
+    },
+    {
+     "ref": "vietstock:1d8e4b7d75",
+     "title": "Đề xuất áp giá điện theo giờ: Chưa rõ tác động, chuyên gia cảnh báo gì?"
+    },
+    {
+     "ref": "vietstock:8756128a78",
+     "title": "Bộ trưởng Tài chính Ngô Văn Tuấn làm việc với CEO Ngân hàng Thế giới"
+    },
+    {
+     "ref": "vietstock:690f5deaea",
+     "title": "NHNN chỉ đạo mới về việc giảm mặt bằng lãi suất"
+    },
+    {
+     "ref": "vietstock:837f3f68b2",
+     "title": "NT2: Giá vốn hàng bán tăng mạnh, vẫn tăng 57% lãi sau thuế 9 tháng"
+    },
+    {
+     "ref": "vietstock:92a3b2c01e",
+     "title": "'Ông lớn' ngành dược báo lãi thấp kỷ lục 15 năm"
+    },
+    {
+     "ref": "vietstock:876d924d98",
+     "title": "DPM: PVFCCo - Phú Mỹ và Topsoe ký thỏa thuận hợp tác mở rộng sau hơn hai thập kỷ đồng hành"
+    },
+    {
+     "ref": "vietstock:583a94a63e",
+     "title": "FPT: Lãi ròng gần 7,8 ngàn tỷ đồng sau 9 tháng"
+    },
+    {
+     "ref": "vietstock:52be886131",
+     "title": "VCI: Thu gần 960 tỷ đồng lãi sau thuế sau 9 tháng"
+    },
+    {
+     "ref": "vietstock:c588ae05bc",
+     "title": "NTC: Nam Tân Uyên lãi quý 3 giảm 63%, nợ xấu tăng gần gấp đôi"
+    },
+    {
+     "ref": "vietstock:1419c7eab7",
+     "title": "OCB: Bổ nhiệm Tổng Giám đốc mới"
+    },
+    {
+     "ref": "vietstock:d5055e25f0",
+     "title": "LPB: LPBank lãi 10.421 tỷ đồng lợi nhuận trước thuế trong 9 tháng đầu năm 2026"
+    },
+    {
+     "ref": "vietstock:231526bc2a",
+     "title": "MSR: Sắp chi hơn 2,2 ngàn tỷ đồng tạm ứng cổ tức tỷ lệ 20%"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:bb386e3bdd",
+     "title": "Tạo điều kiện để doanh nghiệp FDI chất lượng tốt niêm yết lên sàn chứng khoán"
+    },
+    {
+     "ref": "vneconomy:86aef29fa6",
+     "title": "Blog chứng khoán: Nhịp giảm đã kết thúc?"
+    },
+    {
+     "ref": "vneconomy:ff4552fcef",
+     "title": "Giám đốc của VPS: Cơ hội trên thị trường vẫn hiện hữu dù dòng tiền chưa lan tỏa rộng"
+    },
+    {
+     "ref": "vneconomy:3210337fb8",
+     "title": "Cước vận tải tăng vọt, các nhà máy lọc dầu châu Á và châu Âu rơi vào cảnh thua lỗ"
+    },
+    {
+     "ref": "vneconomy:b6e1345ef5",
+     "title": "Giới đầu tư ồ ạt mua hợp đồng bảo hiểm rủi ro vỡ nợ trái phiếu AI"
+    },
+    {
+     "ref": "vneconomy:07bbeff808",
+     "title": "Rất khó để ngành quỹ tăng trưởng 80% mỗi năm nếu không có giải pháp đột phá"
+    },
+    {
+     "ref": "vneconomy:5367612d81",
+     "title": "Việt Nam bị tấn công mạng cao nhất Đông Nam Á, cứ 57 giây lại có vụ nhắm vào ngân hàng, chứng khoán"
+    },
+    {
+     "ref": "vneconomy:2cf94c17d0",
+     "title": "IMP: Kênh ETC hồi phục, Imexpharm duy trì tăng trưởng lợi nhuận sau 9 tháng"
+    },
+    {
+     "ref": "vneconomy:b62c5be5f5",
+     "title": "Năm 2026, đầu tư đồng lãi hơn đầu tư vàng"
+    },
+    {
+     "ref": "vneconomy:8f2b134a56",
+     "title": "Phó Chủ tịch Ủy ban Chứng khoán: Dự kiến vận hành hệ thống thanh toán bù trừ trung tâm trong quý 1/2027"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:29c8c06dce",
+     "title": "MSR: Masan High-Tech Materials bổ nhiệm Tổng giám đốc mới"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:48505839c1",
+     "title": "CTD: Chủ tịch Coteccons Bolat Duisenov muốn mua thêm 350.000 cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f2cc882674",
+     "title": "TTF: Gỗ Trường Thành bị lưu ý khả năng huỷ niêm yết bắt buộc"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:575bdd4e8d",
+     "title": "PNJ: ĐHCĐ thông qua phát hành riêng lẻ tối đa 550 triệu cổ phiếu, huy động 8.000 tỷ đồng tái thiết"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4fffa3ddf6",
+     "title": "Nền kinh tế số Đông Nam Á hướng tới quy mô 368 tỷ USD trong năm 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cfa3326847",
+     "title": "VPX: VPBankS chốt phương án chia cổ phiếu thưởng 45%, đưa vốn điều lệ vượt mốc tỷ USD"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:18fce25b66",
+     "title": "EVF: Công bố BCTC quý III/2026, lợi nhuận trước thuế 9 tháng vượt 1.000 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2927a61885",
+     "title": "NT2: Dầu khí Nhơn Trạch 2 chuẩn bị chia cổ tức tiền mặt, tỷ lệ 10%"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:d2ddbd77b0",
+     "title": "Trình Chính phủ dự thảo Nghị định thay thế Nghị định về kinh doanh xăng dầu trước ngày 10/11/2026"
+    },
+    {
+     "ref": "b-o-u-t:bb9a5a4f58",
+     "title": "VCCI đề nghị bỏ yêu cầu thương nhân đầu mối xăng dầu phải sở hữu 40 cửa hàng bán lẻ"
+    },
+    {
+     "ref": "b-o-u-t:f2f7b4718f",
+     "title": "VPX: VPBankS báo lãi hơn 3.500 tỷ đồng trong 9 tháng năm 2026"
+    },
+    {
+     "ref": "b-o-u-t:f6001dcf29",
+     "title": "Ngân hàng Thế giới đề xuất ưu tiên tài chính cho doanh nghiệp nhỏ và vừa"
+    },
+    {
+     "ref": "b-o-u-t:91e89dbec9",
+     "title": "Việt Nam thu 3,7 tỷ USD từ xuất khẩu tôm, vẫn lo thuế quan chặng cuối năm"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:0fcaeb851f",
+     "title": "VIB: Giảm lãi suất cho vay, đồng hành cùng doanh nghiệp và khách hàng cá nhân"
+    },
+    {
+     "ref": "markettimes:5f918eb66c",
+     "title": "SHS: Báo lãi 620 tỷ đồng sau 9 tháng, doanh thu quý III tăng 23%"
+    },
+    {
+     "ref": "markettimes:9169fe2534",
+     "title": "TPB: TPBank nhận 50 triệu USD vốn dài hạn từ DEG, tối ưu nguồn vốn quốc tế"
+    },
+    {
+     "ref": "markettimes:6acf672f03",
+     "title": "Chứng khoán Việt Nam định vị mục tiêu hút 5,4 triệu tỷ đồng vốn trung và dài hạn giai đoạn 2026-2030"
+    },
+    {
+     "ref": "markettimes:6a7ae05023",
+     "title": "CTD: Chủ tịch Coteccons cập nhật về khoản nợ 526 tỷ của Tân Hoàng Minh"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:ba9fc97f24",
+     "title": "STB: Sau khách hàng doanh nghiệp, Sacombank tiếp tục hạ lãi suất cho vay khách hàng cá nhân thấp nhất từ 1,5% đến 2%"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:5a48d1a3be",
+     "title": "NVL: Động thái trái ngược của gia đình Chủ tịch Novaland"
+    },
+    {
+     "ref": "ti-n-phong:327b7caeac",
+     "title": "Trái phiếu 'nóng' giữa lúc lãi suất ngân hàng ì ạch 'hạ nhiệt'"
+    },
+    {
+     "ref": "ti-n-phong:0ff852d9d6",
+     "title": "Doanh nghiệp nặng nợ cũ không mặn mà gói vay mới dù lãi suất giảm"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:454567c4fc",
+     "title": "Ngân hàng tăng thu ngoài lãi, giảm dần phụ thuộc vào tín dụng"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:1e1cea3cad",
+     "title": "USD chìm trong đáy 3 tuần trước kỳ vọng Fed giữ nguyên lãi suất"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:2c11532b40",
+     "title": "Kinh tế Trung Quốc ngày càng phân hóa"
+    },
+    {
+     "ref": "bnews:c01b9f56ae",
+     "title": "Petrovietnam tiên phong cùng các đối tác Đan Mạch phát triển điện gió ngoài khơi"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:fb25574c09",
+     "title": "HDB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đào Anh Minh"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:eb60c0e14a",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ giảm nhẹ sau mùa báo cáo kết quả kinh doanh, giá dầu tăng",
+   "translated": true,
+   "original_title": "US Stock Futures Slip After Earnings, Oil Gains: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-marketfeed:1062188",
+   "title": "Elon Musk xác nhận Tesla và SpaceX lập ủy ban đặc biệt để xem xét sáp nhập, có thể giúp tài sản ông tăng thêm hơn 110 tỷ USD",
+   "translated": true,
+   "original_title": "ELON MUSK CONFIRMED TESLA AND SPACEX HAVE FORMED SPECIAL COMMITTEES TO EXPLORE A MERGER THAT COULD BOOST HIS WEALTH BY MORE THAN $110 BILLION THROUGH ACCELERATED VESTING OF TESLA SHARES. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1062187",
+   "title": "Bộ Tài chính Mỹ hoàn tất quy định stablecoin theo Đạo luật GENIUS, củng cố vị thế dẫn đầu tài sản số của Mỹ",
+   "translated": true,
+   "original_title": "JUST IN: 🇺🇸 US TREASURY SAYS NEW FINALIZED CRYPTO STABLECOIN RULES UNDER THE GENIUS ACT \"CEMENTS AMERICAN DOMINANCE IN DIGITAL ASSETS.\" ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:3bb3a4af7f",
+   "title": "Comcast dự kiến cắt giảm nhân sự quy mô lớn, theo Bloomberg News",
+   "translated": true,
+   "original_title": "Comcast planning significant jobs cuts, Bloomberg News reports",
+   "link": "https://www.reuters.com/business/world-at-work/comcast-planning-significant-jobs-cuts-bloomberg-news-reports-2026-10-21/"
+  },
+  {
+   "ref": "bloomberg:81065736d2",
+   "title": "Citigroup đặt mục tiêu dẫn đầu thị trường Trung Quốc khi chờ cấp phép chứng khoán",
+   "translated": true,
+   "original_title": "Citi Targets Top Spot in China as It Awaits Securities License",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/citi-targets-top-spot-in-china-as-it-awaits-securities-license"
+  },
+  {
+   "ref": "bloomberg:c8fbed6c30",
+   "title": "Tám tháng chiến sự biến dư thừa hóa dầu của Trung Quốc thành tình trạng khan hiếm",
+   "translated": true,
+   "original_title": "Eight Months of War Turns China Petrochemical Glut Into a Crunch",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/eight-months-of-war-turns-china-petrochemical-glut-into-a-crunch"
+  },
+  {
+   "ref": "bloomberg:2fb0d4accb",
+   "title": "Philippines chuẩn bị nâng lãi suất khi El Niño làm tăng nguy cơ lạm phát",
+   "translated": true,
+   "original_title": "Philippines to Lift Key Rate as El Niño Adds to Inflation Threat",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/philippines-to-lift-key-rate-as-el-nino-adds-to-inflation-threat"
+  },
+  {
+   "ref": "tg-dubaotiente:108527",
+   "title": "Ngân hàng Trung ương Hàn Quốc dự kiến giữ nguyên lãi suất hôm nay sau hai lần tăng, chu kỳ thắt chặt chưa kết thúc",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Ngân hàng Trung ương Hàn Quốc dự kiến giữ lãi suất hôm nay sau hai lần tăng, chu kỳ thắt chặt chưa kết thúc Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ngan-hang-trung-uong-han-quoc-du-kien-giu-lai-suat-hom-nay-sau-hai-lan-tang-113447.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1062181",
+   "title": "Mỹ và Israel soạn kế hoạch tấn công Iran sau bầu cử giữa kỳ, theo New York Times",
+   "translated": true,
+   "original_title": "THE U.S. AND ISRAEL ARE CRAFTING A PLAN FOR IRAN STRIKES AFTER THE ELECTION, WITH HEGSETH HAVING MET NETANYAHU THIS WEEK TO DISCUSS NEW IRAN STRIKES - NYT ...",
+   "link": null
+  },
+  {
+   "ref": "reuters:bd6cb95611",
+   "title": "Đảng Cộng hòa vượt trần chi tiêu cũ sau khi bị Tòa án Tối cao Mỹ bác bỏ",
+   "translated": true,
+   "original_title": "Republicans fly past former spending caps nixed by US Supreme Court",
+   "link": "https://www.reuters.com/world/us/republicans-fly-past-former-spending-caps-nixed-by-us-supreme-court-2026-10-21/"
+  },
+  {
+   "ref": "reuters:79dcc9993b",
+   "title": "Kinder Morgan đầu tư 4,7 tỷ USD vào hai dự án đường ống khí đốt khi nhu cầu tăng vọt",
+   "translated": true,
+   "original_title": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
+   "link": "https://www.reuters.com/legal/litigation/kinder-morgan-invest-47-billion-two-gas-pipeline-projects-demand-surges-2026-10-21/"
+  },
+  {
+   "ref": "tg-dubaotiente:108526",
+   "title": "BlackRock: Vàng sẽ tiếp tục tăng nhờ nợ công và thâm hụt ngân sách",
+   "translated": false,
+   "original_title": "(Tiêu điểm) BlackRock: Vàng sẽ tiếp tục tăng nhờ nợ công và thâm hụt ngân sách Chi tiết xem tại: https://dubaotiente.net/tieu-diem/blackrock-vang-se-tiep-tuc-tang-nho-no-cong-va-tham-hut-ngan-sach-113446.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:8f11102a56",
+   "title": "Santos đạt sản lượng quý kỷ lục nhờ các dự án LNG và dầu khí mới",
+   "translated": true,
+   "original_title": "Santos Posts Record Quarterly Output on New LNG, Oil Projects",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/santos-posts-record-quarterly-output-on-new-lng-oil-projects"
+  },
+  {
+   "ref": "reuters:0219de67c2",
+   "title": "Hàng không dân dụng Saudi Arabia: 1 người chết, 8 người bị thương trong vụ tấn công sân bay King Fahd",
+   "translated": true,
+   "original_title": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport",
+   "link": "https://www.reuters.com/world/saudi-civil-aviation-says-one-killed-eight-injured-attack-king-fahd-airport-2026-10-21/"
+  },
+  {
+   "ref": "tg-vnwallstreet:405986",
+   "title": "Quỹ ETF vàng lớn nhất toàn cầu SPDR Gold Trust giảm nắm giữ 2,566 tấn, còn 1.057,617 tấn",
+   "translated": false,
+   "original_title": "🔴 SPDR Gold Trust, quỹ ETF vàng lớn nhất toàn cầu, giảm nắm giữ 2,566 tấn so với hôm qua, hiện tại nắm giữ 1.057,617 tấn. #gold #etf",
+   "link": null
+  },
+  {
+   "ref": "reuters:541059d1c1",
+   "title": "Bộ Nông nghiệp Mỹ xác nhận phát hiện ca giòi xoắn (New World screwworm) đầu tiên trong động vật hoang dã tại Mỹ",
+   "translated": true,
+   "original_title": "US Agriculture Dept confirms first detection of New World screwworm in US wildlife",
+   "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/"
+  },
+  {
+   "ref": "bloomberg:60ef6daa2d",
+   "title": "Fortescue cảnh báo rủi ro với kết quả cả năm do căng thẳng thương mại với Trung Quốc",
+   "translated": true,
+   "original_title": "Fortescue Says Risk to Full-Year Results On China Standoff",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/fortescue-says-risk-to-full-year-sales-as-china-dispute-drags-on"
+  },
+  {
+   "ref": "tg-vnwallstreet:405988",
+   "title": "Lạm phát quý III New Zealand giảm vượt kỳ vọng, giá nhiên liệu hạ nhiệt trước thềm bầu cử",
+   "translated": false,
+   "original_title": "▫️ Lạm phát quý III New Zealand giảm vượt quá kỳ vọng, giá nhiên liệu hạ nhiệt mang lại thở phào cho chính phủ trước cuộc bầu cử Lạm phát năm-trên-năm quý III của New Zealand giảm xuống 3,7%, thấp hơn dự báo 3,8% và mức 4,1% của quý II, nhờ giá nhiên liệu hạ nhiệt. Chỉ số giá tiêu dùng theo tháng tăng 0,7%, thấp hơn kỳ vọng 0,8%. Dữ liệu công bố của Cục Thống kê New Zealand tại Wellington cho thấy",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:405987",
+   "title": "Ứng dụng AI Muse của Meta vượt 10 triệu người dùng sau một tháng",
+   "translated": false,
+   "original_title": "▫️ Ứng dụng AI Muse của Meta vượt 10 triệu người dùng sau một tháng Giám đốc điều hành Meta Mark Zuckerberg công bố hôm thứ Tư rằng ứng dụng AI nhân cách Muse đã thu hút hơn 10 triệu người dùng kể từ khi ra mắt vào tháng 9. Tại cuộc họp báo cáo tài chính quý III, Zuckerberg cho biết Muse duy trì \"xu hướng tăng trưởng mạnh mẽ\", với tình huống sử dụng phổ biến nhất là mua sắm. Hơn một phần tư người ",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:5ce3b27d1c",
+   "title": "CIO quỹ hưu trí UniSuper: Không hoài nghi về làn sóng AI",
+   "translated": true,
+   "original_title": "UniSuper CIO Is Not A Skeptic on AI",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/unisuper-cio-is-not-a-skeptic-on-ai-video"
+  },
+  {
+   "ref": "reuters:7c8d2c5ead",
+   "title": "Từ tạp hóa đến vay mua nhà: giá dầu cao ngấm vào đời sống hàng ngày tại Mỹ",
+   "translated": true,
+   "original_title": "From groceries to home loans, high oil prices permeate daily life",
+   "link": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/"
+  },
+  {
+   "ref": "tg-vnwallstreet:405992",
+   "title": "Mỹ trừng phạt các cá nhân, thực thể liên quan vận chuyển hàng hóa lớn của Iran",
+   "translated": false,
+   "original_title": "▫️ Mỹ áp đặt trừng phạt với các cá nhân và thực thể liên quan đến vận chuyển hàng hóa lớn của Irán Bộ Tài chính Mỹ ngày 21 tháng 10 công bố áp đặt trừng phạt đối với nhiều cá nhân và thực thể bằng cách đưa vào \"Danh sách các cá nhân được chỉ định đặc biệt\" do họ hỗ trợ che giấu và vận chuyển hàng hóa lớn của Irán. Bộ Tài chính chỉ định một công ty luật hoạt động tại Panama và Hy Lạp đã thiết lập c",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108525",
+   "title": "JPMorgan nâng gấp đôi giá mục tiêu SpaceX lên 500 USD nhờ AI, phác thảo kịch bản sáp nhập Tesla",
+   "translated": false,
+   "original_title": "(Tiêu điểm) JPMorgan nâng gấp đôi giá mục tiêu SpaceX lên 500 USD nhờ AI, phác thảo kịch bản sáp nhập Tesla Chi tiết xem tại: https://dubaotiente.net/tieu-diem/jpmorgan-nang-gap-doi-gia-muc-tieu-spacex-len-500-usd-nho-ai-phac-thao-kich-ban-sap-nhap-tesla-113445.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108524",
+   "title": "Tesla đặt mục tiêu 5 triệu xe/năm vào 2030, nguồn cung Megapack năm 2027 gần như đã bán hết",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Tesla đặt mục tiêu 5 triệu xe/năm vào 2030, nguồn cung Megapack năm 2027 gần như đã bán hết Chi tiết xem tại: https://dubaotiente.net/tieu-diem/tesla-dat-muc-tieu-5-trieu-xe-nam-vao-2030-nguon-cung-megapack-2027-gan-nhu-da-ban-het-113444.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:405983",
+   "title": "Xác suất Fed giữ nguyên lãi suất tháng 10 theo CME FedWatch là 83,9%",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed giữ nguyên lãi suất tháng 10 là 83,9% Theo CME FedWatch: xác suất Fed giữ nguyên lãi suất đến tháng 10 là 83,9%, xác suất tăng 25 điểm cơ bản là 16,1%. Đến tháng 12, xác suất giữ nguyên là 9,9%, tăng 25 điểm cơ bản là 76,0%, tăng 50 điểm cơ bản là 14,2%. #fed #interest -rates",
+   "link": null
+  }
+ ],
+ "content_sha": "67fcaa4aa5f0adf57cfb20a1127c496f2eb95ae1a95acd1eb172cf4cdeb669d9"
+}
