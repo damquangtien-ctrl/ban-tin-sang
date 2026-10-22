@@ -1,0 +1,604 @@
+{
+ "date": "2026-10-23",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "VN-Index đóng cửa phiên 22/10 tăng 22 điểm lên 1.761 điểm, cao nhất hơn nửa năm; khối ngoại mua ròng gần 342 tỷ đồng."
+  },
+  {
+   "source": "CafeF",
+   "text": "Thanh tra Chính phủ công bố quyết định thanh tra Đạm Phú Mỹ (DPM) và đề nghị điều tra vụ Petimex bán 185 triệu lít xăng dầu không hóa đơn."
+  },
+  {
+   "source": "Yahoo Finance",
+   "text": "Chứng khoán Mỹ giảm mạnh phiên qua đêm, Nasdaq mất 2,6%; giá vàng thế giới lao dốc 2,56%, Bitcoin giảm 3,32%."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Techcombank (TCB) mở rộng gói ưu đãi giảm lãi suất vay đến 2%/năm lên 40.000 tỷ đồng, đồng thời chốt danh sách cổ đông chia cổ tức 50% bằng cổ phiếu."
+  },
+  {
+   "source": "VnExpress",
+   "text": "Shark Bình bị cáo buộc tiếp tay đường dây Mr Pips rửa 320 tỷ đồng; \"trùm\" lừa đảo Lê Khắc Ngọ (Mr Hunter) chiếm đoạt 340 tỷ đồng của nhà đầu tư."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:68356399bd",
+     "title": "Thanh tra Chính phủ đề nghị điều tra vụ Petimex bán 185 triệu lít xăng dầu không hóa đơn"
+    },
+    {
+     "ref": "cafef:648add5a8e",
+     "title": "DPM: Thanh tra Chính phủ công bố quyết định thanh tra Đạm Phú Mỹ"
+    },
+    {
+     "ref": "cafef:8cdec9d9d9",
+     "title": "Công bố Quyết định thanh tra tại Tổng Công ty Đầu tư và Phát triển nhà Hà Nội"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fa541a03cf",
+     "title": "\"Trùm\" lừa đảo Lê Khắc Ngọ (Mr Hunter) chiếm đoạt 340 tỷ đồng của nhà đầu tư"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c6ae3c1c86",
+     "title": "DRC: Cao su Đà Nẵng lợi nhuận 9 tháng sụt giảm, sắp tổ chức ĐHĐCĐ bất thường sau khi lãnh đạo bị khởi tố"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:4f0f43d347",
+     "title": "Phát hiện 129 đối tượng, chủ yếu người Trung Quốc lập \"ổ\" lừa đảo online ở Đồng Nai - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:99d57509b1",
+     "title": "Shark Bình bị cáo buộc tiếp tay Mr Pips 'qua mắt' điều tra, 'rửa' 320 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:b76c319f6e",
+     "title": "Vụ Xôi Lạc TV ước tính gây thiệt hại hơn 2.300 tỷ đồng"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+22,00 điểm (+1,27%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.761 điểm"
+   },
+   {
+    "change": "-0,59 điểm (-0,23%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "261,08 điểm"
+   },
+   {
+    "change": "672 triệu cổ phiếu",
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~15.300 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~342 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": "Mua CK 25.660",
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.040"
+   }
+  ],
+  "summary": "Phiên 22/10, VN-Index tăng 22 điểm lên 1.761 điểm - mức cao nhất hơn nửa năm, trong khi HNX-Index giảm nhẹ 0,59 điểm xuống 261,08 điểm; thanh khoản HOSE đạt khoảng 15.300 tỷ đồng với khối ngoại mua ròng gần 342 tỷ đồng. Trên thị trường quốc tế, chứng khoán Mỹ giảm điểm trong phiên qua đêm (S&P 500 -1,21%, Nasdaq -2,60%) giữa lúc giá vàng thế giới lao dốc 2,56% và Bitcoin mất 3,32%, trong khi dầu WTI và Brent đều tăng hơn 2%.",
+  "tiles": [
+   {
+    "change_pct": -1.21,
+    "label": "S&P 500",
+    "value": "7.663,4"
+   },
+   {
+    "change_pct": 0.02,
+    "label": "Dow Jones",
+    "value": "52.868,0"
+   },
+   {
+    "change_pct": -2.6,
+    "label": "Nasdaq",
+    "value": "26.008,9"
+   },
+   {
+    "change_pct": 2.12,
+    "label": "Dầu WTI",
+    "value": "99,2 USD"
+   },
+   {
+    "change_pct": 3.89,
+    "label": "Dầu Brent",
+    "value": "113,0 USD"
+   },
+   {
+    "change_pct": -2.56,
+    "label": "Vàng thế giới",
+    "value": "4.044 USD"
+   },
+   {
+    "change_pct": -3.32,
+    "label": "Bitcoin",
+    "value": "81.224 USD"
+   },
+   {
+    "change_pct": -0.16,
+    "label": "DXY",
+    "value": "101,62"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:60b2c3eed3",
+     "title": "Bầu Hiển nói về bài toán tại sân bay 5.800 tỷ đồng: “Bay thì lỗ mà không bay thì khó”"
+    },
+    {
+     "ref": "cafef:d0fc47de42",
+     "title": "Cập nhật BCTC quý 3/2026 sáng ngày 23/10: IDP lãi 9 tháng hơn 800 tỷ, công ty BĐS lãi gấp 12 lần cùng kỳ"
+    },
+    {
+     "ref": "cafef:ef0c754c38",
+     "title": "VIC: Đằng sau sức hút của Vingroup - cánh chim đầu đàn dẫn dắt thị trường chứng khoán Việt Nam"
+    },
+    {
+     "ref": "cafef:8bc2f149de",
+     "title": "Không phải chứng khoán hay bất động sản, đây mới là nhóm cổ phiếu hưởng lợi đầu tiên khi lãi suất giảm"
+    },
+    {
+     "ref": "cafef:ec3421ce87",
+     "title": "Thị trường ảm đạm, tiền nằm chờ trên tài khoản chứng khoán xuống thấp nhất 3 năm"
+    },
+    {
+     "ref": "cafef:470fb8fc19",
+     "title": "Một cổ phiếu đình đám bị 16 quỹ đồng loạt “xả hàng”"
+    },
+    {
+     "ref": "cafef:fd9215865c",
+     "title": "Cập nhật số liệu CTCK quý 3/2026: Loạt tên tuổi lớn báo lãi \"đi lùi\", xuất hiện hai khoản lỗ hàng trăm tỷ của ngành chứng khoán"
+    },
+    {
+     "ref": "cafef:013a63638a",
+     "title": "Một chỉ báo quan trọng hé lộ khả năng VN-Index bước vào “sóng mới”"
+    },
+    {
+     "ref": "cafef:e8b9d16afb",
+     "title": "Tập đoàn lớn nhất Việt Nam bắt tay tập đoàn châu Âu khảo sát vùng biển rộng 398 km², phát triển siêu dự án điện 1.000 MW"
+    },
+    {
+     "ref": "cafef:c2d85435ef",
+     "title": "Tập đoàn của bầu Hiển khảo sát khu liên hợp thể thao hơn 8.000 chỗ ngồi tại tỉnh duy nhất Việt Nam có 3 mặt giáp biển"
+    },
+    {
+     "ref": "cafef:c00e5a91da",
+     "title": "Loạt doanh nghiệp vật liệu xây dựng báo lãi lớn giữa làn sóng đầu tư công, có công ty lãi tăng gấp gần 3 lần"
+    },
+    {
+     "ref": "cafef:e44cc53b1f",
+     "title": "Công ty cao su báo doanh thu cao nhất 55 quý, cổ phiếu đã tăng 30% trong 3 tháng qua"
+    },
+    {
+     "ref": "cafef:60f291b606",
+     "title": "Cổ phiếu đại gia cảng biển lập đỉnh lịch sử, giá trị công ty vượt 37.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:4930cc9f63",
+     "title": "KDH: Khang Điền ký hợp đồng vay Vietinbank cho dự án chỉnh trang đô thị khu Mả Lạng và Chợ Gà - Gạo"
+    },
+    {
+     "ref": "cafef:e9ffbccc14",
+     "title": "VIX: Chứng khoán VIX còn 1.000 tỷ đồng vốn huy động từ chào bán cổ phiếu chưa giải ngân"
+    },
+    {
+     "ref": "cafef:87d463fb32",
+     "title": "Chứng khoán tiếp tục tăng 22 điểm, lên mức cao nhất hơn nửa năm"
+    },
+    {
+     "ref": "cafef:0959a3bd35",
+     "title": "Sau khi ông Lê Việt Cường bị bắt, công ty báo lãi quý 3 gấp đôi cùng kỳ"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:bf3d7989b1",
+     "title": "Một doanh nghiệp thép bị ngân hàng bán đấu giá 3 cụm bất động sản"
+    },
+    {
+     "ref": "vietstock:c2aace8f3e",
+     "title": "Thủ tướng chỉ đạo triển khai ngay các giải pháp bảo đảm cung ứng điện giai đoạn 2027 - 2030"
+    },
+    {
+     "ref": "vietstock:d083e7f14c",
+     "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề xuất 3 định hướng nâng tầm hợp tác kinh tế Việt Nam, châu Âu và Bỉ"
+    },
+    {
+     "ref": "vietstock:88e9d1ab34",
+     "title": "PWS: Chi phí phình to kéo lợi nhuận quý 3 tiếp tục đi lùi"
+    },
+    {
+     "ref": "vietstock:a87ffe100c",
+     "title": "Trung Quốc có đang đi vào vết xe đổ của Nhật Bản?"
+    },
+    {
+     "ref": "vietstock:c2e4c49553",
+     "title": "FTS: FPTS báo lãi quý 3 giảm 35%"
+    },
+    {
+     "ref": "vietstock:d65b91d4af",
+     "title": "Doanh nghiệp dệt may thuộc COFCO muốn chi gần 28 triệu USD mua nhà máy vải thua lỗ ở Tây Ninh"
+    },
+    {
+     "ref": "vietstock:b356711257",
+     "title": "Vietstock Daily 23/10/2026: Giữ đà phục hồi?"
+    },
+    {
+     "ref": "vietstock:e5c7e5101d",
+     "title": "NNC: Đá Núi Nhỏ lãi kỷ lục, vượt kế hoạch sau 9 tháng"
+    },
+    {
+     "ref": "vietstock:6f6ca2bfed",
+     "title": "Chủ show Anh trai vượt ngàn chông gai hủy 8 triệu cp “ế” trong đợt phát hành riêng lẻ"
+    },
+    {
+     "ref": "vietstock:1c13f49f38",
+     "title": "PNJ: Khoảng trống dòng tiền sau đại hội cổ đông bất thường"
+    },
+    {
+     "ref": "vietstock:b3da3b49e6",
+     "title": "AGR: Agriseco hoàn tất trả cổ tức 2025, nâng vốn lên hơn 2.420 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:9a68ce1122",
+     "title": "HDM: Tăng 16% lãi quý 3, 9 tháng vẫn giảm"
+    },
+    {
+     "ref": "vietstock:da7017349c",
+     "title": "HND: Chuyển lỗ thành lãi dù chịu hơn 114 tỷ đồng tiền bồi thường"
+    },
+    {
+     "ref": "vietstock:3c424d66bb",
+     "title": "VND: VNDirect giảm 65% lợi nhuận quý 3 khi các mảng trọng yếu đều gặp khó"
+    },
+    {
+     "ref": "vietstock:29db35abdb",
+     "title": "GLW: Lợi nhuận quý 3 tăng vọt 95%, vượt 24% kế hoạch năm sau 9 tháng"
+    },
+    {
+     "ref": "vietstock:46a3a2d5f8",
+     "title": "TCB: Giảm lãi suất vay đến 2%/năm, Techcombank mở rộng quy mô gói ưu đãi lên 40.000 tỷ đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f60627d3e2",
+     "title": "Huy động 15 tỷ USD, DeepSeek \"hâm nóng\" cuộc đua AI"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bea1479737",
+     "title": "Nhận định thị trường phiên giao dịch ngày 23/10: Áp lực chốt lời có thể gia tăng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:458fd025f8",
+     "title": "Cổ phiếu cần quan tâm ngày 23/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:972eac7518",
+     "title": "SZC: Mảng khu công nghiệp hụt hơi, lãi 9 tháng giảm 76%"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:91cc794619",
+     "title": "Công bằng trong thực hiện nghĩa vụ tài chính khi sửa Luật Đất đai"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:08d7104b05",
+     "title": "NTP: Nhựa Tiền Phong vượt chỉ tiêu lợi nhuận cả năm chỉ sau 9 tháng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0428a8332b",
+     "title": "Tổn thất bảo hiểm thiên tai toàn cầu 9 tháng đầu năm 2026 thấp nhất kể từ 2019"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7c67a90830",
+     "title": "Chứng khoán Trung Quốc rơi vào thị trường giá xuống"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:532940fd1d",
+     "title": "Đề xuất phát triển mạnh nhà ở cho thuê"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9e2fb1b33c",
+     "title": "TCB: Techcombank chốt danh sách cổ đông chia cổ tức 50% bằng cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ea1a95696b",
+     "title": "DVV: DatVietVAC được chấp thuận niêm yết trên HOSE, vốn hóa hơn 6.100 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2578efe493",
+     "title": "Ngành ngân hàng: Lợi nhuận quý III tăng, áp lực vẫn hiện hữu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:40d85e5ea2",
+     "title": "Hàn Quốc giữ nguyên lãi suất sau hai đợt tăng liên tiếp"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1981b90faa",
+     "title": "Lãi suất cao đang thay đổi cách lựa chọn cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4eaa911578",
+     "title": "OIL: PVOIL tiếp tục giảm giá 350 đồng/lít xăng dầu đến ngày 29/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c53d509981",
+     "title": "TP.HCM: Căn hộ gần metro tăng giá mạnh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:afb83e42d9",
+     "title": "MSN: Lợi nhuận tăng hơn gấp đôi, vượt kế hoạch cơ sở cả năm 2026 chỉ sau 9 tháng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:d032ee7587",
+     "title": "VCB: Đẩy mạnh triển khai chương trình tín dụng thúc đẩy sản xuất, kinh doanh và các lĩnh vực ưu tiên"
+    },
+    {
+     "ref": "b-o-u-t:c7e04b3196",
+     "title": "Nhập khẩu tăng mạnh tiếp sức cho tăng trưởng - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:8d90ff8ff7",
+     "title": "Gần 140.000 tấn thịt nhập khẩu trị giá 2,3 tỷ USD đổ về Việt Nam - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:94cb3bee03",
+     "title": "VinaCapital và A.P. Moller Capital ký biên bản ghi nhớ tìm hiểu cơ hội đầu tư vào hạ tầng logistics tại Việt Nam - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:027f187589",
+     "title": "OCB: Bổ nhiệm ông Dương Đức Hùng làm Tổng giám đốc"
+    },
+    {
+     "ref": "b-o-u-t:8e722cbec5",
+     "title": "Giá nhà ngày càng xa khả năng chi trả, luật sửa đổi tác động đến đâu? - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:896688f6e8",
+     "title": "STB: Sacombank giảm lãi vay cho khách hàng doanh nghiệp và cá nhân từ 1,5-2%"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:bc4be4523f",
+     "title": "Đông Sơn Holdings chốt ngày chào sàn HOSE: Bước chuyển từ xây lắp sang đầu tư hạ tầng"
+    },
+    {
+     "ref": "markettimes:d0fabb4a2d",
+     "title": "PGB: PGBank báo lãi quý III sụt giảm 10,4%"
+    },
+    {
+     "ref": "markettimes:8454e16dcd",
+     "title": "VCI: Doanh thu, lợi nhuận cùng giảm, dòng tiền kinh doanh Chứng khoán Vietcap âm hơn 6.185 tỷ đồng"
+    },
+    {
+     "ref": "markettimes:4a78645e30",
+     "title": "Một công ty chứng khoán thua lỗ 17 quý liên tiếp, nâng lỗ lũy kế lên hơn 183 tỷ đồng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:5e64b049f5",
+     "title": "Nhu cầu vốn 38,5 triệu tỷ đồng, áp lực lớn với ngân hàng"
+    },
+    {
+     "ref": "vnbusiness:17aba1bb65",
+     "title": "Hải quan tăng tốc, quyết tâm vượt chỉ tiêu thu ngân sách năm 2026"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:8dfbded062",
+     "title": "Chờ gỡ 'nút thắt' bán điện mặt trời mái nhà"
+    },
+    {
+     "ref": "ti-n-phong:922e3e96f5",
+     "title": "Nền kinh tế Việt Nam đang phụ thuộc nguồn vốn nào?"
+    },
+    {
+     "ref": "ti-n-phong:71474ca03f",
+     "title": "Lãi suất hạ, bất động sản có phá thế 'giằng co' để thanh khoản?"
+    },
+    {
+     "ref": "ti-n-phong:797892ff5c",
+     "title": "VN-Index bứt phá gần 70 điểm, vì sao tài khoản vẫn âm?"
+    },
+    {
+     "ref": "ti-n-phong:c0f8bf7fe5",
+     "title": "Sửa 3 luật về bất động sản: Gỡ vướng mắc thủ tục, tăng minh bạch thị trường"
+    },
+    {
+     "ref": "ti-n-phong:29e7525bac",
+     "title": "Doanh nghiệp Hàn Quốc mong chính sách thuế dễ dự báo hơn"
+    },
+    {
+     "ref": "ti-n-phong:851c894e8a",
+     "title": "DPM: PVFCCo - Phú Mỹ và Topsoe mở rộng hợp tác sau hơn 2 thập kỷ đồng hành"
+    },
+    {
+     "ref": "ti-n-phong:89792ed0e0",
+     "title": "Nhiều thị trường thay đổi quy định nhập khẩu nông sản, thực phẩm"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:64cab18646",
+     "title": "CEO Nvidia hối thúc châu Âu tăng tốc phát triển AI - bnews.vn"
+    },
+    {
+     "ref": "bnews:1bec9556f8",
+     "title": "Ngân hàng trung ương Israel giữ nguyên lãi suất - bnews.vn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:f33a66b025",
+     "title": "HNA: Nghị quyết HĐQT thông qua Kế hoạch chi trả cổ tức năm 2025"
+    },
+    {
+     "ref": "hose:33260c8012",
+     "title": "HCM: Nghị quyết HĐQT phê duyệt kế hoạch lấy ý kiến cổ đông bằng VB năm 2026"
+    },
+    {
+     "ref": "hose:96bbe1b252",
+     "title": "CCC: Nghị quyết HĐQT số 11 ngày 22/10/2026 (kèm Thông báo PHCP để trả cổ tức, Thông báo ngày ĐKCC)"
+    },
+    {
+     "ref": "hose:74bd63b36c",
+     "title": "TLG: Thông báo gửi VSDC về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ bất thường năm 2026"
+    },
+    {
+     "ref": "hose:7569777ef9",
+     "title": "TAL: Thông báo phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong Công ty"
+    },
+    {
+     "ref": "hose:0caaecea4b",
+     "title": "TCB: Nghị quyết HĐQT về phê duyệt tăng vốn góp tại Công ty Cổ phần Bảo hiểm Phi nhân thọ Techcom (TGIns)"
+    },
+    {
+     "ref": "hose:5cad6dfccc",
+     "title": "BAF: Thông báo giao dịch cổ phiếu của người nội bộ Ngô Cao Cường"
+    },
+    {
+     "ref": "hose:e8fadab815",
+     "title": "GHC: Thông báo ngày ĐKCC tạm ứng cổ tức bằng tiền đợt 1 năm 2026"
+    },
+    {
+     "ref": "hose:a516a4ce1f",
+     "title": "MCH: Thông cáo báo chí về KQKD quý 3/2026"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:406401",
+   "title": "Nhật Bản: CPI lõi tháng 9 tăng 2,1% so với cùng kỳ, vượt dự báo và cao hơn mức 1,7% của tháng trước, gây thêm áp lực tăng lãi suất lên BOJ",
+   "original_title": "🔴 CPI lõi tháng 9 của Nhật Bản đạt 2,1% năm trên năm, vượt dự báo 2,10% và tăng từ mức 1,70% tháng trước. #inflation #boj",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406399",
+   "title": "Quỹ vàng SPDR Gold Trust giảm nắm giữ 11,97 tấn trong một ngày, còn 1.045,6 tấn",
+   "original_title": "🔴 SPDR Gold Trust, quỹ ETF vàng lớn nhất toàn cầu, đã giảm vị thế 11,973 tấn so với hôm trước. Lượng vàng hiện tại quỹ nắm giữ là 1.045,644 tấn. #gold #etf",
+   "link": null
+  },
+  {
+   "ref": "reuters:3b11006412",
+   "title": "Đài Loan đóng cửa toàn diện trước bão Champi suy yếu, hàng trăm chuyến bay bị hủy",
+   "translated": true,
+   "original_title": "Taiwan shuts down ahead of weakening Typhoon Champi, hundreds of flights cancelled",
+   "link": "https://www.reuters.com/business/environment/taiwan-shuts-down-ahead-weakening-typhoon-champi-hundreds-flights-cancelled-2026-10-22/"
+  },
+  {
+   "ref": "reuters:96b8fcf970",
+   "title": "SpaceX muốn tiếp cận 80.000 trạm viễn thông tại Mỹ để xây mạng không dây, theo Bloomberg",
+   "translated": true,
+   "original_title": "SpaceX seeks access to 80,000 US cell sites for wireless network, Bloomberg News reports",
+   "link": "https://www.reuters.com/business/media-telecom/spacex-seeks-access-80000-us-cell-sites-wireless-network-bloomberg-news-reports-2026-10-22/"
+  },
+  {
+   "ref": "bloomberg:c722ee5ac1",
+   "title": "Niềm tin tiêu dùng Anh sụt giảm mạnh nhất kể từ cú sốc Brexit, theo GfK",
+   "translated": true,
+   "original_title": "UK Consumer Confidence in Slump as Big as Brexit Shock, GfK Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/uk-consumer-confidence-in-slump-as-big-as-brexit-shock-gfk-says"
+  },
+  {
+   "ref": "bloomberg:3c94a74353",
+   "title": "New Zealand có thể phải tăng lãi suất ngay trước thềm bầu cử, theo các nhà kinh tế",
+   "translated": true,
+   "original_title": "New Zealand Likely Facing Pre-Election Rate Hike, Economists Say",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/new-zealand-likely-facing-pre-election-rate-hike-economists-say"
+  },
+  {
+   "ref": "tg-dubaotiente:108591",
+   "title": "CEO Western Digital: Dữ liệu là cơ hội AI bền vững hơn sức mạnh tính toán, doanh thu tăng 55%",
+   "original_title": "(Tiêu điểm) CEO Western Digital: Dữ liệu là cơ hội AI bền vững hơn sức mạnh tính toán, doanh thu tăng 55% Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ceo-western-digital-du-lieu-la-co-hoi-ai-ben-vung-hon-doanh-thu-tang-55-113499.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108590",
+   "title": "SK Hynix từ bỏ kế hoạch IPO Solidigm tại Mỹ, từng được kỳ vọng định giá tới 150 tỷ USD",
+   "original_title": "(Tiêu điểm) SK hynix từ bỏ kế hoạch IPO Solidigm tại Mỹ, từng được kỳ vọng định giá tới 150 tỷ USD Chi tiết xem tại: https://dubaotiente.net/tieu-diem/sk-hynix-tu-bo-ke-hoach-ipo-solidigm-tai-my-tung-duoc-ky-vong-dinh-gia-150-ty-usd-113498.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108589",
+   "title": "MUFG: ECB giữ nguyên lãi suất trong tháng 10, vẫn dự báo thêm hai lần tăng; EUR/USD cuối năm ở 1,12",
+   "original_title": "(Tiêu điểm) MUFG: ECB giữ lãi suất trong tháng 10, vẫn tăng thêm hai lần; dự báo EUR/USD cuối năm ở 1.12 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/mufg-ecb-giu-lai-suat-thang-10-du-bao-eur-usd-cuoi-nam-1-12-113497.html",
+   "link": null
+  }
+ ],
+ "content_sha": "aeed491ff3fc49614c8ed1c22f2a777e9063fbc05b10b19f6c80c85c750295d2"
+}
