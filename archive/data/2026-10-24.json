@@ -1,0 +1,576 @@
+{
+ "date": "2026-10-24",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "PNJ thủng đáy sau lời xin lỗi của bà Cao Thị Ngọc Dung, cổ phiếu giảm sâu phiên thứ 3 liên tiếp"
+  },
+  {
+   "source": "CafeF",
+   "text": "SeABank (SSB) giảm 15% mục tiêu lợi nhuận năm 2026, bầu Chủ tịch HĐQT mới"
+  },
+  {
+   "source": "Vietstock",
+   "text": "UBCKNN liên tiếp xử phạt AAS, DAG, TST và một doanh nghiệp điện gió"
+  },
+  {
+   "source": "Bloomberg Businessweek VN",
+   "text": "Pháp tạm thoát hạ xếp hạng tín dụng của Moody's sau một tuần khủng hoảng chính trị"
+  },
+  {
+   "source": "Reuters",
+   "text": "Nga, Ukraine đạt thỏa thuận ngừng bắn tại một thị trấn giao tranh, sẽ đàm phán hòa bình vào tháng tới"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:4e4e4906b5",
+     "title": "Ông Lê Hoàng Khánh Nhựt bị khởi tố, doanh nghiệp công bố tài liệu quan trọng"
+    },
+    {
+     "ref": "cafef:2ca8e0690b",
+     "title": "NVL: Bắt tạm giam Đỗ Minh Quang vì tung tin sai sự thật về Novaland"
+    },
+    {
+     "ref": "cafef:4c98a4f8e7",
+     "title": "Vụ Petimex bị đề nghị khởi tố: Hé lộ 'sức khỏe' doanh nghiệp hiện nay"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:e9076fb891",
+     "title": "UBCKNN liên tiếp xử phạt AAS, DAG, TST và một doanh nghiệp điện gió"
+    },
+    {
+     "ref": "vietstock:af59cd7a86",
+     "title": "Thanh tra Chính phủ đề nghị điều tra vụ Petimex bán 185 triệu lít xăng dầu không hóa đơn"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0656d70e05",
+     "title": "Khởi tố Bí thư, Chủ tịch xã ở Phú Thọ để doanh nghiệp khai thác đất trái phép"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5e8754029b",
+     "title": "TP.HCM: Đấu giá bất thành 4 bất động sản hàng trăm tỷ đồng của bà Trương Mỹ Lan"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:80a9d1477f",
+     "title": "40.000 người Việt sập bẫy 'giấc mơ kiếm tiền' bằng AI trên Tatao Live"
+    },
+    {
+     "ref": "vnexpress:852c8f40a1",
+     "title": "Chủ cửa hàng có 2.100 đồng hồ giả Rolex, Omega, Hublot bị khởi tố"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:8fbb80289e",
+     "title": "Nhiều doanh nghiệp bị xử phạt vi phạm trong lĩnh vực chứng khoán"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+13,52 (+0,77%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.774,15"
+   },
+   {
+    "change": "+1,62 (+0,62%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "262,70"
+   },
+   {
+    "change": "640 triệu CP khớp lệnh",
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~14.100 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 478 tỷ đồng"
+   },
+   {
+    "change": "-300 nghìn đồng/lượng",
+    "direction": "down",
+    "label": "Vàng SJC",
+    "value": "139,0 – 142,0 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.020 đồng"
+   }
+  ],
+  "summary": "Các chỉ số chứng khoán Mỹ đồng loạt giảm trong phiên cuối tuần, S&P 500 giảm 0,52%, Dow Jones giảm 1,23%, Nasdaq giảm 0,21%, khi cổ phiếu ngành bán dẫn có tuần giảm dài nhất kể từ tháng 11. Giá dầu WTI tăng mạnh 3,99% lên 103,4 USD/thùng trong khi dầu Brent giảm 1,33% xuống 111,7 USD/thùng; vàng thế giới giảm 1,24% về 4.010 USD/ounce. Tại thị trường trong nước, VN-Index đóng cửa phiên 23/10 tăng 13,52 điểm (+0,77%) lên 1.774,15 điểm, HNX-Index tăng 0,62% lên 262,7 điểm, thanh khoản HOSE đạt hơn 14,1 nghìn tỷ đồng trong khi khối ngoại quay lại bán ròng hơn 478 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.52,
+    "label": "S&P 500",
+    "value": "7.623,7"
+   },
+   {
+    "change_pct": -1.23,
+    "label": "Dow Jones",
+    "value": "52.215,2"
+   },
+   {
+    "change_pct": -0.21,
+    "label": "Nasdaq",
+    "value": "25.955,3"
+   },
+   {
+    "change_pct": 3.99,
+    "label": "Dầu WTI",
+    "value": "103,4 USD"
+   },
+   {
+    "change_pct": -1.33,
+    "label": "Dầu Brent",
+    "value": "111,7 USD"
+   },
+   {
+    "change_pct": -1.24,
+    "label": "Vàng thế giới",
+    "value": "4.010 USD"
+   },
+   {
+    "change_pct": -0.59,
+    "label": "Bitcoin",
+    "value": "80.829 USD"
+   },
+   {
+    "change_pct": 0.14,
+    "label": "DXY",
+    "value": "101,75"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:8a1472e884",
+     "title": "Bộ Công an khuyến cáo doanh nghiệp có thể gặp rắc rối pháp lý khi sử dụng AI"
+    },
+    {
+     "ref": "cafef:6f5c2f2a43",
+     "title": "Cập nhật BCTC quý 2/2026 ngày 24/10: Một ngân hàng lãi giảm 79%, thêm nhiều doanh nghiệp báo lỗ"
+    },
+    {
+     "ref": "cafef:5d47b4f639",
+     "title": "Carlsberg dự kiến đầu tư thêm 65 triệu USD vào nhà máy bia Phú Bài tại Huế"
+    },
+    {
+     "ref": "cafef:b38e99ec39",
+     "title": "SSB: SeABank điều chỉnh giảm kế hoạch kinh doanh 2026 và bầu Chủ tịch HĐQT mới"
+    },
+    {
+     "ref": "cafef:1af90c2b7a",
+     "title": "Bộ Công an chuyển giao quyền đại diện vốn nhà nước tại FPT Telecom cho GTINX"
+    },
+    {
+     "ref": "cafef:d52579ee34",
+     "title": "SCEX hoàn tất thẩm định An toàn hệ thống thông tin cấp độ 4"
+    },
+    {
+     "ref": "cafef:7771b33308",
+     "title": "TCEX tiến thêm một bước trong lộ trình cấp phép sàn tài sản mã hóa"
+    },
+    {
+     "ref": "cafef:d0fc47de42",
+     "title": "Cập nhật BCTC quý 3/2026 chiều ngày 23/10: Viglacera, Vimid báo lãi tăng bằng lần"
+    },
+    {
+     "ref": "cafef:103f3791d0",
+     "title": "Đằng sau lợi nhuận quý III/2026 của ACBS: Dư địa tăng trưởng từ margin và nền tảng tài chính vững chắc"
+    },
+    {
+     "ref": "cafef:c172c4f943",
+     "title": "PNJ thủng đáy sau lời xin lỗi của bà Cao Thị Ngọc Dung"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:3ec436757e",
+     "title": "Thủ tướng: Đấu thầu hay không, quan trọng là hiệu quả cuối cùng"
+    },
+    {
+     "ref": "vietstock:a868dfc640",
+     "title": "NVB: NCB tham gia thu xếp vốn cho hai dự án lớn tại TPHCM"
+    },
+    {
+     "ref": "vietstock:10c35b8648",
+     "title": "CEO GreenNode: Doanh nghiệp, ngân hàng Việt không nên “đốt tiền” làm mô hình AI nền tảng"
+    },
+    {
+     "ref": "vietstock:516b5a2c83",
+     "title": "KDH: TPHCM chuyển KCN Lê Minh Xuân mở rộng gần 110ha của nhóm Khang Điền sang làm nhà ở xã hội"
+    },
+    {
+     "ref": "vietstock:1cf4cfed48",
+     "title": "HD Capital trở thành cổ đông lớn Chứng khoán SmartInvest"
+    },
+    {
+     "ref": "vietstock:556675bb32",
+     "title": "Trái chiều lợi nhuận ngành bột giặt: Lixco hưởng cổ tức lớn từ khu đất vàng, Netco đối mặt sức ép giá nguyên liệu"
+    },
+    {
+     "ref": "vietstock:ca4df11a4d",
+     "title": "Bcons đề xuất loạt dự án tại TPHCM, từ Cung Thiếu nhi, bãi xe ngầm Lê Văn Tám đến tuyến đường sắt đô thị"
+    },
+    {
+     "ref": "vietstock:86b05aa3bd",
+     "title": "DRH: Vẫn không thể tổ chức ĐHĐCĐ thường niên 2026 lần 2"
+    },
+    {
+     "ref": "vietstock:7faf5acf1e",
+     "title": "NTP: Nhựa Tiền Phong lãi kỷ lục, có gần 4 ngàn tỷ gửi ngân hàng"
+    },
+    {
+     "ref": "vietstock:c40969420a",
+     "title": "PDR: Phát Đạt đề xuất dự án BT trục đường Trường Chinh – Cộng Hòa, xin thanh toán bằng đất ở Vũng Tàu"
+    },
+    {
+     "ref": "vietstock:5bcc9c3644",
+     "title": "AIC: Chi phí tăng vọt, Bảo hiểm DBV vẫn thoát lỗ quý 3"
+    },
+    {
+     "ref": "vietstock:77f13f3fb4",
+     "title": "Mirae tăng lỗ quý 3, lãi 9 tháng lao dốc"
+    },
+    {
+     "ref": "vietstock:6e64e757dd",
+     "title": "PNJ: Thực trạng kinh doanh mới"
+    },
+    {
+     "ref": "vietstock:19b965dcad",
+     "title": "DPM: Duy trì đà tăng trưởng, nhiều sản phẩm vượt kế hoạch kinh doanh 9 tháng đầu năm"
+    },
+    {
+     "ref": "vietstock:f64cb53eb0",
+     "title": "Tập đoàn TH xin chủ trương đầu tư tổ hợp nông nghiệp hơn 1.6 ngàn ha tại TPHCM"
+    },
+    {
+     "ref": "vietstock:94efe4f75c",
+     "title": "TCBS hướng đến các cấu trúc sản phẩm huy động vốn mới"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:5132012066",
+     "title": "MBB: KBSV và Ngân hàng MB ký kết mở rộng cơ hội hợp tác trên nền tảng số"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:164af6c086",
+     "title": "Top 10 cổ phiếu tăng/giảm mạnh nhất tuần: Dòng tiền cải thiện, một số mã có mức tăng tốt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e0aeaeb7d1",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 24/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d6fe118fd6",
+     "title": "Đề xuất doanh nghiệp nhà nước được giảm trừ doanh thu, lợi nhuận khi bị trưng mua, trưng dụng tài sản"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:23f2472383",
+     "title": "Các quỹ ETF Bitcoin giao ngay ghi nhận phiên rút ròng lớn nhất trong vòng 4 tháng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8dc6d86a69",
+     "title": "BCE: Lãi 9 tháng tăng mạnh nhưng mới hoàn thành 12,3% kế hoạch năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2f22302882",
+     "title": "SLS: Báo lãi giảm hơn 72% trong quý I niên độ 2026-2027, chốt quyền chia cổ tức 100% bằng tiền mặt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:64a6bc7d54",
+     "title": "FPT: Mở rộng nền tảng công nghệ dài hạn tại Đan Mạch"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:96e35cae0e",
+     "title": "Bảo hiểm sức khỏe trong vòng xoáy siết chi phí"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7028bf0e72",
+     "title": "NAF: Chào bán riêng lẻ 15 triệu cổ phiếu, Chứng khoán Tiên Phong đăng ký mua hơn 10% vốn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6295411dd1",
+     "title": "HAG: Thành lập Ủy ban Phát triển Bền vững"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:221298f4cf",
+     "title": "Lạm phát cơ bản vượt mục tiêu, củng cố khả năng BOJ tăng lãi suất"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d154e11fc1",
+     "title": "HBC: Biến động nhân sự cấp cao"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e26462b5af",
+     "title": "DVV: Được chấp thuận niêm yết cổ phiếu (Kỳ 2)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bd3a1cde96",
+     "title": "Hoàn thiện chính sách tiếp cận thị trường đối với nhà đầu tư nước ngoài"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9c3b34b1be",
+     "title": "Đề xuất đánh thuế 0,2% đất bỏ hoang, đất không/chậm đưa vào sử dụng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:5ebfcb799b",
+     "title": "Thủ tướng đề nghị Liên hợp quốc hỗ trợ Việt Nam làm chủ công nghệ chiến lược"
+    },
+    {
+     "ref": "b-o-u-t:634e204b96",
+     "title": "Việt Nam và EU thúc đẩy hợp tác chiến lược toàn diện"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:1afe5c15f4",
+     "title": "STB: Giảm 0,5%/năm lãi suất huy động, hưởng ứng chủ trương của Chính phủ"
+    },
+    {
+     "ref": "markettimes:2aaa2ea942",
+     "title": "Lãi suất gây sức ép, nhà đầu tư bất động sản Đà Nẵng chấp nhận giảm giá để thoát hàng"
+    },
+    {
+     "ref": "markettimes:fa72c87e8b",
+     "title": "Cơ quan Thuế yêu cầu Agribank, BIDV, VietinBank, VPBank... phong toả, trích tiền từ tài khoản của tất cả cá nhân có tên trong danh sách sau"
+    },
+    {
+     "ref": "markettimes:fa7d0fd313",
+     "title": "Lộ diện công ty chứng khoán lỗ đậm nhất ngành quý 3/2026"
+    },
+    {
+     "ref": "markettimes:2ec05c6dd2",
+     "title": "Số liệu lãi suất tháng 9/2026: Lãi suất cho vay bình quân tăng từ 8,4 lên 10,9%/năm"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:21c54ff046",
+     "title": "CST: Lãi chưa đầy 16 tỷ đồng, xuất hiện khoản dự phòng hơn 333 tỷ đồng"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:3c2b4df96f",
+     "title": "Doanh nghiệp tăng tốc, xuất nhập khẩu tiến sát nghìn tỷ USD"
+    },
+    {
+     "ref": "ti-n-phong:8edbe548de",
+     "title": "Vinachem hợp tác với tập đoàn Pháp, nghiên cứu nâng cấp nhà máy phân đạm"
+    },
+    {
+     "ref": "ti-n-phong:9d98cb035d",
+     "title": "Lãi suất hạ nhiệt, công ty chứng khoán cho vay margin thế nào?"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:64eac18909",
+     "title": "Gỡ 'nút thắt' định giá và tài chính đất đai: Tìm tiếng nói chung giữa nhà nước, doanh nghiệp và người dân"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:91d845cd24",
+   "title": "CEO Amazon: Năng lực điện toán đám mây đã bán hết công suất đến năm 2027",
+   "translated": true,
+   "original_title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+   "link": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/"
+  },
+  {
+   "ref": "reuters:0b1ff4027c",
+   "title": "Chính phủ Anh công bố gói 800 triệu USD cho an ninh AI",
+   "translated": true,
+   "original_title": "UK government sets out $800 million of AI security funding",
+   "link": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/"
+  },
+  {
+   "ref": "reuters:61eae90eb4",
+   "title": "Tòa án phê duyệt khoản dàn xếp 535 triệu USD giữa nhà cung cấp bột talc đã phá sản và công ty con của Berkshire",
+   "translated": true,
+   "original_title": "Judge approves defunct talc supplier's $535 million settlement with Berkshire affiliate",
+   "link": "https://www.reuters.com/legal/litigation/judge-approves-defunct-talc-suppliers-535-million-settlement-with-berkshire-2026-10-23/"
+  },
+  {
+   "ref": "reuters:5b8b3c727f",
+   "title": "Lãnh đạo Triều Tiên Kim Jong Un kêu gọi 'cách mạng quân sự', thúc đẩy tăng cường quân đội",
+   "translated": true,
+   "original_title": "North Korea's Kim calls for 'military revolution' as he urges stronger army units",
+   "link": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-calls-military-revolution-he-urges-stronger-army-units-2026-10-23/"
+  },
+  {
+   "ref": "reuters:89bbac6c4d",
+   "title": "Lầu Năm Góc xếp các Viện Khổng Tử tại Mỹ vào danh sách đe dọa an ninh quốc gia",
+   "translated": true,
+   "original_title": "Pentagon designates Confucius Institutes in US a national security threat",
+   "link": "https://www.reuters.com/world/china/pentagon-designates-confucius-institutes-national-security-threat-2026-10-23/"
+  },
+  {
+   "ref": "reuters:e568b175bd",
+   "title": "Nga, Ukraine đạt thỏa thuận ngừng bắn tại một thị trấn giao tranh, sẽ đàm phán hòa bình vào tháng tới",
+   "translated": true,
+   "original_title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+   "link": "https://www.reuters.com/world/europe/russia-ukraine-agree-ceasefire-embattled-town-hold-peace-talks-next-month-2026-10-23/"
+  },
+  {
+   "ref": "bloomberg:8ac4b5157c",
+   "title": "Cổ phiếu ngành bán dẫn ghi nhận tuần giảm dài nhất kể từ tháng 11",
+   "translated": true,
+   "original_title": "Chipmakers Post Longest Weekly Drop Since November",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/chipmakers-post-longest-weekly-drop-since-november-video"
+  },
+  {
+   "ref": "bloomberg:c750874909",
+   "title": "S&P: Trung tâm dữ liệu đối mặt rủi ro bị hạ tín nhiệm giữa làn sóng phản đối của địa phương",
+   "translated": true,
+   "original_title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says"
+  },
+  {
+   "ref": "bloomberg:c0429058b0",
+   "title": "Quan tài và xuồng nhập từ Canada chịu thuế 50% theo sắc lệnh mới của Trump",
+   "translated": true,
+   "original_title": "Coffins and Canoes From Canada Get 50% Tariff Under New Trump Order",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/coffins-and-canoes-from-canada-get-50-tariff-under-new-trump-order"
+  },
+  {
+   "ref": "bloomberg:7da32245dd",
+   "title": "Các quỹ đầu cơ bán khống khí tự nhiên ở mức kỷ lục do dự báo mùa đông ấm",
+   "translated": true,
+   "original_title": "Hedge Funds Are Record Short Natural Gas on Mild Winter Outlook",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-are-record-short-natural-gas-on-mild-winter-outlook"
+  },
+  {
+   "ref": "bloomberg:1d17bd96ea",
+   "title": "Chi phí bảo hiểm y tế hàng năm cho một gia đình Mỹ vượt 28.000 USD",
+   "translated": true,
+   "original_title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:5b42274fcc",
+   "title": "Pháp có thể giải quyết bài toán nợ công?",
+   "translated": false,
+   "original_title": "Pháp có thể giải quyết bài toán nợ công?",
+   "link": "https://bbw.vn/phap-co-the-giai-quyet-bai-toan-no-cong-61119.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:fed881365e",
+   "title": "Tesla và Xpeng mở rộng cuộc đua từ xe điện sang AI",
+   "translated": false,
+   "original_title": "Tesla và Xpeng mở rộng cuộc đua từ xe điện sang AI",
+   "link": "https://bbw.vn/tesla-va-xpeng-mo-rong-cuoc-dua-tu-xe-dien-sang-ai-61118.html"
+  },
+  {
+   "ref": "tg-vnwallstreet:406721",
+   "title": "Barclays: Thị trường lo ngại về an ninh cung ứng dầu, rủi ro giá dầu ngắn hạn nghiêng về phía tăng",
+   "translated": false,
+   "original_title": "▫️ Barclays nhận định rằng tâm lý thị trường đang gia tăng lo ngại về bảo đảm cung ứng, trong khi rủi ro giá dầu ngắn hạn vẫn rõ rệt nghiêng về phía tăng. #oil #market -sentiment",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406719",
+   "title": "Thủ tướng Israel Netanyahu: Đã ra lệnh chuẩn bị ứng phó khả năng bị trừng phạt kinh tế, tài chính quốc tế",
+   "translated": false,
+   "original_title": "▫️ Phát biểu của Thủ tướng Israel về ứng phó với các lệnh trừng phạt quốc tế gây lo ngại trong nước Thủ tướng Israel Netanyahu ngày 23 tháng này tuyên bố rằng ông đã ra lệnh chuẩn bị cho các khả năng trừng phạt kinh tế và tài chính quốc tế có thể diễn ra. Tuy nhiên, dư luận trong nước Israel cho rằng các đề xuất liên quan không thể giải quyết được những vấn đề như cô lập kinh tế của đất nước dưới ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406718",
+   "title": "Mỹ: Xuất khẩu dầu Vùng Vịnh đã vượt mức trước xung đột, Iran không cản được dòng chảy năng lượng",
+   "translated": false,
+   "original_title": "▫️ Bộ Tài chính Mỹ Becerra tuyên bố xuất khẩu dầu ở Vùng Vịnh đã phục hồi mạnh và vượt quá mức trước khi xảy ra xung đột, bất chấp những nỗ lực của Iran nhằm gây rối loạn vận tải năng lượng. Ông nhấn mạnh rằng các đe dọa từ Iran không thể ngăn chặn lưu lượng năng lượng đến thị trường toàn cầu. #oil #hormuz",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406717",
+   "title": "Ngoại trưởng Thổ Nhĩ Kỳ, Ai Cập, Pakistan, Ả Rập Xê Út: Hành vi chiếm đóng của Israel là nguồn gốc bất ổn khu vực",
+   "translated": false,
+   "original_title": "▫️ Bốn nước Thổ Nhĩ Kỳ, Ai Cập, Pakistan và Ả Rập Xê Út: Hành vi chiếm đóng của Israel là nguồn gốc bất ổn khu vực Tối ngày 23 tháng 10, ngoại trưởng của Thổ Nhĩ Kỳ, Ai Cập, Pakistan và Ả Rập Xê Út họp tại Istanbul và phát hành tuyên bố chung. Các nước nhấn mạnh rằng hành vi chiếm đóng của Israel là nguyên nhân cơ bản gây ra bất ổn trong khu vực, kêu gọi triển khai phương án hai quốc gia dựa trên ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406716",
+   "title": "Fitch: Ukraine sẽ tiếp tục thâm hụt ngân sách quy mô lớn do nguồn thu nội địa yếu",
+   "translated": false,
+   "original_title": "▫️ Fitch cho rằng Ukraine sẽ tiếp tục ghi nhận thâm hụt ngân sách quy mô lớn do khả năng thu nhập tài chính nội địa yếu kém. #ukraine #fiscal",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063410",
+   "title": "Argentina hủy điều tra hình sự Tổng thống Milei trong vụ bê bối tiền ảo Libra",
+   "translated": true,
+   "original_title": "JUST IN: 🇦🇷 ARGENTINA DROPS CRIMINAL INVESTIGATION INTO PRESIDENT JAVIER MILEI OVER $LIBRA CRYPTO MEMECOIN SCANDAL. ...",
+   "link": null
+  }
+ ],
+ "content_sha": "5fe5cd590cb9d0c0fb0167d84d658c2b40fcc7e189e5c964d9cfb50dc90cc9fd"
+}
