@@ -1,0 +1,164 @@
+{
+ "date": "2026-10-25",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "VN Wall Street",
+   "text": "Trump cảnh báo có thể tấn công Iran hoặc đạt thỏa thuận lớn, khiến rủi ro địa chính trị Trung Đông tăng cao."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Fed được dự báo dẫn đầu nhóm G7 giữ lãi suất ở mức cao trong tuần kinh tế quan trọng sắp tới."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Saudi Arabia cho biết sân bay quốc tế Riyadh có thể mở lại vào Chủ Nhật sau loạt cảnh báo tấn công từ Houthi."
+  },
+  {
+   "source": "Reuters",
+   "text": "Đình công bắt đầu tại mỏ đồng Highland Valley của Teck ở Canada, tác động tới nguồn cung đồng toàn cầu."
+  },
+  {
+   "source": "Bloomberg Businessweek VN",
+   "text": "Tesla và Xpeng mở rộng cuộc đua từ xe điện sang AI, cho thấy cạnh tranh công nghệ ngày càng khốc liệt."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": null,
+    "direction": null,
+    "label": "VN-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Khối ngoại (HOSE)",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.020"
+   }
+  ],
+  "summary": "Ấn bản Chủ Nhật rút gọn chỉ tổng hợp tin thế giới. Đêm qua chứng khoán Mỹ điều chỉnh giảm (S&P 500 -0,52%, Dow Jones -1,23%, Nasdaq -0,21%) trong khi dầu WTI tăng 3,82% do lo ngại căng thẳng Iran leo thang. Vàng thế giới và Bitcoin đều giảm nhẹ. Số liệu thị trường trong nước (VN-Index, thanh khoản, khối ngoại, vàng SJC) không áp dụng cho ấn bản Chủ Nhật.",
+  "tiles": [
+   {
+    "change_pct": -0.52,
+    "label": "S&P 500",
+    "value": "7.623,7"
+   },
+   {
+    "change_pct": -1.23,
+    "label": "Dow Jones",
+    "value": "52.215,2"
+   },
+   {
+    "change_pct": -0.21,
+    "label": "Nasdaq",
+    "value": "25.955,3"
+   },
+   {
+    "change_pct": 3.82,
+    "label": "Dầu WTI",
+    "value": "103,3 USD"
+   },
+   {
+    "change_pct": -1.3,
+    "label": "Dầu Brent",
+    "value": "111,7 USD"
+   },
+   {
+    "change_pct": -1.29,
+    "label": "Vàng thế giới",
+    "value": "4.008 USD"
+   },
+   {
+    "change_pct": -0.58,
+    "label": "Bitcoin",
+    "value": "80.604 USD"
+   },
+   {
+    "change_pct": 0.14,
+    "label": "DXY",
+    "value": "101,75"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:406769",
+   "title": "Trump: Có thể tấn công Iran hoặc đạt thỏa thuận lớn, tuyên bố Mỹ sẽ thắng dù theo cách nào",
+   "translated": false,
+   "original_title": "🔴 Trump: Có thể tấn công lại Iran hoặc đạt được thỏa thuận Tổng thống Mỹ Trump phát biểu: \"Tôi có thể phải giải quyết triệt để vấn đề Iran, hoặc có thể đạt được thỏa thuận với Iran. Dù là cách nào, chúng tôi cũng sẽ thắng. Tôi có thể tấn công Iran, cũng có thể ký một thỏa thuận lớn và có lợi với Iran. Phía Iran muốn đạt được thỏa thuận.\" #iran #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406770",
+   "title": "Obama: Iran đang nắm quyền phủ quyết eo biển Hormuz, đẩy giá dầu và hàng hoá tăng",
+   "translated": false,
+   "original_title": "▫️ Obama: Iran nắm quyền phủ quyết việc thông hành eo biển Hormuz Cựu Tổng thống Mỹ Obama tuyên bố: \"Iran hiện nay thực tế đã nắm quyền phủ quyết việc thông hành eo biển Hormuz, trong khi vận tải dầu của thị trường toàn cầu phải đi qua eo biển này. Đó là lý do giá dầu tăng, không ai phản đối điều này. Đó cũng là lý do giá dầu diesel tăng. Và đó là lý do giá hầu hết các mặt hàng tăng.\" #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:44b6612c90",
+   "title": "Saudi Arabia: Sân bay quốc tế Riyadh có thể mở lại vào Chủ Nhật sau loạt cảnh báo tấn công của Houthi",
+   "translated": true,
+   "original_title": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday"
+  },
+  {
+   "ref": "reuters:bf05dc11cd",
+   "title": "Đình công bắt đầu tại mỏ đồng Highland Valley của Teck ở British Columbia, Canada",
+   "translated": true,
+   "original_title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
+   "link": "https://www.reuters.com/business/world-at-work/teck-says-strike-begins-highland-valley-copper-mine-british-columbia-2026-10-24/"
+  },
+  {
+   "ref": "bloomberg:e3c9e38b78",
+   "title": "Fed được dự báo dẫn đầu nhóm G7 giữ lãi suất ở mức cao trong tuần kinh tế quan trọng",
+   "translated": true,
+   "original_title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/fed-set-to-lead-g7-trio-in-hawkish-rate-pause-eco-week-ahead"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:5b42274fcc",
+   "title": "Pháp có thể giải quyết bài toán nợ công?",
+   "translated": false,
+   "original_title": "Pháp có thể giải quyết bài toán nợ công?",
+   "link": "https://bbw.vn/phap-co-the-giai-quyet-bai-toan-no-cong-61119.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:fed881365e",
+   "title": "Tesla và Xpeng mở rộng cuộc đua từ xe điện sang AI",
+   "translated": false,
+   "original_title": "Tesla và Xpeng mở rộng cuộc đua từ xe điện sang AI",
+   "link": "https://bbw.vn/tesla-va-xpeng-mo-rong-cuoc-dua-tu-xe-dien-sang-ai-61118.html"
+  }
+ ],
+ "content_sha": "c73c3538f781d1d329f7c74232bf39e4b59339327fc3d76f8a040d0362efc444"
+}
