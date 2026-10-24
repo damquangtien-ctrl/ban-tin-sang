@@ -1,0 +1,26 @@
+
+########## CHAY LUC 2026-10-25 06:37:21 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-25, ban sunday)
+   the gioi 7 tin · Viet Nam 0 tin / 0 bao · phap ly 0 tin · chot quyen 0 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-25 · the gioi 7 · Viet Nam 0 · phap ly 0
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-25.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-10-25: commit 9dc1801cd0a0 · sha noi dung 8d982fce55ebecc7
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 25/10 | content_sha c73c3538f781 | commit 9dc1801cd0a0
+   telegram user/928f6fc4179d OK message_id=296
+   zalo     user/593dd2adbb87 THAT BAI: <urlopen error [Errno 104] Connection reset by peer>
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-25.json
+KET QUA: co dich that bai -> exit 50
+KET THUC luc 2026-10-25 06:38:03 - trang DA xuat ban nhung giao tin nhan chua tron ven (exit 50)
+
+=== 5/5 GHI BIEN NHAN ===

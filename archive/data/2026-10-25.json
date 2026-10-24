@@ -160,5 +160,46 @@
    "link": "https://bbw.vn/tesla-va-xpeng-mo-rong-cuoc-dua-tu-xe-dien-sang-ai-61118.html"
   }
  ],
- "content_sha": "c73c3538f781d1d329f7c74232bf39e4b59339327fc3d76f8a040d0362efc444"
+ "content_sha": "c73c3538f781d1d329f7c74232bf39e4b59339327fc3d76f8a040d0362efc444",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "9dc1801cd0a0e33472d326f700d63cfa0c1dec05",
+   "published_at": "2026-10-25T06:37:54+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "296",
+   "sent_at": "2026-10-25T06:37:56+07:00",
+   "content_sha": "c73c3538f781d1d329f7c74232bf39e4b59339327fc3d76f8a040d0362efc444",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "296",
+     "sent_at": "2026-10-25T06:37:56+07:00",
+     "content_sha": "c73c3538f781d1d329f7c74232bf39e4b59339327fc3d76f8a040d0362efc444"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": false,
+   "message_id": null,
+   "sent_at": null,
+   "content_sha": "c73c3538f781d1d329f7c74232bf39e4b59339327fc3d76f8a040d0362efc444",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": false,
+     "message_id": null,
+     "sent_at": null,
+     "content_sha": "c73c3538f781d1d329f7c74232bf39e4b59339327fc3d76f8a040d0362efc444",
+     "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    }
+   ],
+   "error": "1/1 dich that bai"
+  }
+ }
 }
