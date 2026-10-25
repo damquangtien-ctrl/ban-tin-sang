@@ -1,0 +1,533 @@
+{
+ "date": "2026-10-26",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Vietstock",
+   "text": "VN-Index phiên 23/10 tăng 13,52 điểm (+0,77%) lên 1.774,15 điểm, khối ngoại bán ròng khoảng 478 tỷ đồng"
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "CME FedWatch: Xác suất Fed giữ nguyên lãi suất tuần này lên tới 90%"
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Giá dầu giảm, căng thẳng Iran-Mỹ hạ nhiệt khi Qatar làm trung gian hòa giải"
+  },
+  {
+   "source": "CafeF",
+   "text": "SSI dự báo kịch bản 10 tỷ USD vốn ngoại chảy vào chứng khoán Việt Nam"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Đã có 465 doanh nghiệp công bố lợi nhuận quý 3/2026, tăng trưởng 32,7%, dầu khí dẫn đầu"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:0f460c0482",
+     "title": "CMS: Xử phạt Phó Tổng giám đốc và Kế toán trưởng CMH Group do vi phạm trong giao dịch cổ phiếu"
+    },
+    {
+     "ref": "cafef:479358f81c",
+     "title": "Thanh tra hoạt động liên doanh, góp vốn, thoái vốn tại Handico"
+    },
+    {
+     "ref": "cafef:42804f59c5",
+     "title": "NVL: Khởi tố người đăng tin Novaland đứng trước nguy cơ phá sản, mất khả năng trả nợ"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:49807cb62d",
+     "title": "DPM: Công bố quyết định thanh tra tại PVFCCo"
+    },
+    {
+     "ref": "google-news-ph-p-l:6092d19b70",
+     "title": "Doanh nghiệp bất động sản 'họ' APEC của ông Nguyễn Đỗ Lăng tiếp tục bị xử phạt"
+    },
+    {
+     "ref": "google-news-ph-p-l:8e0793b9de",
+     "title": "Bộ Công an khởi tố lãnh đạo cấp cao, doanh nghiệp quy mô 3.600 tỷ đồng lập tức triệu tập họp cổ đông"
+    },
+    {
+     "ref": "google-news-ph-p-l:a1443b3ffc",
+     "title": "Thanh tra chỉ ra những tồn tại trong kinh doanh xăng dầu tại Petimex"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+13,52 (+0,77%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.774,15"
+   },
+   {
+    "change": "+1,62 (+0,62%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "262,70"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~14.100 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~478 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.020"
+   }
+  ],
+  "summary": "Đêm qua, chứng khoán Mỹ giảm nhẹ (S&P 500 -0,52%, Dow Jones -1,23%, Nasdaq -0,21%) trong khi giá dầu đi xuống (Brent -5,04%, WTI -0,89%) nhờ kỳ vọng hạ nhiệt căng thẳng Iran qua trung gian Qatar; vàng thế giới gần như đi ngang (+0,04%) quanh 4.010 USD/ounce, DXY và Bitcoin giảm nhẹ. Phiên giao dịch gần nhất trong nước (23/10) VN-Index tăng 13,52 điểm (+0,77%) lên 1.774,15 điểm, HNX-Index tăng 1,62 điểm lên 262,70 điểm; thanh khoản HOSE đạt khoảng 14.100 tỷ đồng, khối ngoại bán ròng khoảng 478 tỷ đồng, tập trung tại ACB, FPT, PNJ, STB.",
+  "tiles": [
+   {
+    "change_pct": -0.52,
+    "label": "S&P 500",
+    "value": "7.623,7"
+   },
+   {
+    "change_pct": -1.23,
+    "label": "Dow Jones",
+    "value": "52.215,2"
+   },
+   {
+    "change_pct": -0.21,
+    "label": "Nasdaq",
+    "value": "25.955,3"
+   },
+   {
+    "change_pct": -0.89,
+    "label": "Dầu WTI",
+    "value": "102,3 USD"
+   },
+   {
+    "change_pct": -5.04,
+    "label": "Dầu Brent",
+    "value": "110,8 USD"
+   },
+   {
+    "change_pct": 0.04,
+    "label": "Vàng thế giới",
+    "value": "4.010 USD"
+   },
+   {
+    "change_pct": -0.98,
+    "label": "Bitcoin",
+    "value": "79.998 USD"
+   },
+   {
+    "change_pct": -0.03,
+    "label": "DXY",
+    "value": "101,78"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:10ff2cf46b",
+     "title": "Chuyên gia chỉ ra loạt nhóm ngành có thể hút dòng tiền trong quý 4"
+    },
+    {
+     "ref": "cafef:2d265d8082",
+     "title": "Giám đốc Phân tích SSI dự báo kịch bản 10 tỷ USD chảy vào chứng khoán Việt Nam"
+    },
+    {
+     "ref": "cafef:fbb7f5d29f",
+     "title": "Cập nhật BCTC quý 3/2026 sáng ngày 26/10: Hai ngân hàng lãi hơn 10.000 tỷ, một doanh nghiệp tăng hơn 300 lần, loạt doanh nghiệp bất ngờ thua lỗ"
+    },
+    {
+     "ref": "cafef:ce003a06ce",
+     "title": "Xuất hiện Tập đoàn châu Âu muốn rót 100 triệu USD xây nhà máy sản xuất linh kiện máy bay tại Đà Nẵng"
+    },
+    {
+     "ref": "cafef:cac07232d7",
+     "title": "Về Bộ Công an, FPT Telecom có 2 quý liên tiếp báo lãi trên 1.000 tỷ đồng và hơn 16.000 tỷ tiền mặt"
+    },
+    {
+     "ref": "cafef:98f2167e7e",
+     "title": "Tỷ lệ margin trên quy mô vốn hóa thị trường chứng khoán lập kỷ lục mới, điều gì đang diễn ra?"
+    },
+    {
+     "ref": "cafef:1d13b49a6c",
+     "title": "30 năm chứng khoán Việt Nam: Từ 2 cổ phiếu đến 10 triệu tỷ vốn hóa, một chương mới đang mở ra"
+    },
+    {
+     "ref": "cafef:343aee8fd4",
+     "title": "2 cổ phiếu nhà Masan và Vinamilk chiếm gần 74% vốn hóa toàn ngành thực phẩm"
+    },
+    {
+     "ref": "cafef:ed37c75968",
+     "title": "Công ty của tỷ phú Phạm Nhật Vượng đầu tư dự án logistics gần 40.000 tỷ đồng ở Hà Tĩnh"
+    },
+    {
+     "ref": "cafef:77707d2253",
+     "title": "Góc nhìn chuyên gia: VN-Index đã tạo đáy ngắn hạn nhưng cần lưu ý rủi ro này"
+    },
+    {
+     "ref": "cafef:16fc439fa6",
+     "title": "KOS: Chủ tịch Kosy Group và doanh nghiệp liên quan bị bán giải chấp cổ phiếu"
+    },
+    {
+     "ref": "cafef:3b1868fd49",
+     "title": "DGC: Công ty con Hóa chất Đức Giang báo lãi quý 3/2026 giảm 46% so với cùng kỳ"
+    },
+    {
+     "ref": "cafef:4a1e58a1cd",
+     "title": "HNA: Thủy điện Hủa Na sắp chi hơn 370 tỷ đồng trả cổ tức"
+    },
+    {
+     "ref": "cafef:07ec631740",
+     "title": "SLS: Mía đường Sơn La báo lãi sau thuế giảm 72%, chốt ngày chia cổ tức 100% bằng tiền mặt"
+    },
+    {
+     "ref": "cafef:48506f3ae6",
+     "title": "Trăm triệu cổ phiếu sắp lên sàn HoSE"
+    },
+    {
+     "ref": "cafef:68f7656a7f",
+     "title": "SSB: Người thân lãnh đạo SeABank mua 8 triệu cổ phiếu"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:4bb1f9731d",
+     "title": "V68: Tuấn Anh Group báo lãi quý 3 tăng đột biến 2.743%, củng cố lộ trình niêm yết HOSE"
+    },
+    {
+     "ref": "vietstock:cd4205220c",
+     "title": "Hiệp định VEFTA: Bước đệm chiến lược tái định vị dòng chảy thương mại và đầu tư"
+    },
+    {
+     "ref": "vietstock:16fb8e3ade",
+     "title": "Góc nhìn tuần 26-30/10: Đừng FOMO ở vùng cản"
+    },
+    {
+     "ref": "vietstock:cc9c2aec34",
+     "title": "Thị trường chứng quyền tuần 26/10-30/10/2026: Thị trường diễn biến phân hóa"
+    },
+    {
+     "ref": "vietstock:2fff208c2e",
+     "title": "Vietstock Weekly 26-30/10/2026: Từng bước cải thiện?"
+    },
+    {
+     "ref": "vietstock:42e31e4695",
+     "title": "Đại Quang Minh nhắm khởi công hạ tầng Khu đô thị Chu Lai gần 18,9 ngàn tỷ vào tháng 4/2027"
+    },
+    {
+     "ref": "vietstock:7916421223",
+     "title": "BRR: Cao su Bà Rịa xúc tiến KCN Bắc Châu Đức 1 rộng 1.200ha trên quỹ đất cao su"
+    },
+    {
+     "ref": "vietstock:08d2ee1259",
+     "title": "Tuần 26-30/10: Cổ tức cao nhất chỉ 20%"
+    },
+    {
+     "ref": "vietstock:5b449a823a",
+     "title": "TPB: TPBank nhận 50 triệu USD vốn dài hạn từ DEG, tối ưu nguồn vốn quốc tế, thúc đẩy tài chính xanh"
+    },
+    {
+     "ref": "vietstock:1cc91c10bc",
+     "title": "El Niño tác động thế nào đến cân bằng cung - cầu điện?"
+    },
+    {
+     "ref": "vietstock:57f1da1bb3",
+     "title": "TCB: Techcombank muốn lập ngân hàng con tại VIFC, tăng vốn góp vào TCGIns"
+    },
+    {
+     "ref": "vietstock:4e360e21e3",
+     "title": "Nomura Real Estate: Kỷ lục ở quê nhà, Việt Nam tiếp tục là thị trường nước ngoài trọng tâm"
+    },
+    {
+     "ref": "vietstock:4fe07088dc",
+     "title": "HPG: Vụ tàu hàng 182.000 tấn đâm va cầu cảng Hòa Phát, tàu bị bắt giữ, hai bên chưa thống nhất mức bồi thường"
+    },
+    {
+     "ref": "vietstock:f1447ba7c2",
+     "title": "Chuyển động quỹ đầu tư tuần 19-23/10: MB Capital muốn thoái vốn tại PGC, PVI AM giảm mạnh sở hữu KBC"
+    },
+    {
+     "ref": "vietstock:377acbb314",
+     "title": "VN-Index tăng hơn 68 điểm tuần qua, riêng VIC đóng góp gần 37 điểm"
+    },
+    {
+     "ref": "vietstock:70e40a81a2",
+     "title": "Chứng khoán phái sinh tuần 26-30/10/2026: Phe Long lên ngôi"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:43acb928a2",
+     "title": "Xu thế dòng tiền: Thị trường thực sự đã chạm đáy?"
+    },
+    {
+     "ref": "vneconomy:016dd1321c",
+     "title": "VN-Index hồi phục mạnh, mục tiêu 1.800 điểm trước áp lực rung lắc"
+    },
+    {
+     "ref": "vneconomy:98e6b7cf62",
+     "title": "Đã có 465 doanh nghiệp công bố lợi nhuận quý 3/2026, tăng trưởng 32,7%, dầu khí dẫn đầu"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:003d6d71bc",
+     "title": "Cổ phiếu cần quan tâm ngày 26/10"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b4153ac083",
+     "title": "Nhận định thị trường phiên giao dịch ngày 26/10: Chờ nhịp chỉnh để mua thăm dò"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c5bff4b3f4",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 26/10: Thử thách vùng 1.780-1.800 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:053c9a52e7",
+     "title": "Dòng tiền trở lại, nhóm cổ phiếu nào đón sóng cuối năm?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:024f9bb24b",
+     "title": "AST: Sojitz đề cử hai nhân sự vào HĐQT Taseco Airs sau khi nắm 27,64% vốn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1ac390dbab",
+     "title": "QTP: Nhiệt điện Quảng Ninh lãi quý III tăng 129%, vượt kế hoạch lợi nhuận năm 25% sau 9 tháng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:715e17cf69",
+     "title": "Nhìn lại dự báo chứng khoán tuần qua"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6d8de05bc3",
+     "title": "DVV: DatViet VAC Group Holdings thông báo quyết định chấp thuận niêm yết cổ phiếu (Kỳ 3)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ec6f701609",
+     "title": "Giao dịch chứng khoán khối ngoại tuần 19-23/10: Mua ròng gần 1.000 tỷ đồng một cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:416b203498",
+     "title": "IJC: Becamex IJC lãi ròng quý III/2026 giảm 47,2% về 134,33 tỷ đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:4ab1fac397",
+     "title": "Hải Phòng: Vì sao vốn FDI tăng mạnh, DDI lại giảm sâu?"
+    },
+    {
+     "ref": "b-o-u-t:e02b319e4d",
+     "title": "Lạm phát và tăng trưởng"
+    },
+    {
+     "ref": "b-o-u-t:d40a8e1f78",
+     "title": "HDB: HDBank, Vikki Bank ký 5 hợp đồng tài trợ các dự án, giá trị vượt 124.500 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:ea7f84651e",
+     "title": "Sắt thép, sản phẩm gỗ, vật liệu dẫn đầu danh sách rủi ro phòng vệ"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:ffabd7400a",
+     "title": "Tài chính tuần qua: Thêm ngân hàng báo lãi quý 3 tăng trưởng âm, lãi suất cho vay bình quân tháng 9 tăng từ 8,4 lên 10,9%/năm"
+    },
+    {
+     "ref": "markettimes:d1d54c2b92",
+     "title": "HD Capital trở thành cổ đông lớn Chứng khoán SmartInvest"
+    },
+    {
+     "ref": "markettimes:653447e06c",
+     "title": "Thêm ngân hàng báo lãi quý III tăng trưởng âm, tỷ lệ nợ xấu vượt 3%"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:a8a7c08b43",
+     "title": "Hai ngân hàng báo lãi quý III đi lùi, trong đó một đơn vị giảm hơn 76%"
+    }
+   ],
+   "source": "VnBusiness"
+  }
+ ],
+ "world": [
+  {
+   "ref": "reuters:d515a7eb3a",
+   "title": "Giá dầu giảm gần 1 USD trong phiên giao dịch sớm",
+   "translated": true,
+   "original_title": "Oil prices down almost $1 in early trading",
+   "link": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/"
+  },
+  {
+   "ref": "bloomberg:bbaf0e8eaa",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ tăng khi giá dầu thô giảm",
+   "translated": true,
+   "original_title": "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap"
+  },
+  {
+   "ref": "tg-vnwallstreet:406829",
+   "title": "Dầu Mỹ và Brent mở cửa giảm 1,2% phiên đầu tuần, nhân viên hòa giải Qatar tới Tehran hạ nhiệt căng thẳng khu vực",
+   "original_title": "🔴 Dầu Mỹ và Brent mở cửa thấp hơn 1,2% hôm thứ hai. Theo thông tin, nhân viên hòa giải của Qatar đã tới Tehran để phối hợp thúc đẩy hạ nhiệt tình hình khu vực. #oil #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406827",
+   "title": "Tư lệnh Bộ Chỉ huy Trung tâm Mỹ (CENTCOM) thị sát eo biển Hormuz bằng máy bay quân sự, khẳng định cam kết an ninh khu vực",
+   "original_title": "▫️ Ảnh: Tư lệnh Bộ Chỉ huy Trung ương Mỹ thị sát eo biển Hormuz bằng máy bay quân sự Ngày 25 tháng 10, Tư lệnh Bộ Chỉ huy Trung ương Mỹ (CENTCOM) Cooper đã bay qua eo biển Hormuz bằng máy bay quân sự để thị sát khu vực. Cooper khẳng định rằng chuyến thị sát này thể hiện cam kết vững chắc của Mỹ trong việc bảo vệ tự do hàng hải ở eo biển Hormuz. #hormuz #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063913",
+   "title": "Tổng thống Iran đổ lỗi Mỹ khiến thỏa thuận tạm thời đổ vỡ, kêu gọi đàm phán lại",
+   "translated": true,
+   "original_title": "IRAN'S PEZESHKIAN BLAMES US FOR INTERIM DEAL FAILURE, URGES NEW TRY - RTRS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063912",
+   "title": "Trump: Quyết định về Iran đang đến gần — đạt thỏa thuận hoặc 'giải quyết dứt điểm'",
+   "translated": true,
+   "original_title": "TRUMP SAYS DECISION NEARING ON IRAN: DEAL OR ‘FINISH IT OFF’ - BBG ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406830",
+   "title": "Vàng và bạc giao ngay mở cửa tăng phiên đầu tuần, lần lượt đạt 3.997 USD/ounce và 54,17 USD/ounce",
+   "original_title": "▫️ Vàng và bạc giao ngay mở cửa cao hôm thứ Hai, hiện lần lượt được ghi nhận ở mức 3.997 USD/ounce và 54,17 USD/ounce. #gold #silver",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:406828",
+   "title": "CME FedWatch: Xác suất Fed giữ nguyên lãi suất tuần này lên tới 90%",
+   "original_title": "▫️ Xác suất Fed giữ lãi suất không đổi tuần này là 90% Theo CME FedWatch: xác suất Fed giữ lãi suất không đổi tuần này là 90%, xác suất tăng 25 điểm cơ bản là 10%. Tính đến tháng 12, xác suất Fed giữ lãi suất là 23,8%, tăng 25 điểm cơ bản là 68,9%, tăng 50 điểm cơ bản là 7,3%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108655",
+   "title": "Xem trước họp BoC: 81% khả năng tăng lãi suất lần đầu sau một năm, lên 2,50%, giới kinh tế chia rẽ",
+   "original_title": "(Tiêu điểm) Xem trước BoC: 81% khả năng tăng lãi suất lần đầu sau một năm lên 2.50%, giới kinh tế chia rẽ Chi tiết xem tại: https://dubaotiente.net/tieu-diem/xem-truoc-boc-81-kha-nang-tang-lai-suat-lan-dau-sau-mot-nam-len-2-50-gioi-kinh-te-chia-re-113550.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108654",
+   "title": "Daiwa: BOJ giữ nguyên lãi suất tháng 10, lạm phát đạt mục tiêu 2% có thể mở đường tăng lãi suất tháng 12",
+   "original_title": "(Tiêu điểm) Daiwa: BOJ sẽ giữ lãi suất trong tháng 10, nhưng tuyên bố lạm phát đạt 2% có thể mở đường tăng lãi suất tháng 12 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/daiwa-boj-giu-lai-suat-thang-10-lam-phat-dat-2-mo-duong-tang-lai-suat-thang-12-113548.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108652",
+   "title": "RBNZ được dự báo nâng lãi suất OCR lên 3% trước thềm bầu cử khi giá dầu và đồng NZD yếu đẩy lạm phát",
+   "original_title": "(Tiêu điểm) RBNZ được dự báo nâng lãi suất OCR lên 3% trước bầu cử khi giá dầu và đồng NZD yếu đẩy lạm phát Chi tiết xem tại: https://dubaotiente.net/tieu-diem/rbnz-duoc-du-bao-nang-lai-suat-ocr-len-3-truoc-bau-cu-113544.html",
+   "link": null
+  },
+  {
+   "ref": "reuters:4bdcd7a6f9",
+   "title": "Vì sao các gói kích thích của Trung Quốc vẫn chưa đạt hiệu quả",
+   "translated": true,
+   "original_title": "Why China’s stimulus keeps missing the mark",
+   "link": "https://www.reuters.com/commentary/reuters-open-interest/why-chinas-stimulus-keeps-missing-mark-manishi-raychaudhuri-2026-10-25/"
+  },
+  {
+   "ref": "tg-marketfeed:1063924",
+   "title": "Nhật Bản lên kế hoạch hỗ trợ ngân hàng để thúc đẩy đầu tư tăng trưởng — Yomiuri",
+   "translated": true,
+   "original_title": "JAPAN PLANS SUPPORT FOR BANKS TO FUND GROWTH INVESTMENT – YOMIURI ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063921",
+   "title": "Elon Musk cảnh báo các ngân hàng gần như ngừng hoàn toàn tài trợ cho các công ty phụ thuộc vào doanh thu trung tâm dữ liệu AI",
+   "translated": true,
+   "original_title": "JUST IN: ELON MUSK WARNS LENDERS HAVE ALMOST COMPLETELY CUT OFF FUNDING TO COMPANIES FULLY DEPENDENT ON AI DATA CENTER REVENUE. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063909",
+   "title": "SpaceX huy động 40 tỷ USD nợ để mua chip AI, doanh thu quý 3 đạt 14,58 tỷ USD, tăng 161% so với cùng kỳ",
+   "translated": true,
+   "original_title": "$SPCX - SPACEX SECURES $40 BILLION IN DEBT TO BUY AI CHIPS ELON MUSK CONFIRMS SPACEX HAS CLOSED $40 BILLION IN DEBT FINANCING TO PURCHASE GPUS, WITH DELIVERIES EXPECTED IN Q1 AND Q2 2027. THE COMPANY REPORTED: Q3 REVENUE: $14.58B, UP 161% YEAR-OVER-YEAR CAPITAL EXPENDITURES: $19.6B, NEARLY TRIPLING TERAFAB: FIRST TEST CHIP TARGETED FOR MAY–JUNE 2027 THE KEY TAKEAWAY: SPACEX IS AGGRESSIVELY EXPANDI",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063908",
+   "title": "Tranh chấp với nhà cung cấp khiến Boeing dừng sản xuất máy bay chở hàng 777 Freighter trong hai tháng",
+   "translated": true,
+   "original_title": "BOEING SUPPLIER DISPUTE HAS HALTED 777 FREIGHTER PRODUCTION FOR TWO MONTHS – RTRS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063919",
+   "title": "Giá khí đốt châu Âu tăng lên mức cao nhất kể từ năm 2022",
+   "translated": true,
+   "original_title": "EUROPEAN GAS RISES TO HIGHEST SINCE 2022 AT START OF TRADING ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108656",
+   "title": "Dòng tiền vào ETF Bitcoin suy yếu, giá thử thách vùng giá vốn 81.300 USD của nhà đầu tư",
+   "original_title": "(Tiêu điểm) Dòng tiền vào ETF bitcoin suy yếu, giá thử thách vùng giá vốn 81,300 USD của nhà đầu tư ETF Chi tiết xem tại: https://dubaotiente.net/tieu-diem/dong-tien-vao-etf-bitcoin-suy-yeu-gia-thu-thach-vung-gia-von-81300-usd-113551.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108653",
+   "title": "Strategy thu hẹp mua Bitcoin, ưu tiên mua lại cổ phiếu trước kỳ báo cáo lợi nhuận",
+   "original_title": "(Tiêu điểm) Strategy thu hẹp mua bitcoin, ưu tiên mua lại cổ phiếu trước kỳ báo cáo lợi nhuận Chi tiết xem tại: https://dubaotiente.net/tieu-diem/strategy-thu-hep-mua-bitcoin-uu-tien-mua-lai-co-phieu-truoc-ky-bao-cao-loi-nhuan-113547.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1063918",
+   "title": "Quan chức Mỹ: Đàm phán cấp làm việc Mỹ-Ukraine-Nga tiếp theo có thể tổ chức tại Abu Dhabi hoặc Thụy Sĩ trong vài tuần tới",
+   "translated": true,
+   "original_title": "U.S. OFFICIAL SAYS THE NEXT U.S.-UKRAINE-RUSSIA WORKING-LEVEL TALKS COULD BE HELD IN A COUPLE OF WEEKS IN ABU DHABI OR SWITZERLAND, WITH THE GOAL OF BUILDING TOWARDS AN EVENTUAL LEADER-LEVEL MEETING, THOUGH MUCH WORK REMAINS ...",
+   "link": null
+  }
+ ],
+ "content_sha": "d16c87b54bacb503c35371fa01eeeecbe200f18726796b4f6834aecf6bfc37ba"
+}
