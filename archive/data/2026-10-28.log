@@ -1,0 +1,37 @@
+
+########## CHAY LUC 2026-10-28 06:51:05 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-28, ban daily)
+   the gioi 17 tin · Viet Nam 60 tin / 12 bao · phap ly 10 tin · chot quyen 1 ma
+   CANH BAO [C9] world[15]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   THAT BAI: 1 loi
+      [C9] legal: khối 'Tiền Phong' phải đứng trước 'Google News Pháp lý' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-10-28 06:51:43 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-10-28, ban daily)
+   the gioi 17 tin · Viet Nam 60 tin / 12 bao · phap ly 10 tin · chot quyen 1 ma
+   CANH BAO [C9] world[15]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   DAT: khong loi, 1 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-10-28 · the gioi 17 · Viet Nam 60 · phap ly 10
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-10-28.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-10-28: commit 0e3850c0194b · sha noi dung 959807104bf721ce
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 28/10 | content_sha 21057527f135 | commit 0e3850c0194b
+   telegram user/928f6fc4179d OK message_id=299
+   zalo     user/593dd2adbb87 OK message_id=f2669df7a598e5c1bc8e
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-10-28.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-10-28 06:52:18 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

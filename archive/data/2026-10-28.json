@@ -599,5 +599,44 @@
    "link": "https://bbw.vn/stephen-schwarzman-my-va-trung-quoc-deu-muon-binh-thuong-hoa-quan-he-61180.html"
   }
  ],
- "content_sha": "21057527f1354c042ed56459935bf40f0f6aed711a259e66b8dcd8c0dc2ff082"
+ "content_sha": "21057527f1354c042ed56459935bf40f0f6aed711a259e66b8dcd8c0dc2ff082",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "0e3850c0194b010e9084993349434ded427dddd9",
+   "published_at": "2026-10-28T06:52:16+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "299",
+   "sent_at": "2026-10-28T06:52:17+07:00",
+   "content_sha": "21057527f1354c042ed56459935bf40f0f6aed711a259e66b8dcd8c0dc2ff082",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "299",
+     "sent_at": "2026-10-28T06:52:17+07:00",
+     "content_sha": "21057527f1354c042ed56459935bf40f0f6aed711a259e66b8dcd8c0dc2ff082"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "f2669df7a598e5c1bc8e",
+   "sent_at": "2026-10-28T06:52:18+07:00",
+   "content_sha": "21057527f1354c042ed56459935bf40f0f6aed711a259e66b8dcd8c0dc2ff082",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "f2669df7a598e5c1bc8e",
+     "sent_at": "2026-10-28T06:52:18+07:00",
+     "content_sha": "21057527f1354c042ed56459935bf40f0f6aed711a259e66b8dcd8c0dc2ff082"
+    }
+   ]
+  }
+ }
 }
