@@ -1,0 +1,588 @@
+{
+ "date": "2026-10-29",
+ "dividends": [
+  {
+   "event": "Tạm ứng cổ tức tiền mặt năm 2026, tỷ lệ 20% (2.000 đồng/cp)",
+   "record_date": "2026-11-06",
+   "ref": "vietstock:0001412f6b",
+   "ticker": "WSB"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Fed giữ nguyên lãi suất 3,75-4%, cựu cố vấn Warsh ngầm phát tín hiệu sẽ còn tăng thêm"
+  },
+  {
+   "source": "Thị trường VN",
+   "text": "VN-Index đóng cửa 1.766,65 điểm (+0,27%) nhờ nhóm ngân hàng; khối ngoại bán ròng phiên thứ 4 liên tiếp"
+  },
+  {
+   "source": "Vietstock",
+   "text": "Chính phủ phê duyệt Kế hoạch cơ cấu vốn nhà nước tại VCB, BIDV, EVN, Vietnam Airlines"
+  },
+  {
+   "source": "Vietstock",
+   "text": "DRC sắp họp đại hội bất thường sau biến cố CEO bị khởi tố"
+  },
+  {
+   "source": "Thị trường",
+   "text": "Giá vàng SJC 139,7 - 142,7 triệu đồng/lượng; USD/VND Vietcombank bán ra 26.020 đồng"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:0ac4a11ff3",
+     "title": "Cổ phiếu doanh nghiệp vừa có lãnh đạo bị khởi tố bất ngờ “cháy hàng”, chuyện gì đây?"
+    },
+    {
+     "ref": "cafef:5f8c3e69a8",
+     "title": "Từng có Chủ tịch và Kế toán trưởng bị khởi tố, cổ phiếu công ty điện bất ngờ tăng trần, thanh khoản bùng nổ"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:46ce70bc0d",
+     "title": "DRC: Sắp họp đại hội bất thường sau biến cố CEO bị khởi tố"
+    },
+    {
+     "ref": "vietstock:289ce9afe6",
+     "title": "CT3: Phạt hơn 600 triệu đồng công ty liên quan Chủ tịch vì mua cổ phiếu không báo trước"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:13bf230f6e",
+     "title": "Chủ tịch Công ty Cây xanh Công Minh móc nối, thâu tóm 1.218 gói thầu, bị cáo buộc gây thiệt hại 791 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:ce291dc52b",
+     "title": "Hà Nội yêu cầu di dời căn hộ sai công năng tại các dự án Mường Thanh - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:1150da261c",
+     "title": "Mr Pips khai 'biến tất cả nhà đầu tư thành con bạc' trên sàn ngoại hối ảo"
+    },
+    {
+     "ref": "vnexpress:6cd2da65b6",
+     "title": "Nhà đầu tư bị nhóm Mr Pips cho 20 côn đồ đến nhà dằn mặt"
+    },
+    {
+     "ref": "vnexpress:4669dc4564",
+     "title": "Mr Hunter Lê Khắc Ngọ đề nghị định giá lại 142 kg vàng bị tịch thu"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-thanh-tra:8b72021bfd",
+     "title": "Hà Nội: Dự án Tổ hợp Times Square chậm đưa đất vào sử dụng 12 năm, vi phạm Luật Đất đai 2024 - Báo Thanh tra"
+    }
+   ],
+   "source": "Báo Thanh tra"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+4,78 (+0,27%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.766,65 điểm"
+   },
+   {
+    "change": "+0,36 (+0,14%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "259,86 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~15.305 tỷ đồng"
+   },
+   {
+    "change": "phiên bán ròng thứ 4 liên tiếp",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~267 tỷ đồng"
+   },
+   {
+    "change": "+700.000 đồng/lượng",
+    "direction": "up",
+    "label": "Vàng SJC",
+    "value": "139,7 – 142,7 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "26.020 đồng"
+   }
+  ],
+  "summary": "Phố Wall diễn biến phân hóa sau khi Fed giữ nguyên lãi suất 3,75-4% và Alphabet công bố kết quả kinh doanh; S&P 500, Dow Jones và Nasdaq đều nhích nhẹ trong khi hợp đồng tương lai chịu áp lực. Giá dầu WTI tăng hơn 2% trong bối cảnh chiến sự Iran còn kéo dài, dầu Brent và vàng thế giới giảm nhẹ. Tại Việt Nam, VN-Index đóng cửa phiên 28/10 tăng 4,78 điểm (+0,27%) lên 1.766,65 điểm nhờ nhóm ngân hàng dẫn dắt, HNX-Index tăng 0,36 điểm lên 259,86 điểm, thanh khoản HOSE đạt khoảng 15.305 tỷ đồng; khối ngoại tiếp tục bán ròng khoảng 267 tỷ đồng trên HOSE, đánh dấu phiên bán ròng thứ tư liên tiếp.",
+  "tiles": [
+   {
+    "change_pct": 0.28,
+    "label": "S&P 500",
+    "value": "7.744,0"
+   },
+   {
+    "change_pct": 0.19,
+    "label": "Dow Jones",
+    "value": "52.475,1"
+   },
+   {
+    "change_pct": 0.27,
+    "label": "Nasdaq",
+    "value": "26.549,9"
+   },
+   {
+    "change_pct": 2.07,
+    "label": "Dầu WTI",
+    "value": "102,0 USD"
+   },
+   {
+    "change_pct": -2.89,
+    "label": "Dầu Brent",
+    "value": "110,6 USD"
+   },
+   {
+    "change_pct": -0.24,
+    "label": "Vàng thế giới",
+    "value": "4.065 USD"
+   },
+   {
+    "change_pct": 0.53,
+    "label": "Bitcoin",
+    "value": "81.233 USD"
+   },
+   {
+    "change_pct": -0.16,
+    "label": "DXY",
+    "value": "102,16"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:075fafe3f6",
+     "title": "Cập nhật BCTC quý 3/2026 sáng ngày 29/10: Một doanh nghiệp bất động sản báo lãi tăng 3.478%, công ty ô tô báo lãi tăng 1.567%"
+    },
+    {
+     "ref": "cafef:389016a34a",
+     "title": "MWG: Bất ngờ với lợi nhuận Bách Hóa Xanh trong quý 3"
+    },
+    {
+     "ref": "cafef:a2d5480d72",
+     "title": "Phấn đấu có những giao dịch đầu tiên tại Trung tâm Tài chính quốc tế trong tháng 11/2026"
+    },
+    {
+     "ref": "cafef:19dc05dbbd",
+     "title": "Công ty “họ\" Mobifone chuẩn bị lăn chốt cổ tức 25% bằng tiền mặt"
+    },
+    {
+     "ref": "cafef:6e3ea10545",
+     "title": "Công ty năng lượng của tỷ phú Phạm Nhật Vượng bắt đầu cấp điện trực tiếp cho các nhà máy VinFast, VinES tại Hà Tĩnh, tiết kiệm 3,5 tỷ đồng/năm"
+    },
+    {
+     "ref": "cafef:75da331ce1",
+     "title": "CEO VinFast châu Á lần đầu tiết lộ mục tiêu đưa quốc gia 1,4 tỷ dân thành một trong hai thị trường lớn nhất của hãng"
+    },
+    {
+     "ref": "cafef:272c0bb959",
+     "title": "Chứng khoán DSC giảm 57,3% mục tiêu lợi nhuận năm 2026"
+    },
+    {
+     "ref": "cafef:2d78328ba6",
+     "title": "FPT: Bán ròng triền miên, khối ngoại vẫn còn nắm hơn 455 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:c807e55acb",
+     "title": "Cập nhật báo cáo tài chính quý 3/2026 tối ngày 28/10: Điện Máy Xanh, Thế giới di động lãi gần gấp đôi cùng kỳ, nhiều doanh nghiệp tăng bằng lần"
+    },
+    {
+     "ref": "cafef:daeebc026d",
+     "title": "Hạ tầng GELEX vượt 52% kế hoạch lợi nhuận năm sau 9 tháng"
+    },
+    {
+     "ref": "cafef:3196ddd0ee",
+     "title": "FPT: Cổ phiếu \"thủng\" đáy 3 năm, phát thông báo quan trọng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:9fad4b4e0a",
+     "title": "Thành viên Pi Group tăng vốn sau 9 năm, chi gần ngàn tỷ tất toán trái phiếu"
+    },
+    {
+     "ref": "vietstock:0001412f6b",
+     "title": "Bia Sài Gòn - Miền Tây sắp tạm ứng cổ tức tỷ lệ 20% cho năm 2026"
+    },
+    {
+     "ref": "vietstock:14d6e3cf90",
+     "title": "Góc nhìn 29/10: Tiếp đà hồi phục"
+    },
+    {
+     "ref": "vietstock:a78fd8c792",
+     "title": "APS: Danh mục tự doanh giảm mạnh, lỗ nặng quý 3"
+    },
+    {
+     "ref": "vietstock:ba39a0a95c",
+     "title": "EVS: Quyền Tổng Giám đốc được đề cử vào HĐQT, gia đình sở hữu 14,68% vốn"
+    },
+    {
+     "ref": "vietstock:c716c25211",
+     "title": "NVB: NCB giữ vững đà tăng trưởng, vượt kế hoạch kinh doanh sau 9 tháng"
+    },
+    {
+     "ref": "vietstock:83dcb78365",
+     "title": "DVP: Sản lượng qua cảng khởi sắc, lãi sau thuế quý 3 tăng 15%"
+    },
+    {
+     "ref": "vietstock:ead3d7df7a",
+     "title": "DGW: Báo lãi quý 3 tăng 66%, cổ phiếu vẫn giảm kịch sàn"
+    },
+    {
+     "ref": "vietstock:99473a951a",
+     "title": "Chính phủ phê duyệt Kế hoạch cơ cấu vốn nhà nước tại VCB, BIDV, EVN, Vietnam Airlines"
+    },
+    {
+     "ref": "vietstock:8ef9e5cfde",
+     "title": "SBT: Đặt mục tiêu tăng lãi 5%, dự phát hành 56 triệu cổ phiếu trả cổ tức"
+    },
+    {
+     "ref": "vietstock:10187e9f92",
+     "title": "STB: Sacombank củng cố nền tảng, hướng tới hoàn thành Đề án tái cơ cấu theo kế hoạch"
+    },
+    {
+     "ref": "vietstock:77ed95529c",
+     "title": "DPG: Đạt Phương mượn loạt bất động sản của lãnh đạo và người thân làm tài sản bảo đảm cho các khoản vay"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:463b3c058b",
+     "title": "Rủi ro lớn đối với đồng USD từ cơn sốt AI"
+    },
+    {
+     "ref": "vneconomy:2aceb256a5",
+     "title": "Đề xuất giảm thuế xuất khẩu phân bón về 0%: Doanh nghiệp nào được lợi nhất?"
+    },
+    {
+     "ref": "vneconomy:f9d090b2a6",
+     "title": "Giới chuyên gia: Lạm phát trên toàn cầu sẽ duy trì ở mức cao sang năm 2027"
+    },
+    {
+     "ref": "vneconomy:9f8a1b7fcb",
+     "title": "Sức hấp dẫn của cổ phiếu so với tiền gửi còn hạn chế, kết quả kinh doanh quý 3 là phép thử"
+    },
+    {
+     "ref": "vneconomy:2ca9a33442",
+     "title": "Đại biểu Quốc hội kiến nghị đầu tư hạ tầng chứng khoán để giao dịch xuyên trưa, 24/24 giờ liên tục"
+    },
+    {
+     "ref": "vneconomy:599a6e40ef",
+     "title": "Bộ trưởng Tài chính: Quan trọng nhất xây dựng Luật Chứng khoán là đảm bảo quyền lợi nhà đầu tư"
+    },
+    {
+     "ref": "vneconomy:f03050880e",
+     "title": "Bloomberg: 5 tỷ phú Indonesia mất gần 57 tỷ USD khi MSCI cảnh báo hạ xếp hạng thị trường"
+    },
+    {
+     "ref": "vneconomy:272ead1c02",
+     "title": "Tỷ lệ trái phiếu ngân hàng được xếp hạng tín nhiệm ở Việt Nam rất thấp so với khu vực"
+    },
+    {
+     "ref": "vneconomy:45e4b8a702",
+     "title": "Đằng sau chiến dịch mua cổ phiếu của “đội quân quốc gia” Trung Quốc"
+    },
+    {
+     "ref": "vneconomy:520cb0c505",
+     "title": "Dòng vốn ETF toàn cầu rút khỏi cổ phiếu, đổ mạnh vào trái phiếu Mỹ"
+    },
+    {
+     "ref": "vneconomy:89ab4ce472",
+     "title": "MSN: Quý 3 kinh doanh hiệu quả, thu hút sự chú ý của các tổ chức tài chính"
+    },
+    {
+     "ref": "vneconomy:2bcc5d1595",
+     "title": "Tính đến 26/10, có 67 mã bị cắt margin trên HOSE"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1226d25581",
+     "title": "Cổ phiếu cần quan tâm ngày 29/10 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:52b9879034",
+     "title": "HOSE sẽ tập trung cổ phiếu, HNX giao dịch trái phiếu và sản phẩm phái sinh - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4898b51834",
+     "title": "VIB: Đạt gần 7.600 tỷ đồng lợi nhuận 9 tháng, tiếp tục nâng cao hiệu quả hoạt động"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0e74e482db",
+     "title": "NVL: Em gái Chủ tịch Novaland đăng ký mua 30 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3897bb4991",
+     "title": "Doanh thu bảo hiểm phi nhân thọ 9 tháng vượt 75.000 tỷ đồng, tăng 16,6% - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:360b3e7e05",
+     "title": "Điện Máy Xanh (DMX) lãi 7.700,8 tỷ đồng trong 9 tháng, danh mục đầu tư trái phiếu lên tới 9.463,2 tỷ đồng - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d0963527d7",
+     "title": "Đề nghị xác lập giới hạn trách nhiệm khi thử nghiệm có kiểm soát trong chứng khoán - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3d05fe88c4",
+     "title": "VIFC-HCMC trao quyết định công nhận tư cách thành viên cho 10 công ty holding, dự kiến huy động 2,7 tỷ USD"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:c3c347467f",
+     "title": "Hải quan cảnh báo rủi ro xuất xứ, chuyển tải bất hợp pháp với hàng xuất khẩu - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:8856a938d4",
+     "title": "Bộ trưởng Bộ Xây dựng làm rõ nhiều vấn đề về chính sách nhà ở - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:8ea2841579",
+     "title": "Nhựa Duy Tân mở rộng nhà máy tại Tây Ninh với tổng vốn khoảng 900 tỷ đồng - baodautu"
+    },
+    {
+     "ref": "b-o-u-t:c27366734c",
+     "title": "AEF 2026: TP.HCM công bố 12 dự án đầu tư với tổng vốn hơn 13,5 tỷ USD - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:a3eabf1c7e",
+     "title": "TPB: TPBank lãi trước thuế gần 7.500 tỷ đồng sau 9 tháng"
+    },
+    {
+     "ref": "markettimes:f8ab7ec961",
+     "title": "Đúng ngày 24/12, 300 cổ phiếu giá trị hơn 460.000 tỷ sẽ đồng loạt ngừng giao dịch, chuẩn bị cuộc “đại di cư” lịch sử"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:3a3af08dfd",
+     "title": "VAB: VietABank - Thu nhập lãi thuần đi ngang, nợ nhóm 3 tăng gấp 2,6 lần"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:d0f6de56ea",
+     "title": "Giảm giá điện, thuế xăng dầu: Doanh nghiệp, sản xuất 'xả áp lực'"
+    },
+    {
+     "ref": "ti-n-phong:987f68769c",
+     "title": "Gói tín dụng ưu đãi hơn 450.000 tỷ cho sản xuất, kinh doanh: Nhiều hay ít?"
+    },
+    {
+     "ref": "ti-n-phong:9396b02db4",
+     "title": "OFG: Công bố mã chứng khoán trong lễ ra mắt thương hiệu mới"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:b8490c7e95",
+     "title": "Giá bất động sản hạ nhiệt, chung cư tiếp tục dẫn dắt nhu cầu - Thời Báo Ngân Hàng"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:1cfcc1a0e5",
+     "title": "Sáng 28/10: NHNN niêm yết tỷ giá trung tâm ở mức 25.631 đồng - Thời Báo Ngân Hàng"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:a84949a15b",
+     "title": "FPT: Quyết định về việc thay đổi đăng ký niêm yết"
+    },
+    {
+     "ref": "hose:cf98ee08ae",
+     "title": "TCB: Thông báo về ngày đăng ký cuối cùng lấy ý kiến cổ đông bằng văn bản"
+    },
+    {
+     "ref": "hose:831262d528",
+     "title": "HVN: Thông báo bổ sung Nghị quyết số 1096 ngày 18/06/2026 và Nghị quyết HĐQT số 1140 ngày 25/06/2026"
+    },
+    {
+     "ref": "hose:8c7b5f4580",
+     "title": "PDV: Biên bản kiểm phiếu và Nghị quyết ĐHĐCĐ về việc lấy ý kiến cổ đông bằng văn bản"
+    },
+    {
+     "ref": "hose:daed2f5ab1",
+     "title": "TCB: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc"
+    },
+    {
+     "ref": "hose:4e0cae7758",
+     "title": "ANT: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả phát hành cổ phiếu trả cổ tức"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1066496",
+   "title": "ECB giữ nguyên lãi suất, nhà đầu tư dồn chú ý vào trái phiếu Pháp và tương lai của Chủ tịch Lagarde",
+   "translated": true,
+   "original_title": "ECB TO HOLD RATES AS INVESTORS FOCUS ON FRENCH BONDS, LAGARDE'S FUTURE – RTRS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108834",
+   "title": "Microsoft dự kiến chi khoảng 170 tỷ USD cho đầu tư vốn năm tài khóa 2027 nhưng vẫn duy trì dòng tiền dương",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Microsoft dự kiến chi khoảng 170 tỷ USD cho đầu tư vốn năm tài khóa 2027 nhưng vẫn duy trì dòng tiền dương Chi tiết xem tại: https://dubaotiente.net/tieu-diem/microsoft-du-kien-chi-khoang-170-ty-usd-cho-dau-tu-von-nam-tai-khoa-2027-nhung-van-duy-tri-dong-tien-duong-113700.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:d4a664c2b8",
+   "title": "Petrobras bơm dầu ở mức kỷ lục khi chiến sự Iran xáo trộn thị trường dầu mỏ",
+   "translated": true,
+   "original_title": "Petrobras Pumps at Record as Iran War Upends Oil Markets",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets"
+  },
+  {
+   "ref": "bloomberg:cde8f5e09d",
+   "title": "Kinh tế trưởng hàng đầu: Nhu cầu vốn Nhân dân tệ có động lực sâu xa hơn lãi suất",
+   "translated": true,
+   "original_title": "Yuan Funding Has Deeper Drivers Than Yields, Top Economist Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/yuan-funding-has-deeper-drivers-than-yields-top-economist-says"
+  },
+  {
+   "ref": "tg-marketfeed:1066490",
+   "title": "Mỹ cảnh báo đồng minh chuẩn bị cho khả năng Iran tấn công trả đũa sau bầu cử",
+   "translated": true,
+   "original_title": "US WARNS ALLIES TO PREPARE FOR POSSIBLE IRAN STRIKES, RETALIATION AFTER ELECTIONS - AP ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:108833",
+   "title": "Vàng hướng tới mức giảm theo năm mạnh nhất trong 11 năm khi chiến sự Iran đẩy lợi suất và USD tăng",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Vàng hướng tới mức giảm theo năm mạnh nhất trong 11 năm khi chiến sự Iran đẩy lợi suất và USD tăng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/vang-huong-toi-muc-giam-theo-nam-manh-nhat-trong-11-nam-khi-chien-su-iran-day-loi-suat-va-usd-tang-113699.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:f6e9313c0e",
+   "title": "Fed giữ nguyên lãi suất, cựu cố vấn Warsh ngầm phát tín hiệu sẽ còn tăng thêm",
+   "translated": true,
+   "original_title": "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/fed-holds-fire-as-warsh-telegraphs-more-hikes-without-saying-it"
+  },
+  {
+   "ref": "tg-dubaotiente:108832",
+   "title": "Việc mua bitcoin của Strategy phụ thuộc vào một con số: STRC đạt 100 USD",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Việc mua bitcoin của Strategy phụ thuộc vào một con số: STRC đạt 100 USD Chi tiết xem tại: https://dubaotiente.net/tieu-diem/viec-mua-bitcoin-cua-strategy-phu-thuoc-vao-mot-con-so-strc-dat-100-usd-113698.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1066487",
+   "title": "Honda, Nissan đàm phán hợp tác về pin xe điện",
+   "translated": true,
+   "original_title": "HONDA, NISSAN IN TALKS ON EV BATTERY COLLABORATION – NHK ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:72cceb367e",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ giảm sau kết quả Alphabet và quyết định của Fed",
+   "translated": true,
+   "original_title": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-vnwallstreet:407848",
+   "title": "️ Fed tăng lãi suất tháng 12 có xác suất 78,4% Theo công cụ CME FedWatch: Xác suất Fed giữ nguyên lãi suất tháng 12 là 21,6%, tăng 25 điểm cơ bản là 78,4%. Đến tháng 1 năm sau, xác suất giữ nguyên là 7,2%, tăng 25 điểm cơ bản là 40,6%, tăng 50 điểm cơ bản là 52,2%. #fed…",
+   "translated": false,
+   "original_title": "▫️ Fed tăng lãi suất tháng 12 có xác suất 78,4% Theo công cụ CME FedWatch: Xác suất Fed giữ nguyên lãi suất tháng 12 là 21,6%, tăng 25 điểm cơ bản là 78,4%. Đến tháng 1 năm sau, xác suất giữ nguyên là 7,2%, tăng 25 điểm cơ bản là 40,6%, tăng 50 điểm cơ bản là 52,2%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:4567632540",
+   "title": "Giá dầu giảm khi giới giao dịch cân nhắc tín hiệu ngoại giao mới về Iran",
+   "translated": true,
+   "original_title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran"
+  },
+  {
+   "ref": "tg-dubaotiente:108830",
+   "title": "Mỹ sắp mua bitcoin cho Quỹ dự trữ chiến lược \"rất sớm\"? Những điều kiện cần có trước",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Mỹ sắp mua bitcoin cho Quỹ dự trữ chiến lược \"rất sớm\"? Những điều kiện cần có trước Chi tiết xem tại: https://dubaotiente.net/tieu-diem/my-sap-mua-bitcoin-cho-quy-du-tru-chien-luoc-rat-som-nhung-dieu-kien-can-co-truoc-113696.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1066460",
+   "title": "CEO Microsoft: Nhu cầu tăng tốc thúc đẩy bổ sung 24 trung tâm dữ liệu mới trên 5 lục địa trong quý",
+   "translated": true,
+   "original_title": "MICROSOFT CEO: ACCELERATING DEMAND PROMPTS ADDITION OF 24 NEW DATA CENTERS ACROSS FIVE CONTINENTS THIS QUARTER - CONF CALL ...",
+   "link": null
+  },
+  {
+   "ref": "bnews:4e586cb1a5",
+   "title": "Cổ phiếu công nghệ tại châu Á tăng mạnh nhờ lực đẩy từ SK Hynix - bnews.vn",
+   "translated": false,
+   "original_title": "Cổ phiếu công nghệ tại châu Á tăng mạnh nhờ lực đẩy từ SK Hynix - bnews.vn",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVZ01NeVFYWkFyZlZjbmttUXprR3NvRXdsbENsdnZXTXN3WUNEUVUzNlY2dGtpYlJiVEk2eVpaakdGNGlocGZaU1RDQmJLNGpUdDh6SU53?oc=5"
+  }
+ ],
+ "content_sha": "27939d44feafd63ddca087104f0922870fc378e619942189b9f02cf3aa392716"
+}
