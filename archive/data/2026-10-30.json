@@ -582,5 +582,44 @@
    "link": "https://www.bloomberg.com/news/articles/2026-10-29/kioxia-faces-test-to-impress-with-earnings-after-60-stock-slump"
   }
  ],
- "content_sha": "6b964d747ff85066d09a28634d25f58bb68ccc9d163e72ca26dba0c7650c27db"
+ "content_sha": "6b964d747ff85066d09a28634d25f58bb68ccc9d163e72ca26dba0c7650c27db",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "b2194826fd7defb6e17ffeefd86df6458af2cd99",
+   "published_at": "2026-10-30T06:48:56+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "301",
+   "sent_at": "2026-10-30T06:48:57+07:00",
+   "content_sha": "6b964d747ff85066d09a28634d25f58bb68ccc9d163e72ca26dba0c7650c27db",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "301",
+     "sent_at": "2026-10-30T06:48:57+07:00",
+     "content_sha": "6b964d747ff85066d09a28634d25f58bb68ccc9d163e72ca26dba0c7650c27db"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "9e07eefcc04f8316da59",
+   "sent_at": "2026-10-30T06:48:58+07:00",
+   "content_sha": "6b964d747ff85066d09a28634d25f58bb68ccc9d163e72ca26dba0c7650c27db",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "9e07eefcc04f8316da59",
+     "sent_at": "2026-10-30T06:48:58+07:00",
+     "content_sha": "6b964d747ff85066d09a28634d25f58bb68ccc9d163e72ca26dba0c7650c27db"
+    }
+   ]
+  }
+ }
 }
