@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- KHUNG GIAO DIỆN — tools/render.py chỉ thay nội dung giữa các cặp marker
+     BEGIN/END bên dưới. KHÔNG sửa marker, KHÔNG sửa CSS khi soạn bản tin. -->
+<title><!-- BEGIN:TITLE -->
+Bản tin Chứng khoán Sáng — 31/10/2026
+<!-- END:TITLE --></title>
+<style>
+  :root {
+    color-scheme: light;
+    --page:        #f9f9f7;
+    --surface:     #fcfcfb;
+    --ink:         #0b0b0b;
+    --ink-2:       #52514e;
+    --muted:       #898781;
+    --hairline:    #e1e0d9;
+    --border:      rgba(11,11,11,0.10);
+    --up:          #006300;
+    --down:        #d03b3b;
+    --accent:      #2a78d6;
+    --legal-bg:    #fdf3f3;
+    --legal-edge:  #d03b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --page:        #0d0d0d;
+      --surface:     #1a1a19;
+      --ink:         #ffffff;
+      --ink-2:       #c3c2b7;
+      --muted:       #898781;
+      --hairline:    #2c2c2a;
+      --border:      rgba(255,255,255,0.10);
+      --up:          #0ca30c;
+      --down:        #e66767;
+      --accent:      #3987e5;
+      --legal-bg:    #261717;
+      --legal-edge:  #e66767;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page:        #0d0d0d;
+    --surface:     #1a1a19;
+    --ink:         #ffffff;
+    --ink-2:       #c3c2b7;
+    --muted:       #898781;
+    --hairline:    #2c2c2a;
+    --border:      rgba(255,255,255,0.10);
+    --up:          #0ca30c;
+    --down:        #e66767;
+    --accent:      #3987e5;
+    --legal-bg:    #261717;
+    --legal-edge:  #e66767;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    font-size: 15.5px;
+    line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 14px 48px; }
+
+  header { padding: 18px 0 10px; }
+  .masthead { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+  h1 { font-size: 1.25rem; margin: 0; letter-spacing: -0.01em; }
+  h1 .logo { margin-right: 6px; }
+  .dateline { color: var(--ink-2); font-size: 0.88rem; margin-top: 2px; }
+  .updated { color: var(--muted); font-size: 0.8rem; }
+  #themeBtn {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    font-size: 1rem; padding: 4px 10px; cursor: pointer; color: var(--ink);
+  }
+
+  nav.toc {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--page);
+    display: flex; gap: 6px; overflow-x: auto;
+    padding: 8px 0; margin-bottom: 6px;
+    border-bottom: 1px solid var(--hairline);
+    scrollbar-width: none;
+  }
+  nav.toc::-webkit-scrollbar { display: none; }
+  nav.toc a {
+    flex: 0 0 auto; text-decoration: none; color: var(--ink-2);
+    font-size: 0.84rem; padding: 4px 10px; border-radius: 999px;
+    border: 1px solid var(--border); background: var(--surface);
+  }
+  nav.toc a:active { color: var(--accent); }
+
+  .tiles { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin: 12px 0; }
+  @media (min-width: 560px) { .tiles { grid-template-columns: repeat(4, 1fr); } }
+  .tile {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 10px 12px;
+  }
+  .tile .label { color: var(--ink-2); font-size: 0.78rem; }
+  .tile .value { font-weight: 600; font-size: 1.06rem; margin-top: 2px; }
+  .tile .delta { font-size: 0.8rem; margin-top: 1px; }
+  .delta.up   { color: var(--up); }
+  .delta.down { color: var(--down); }
+  .delta.flat { color: var(--muted); }
+
+  table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; font-size: 0.9rem; }
+  th, td { text-align: left; padding: 7px 10px; border-top: 1px solid var(--hairline); }
+  thead th { border-top: none; color: var(--ink-2); font-weight: 600; font-size: 0.8rem; background: var(--surface); }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .chg-up { color: var(--up); }
+  .chg-down { color: var(--down); }
+
+  section { margin-top: 26px; scroll-margin-top: 52px; }
+  h2 {
+    font-size: 1.02rem; margin: 0 0 4px;
+    padding-bottom: 6px; border-bottom: 2px solid var(--ink);
+  }
+  h3.src {
+    font-size: 0.85rem; margin: 18px 0 0; padding: 2px 0 2px 8px;
+    border-left: 3px solid var(--accent); color: var(--ink-2);
+    text-transform: uppercase; letter-spacing: 0.03em;
+  }
+  .sec-note { color: var(--muted); font-size: 0.8rem; margin: 4px 0 10px; }
+
+  ol.news { list-style: none; margin: 10px 0 0; padding: 0; }
+  ol.news li {
+    display: flex; gap: 10px;
+    padding: 9px 2px; border-bottom: 1px solid var(--hairline);
+  }
+  ol.news .n {
+    flex: 0 0 26px; text-align: right;
+    color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.85rem; padding-top: 1px;
+  }
+  ol.news .t { flex: 1; }
+  ol.news .t a { color: var(--ink); text-decoration: none; }
+  ol.news .t a:hover { color: var(--accent); text-decoration: underline; }
+  ol.news .meta { color: var(--muted); font-size: 0.78rem; margin-top: 1px; }
+  li.legal { background: var(--legal-bg); border-left: 3px solid var(--legal-edge); border-radius: 4px; padding-left: 8px; }
+
+  .notice {
+    background: var(--surface); border: 1px dashed var(--border); border-radius: 10px;
+    padding: 8px 12px; color: var(--ink-2); font-size: 0.85rem; margin: 10px 0;
+  }
+
+  footer { margin-top: 34px; padding-top: 12px; border-top: 1px solid var(--hairline); color: var(--muted); font-size: 0.8rem; }
+  footer a { color: var(--accent); }
+  .prev-link { display: inline-block; margin-top: 6px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="masthead">
+    <div>
+      <h1><span class="logo">📈</span>Bản tin Chứng khoán Sáng</h1>
+      <div class="dateline"><!-- BEGIN:DATELINE -->
+Thứ Bảy, 31/10/2026 · <span class="updated">cập nhật 06:51</span>
+<!-- END:DATELINE --></div>
+    </div>
+    <button id="themeBtn" title="Đổi giao diện sáng/tối">🌙</button>
+  </div>
+</header>
+
+<nav class="toc">
+  <a href="#so-lieu">Số liệu</a>
+  <a href="#the-gioi">Thế giới</a>
+  <a href="#viet-nam">Việt Nam</a>
+  <a href="#phap-ly">Pháp lý</a>
+  <a href="#chot-quyen">Chốt quyền</a>
+</nav>
+
+<section id="so-lieu">
+  <h2>I. Số liệu qua đêm</h2>
+  <div class="tiles">
+<!-- BEGIN:TILES -->
+<div class="tile"><div class="label">S&amp;P 500</div><div class="value">7.580,1</div><div class="delta down">▼ −1,82%</div></div>
+<div class="tile"><div class="label">Dow Jones</div><div class="value">51.770,3</div><div class="delta down">▼ −1,09%</div></div>
+<div class="tile"><div class="label">Nasdaq</div><div class="value">25.437,0</div><div class="delta down">▼ −2,86%</div></div>
+<div class="tile"><div class="label">Dầu WTI</div><div class="value">103,0 USD</div><div class="delta up">▲ +0,93%</div></div>
+<div class="tile"><div class="label">Dầu Brent</div><div class="value">112,3 USD</div><div class="delta down">▼ −2,22%</div></div>
+<div class="tile"><div class="label">Vàng thế giới</div><div class="value">3.885 USD</div><div class="delta down">▼ −3,63%</div></div>
+<div class="tile"><div class="label">Bitcoin</div><div class="value">77.002 USD</div><div class="delta down">▼ −0,99%</div></div>
+<div class="tile"><div class="label">DXY</div><div class="value">101,96</div><div class="delta down">▼ −0,07%</div></div>
+<!-- END:TILES -->
+  </div>
+
+  <table>
+    <thead><tr><th>Trong nước &amp; tỷ giá</th><th class="num">Giá trị</th><th class="num">Thay đổi</th></tr></thead>
+    <tbody>
+<!-- BEGIN:DOMESTIC -->
+<tr><td>VN-Index</td><td class="num">1.741,62 điểm</td><td class="num chg-down">▼ -13,99 (-0,8%)</td></tr>
+<tr><td>Thanh khoản HOSE</td><td class="num">~14.670 tỷ đồng</td><td class="num"></td></tr>
+<tr><td>Khối ngoại (HOSE)</td><td class="num">Bán ròng ~635 tỷ đồng</td><td class="num chg-down"></td></tr>
+<tr><td>Vàng SJC</td><td class="num">—</td><td class="num"></td></tr>
+<tr><td>USD/VND (Vietcombank)</td><td class="num">Mua CK 25.610 · Bán 25.990</td><td class="num"></td></tr>
+<!-- END:DOMESTIC -->
+    </tbody>
+  </table>
+<!-- BEGIN:SUMMARY -->
+<p>Thị trường Mỹ giảm điểm phiên qua đêm với S&amp;P 500, Dow Jones và Nasdaq đồng loạt mất trên 1%, cổ phiếu Intel lao dốc 29% và nhóm công nghệ - AI chịu áp lực bán mạnh; giá vàng thế giới giảm 3,63% trong khi dầu WTI tăng nhẹ do căng thẳng tại eo biển Hormuz. Trong nước, VN-Index đóng cửa phiên 30/10 giảm 13,99 điểm (-0,8%) về 1.741,62 điểm, độ rộng tiêu cực với 253 mã giảm so với 72 mã tăng trên HOSE, áp lực chủ yếu đến từ nhóm ngân hàng và chứng khoán. Khối ngoại tiếp tục bán ròng khoảng 635 tỷ đồng trên HOSE, tập trung tại VIC và TCB, trong khi VHM được mua ròng nhiều nhất. Tính chung cả tuần, VN-Index giảm 1,83% với thanh khoản giảm 16,1% so với tuần trước. Giá vàng SJC trong nước hôm nay chưa tra cứu được từ nguồn chính thức do lỗi kết nối.</p>
+<!-- END:SUMMARY -->
+</section>
+
+<section id="the-gioi">
+  <h2>II. Tin tức thế giới</h2>
+  <p class="sec-note">Tối đa 30 tin · mới nhất trước · tin dịch ghi "(dịch)" · nguồn Bloomberg/Reuters kèm link bài gốc</p>
+<!-- BEGIN:WORLD -->
+<ol class="news">
+  <li><span class="n">1.</span><div class="t">Mỹ được cho là chuẩn bị không kích Iran trong thời gian ngắn nhưng dữ dội vào ngày 4/11 (dịch)<div class="meta">Market News Feed · 05:34</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video">Vụ hack tiền số làm nóng lại tranh luận về quản lý, giám sát thị trường crypto (dịch)</a><div class="meta">Bloomberg · 05:08</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://www.bloomberg.com/news/articles/2026-10-30/france-gets-budget-warning-as-fitch-turns-negative-on-rating">Pháp bị Fitch hạ triển vọng tín nhiệm xuống tiêu cực, cảnh báo về rủi ro ngân sách (dịch)</a><div class="meta">Bloomberg · 04:40</div></div></li>
+  <li><span class="n">4.</span><div class="t">Triều Tiên tuyên bố các lệnh trừng phạt quốc tế không có tác dụng, một ngày sau vụ hack Binance 6,3 tỷ USD lớn nhất lịch sử (dịch)<div class="meta">Market News Feed · 04:23</div></div></li>
+  <li><span class="n">5.</span><div class="t">Ngoại trưởng Nga Lavrov: Các vấn đề mấu chốt trong quan hệ Nga - Mỹ chưa được giải quyết, lệnh trừng phạt vẫn tiếp diễn, vũ khí vẫn được chuyển cho Ukraine (dịch)<div class="meta">Market News Feed · 04:21</div></div></li>
+  <li><span class="n">6.</span><div class="t">Google được cho là đang đàm phán với Bộ Quốc phòng Mỹ về dự án phòng thủ tên lửa Golden Dome (dịch)<div class="meta">Market News Feed · 04:18</div></div></li>
+  <li><span class="n">7.</span><div class="t">Cổ phiếu Okta được thêm vào chỉ số S&amp;P 500 (dịch)<div class="meta">Market News Feed · 04:15</div></div></li>
+  <li><span class="n">8.</span><div class="t">Cổ phiếu Kenvue bị loại khỏi chỉ số S&amp;P 500 (dịch)<div class="meta">Market News Feed · 04:15</div></div></li>
+  <li><span class="n">9.</span><div class="t">S&amp;P hạ triển vọng tín nhiệm Meta xuống tiêu cực do lo ngại chi tiêu vốn cho AI, dự báo công ty phải dùng nợ để bù thâm hụt dòng tiền tự do năm 2028 (dịch)<div class="meta">Market News Feed · 04:07</div></div></li>
+  <li><span class="n">10.</span><div class="t"><a href="https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape">Brazil triệu đại sứ Argentina liên quan đến vụ cựu Tổng thống Bolsonaro bỏ trốn (dịch)</a><div class="meta">Bloomberg · 03:59</div></div></li>
+  <li><span class="n">11.</span><div class="t"><a href="https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half">Làn sóng tăng trưởng của Wall Street giúp bang New York giảm một nửa thâm hụt ngân sách (dịch)</a><div class="meta">Bloomberg · 03:55</div></div></li>
+  <li><span class="n">12.</span><div class="t"><a href="https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record">Các quỹ đầu cơ nâng vị thế bán khống khí tự nhiên lên mức cao nhất từng được ghi nhận (dịch)</a><div class="meta">Bloomberg · 03:40</div></div></li>
+  <li><span class="n">13.</span><div class="t">Tuần tới (2-6/11): Các chỉ số kinh tế Mỹ đáng chú ý (dịch)<div class="meta">Market News Feed · 03:37</div></div></li>
+  <li><span class="n">14.</span><div class="t">Apple chính thức vượt Nvidia, trở thành công ty giá trị nhất thế giới với vốn hóa 5.000 tỷ USD (dịch)<div class="meta">Market News Feed · 03:37</div></div></li>
+  <li><span class="n">15.</span><div class="t"><a href="https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses">Nhà đầu tư &#x27;bắt đáy&#x27; cổ phiếu AI tiếp tục thua lỗ khi đà bán tháo kéo dài sang tuần thứ ba (dịch)</a><div class="meta">Bloomberg · 03:30</div></div></li>
+  <li><span class="n">16.</span><div class="t">CFTC đề xuất quy định mới buộc các sàn giao dịch tiền số tăng cường bảo mật trước các cuộc tấn công mạng (dịch)<div class="meta">Market News Feed · 03:27</div></div></li>
+  <li><span class="n">17.</span><div class="t">UKMTO: Tàu chở dầu bị trúng đạn khi di chuyển qua eo biển Hormuz (dịch)<div class="meta">Market News Feed · 03:18</div></div></li>
+  <li><span class="n">18.</span><div class="t">Houthi bác bỏ việc tấn công thành phố Medina của Saudi Arabia (dịch)<div class="meta">Market News Feed · 03:10</div></div></li>
+  <li><span class="n">19.</span><div class="t">IRGC: Tàu chở dầu thứ 4 phát nổ sau khi trúng mìn tại eo biển Hormuz (dịch)<div class="meta">Market News Feed · 03:10</div></div></li>
+  <li><span class="n">20.</span><div class="t">Khoảng 1.800 tỷ USD bị thổi bay khỏi thị trường chứng khoán Mỹ trong một ngày (dịch)<div class="meta">Market News Feed · 03:09</div></div></li>
+  <li><span class="n">21.</span><div class="t">Cổ phiếu Intel lao dốc 29%, phiên giao dịch tồi tệ nhất trong ít nhất 4 thập kỷ (dịch)<div class="meta">Market News Feed · 03:07</div></div></li>
+  <li><span class="n">22.</span><div class="t">IRGC: Tàu chở dầu bị tấn công vì phớt lờ cảnh báo không đi vào &#x27;tuyến đường không được phép&#x27; tại Hormuz (dịch)<div class="meta">Market News Feed · 03:05</div></div></li>
+  <li><span class="n">23.</span><div class="t">Tổng thống Trump: Đang xem xét liệu vụ hack Binance có phải do Triều Tiên thực hiện (dịch)<div class="meta">Market News Feed · 03:02</div></div></li>
+  <li><span class="n">24.</span><div class="t"><a href="https://vneconomy.vn/boj-giu-nguyen-lai-suat-tuyen-bo-chien-thang-trong-cuoc-chien-chong-giam-phat.htm">BOJ giữ nguyên lãi suất, tuyên bố chiến thắng trong cuộc chiến chống giảm phát</a><div class="meta">VnEconomy · 20:00 30/10</div></div></li>
+  <li><span class="n">25.</span><div class="t"><a href="https://vneconomy.vn/danh-muc-dau-tu-tai-hon-40-doanh-nghiep-cua-chinh-quyen-tong-thong-trump.htm">Danh mục đầu tư tại hơn 40 doanh nghiệp của chính quyền Tổng thống Trump</a><div class="meta">VnEconomy · 20:00 30/10</div></div></li>
+  <li><span class="n">26.</span><div class="t"><a href="https://vneconomy.vn/dong-yen-nhat-dang-huong-loi-tu-bau-cu-my-ban-thao-co-phieu-ai-va-bien-dong-o-phap.htm">Đồng yên Nhật đang hưởng lợi từ bầu cử Mỹ, bán tháo cổ phiếu AI và biến động ở Pháp</a><div class="meta">VnEconomy · 14:03 30/10</div></div></li>
+  <li><span class="n">27.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2pqTTZYNS12dV9UeFpVLVctTkxzbVIxSVpqOWVpVVRmeGZ0V2UteW1GcUpYempCV2NRWnVwc1p4ek4tbVZnMVlwazU3bXZPckw0OExuWlNjTTF5YTVWRUlVUmRRMXJpUWUxbVlEN0s4V29KY3pPTi1nZldsNXBhSDh6ZElsY2t3X1FTT2JKYTh5QXRQWUV2S3Vod21CUnlPb3ROSWRnY3dLZmxVbEdr?oc=5">ECB giữ nguyên lãi suất, Chủ tịch Lagarde bất ngờ thông báo rời nhiệm sở</a><div class="meta">Thời báo Ngân hàng · 08:48 30/10</div></div></li>
+  <li><span class="n">28.</span><div class="t"><a href="https://vneconomy.vn/thi-truong-tai-chinh-indonesia-duong-dau-suc-ep-ban-thao-vi-canh-bao-cua-msci.htm">Thị trường tài chính Indonesia đương đầu sức ép bán tháo vì cảnh báo của MSCI</a><div class="meta">VnEconomy · 13:41 29/10</div></div></li>
+  <li><span class="n">29.</span><div class="t"><a href="https://vneconomy.vn/fed-giu-nguyen-lai-suat-du-thua-nhan-lam-phat-dang-cao.htm">Fed giữ nguyên lãi suất dù thừa nhận lạm phát đang cao</a><div class="meta">VnEconomy · 07:03 29/10</div></div></li>
+</ol>
+<!-- END:WORLD -->
+</section>
+
+<section id="viet-nam">
+  <h2>III. Tin tức Việt Nam</h2>
+  <p class="sec-note">Nhóm theo báo, báo phổ biến trước · trong mỗi báo tin mới nhất trước · ưu tiên doanh nghiệp lớn · mỗi sự kiện chỉ đưa một lần</p>
+<!-- BEGIN:VIETNAM -->
+<h3 class="src">CafeF</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn">Cập nhật BCTC quý 3/2026 ngày 31/10: BSR, SHB, Eximbank, Vietnam Airlines cùng nhiều doanh nghiệp lớn công bố, kết quả bất ngờ</a><div class="meta">00:23</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://cafef.vn/khoi-ngoai-ban-rong-gan-3000-ty-trong-tuan-cuoi-thang-10-fpt-bi-xa-manh-nhat-188261031001137094.chn">Khối ngoại bán ròng gần 3.000 tỷ trong tuần cuối tháng 10, FPT bị &quot;xả&quot; mạnh nhất</a><div class="meta">00:11</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://cafef.vn/ty-phu-pham-nhat-vuong-huy-dong-10000-nhan-su-dua-may-dao-ham-khong-lo-vao-sieu-du-an-duong-sat-350-km-h-188261030172140235.chn">Tỷ phú Phạm Nhật Vượng huy động 10.000 nhân sự, đưa máy đào hầm khổng lồ vào siêu dự án đường sắt 350 km/h</a><div class="meta">00:03</div></div></li>
+  <li><span class="n">4.</span><div class="t"><a href="https://cafef.vn/doanh-thu-vietnam-airlines-sau-9-thang-tang-28-len-114480-ty-dong-lai-hon-4170-ty-188261030224748237.chn"><b>HVN:</b> Doanh thu Vietnam Airlines sau 9 tháng tăng 28% lên 114.480 tỷ đồng, lãi hơn 4.170 tỷ</a><div class="meta">22:47 30/10</div></div></li>
+  <li><span class="n">5.</span><div class="t"><a href="https://cafef.vn/dung-0h-ngay-24-12-sieu-san-bay-416000-ty-dong-cua-viet-nam-chinh-thuc-chay-188261030203132645.chn">Đúng 0h ngày 24/12, siêu sân bay 416.000 tỷ đồng của Việt Nam chính thức chạy</a><div class="meta">20:34 30/10</div></div></li>
+  <li><span class="n">6.</span><div class="t"><a href="https://cafef.vn/baf-bao-lai-gan-331-ty-dong-sau-9-thang-18826103020115074.chn"><b>BAF:</b> Báo lãi gần 331 tỷ đồng sau 9 tháng</a><div class="meta">20:11 30/10</div></div></li>
+  <li><span class="n">7.</span><div class="t"><a href="https://cafef.vn/thanh-vien-hdqt-hoa-phat-muon-ban-bot-co-phieu-hpg-18826103017051392.chn"><b>HPG:</b> Thành viên HĐQT muốn bán bớt cổ phiếu Hòa Phát</a><div class="meta">18:11 30/10</div></div></li>
+  <li><span class="n">8.</span><div class="t"><a href="https://cafef.vn/tap-doan-hoa-sen-dat-623-ty-dong-loi-nhuan-sau-thue-trong-ndtc-2025-2026-hoan-thanh-104-ke-hoach-o-phuong-an-cao-188261030181042245.chn"><b>HSG:</b> Tập đoàn Hoa Sen đạt 623 tỷ đồng lợi nhuận sau thuế trong NĐTC 2025 - 2026, hoàn thành 104% kế hoạch ở phương án cao</a><div class="meta">18:10 30/10</div></div></li>
+  <li><span class="n">9.</span><div class="t"><a href="https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-30-10-loat-doanh-nghiep-lon-don-dap-cong-bo-tch-bao-lai-tang-1233-pv-oil-lai-hon-900-ty-dong-gap-hon-5-lan-cung-ky-18826102923433041.chn">Cập nhật BCTC quý 3/2026 tối ngày 30/10: Vingroup, TPBank, Viettel Global, PC1 cùng hàng loạt doanh nghiệp tên tuổi dồn dập công bố trước hạn chót</a><div class="meta">17:52 30/10</div></div></li>
+  <li><span class="n">10.</span><div class="t"><a href="https://cafef.vn/hieu-dung-ve-goi-quyen-chon-nghin-ty-trong-vo-trai-phieu-100-ty-cua-dien-may-xanh-188261030162315113.chn">Hiểu đúng về gói quyền chọn nghìn tỷ trong ‘vỏ’ trái phiếu 100 tỷ của Điện Máy Xanh</a><div class="meta">17:39 30/10</div></div></li>
+  <li><span class="n">11.</span><div class="t"><a href="https://cafef.vn/sabeco-lai-3761-ty-dong-sau-9-thang-tam-ung-co-tuc-tien-mat-30-188261030165655227.chn"><b>SAB:</b> SABECO lãi 3.761 tỷ đồng sau 9 tháng, tạm ứng cổ tức tiền mặt 30%</a><div class="meta">17:30 30/10</div></div></li>
+  <li><span class="n">12.</span><div class="t"><a href="https://cafef.vn/pnj-lo-gan-1000-ty-trong-2-quy-giam-hon-1000-nhan-vien-trong-9-thang-dau-nam-188261030171129015.chn"><b>PNJ:</b> Lỗ thêm 257 tỷ trong quý 3, dự phòng giảm giá kim cương 1.700 tỷ, giảm hơn 1.000 nhân viên trong 9 tháng đầu năm</a><div class="meta">17:11 30/10</div></div></li>
+</ol>
+<h3 class="src">Vietstock</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="http://vietstock.vn/2026/10/cac-ngan-hang-giai-ngan-543-ngan-ty-dong-von-uu-dai-757-1509736.htm">Các ngân hàng giải ngân 54.3 ngàn tỷ đồng vốn ưu đãi</a><div class="meta">00:02</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="http://vietstock.vn/2026/10/giam-du-phong-rui-ro-bidv-tang-39-loi-nhuan-truoc-thue-quy-3-737-1509741.htm"><b>BID:</b> Giảm dự phòng rủi ro, tăng 39% lợi nhuận trước thuế quý 3</a><div class="meta">23:10 30/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="http://vietstock.vn/2026/10/tong-tai-san-gan-3-trieu-ty-dong-vietinbank-tang-29-lai-truoc-thue-quy-3-737-1509737.htm"><b>CTG:</b> Tổng tài sản gần 3 triệu tỷ đồng, tăng 29% lãi trước thuế quý 3</a><div class="meta">22:12 30/10</div></div></li>
+  <li><span class="n">4.</span><div class="t"><a href="http://vietstock.vn/2026/10/ho-kinh-doanh-doanh-nghiep-duoc-giam-thue-ngay-khi-ke-khai-758-1509733.htm">Hộ kinh doanh, doanh nghiệp được giảm thuế ngay khi kê khai</a><div class="meta">22:02 30/10</div></div></li>
+  <li><span class="n">5.</span><div class="t"><a href="http://vietstock.vn/2026/10/lai-9-thang-cua-tap-doan-bao-viet-tang-24-737-1509730.htm"><b>BVH:</b> Lãi 9 tháng tăng 24%</a><div class="meta">21:32 30/10</div></div></li>
+  <li><span class="n">6.</span><div class="t"><a href="http://vietstock.vn/2026/10/tang-trich-lap-du-phong-rui-ro-gap-8-lan-vietcombank-bao-lai-truoc-thue-quy-32026-di-ngang-737-1509726.htm"><b>VCB:</b> Tăng trích lập dự phòng rủi ro gấp 8 lần, lãi trước thuế quý 3/2026 đi ngang</a><div class="meta">21:08 30/10</div></div></li>
+  <li><span class="n">7.</span><div class="t"><a href="http://vietstock.vn/2026/10/ban-hieu-gi-ve-ccp-truoc-khi-co-che-nay-di-vao-van-hanh-830-1502161.htm">Bạn hiểu gì về CCP trước khi cơ chế này đi vào vận hành?</a><div class="meta">21:02 30/10</div></div></li>
+  <li><span class="n">8.</span><div class="t"><a href="http://vietstock.vn/2026/10/thi-truong-chung-khoan-viet-nam-lam-gi-de-giu-chan-dong-von-ngoai-sau-moc-nang-hang-830-1509722.htm">Thị trường chứng khoán Việt Nam làm gì để giữ chân dòng vốn ngoại sau mốc nâng hạng?</a><div class="meta">20:18 30/10</div></div></li>
+  <li><span class="n">9.</span><div class="t"><a href="http://vietstock.vn/2026/10/lai-rong-tang-gap-13-lan-tch-rot-them-3-ngan-ty-vao-2-du-an-moi-737-1509592.htm"><b>TCH:</b> Lãi ròng tăng gấp 13 lần, rót thêm 3 ngàn tỷ vào 2 dự án mới</a><div class="meta">20:12 30/10</div></div></li>
+  <li><span class="n">10.</span><div class="t"><a href="http://vietstock.vn/2026/10/tuan-26-3010-usd-index-ha-nhiet-cuoi-tuan-gia-usd-tu-do-bat-tang-757-1509031.htm">Tuần 26-30/10: USD-Index &#x27;hạ nhiệt&#x27; cuối tuần, giá USD tự do bật tăng</a><div class="meta">20:02 30/10</div></div></li>
+  <li><span class="n">11.</span><div class="t"><a href="http://vietstock.vn/2026/10/fpts-dat-ke-hoach-quy-4-di-lui-loi-nhuan-nam-kho-dat-muc-tieu-737-1509520.htm"><b>FTS:</b> Đặt kế hoạch quý 4 đi lùi, lợi nhuận năm khó đạt mục tiêu</a><div class="meta">19:17 30/10</div></div></li>
+  <li><span class="n">12.</span><div class="t"><a href="http://vietstock.vn/2026/10/sgn-lap-dinh-doanh-thu-loi-nhuan-co-phieu-tang-tran-2-phien-lien-737-1509540.htm"><b>SGN:</b> Lập đỉnh doanh thu, lợi nhuận, cổ phiếu tăng trần 2 phiên liền</a><div class="meta">19:10 30/10</div></div></li>
+  <li><span class="n">13.</span><div class="t"><a href="http://vietstock.vn/2026/10/chung-khoan-tuan-26-30102026-no-luc-phuc-hoi-bat-thanh-1636-1509392.htm">Chứng khoán Tuần 26-30/10/2026: Nỗ lực phục hồi bất thành</a><div class="meta">18:17 30/10</div></div></li>
+  <li><span class="n">14.</span><div class="t"><a href="http://vietstock.vn/2026/10/vingroup-lai-ky-luc-gan-44-ngan-ty-dong-sau-9-thang-737-1509404.htm"><b>VIC:</b> Lãi kỷ lục gần 44 ngàn tỷ đồng sau 9 tháng</a><div class="meta">18:16 30/10</div></div></li>
+  <li><span class="n">15.</span><div class="t"><a href="http://vietstock.vn/2026/10/standard-chartered-du-bao-viet-nam-uu-tien-tang-truong-nam-2027-tiem-nang-on-dinh-trong-nam-2028-761-1509375.htm">Standard Chartered dự báo Việt Nam ưu tiên tăng trưởng năm 2027, tiềm năng ổn định trong năm 2028</a><div class="meta">17:57 30/10</div></div></li>
+  <li><span class="n">16.</span><div class="t"><a href="http://vietstock.vn/2026/10/evs-chot-gia-han-khoan-phai-thu-hon-500-ty-dua-quyen-tong-giam-doc-vao-hdqt-737-1509370.htm"><b>EVS:</b> Chốt gia hạn khoản phải thu hơn 500 tỷ, đưa Quyền Tổng Giám đốc vào HĐQT</a><div class="meta">17:55 30/10</div></div></li>
+  <li><span class="n">17.</span><div class="t"><a href="http://vietstock.vn/2026/10/khang-dien-tien-them-buoc-phap-ly-tai-khu-nha-o-hon-18ha-o-tphcm-4222-1509376.htm"><b>KDH:</b> Tiến thêm bước pháp lý tại khu nhà ở hơn 18ha ở TPHCM</a><div class="meta">17:44 30/10</div></div></li>
+  <li><span class="n">18.</span><div class="t"><a href="http://vietstock.vn/2026/10/mb-thong-qua-ke-hoach-lap-ngan-hang-con-tai-vifc-von-dieu-le-3000-ty-757-1509270.htm"><b>MBB:</b> Thông qua kế hoạch lập ngân hàng con tại VIFC, vốn điều lệ 3.000 tỷ</a><div class="meta">17:12 30/10</div></div></li>
+  <li><span class="n">19.</span><div class="t"><a href="http://vietstock.vn/2026/10/doanh-thu-nlg-hon-2-ngan-ty-sau-9-thang-loat-du-an-buoc-vao-giai-doan-ban-giao-737-1509267.htm"><b>NLG:</b> Doanh thu hơn 2 ngàn tỷ sau 9 tháng, loạt dự án bước vào giai đoạn bàn giao</a><div class="meta">17:02 30/10</div></div></li>
+  <li><span class="n">20.</span><div class="t"><a href="http://vietstock.vn/2026/10/no-vay-dat-phuong-cao-ky-luc-737-1509271.htm"><b>DPG:</b> Nợ vay cao kỷ lục</a><div class="meta">16:55 30/10</div></div></li>
+</ol>
+<h3 class="src">VnEconomy</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://vneconomy.vn/sunshine-group-loi-nhuan-truoc-thue-9-thang-vuot-5900-ty-dong-tong-tai-san-gan-121000-ty-dong.htm"><b>KSF:</b> Lợi nhuận trước thuế 9 tháng vượt 5.900 tỷ đồng, tổng tài sản gần 121.000 tỷ đồng</a><div class="meta">18:46 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://vneconomy.vn/dong-tien-bo-qua-dinh-gia-chuyen-gia-20-nam-kinh-nghiem-cung-phai-thua-nhan-vn-index-rat-kho-doan.htm">Dòng tiền bỏ qua định giá, chuyên gia 20 năm kinh nghiệm cũng phải thừa nhận VN-Index rất khó đoán</a><div class="meta">16:24 30/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://vneconomy.vn/chu-tich-uy-ban-chung-khoan-5-nhiem-vu-trong-tam-nang-cao-chat-luong-thi-truong-sau-nang-hang.htm">Chủ tịch Ủy ban Chứng khoán: 5 nhiệm vụ trọng tâm nâng cao chất lượng thị trường sau nâng hạng</a><div class="meta">15:24 30/10</div></div></li>
+  <li><span class="n">4.</span><div class="t"><a href="https://vneconomy.vn/da-co-619-bao-cao-loi-nhuan-quy-32026-tang-23-nhom-tai-chinh-hut-hoi.htm">Đã có 619 báo cáo lợi nhuận quý 3/2026, tăng 23% nhóm tài chính hụt hơi</a><div class="meta">23:07 29/10</div></div></li>
+  <li><span class="n">5.</span><div class="t"><a href="https://vneconomy.vn/buc-tranh-loi-nhuan-cac-cong-ty-chung-khoan-trong-boi-canh-thanh-khoan-lao-doc-lai-suat-tang-cao.htm">Bức tranh lợi nhuận các công ty chứng khoán trong bối cảnh thanh khoản lao dốc, lãi suất tăng cao</a><div class="meta">09:51 29/10</div></div></li>
+</ol>
+<h3 class="src">Tin nhanh Chứng khoán</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVJ0QXNncUI2QUo1em9Sa2tKZm5Xckl5TWlVcDd1WU9DbGYxNTBvSUJhQ3BCX0ZaQm9URFNqcm1RaXc0b3dDem9Ibko5em9hYXpkVkhaUHpwaFdmbmdDN2MyRWVRbzA2ekxWU2ZJaTRySU5DYU15bU1GRXI1SDJiLTJ1TFhmVU1PNGp1UHBFNUlzQ3BkWWZ3WjRmV2pRSHo4eXpwYmlWSGdBcDlod1HSAaoBQVVfeXFMTWRLWXhvZXlDWVMtTzVXNUtTTV82Wk9namtoMXZxdG5CVnplS3VNajJmSEtwNXowenA5UXN6ejdWanBHX19HcHFqemRXUHFuaGxIa0NzUDFzeW5DeTJvay1aSkZieTZLLTJYYm5QZ2NjRnltNHVnYnlyRERKODdIeS0wMUtTdGlxLTN6eEJqVnpwa3FWRktNRFNKYms5MkN5WDNTVWxZTTBLWEE?oc=5">Doanh nghiệp muốn vay vốn xanh: Điểm nghẽn nằm ở dữ liệu ESG - Tin nhanh chứng khoán</a><div class="meta">19:50 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVpSY1Vxd3FfS3NGeFo4TzhCblFxTWM0aWdHMU1oMldkczZQd0VCY0owVmhrTTdncUY1ZmpINlRRV0VlUmF1cWsxQTUxcy1rNml2U0hMSlp4R0RQSTg5RmN3TnlKbnhHbXNkQ0pBZ2RGUDRpV3lGRmMwUE9lWXAtVTZXd0RfTnEyWV9lbVRmVjliRWtjYUtNYTdxOEhKREo2SlkzQkVoY0RzZ9IBpgFBVV95cUxPeENwNnBtenp6NW1NRVd3Z0pNSEdmLVFEVUQtODllR2NkYzlOMHJySnR2eXYyUVl2X3VkcFNZZS1KdkMzRUJVMDVLNHllTFBxR1B1TkQyOWxMM241cUdhSHZ6OENLclRIQ19YWHVZWUs4ay1ZN3pWNWVRYW9xVzd1Rm51elh4MVMtRjRCR3ZWT01vQnNnX29yOWx3YVBuOFpNVU9SWVhR?oc=5"><b>DIG:</b> Quý III/2026, lợi nhuận sau thuế giảm 64,2%</a><div class="meta">17:46 30/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQSjBHVVVIUHhtZm8xck81RGJuTXBIQ0lJSjRaQ2h4d213YVFpUWRwck5RMUh2QTNvTWduVnhnSUlISTlYOEl5SmZ5Z3BSSGhwZ3pKTXBaOWtLbXhNSlF5S0FXVkJkNEZDWlNzSHhoMzNMYm9OQ0tRdW9xeW8wXy1lMWNVTWRnZ2JlNm5mclN5OGxNVjFsaUVPMkV6QzQ1M1hrb2ZLakNNeFd1SmpiMmtCUy1lVzZpZFAzRVpGa0VUVm83VEJHZ2tUUFpqYjDSAcgBQVVfeXFMTjhObGNLTVZTLU42N1Y3VXprN0RpVUxpRzlPb1F0WTlLRmc2U3VxU0JmMDR4M1hURTV5ZElsdlVLT3RXY2Y4Rjg2MXU1cGZ1bEpfVTdBaFliOVNzeDBHM3JlU2RoWnlYN2RESGt6RkZzUU5PbloxUkRudUN0bDZVeTRWSVhmczFUemdpamlPbnB6Tjh6WWRLcEpOYmZXSEtpUV9HTDFzSUZfQ1FhdTU1YVZ6dUFPNzU0bGJfTThQX1UzS3ZHOENMZmI?oc=5">Nhìn lại diễn biến nhóm cổ phiếu được các công ty chứng khoán khuyến nghị tuần qua - Tin nhanh chứng khoán</a><div class="meta">17:43 30/10</div></div></li>
+  <li><span class="n">4.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTgzR0xKRlFSVVoyNWQwSW1EQW1COHdZVE92TXF2X0dSamRhXzd4dDFqWm9TNWlxbktKUXB3QjVEWm10eHJlNVAyNUl6b1oyaE81dmpZakZ3eGFhcDdwZmdPajNYd1R1dE1EMnl3S29TSjFMRVV3TVNqa1hhU2pkaXUxejFRTDRCMFV4Y2pyMTJWUkNhMFA0R0M5QWZDTEVIZ3Q4N1ZObFJBTkY4eHdsZ3FKbExIOURXZ3V6cGkwTWxQZ9IBvgFBVV95cUxOZTFsd3ZTTGlTUzBxQWFHSElHN1dXSjd6OU9iRk5uejhscmludEdnMFpUVXllMG1RODBURTgzbGJBWHRpTEJoWld0ejFZaHk1SExYbWN0R3lyUi1WUXBxQnhGX1RLTDZZTTRlTFdHVkVWdDl6M3JaQmE1Rl9sM1hYTkZfM3NxajJzbWhveGU2S1hOUDNjbHVyeUV5WDNZcGhvdHBoTFgwMnNtOHQtSXRfTFREd3JNNUdxTW1Odkd3?oc=5"><b>MSB:</b> Lợi nhuận trước thuế quý III/2026 đạt 2.017 tỷ đồng, tăng hơn 27%</a><div class="meta">16:20 30/10</div></div></li>
+  <li><span class="n">5.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEROWTBOSVI3UnpCb2dXMFBkdVpZMEdwRDVHUE01dUsxX1R6V29fTi1ucnZIQm5ZQXd5eFU1YXJLMWMtc3dYbUdrMTNpeEVQZElGdUdBVXZiOWlwcy1ZWkdySWNKd1N3Yk11Rm5sTUJnZ05aZTNmWjMxOU0tV0pWVHA4T200QjZvRlRfS0NWejhFTjBQeEowekRod2p1T0E1Z1FUZ1pRR3lyTi01UTE4NXFIRy1CMTRmZ0tWd2hvaGJzOFdvTXVyZUpqb0p4d9IBygFBVV95cUxNVVJPYm5UQ0UzNFpPTG8zQkp3NEh5LXAyLXlyM2xsVEdwM19LY3ZlclNkWW1KS0o2eGJyOVJIMkxJeElvUWlRMDE5R2hocG5JWWdnX3RYaERrR0pRVHhuOXZJbzl2bHo0YktQYTVFWUdmaERHWXZtSHAtaHdDNUZIUWdrTWpIMEVrZHFrbnlteVR0T2FLYlRha3YxYlgtSFIxZTZuOVEzOEp1UUpoZy13UldlTzFsLXpmcnItTnVtSEE0c2lpTkpoMG9B?oc=5"><b>TPC:</b> Bị phạt 150 triệu đồng do công bố sai lệch lợi nhuận năm 2025</a><div class="meta">15:53 30/10</div></div></li>
+  <li><span class="n">6.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNb0RGY2tERFdILUpmeUI0QVZJaWp6emdqSDFfM0JKUDdVMXVyeHQtdV9QeDJlS3g3TGZEaDVLbW4wZzc0dURVVElwbmJBVERibUlIc0Iyak55VHpDekdjN0xlQmNVcUFQOUxFaUFtQk14YTVFY0xQMy1OdzRLcThXb3RFbnZiZ2c0Ml82VTVlbUF2bUFaNGZmM3NfN3NFMnJUSmNLRkwwTzlER0kzZHhuaE1MdG1MN2o1S3BNQ1dTbi1GeXUtQkpHdkRkd9IBxwFBVV95cUxPb3daTGU3ZjBlWHhCWmpfdGNNYkc0Sk5DWlI5aXVMenVHRlRHZnVxWVRsQ01menU0OVcwMkhTdmRYYmhObE1Ba29hR3RjSEtLYkFyakIwbkx4bUtQRWJENldVd09HdkE5SjVHNVlXNUNPcElEMElOWGhIczJMT1JoN0hIRkpNck9oYnN2YWRQeGNzdERNQXlRVG9tSHdfaVFoaEVtUW1jQWdXemF0VTBEUXJESXJTZW5aUXBSQVhlVE95OHVMbWk4?oc=5">Việt Nam - Indonesia mở rộng hợp tác đầu tư, hướng tới mục tiêu thương mại 18 tỷ USD - Tin nhanh chứng khoán</a><div class="meta">15:37 30/10</div></div></li>
+  <li><span class="n">7.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPSy12NGo0V0wxQkcxWnJ1R0l0VUR5cW4xSm11ZzBraE9MVHlJNl9pUUpzWEFmOF9CYm9pTUYtS21ybVNTaE1QYm1wMHllT2ZMM3BDazQxSlJtYUlWbEVyakljLUx1Nm95RW1tN3pSODhxSE9zOFg3a2lnTnJocU5XR1NIS2pDSkVRVU12SjBYQ1VyRWpqc2ZybllzZlNXUEFSb21BUk1Wb2pLOGliNHBDZTliZ2hzdWtfbkNtNWJ1VUFlTXRfTnp30gHDAUFVX3lxTFByRGJNR0liOWtHZTcwQzhfaVR2WEVUc3ZXOXpWLTVPb0Q3ZjNmQU9IVVBzM2RaN2hENGJlUTZtRmI3ZExJanRIMUVKUUJYZUVwUXFWYkh0RjJKdFJuUlVuTWVTSjZ3QVJUdE9WeENjNTYwMTc5MVhRMDlBeXoweG5naTRNUWYtTWpBaDFIcjhHV3dDU2FTa1Q3SzdiMWhmQmhteWNtY1dCM1VWYWpoS0pUNkNXaWNHRHZkSGVCUHk2N2NyUQ?oc=5">Đại biểu Quốc hội đề nghị mở ba đường dẫn vốn khơi thông nguồn lực tăng trưởng - Tin nhanh chứng khoán</a><div class="meta">15:36 30/10</div></div></li>
+  <li><span class="n">8.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQb24zbXNBT1l0TVZPSzMxQmgtS2JPWm5sa3dhbHo3NDdRYXRoYmUzS1ZaQTVaOWQ0clNEVW8wN1hoM0o0YlBJa0sxaUF5OGdsU2hGQWd4UjNPNFZQYlJQc2xjT3J6aUw5YUxqTldGdlBRQ1B6MWRBQnFCR3pnUEFEeUVvbllnVEUzZzJMeS1wSGxzTjF4d1RHZmRHN2E4dHJzd2MydE1wbjhVcjFad0tEbNIBrAFBVV95cUxQTllKZmxEWkN0ZFNmWEJ5N2pPbEM2TnVSNlNGcFpyaFdKbXgxN1FKbTFNcE1uZEN6Nlh4a045eEtvajRLdEhqZklGdXBXdU44WXBwRGl2TENkWnhWUzk3XzNGaHNnMk0xWTJnazc0MzlzWEpsU0cwWU1na0tweUFkY2prSmhHR0VsdFdMdlJKTXN6SkhpbExoNU1hRXFJQkotdmpVSEdwOUtqbmhM?oc=5"><b>PNJ:</b> Con gái Chủ tịch bị bán giải chấp thêm 2,17 triệu cổ phiếu</a><div class="meta">15:35 30/10</div></div></li>
+  <li><span class="n">9.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxORElNaWZuU3lJcU1Mb2l2NDVNSm1JY1JleTBzTGtKTG5keHd1clJ2STRwRTNrRkhtY3lZeVN1akxaeXlKWE1nSG92V3FMdEJ3SlJzRWdpd2xJLTctMlE1elV6SmM2TVZNTkxIbkExVlB3YVhCcnhxYUtYaVZjSzcwSHNiQ0ozTXlqRjlPVDdQcGMwVW44Y29ucTl2d3g4a3BBMU5KaTVhWWFrNXFPMXZ4UNIBrAFBVV95cUxNTkd2c20tdWh3OEpSQ1dlZ2hUalNZamJoa1JEdDY4UktsMlhEY3N4VkRaTzN4aHZjU1I0Y3lTbERNZ1ZiVzdweU5yLUJ5bnhLTUl5LXRlS2tRcnJOckdmcnU3R09YaDh6VWF6enprM3RBT1lGQU4wR0IxUkU2ZFo4Y29idlhDSUNmYUVHR1Q0Skx3OVpSNUVwRUpvbkZhRGlCRW9GdkprOEJlUlFo?oc=5">Chủ tịch UBCKNN đề nghị rà soát quy định về sở hữu nước ngoài - Tin nhanh chứng khoán</a><div class="meta">15:25 30/10</div></div></li>
+  <li><span class="n">10.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdU9leGxidl91d0JZOTFLaXpSQm1RWkVFMXVRSjFXZGhGckNLalNHMWc3VS1YWS1oeTdyUWNUY1IzNlNLcV9tMHJLSTJwWjItczZZMnI3NW9ETjkxZzM2enltWEFUNF8zMlZ5TGN6ZlBBRFdaek9tcmZIUlVvbk1zM28xc2pqTzlnckZPUVV4ZDBhMTl4aEhMUzM3TmxjYVZ6Y2pVQXJFYXlwTlh0eDNMZ1JsR204Q1lGS3g0S1JKN0dYZWFmdmdLc0p3RG5nVWFWZFlJdlFPRdIB0wFBVV95cUxOTmpJZDFvUlNGbWFqQzVXZEFWUVN2aVYzUTBhX3AweGlNVmRjZVYtVU1rOTJoYnZsWi1VbHk3Ql84MFdNT0IyOTVCVnhZdlFoVEtid0RuRjEybmk4R2Q3anRPbUlrajR3cXpfMG9uUzJPZGlRSlFhNXFZVWxGSjNndlVnVmdiZDROYWZMaDREekhOenM0c1drbDdlOEJyTkdHc1BXUC00OUdYSS1fOTBtOHVGTmhDalFYNFFzaGhQV0RfLS1RalB"><b>TDC:</b> Lãi ròng 9 tháng giảm 82,5% và dòng tiền tiếp tục âm</a><div class="meta">15:19 30/10</div></div></li>
+  <li><span class="n">11.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLUV1SXVvakNYYU1qQnBLQ0VwS2tjWHZKSWtOc1VELURuOVhiZVpvNHB4aHpmQ1hBSlgzYkRHZkw2RWtlQXExMzY2U3l2RTdPYXhsalRtZTZqc2dJMDVHaEw0RDZYSG1kbmhlTlRWUW9TRjlfamJZT2g5eDFSZ3RWa1ZqZi1WdjVFYnJOMzF4Uk55TzBTVW8zT05PbnZjUTk3QmN4UUo4OXFkaGdnNjE0MC1SS3lnTVFzMUlaRE1VdXlNYU3SAb8BQVVfeXFMT3JKemFISHRHNEhpdWdiNHpLU1UzOFE0OWdaRjhJbHRHUUdkNmdHZWpSdW5LbGRkZHlubUROYlFxOG9tck1qX2g2TWVJck5HaF9JaUNGWTZFdmRUSDRINkRmLVlrSEh4VFppSXBnTTVrLVdqVFR3eFlNaEN3SzRyQmZLclpTSU9PYTcyT3dUNy1ZZjJVbllJLWxiNWNYU3lFSnpxMWprS184alRNb1o5R0U0UW9iRmdfN2pKN3ZBZWc?oc=5">Lợi nhuận ngành chứng khoán giảm, dư nợ margin lập kỷ lục gần 448.000 tỷ đồng - Tin nhanh chứng khoán</a><div class="meta">15:16 30/10</div></div></li>
+  <li><span class="n">12.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQNUFKbmZFSkdubkExbE9POE9OZFRYXzgtM0RNZU81cVNWaDRpb1pCV2x5Vm1USDBaR3o5OFdsQ3NTMjMtQmdkOHVfbmlOX3BGYmN4aHNpV3dLVDJrQWhGRnVPZktKVXNSQ2VGRy1vU08xQ1Z6Vkk0d19mOFVCQzd2M3lQbVNicVlONDEzaTcyUk1rQk9WQzNad3YwdXAzN0xmMGZpRVc5VdIBowFBVV95cUxPcWpfLWtCd2FsQkxSRW5aTFFzS25TRDZDUUlsbHc0VVU2S0Q5SWFRblNLNHRrbEVzMlMwU1BHR1hvSmdQQTRHd0lkRFFNR0ZLZkdtUkZqOUx1RGpEd0pvcERKZVA3bnQtSGIwanFocmdFTDVobmVNa1g1RXQ0aTUwMzFUTlFUV2ZQSkhTamplQzZVVXBwcnFxdzZuY2hFVlZBYmYw?oc=5"><b>VNS:</b> Lỗ 68,82 tỷ đồng trong 9 tháng đầu năm 2026</a><div class="meta">15:15 30/10</div></div></li>
+  <li><span class="n">13.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUxMV0ZNWnlyT3BrMFZTMllUZFdZekUwOVZlRG10TVExd3Y3d2pmZFU5UWJwR3lBVzJPalM2QVAtTzN5SEd2WnVZOFlzUWo3dmdWSUF2TjIyU2dJY1FEc3N4VkpoWUJzVFFUQ0RiVGUySE1tbkYzQ2x6N1pTRUo0N25pQkQ5NlZXN3JPVDlhTXh6OWJQMzQ2dGwyUXgwdEdTd2FSVkwxcmNpTHlqNGFqSHZ6NWd2SUxhOHRDeVFrV1g3aF9YUWJSYlRDY9IBxwFBVV95cUxQeWw1MFExdkdfYkNlMFhqNzk0YVdnMGlMVzFScG1kOHMyOFRzaExmN0VBSzk0RVBoUlNVdnFaeXhhZlVvcW5wWURBOV91YUhLUjlvcktBOTdDVWwzblFQMmtfLXA0Qlp1TU5salB4NVlUeEg5N29Ia2p1YmxZcHZDUEFXTzQwSmpsZzlQS3J2Ui1xM1JVN0M2LUxjTmU4S1ZqVjZMU2xva2U5N3RsYmVoUjZNNUI3R2RKZEpLVDNqRUM2QWN3d3lv?oc=5">Đề xuất “biện pháp cấp thiết&quot; bóc tách yếu tố đầu cơ phái sinh ra khỏi bất động sản - Tin nhanh chứng khoán</a><div class="meta">14:21 30/10</div></div></li>
+</ol>
+<h3 class="src">Báo Đầu tư</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3BLXzZqNk5OUFd0SDFfT1Vpckdpb3J1YmhrWnVEQ1pqOFF4Y3FZdTZVV3JIcHlmYXMzWGtBZHZLbTU1TEYydmllNFBCVnFTZmZRWG1yOG1CTGRsQjdzM0Jpd2w5V3NTQU5KQzhlLXdBUno3RFlDLTFKRW5zWFVNN002dUJGcURQRUxuWktZc20tY1l0dnlwOWttRC1uRUlMbktoeW1leE9MWHFlRDZXc3Q4NGJyNzN4eFQ5Xy1uWWI2Zw?oc=5">HKES hoàn tất đầu tư vào AL Global Energy, mở rộng hợp tác thủy điện Việt Nam - Nhật Bản - baodautu</a><div class="meta">16:38 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzJocU5vWmZySUpRdDdvWjIxN3ppaUp1QXBPc0xPeW1tTkljZkx0QndQVFFxQXpyVERpcWt4ZnI2WmE4QkhYaERRQ2puUWF6OU44cWIxbEsyc2lMUXZMeGFCa3pKUkVGOGdxb3c4dUJsdzNsRlNTQUROQl9MN3kzSnNUM3RNR0lxekU3cjRUN2xZdlhuNzFhcUpvUExrLUdSQ2VvYVZPRFhjN1M2WUFFbEo0WXRkVTE2b0RV?oc=5">TP.HCM thông qua chủ trương mở rộng 2 tuyến đường, tổng mức đầu tư hơn 10.800 tỷ đồng - baodautu</a><div class="meta">15:44 30/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlJGa0RSS01CekMxMzZlc25fT1prcUhYUWE1VFhBZTB1bDkxZVRBckl5cnhyUWZ3Y2IyZTdyeXYzN0FwaVZIWS03Zzh3OFRpU0otVGtFSVVOekZiSUVOc2o5OHhHaVBiV1lFT2FuUlRfZVVUNWNLR0Z4QmEwRC1uakNqR1h1aS1EYnRoamVVZ2gzZw?oc=5">Áp lực thoái vốn của khối ngoại có thể sớm hạ nhiệt - baodautu</a><div class="meta">14:43 30/10</div></div></li>
+  <li><span class="n">4.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPTm40NGhTZ3dBQkJTVFVQbklaSVExa1pyV29XOEZWQzd4Mm0zdW95WDN0QmdtbjRVNVNuVHZYTFhBVjI2SlFwaEhLMEluLTdJeEdUVTJqaTA0YjNwcC1fMUZyUlU1YXFnNjFKaldSaUNBa1hUSjBjRHBrSzF1ZEpLTzJ2cmViNF9ESEYzODY1ZjJaMDhIaExpTA?oc=5">Vàng bị thổi bay 1,3 triệu đồng/lượng, bitcoin lao dốc mạnh - baodautu</a><div class="meta">09:09 30/10</div></div></li>
+</ol>
+<h3 class="src">MarketTimes</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://markettimes.vn/co-phieu-kos-bat-ngo-duoc-giai-cuu-sau-29-phien-giam-san-lien-tiep-133651.html"><b>KOS:</b> Bất ngờ được &#x27;giải cứu&#x27; sau 29 phiên giảm sàn liên tiếp</a><div class="meta">09:56 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://markettimes.vn/nam-trong-tay-gan-4-300-cua-hang-khap-ca-nuoc-dinh-gia-bach-hoa-xanh-chua-den-31-000-ty-133637.html">Nắm trong tay gần 4.300 cửa hàng khắp cả nước, định giá Bách Hóa Xanh chưa đến 31.000 tỷ?</a><div class="meta">22:30 29/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://markettimes.vn/vinamilk-sap-chi-hon-5-200-ty-dong-tra-co-tuc-133612.html"><b>VNM:</b> Sắp chi hơn 5.200 tỷ đồng trả cổ tức</a><div class="meta">17:01 29/10</div></div></li>
+  <li><span class="n">4.</span><div class="t"><a href="https://markettimes.vn/fpt-retail-ghi-nhan-doanh-thu-48-273-ty-dong-sau-9-thang-tang-33-so-voi-cung-ky-133624.html"><b>FRT:</b> Doanh thu 48.273 tỷ đồng sau 9 tháng, tăng 33% so với cùng kỳ</a><div class="meta">16:26 29/10</div></div></li>
+  <li><span class="n">5.</span><div class="t"><a href="https://markettimes.vn/doanh-nghiep-casino-duy-nhat-tren-san-chung-khoan-tiep-tuc-thua-lo-nang-lo-luy-ke-hon-600-ty-133601.html"><b>RIC:</b> Doanh nghiệp casino duy nhất trên sàn chứng khoán tiếp tục thua lỗ, nâng lỗ lũy kế hơn 600 tỷ</a><div class="meta">13:01 29/10</div></div></li>
+  <li><span class="n">6.</span><div class="t"><a href="https://markettimes.vn/sacombank-bo-nhiem-ong-nguyen-xuan-ai-quoc-giu-chuc-pho-tong-giam-doc-133593.html"><b>STB:</b> Bổ nhiệm ông Nguyễn Xuân Ái Quốc giữ chức Phó Tổng giám đốc</a><div class="meta">11:02 29/10</div></div></li>
+</ol>
+<h3 class="src">Bloomberg Businessweek VN</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://bbw.vn/vifc-hcmc-ky-vong-dong-von-tu-10-thanh-vien-dau-tien-61250.html">VIFC-HCMC: Kỳ vọng dòng vốn từ 10 thành viên đầu tiên</a><div class="meta">16:45 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://bbw.vn/pandora-dat-cuoc-vao-san-xuat-tai-viet-nam-61221.html">Pandora đặt cược vào sản xuất tại Việt Nam</a><div class="meta">11:41 29/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://bbw.vn/viet-nam-se-co-co-hoi-xay-dung-nen-kinh-te-tac-tu-ai-61218.html">Việt Nam có cơ hội xây dựng nền kinh tế tác tử AI?</a><div class="meta">11:23 29/10</div></div></li>
+</ol>
+<h3 class="src">VnBusiness</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://vnbusiness.vn//loi-nhuan-bluemarq-group-lao-doc-dong-tien-thuan-am-hon-1800-ty-dong.html">Lợi nhuận BlueMarq Group lao dốc, dòng tiền thuần âm hơn 1.800 tỷ đồng</a><div class="meta">16:57 30/10</div></div></li>
+</ol>
+<h3 class="src">Tiền Phong</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://tienphong.vn/hop-tac-bsc-hana-securities-dau-an-trong-ket-noi-thi-truong-von-viet-nam-han-quoc-post1890095.tpo">Hợp tác BSC - Hana Securities: Dấu ấn trong kết nối thị trường vốn Việt Nam - Hàn Quốc</a><div class="meta">21:30 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://tienphong.vn/vuong-dam-phan-gia-mot-so-thuy-dien-nho-phai-dung-hoat-dong-post1889871.tpo">Vướng đàm phán giá, một số thủy điện nhỏ phải dừng hoạt động</a><div class="meta">13:29 30/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://tienphong.vn/xuat-nhap-khau-viet-nam-lan-dau-vuot-1000-ty-usd-post1889745.tpo">Xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD</a><div class="meta">19:25 29/10</div></div></li>
+</ol>
+<h3 class="src">Thời báo Ngân hàng</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQOU5OMXA4Z2g4eGRVTTA3S0Z4R0IxdXRGYnFCXzl1UllqTFZRY0x1VVlQdE9pNXFlY0pTWlFxeGVVWGduTy1CdG1WUnpLdUdvOXkwV0xNYjVHSGFzRGZoVFZfNXVqN3RQS0x3OUFoazdOZFJyR3h6WVFrQkNrbm9xcXJGdmhRRHFEelpsdHFnYWNRZl9rNFNuOGp1cDlFTmplVFI3U08wcFNWRldfaEE?oc=5">Tín dụng tăng 11,94%, dư nợ toàn nền kinh tế đạt khoảng 20,8 triệu tỷ đồng - Thời Báo Ngân Hàng</a><div class="meta">14:02 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQR19MMmJzb01XNjhvR0Ezb3poZUl2TXBYTXJQWXFmMjVtczBTVXpoSDh2OGkyaEZmal8yZ3YyQnh6dHNKWVNBelNDbFRDSTFTX2pyTWJMalhfQ0RDcmxNWlZyY05ISkJqOGxSYTZwMU1ZT1lDWm0tbGxuajBZSXp5VzlaNW8ybDhhZzFHRGZHbzhKeXlu?oc=5">Fed giữ nguyên lãi suất: Áp lực nào đối với Việt Nam? - Thời Báo Ngân Hàng</a><div class="meta">14:06 29/10</div></div></li>
+</ol>
+<h3 class="src">BNEWS</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHBEMFRSUmFhLTNIZjhqSk50NFZrVnlmdzh2aUtKcDRzT3VUeDRBQm9OOVRQTjUyQmZnMHBJd0RPenp0MjRTV3VmLWF0ZmJlMTJiWF9WRGZCTU82emlRVzNScGZhUWVoZGR1OWFJNl9xREczMGU3RnlFVkU2R3U3bU5wMVJuQQ?oc=5">Thu gần 3.200 tỷ đồng phí sử dụng đường bộ cao tốc - Bnews.vn</a><div class="meta">17:17 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTJveWQ4dGR4cUlzc2R0eHYzck5rcHRxbl9NZ0ZBREs4TFpoSFlOZ180Z3pqVFo0eENiLVdqdVJhSUppM0hXYzJOZjdVMTRITUpfNGFSdUJITjh5aEhST3cxMzV5SEEwV2dhYl8xMHhtekFqQzJFSmkxbWpyQlZsV3lGR3FIR3gzM3JPSk9NYXZCSDhsY0VVb2I2bXQ?oc=5">Chứng khoán kết thúc tháng 10 trong sắc đỏ, VN-Index mất gần 14 điểm - Bnews.vn</a><div class="meta">16:38 30/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXFfVnJxS3FiZlhPRXpieGl4YVNnbTdXSVJKMFJZQmUyTFV1VVQwSU5tbHVTcFZxS0szUTV5MTExQTJiMnZkNEtEdy1xQ1piQTk0cXBoYTQwRjM3Vm5nQlBjbTZ6dE9MeDhHOXhxcXAzWUhGYmZ1UmttS3FiUWZSY1pRbVpqNEhIWUEteldZZnh1TXAtdHRfQk1jcS16OElTN3FTZ3h4bno?oc=5">Bên lề Quốc hội: Mở lối cho dự án bất động sản đình trệ, tăng phân cấp quản lý - Bnews.vn</a><div class="meta">11:14 30/10</div></div></li>
+</ol>
+<h3 class="src">HOSE</h3>
+<ol class="news">
+  <li><span class="n">1.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/tms-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2510293"><b>TMS:</b> Quyết định về việc thay đổi đăng ký niêm yết</a><div class="meta">18:30 30/10</div></div></li>
+  <li><span class="n">2.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/yeg-giai-trinh-bctc-quy-32026/2510292"><b>YEG:</b> Giải trình BCTC quý 3/2026</a><div class="meta">18:30 30/10</div></div></li>
+  <li><span class="n">3.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/vds-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-thanh-loan/2510291"><b>VDS:</b> Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Thanh Loan</a><div class="meta">18:29 30/10</div></div></li>
+  <li><span class="n">4.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/pgv-giai-trinh-bctc-quy-32026/2510307"><b>PGV:</b> Giải trình BCTC quý 3/2026</a><div class="meta">18:28 30/10</div></div></li>
+  <li><span class="n">5.</span><div class="t"><a href="https://api.hsx.vn/tin-tuc/msn-cbtt-ngay-dkcc-lay-y-kien-co-dong-bang-van-ban/2510288"><b>MSN:</b> CBTT ngày ĐKCC lấy ý kiến cổ đông bằng văn bản</a><div class="meta">18:26 30/10</div></div></li>
+</ol>
+<!-- END:VIETNAM -->
+</section>
+
+<section id="phap-ly">
+  <h2>IV. 🚨 Pháp lý – Thanh tra – Khởi tố</h2>
+  <p class="sec-note">Xếp theo báo · ưu tiên doanh nghiệp lớn, vụ án lớn</p>
+<!-- BEGIN:LEGAL -->
+<h3 class="src">CafeF</h3>
+<ol class="news">
+  <li class="legal"><span class="n">1.</span><div class="t"><a href="https://cafef.vn/khoi-to-tong-giam-doc-tong-cong-ty-khoang-san-tkv-vimico-18826103021440237.chn">🚨 <b>KSV:</b> Khởi tố Tổng giám đốc Tổng công ty Khoáng sản TKV VIMICO</a><div class="meta">21:44 30/10</div></div></li>
+  <li class="legal"><span class="n">2.</span><div class="t"><a href="https://cafef.vn/3-ca-nhan-dung-61-tai-khoan-thao-tung-co-phieu-kido-suot-8-thang-loat-nguoi-lien-quan-nhan-cai-ket-dang-188261030203440487.chn">🚨 <b>KDC:</b> 3 cá nhân dùng 61 tài khoản thao túng cổ phiếu Kido suốt 8 tháng, loạt người liên quan nhận cái kết đắng</a><div class="meta">20:33 30/10</div></div></li>
+  <li class="legal"><span class="n">3.</span><div class="t"><a href="https://cafef.vn/cuu-nhan-vien-vinfast-linh-17-nam-tu-vi-lam-gia-gia-mao-ho-so-uu-dai-mua-xe-18826103016185766.chn">🚨 Cựu nhân viên VinFast lĩnh 17 năm tù vì làm giả, giả mạo hồ sơ ưu đãi mua xe</a><div class="meta">17:05 30/10</div></div></li>
+  <li class="legal"><span class="n">4.</span><div class="t"><a href="https://cafef.vn/chu-toa-dat-cau-hoi-khien-me-sieu-lua-mr-pips-lung-tung-bi-hai-dong-loat-vo-tay-188261030165424397.chn">🚨 Chủ tọa đặt câu hỏi khiến mẹ siêu lừa Mr Pips lúng túng, bị hại đồng loạt vỗ tay</a><div class="meta">16:55 30/10</div></div></li>
+</ol>
+<h3 class="src">Báo Đầu tư</h3>
+<ol class="news">
+  <li class="legal"><span class="n">1.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFhRLW0zTDVVdmR6dURLOFFpVldaUHIyT1lSNTlUNDkzcHFmUVpHREc4SUItTTVIdmRlWHJFLTdONVBNMmJWMmVXZEV2N2pWTm1odnI0dHVoTEpWM3dWR1BoOThCNzRKWVVvTVFqVGZRc1ZfRzJGWUJoMi03U3pqZ29KazFFZ0d1bVdiOHU0M2JMRHdvYnFkb2xwUnRJcnpwUEljUmNUTmdVMnhyb0E?oc=5">🚨 <b>BCG:</b> Đề nghị truy tố 16 bị can trong vụ án xảy ra tại Tập đoàn Bamboo Capital</a><div class="meta">20:16 30/10</div></div></li>
+  <li class="legal"><span class="n">2.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkZvQlpDSUhRRW9nS3dRVDF6bmNOVkFSUFEtVVVoN3VpdDI2ZDVYTVhTelVCbXpIbzJWeXNrNURqVEFVYzRydXpIcDZsbG5oeUFteXkySUxDdkhjWGRzdlNzMW50N0ZtNVlMOW9BRnY3WktvWGZEbXk3aS1xdHRiWWNPWFBxVWE0OHpCQnk1cEZNVlk1MTVTTGJFS1VMWFJLekdJaVNyRkNtYUFKaVlELUdnaGpCWUZmUnc?oc=5">🚨 TP.HCM: Chi trả đợt 11 hơn 1.500 tỷ đồng vụ án Trương Mỹ Lan bồi thường cho trái chủ - baodautu</a><div class="meta">16:54 30/10</div></div></li>
+  <li class="legal"><span class="n">3.</span><div class="t"><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbjg2QWJycTdhTDR6em1PUGtGa0laeThockRvbGF5NEdnbWthLWRrVHRqb3hVSlRnTWpZMVRPUy1Fa1RGNzFCSlZuRVdQcUJZWmhMYjZZZ3NRMGZtaTFIb0xXNTA2MGw1UjlhbGQ4dUZsYW5zdXJjUjdxTDROWVFWMVpYRlctUWJMaDU3TFdmdmRhSTZtZ292UFdiaXdaUmZhSlhaMm0xbVpEVHQ4cFVlck9LcjVJNjM2UmdramRBaTJDZHNlVDEtNG14YlJRNTh2UHV0VTlR?oc=5">🚨 Thanh tra Chính phủ phát hiện nhiều vi phạm của Bộ Nông nghiệp và Môi trường trong cấp phép khoáng sản - baodautu</a><div class="meta">15:58 29/10</div></div></li>
+</ol>
+<h3 class="src">MarketTimes</h3>
+<ol class="news">
+  <li class="legal"><span class="n">1.</span><div class="t"><a href="https://markettimes.vn/ong-le-cao-quyen-bi-bat-doanh-nghiep-bao-lai-quy-3-gap-doi-cung-ky-133631.html">🚨 Ông Lê Cao Quyền bị bắt, doanh nghiệp báo lãi quý 3 gấp đôi cùng kỳ</a><div class="meta">19:02 29/10</div></div></li>
+</ol>
+<h3 class="src">VnExpress</h3>
+<ol class="news">
+  <li class="legal"><span class="n">1.</span><div class="t"><a href="https://vnexpress.net/cuu-cong-an-khai-ca-ne-nen-nhan-2-57-ty-dong-chay-giam-dinh-tam-than-cho-mr-pips-5138536.html">🚨 Cựu công an khai cả nể nên nhận 2,57 tỷ đồng &#x27;chạy&#x27; giám định tâm thần cho Mr Pips</a><div class="meta">05:18 30/10</div></div></li>
+</ol>
+<!-- END:LEGAL -->
+</section>
+
+<section id="chot-quyen">
+  <h2>📅 Lịch chốt quyền cổ tức</h2>
+  <table>
+    <thead><tr><th>Mã</th><th>Sự kiện</th><th class="num">Ngày ĐKCC</th></tr></thead>
+    <tbody>
+<!-- BEGIN:DIVIDENDS -->
+<tr><td colspan="3">Không có mã nào chốt quyền trong 10 ngày tới.</td></tr>
+<!-- END:DIVIDENDS -->
+    </tbody>
+  </table>
+</section>
+
+<footer>
+  Bản tin điểm tin tự động, tổng hợp từ nguồn công khai có dẫn link gốc — chỉ mang tính tham khảo, không phải khuyến nghị đầu tư.<br>
+<!-- BEGIN:PREVLINK -->
+<a class="prev-link" href="archive/2026-10-30.html">← Bản tin hôm trước</a>
+<!-- END:PREVLINK -->
+</footer>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  var btn = document.getElementById('themeBtn');
+  var saved = null;
+  try { saved = localStorage.getItem('theme'); } catch (e) {}
+  if (saved === 'dark' || saved === 'light') root.dataset.theme = saved;
+  function cur() {
+    return root.dataset.theme ||
+      (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  }
+  function paint() { btn.textContent = cur() === 'dark' ? '☀️' : '🌙'; }
+  btn.addEventListener('click', function () {
+    var next = cur() === 'dark' ? 'light' : 'dark';
+    root.dataset.theme = next;
+    try { localStorage.setItem('theme', next); } catch (e) {}
+    paint();
+  });
+  paint();
+})();
+</script>
+</body>
+</html>
