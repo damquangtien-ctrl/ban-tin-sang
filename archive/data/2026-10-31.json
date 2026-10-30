@@ -734,5 +734,44 @@
    "link": "https://vneconomy.vn/fed-giu-nguyen-lai-suat-du-thua-nhan-lam-phat-dang-cao.htm"
   }
  ],
- "content_sha": "c7cab6c65458c802ea98293a5c3b4f90891e22986daf7076a07ed67f1e0ab461"
+ "content_sha": "c7cab6c65458c802ea98293a5c3b4f90891e22986daf7076a07ed67f1e0ab461",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "2a03e94cbec36e42b0e11178c5178aa6ca39e25f",
+   "published_at": "2026-10-31T06:51:43+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "302",
+   "sent_at": "2026-10-31T06:51:44+07:00",
+   "content_sha": "c7cab6c65458c802ea98293a5c3b4f90891e22986daf7076a07ed67f1e0ab461",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "302",
+     "sent_at": "2026-10-31T06:51:44+07:00",
+     "content_sha": "c7cab6c65458c802ea98293a5c3b4f90891e22986daf7076a07ed67f1e0ab461"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "1b7417ee667b24227d6d",
+   "sent_at": "2026-10-31T06:51:45+07:00",
+   "content_sha": "c7cab6c65458c802ea98293a5c3b4f90891e22986daf7076a07ed67f1e0ab461",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "1b7417ee667b24227d6d",
+     "sent_at": "2026-10-31T06:51:45+07:00",
+     "content_sha": "c7cab6c65458c802ea98293a5c3b4f90891e22986daf7076a07ed67f1e0ab461"
+    }
+   ]
+  }
+ }
 }
