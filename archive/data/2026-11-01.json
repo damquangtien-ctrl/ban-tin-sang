@@ -1,0 +1,185 @@
+{
+ "date": "2026-11-01",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Số liệu việc làm Mỹ khởi sắc, Fed có thể tiếp tục tăng lãi suất"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Căng thẳng Mỹ - Iran leo thang, tàu chở dầu bốc cháy tại Eo biển Hormuz sau khi va mìn"
+  },
+  {
+   "source": "Thị trường Mỹ",
+   "text": "Thị trường Mỹ giảm sâu cuối tháng 10: Nasdaq -2,86%, cổ phiếu công nghệ và crypto bị bán mạnh"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "FBI xác nhận Triều Tiên đứng sau vụ hack sàn Binance 6,3 tỷ USD"
+  },
+  {
+   "source": "HOSE",
+   "text": "VN-Index giảm 13,99 điểm về 1.741,62 điểm, khối ngoại bán ròng khoảng 641 tỷ đồng"
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-13,99 (-0,80%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.741,62"
+   },
+   {
+    "change": "-3,87 (-1,51%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "252,74"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~14.673 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng ~641 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND",
+    "value": "Mua CK 25.610 · Bán 25.990"
+   }
+  ],
+  "summary": "Thị trường Mỹ giảm sâu trong phiên cuối tuần: S&P 500 mất 1,82%, Nasdaq giảm 2,86% khi nhóm công nghệ và bán dẫn bị bán mạnh, Dow Jones giảm 1,09%. Dầu WTI tăng 2,08% lên 104,1 USD/thùng giữa lúc căng thẳng Mỹ - Iran tại Eo biển Hormuz leo thang, vàng thế giới giảm 3,29% xuống 3.899 USD/ounce. Trong nước, phiên 30/10 VN-Index giảm 13,99 điểm (-0,80%) về 1.741,62 điểm, HNX-Index giảm 1,51%; thanh khoản HOSE khoảng 14.673 tỷ đồng, khối ngoại bán ròng khoảng 641 tỷ đồng, tập trung xả VIC. Giá vàng SJC trong nước chưa truy cập được do nguồn tạm gián đoạn.",
+  "tiles": [
+   {
+    "change_pct": -1.82,
+    "label": "S&P 500",
+    "value": "7.580,1"
+   },
+   {
+    "change_pct": -1.09,
+    "label": "Dow Jones",
+    "value": "51.770,3"
+   },
+   {
+    "change_pct": -2.86,
+    "label": "Nasdaq",
+    "value": "25.437,0"
+   },
+   {
+    "change_pct": 2.08,
+    "label": "Dầu WTI",
+    "value": "104,1 USD"
+   },
+   {
+    "change_pct": -1.26,
+    "label": "Dầu Brent",
+    "value": "113,4 USD"
+   },
+   {
+    "change_pct": -3.29,
+    "label": "Vàng thế giới",
+    "value": "3.899 USD"
+   },
+   {
+    "change_pct": 0.26,
+    "label": "Bitcoin",
+    "value": "77.395 USD"
+   },
+   {
+    "change_pct": -0.07,
+    "label": "DXY",
+    "value": "101,96"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "bloomberg:bb2e88199b",
+   "title": "Số liệu việc làm Mỹ khởi sắc, Fed có thể tiếp tục tăng lãi suất",
+   "translated": true,
+   "original_title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again"
+  },
+  {
+   "ref": "tg-marketfeed:1068659",
+   "title": "FBI xác nhận Triều Tiên đứng sau vụ hack sàn Binance, thiệt hại hơn 6,3 tỷ USD",
+   "translated": true,
+   "original_title": "BREAKING: 🇺🇸 🇰🇵 FBI CONFIRMS NORTH KOREA IS RESPONSIBLE FOR THE $6,300,000,000 BINANCE CRYPTO HACK. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068625",
+   "title": "Binance cho biết đã khôi phục 90% tài sản bị đánh cắp sau vụ hack",
+   "translated": true,
+   "original_title": "BINANCE SAYS ON HACK - 90% OF STOLEN ASSETS REPLENISHED ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068623",
+   "title": "Tàu chở dầu bốc cháy tại Eo biển Hormuz sau khi va mìn hải quân, hải quân Iran xác nhận",
+   "translated": true,
+   "original_title": "IRAN'S NAVY SAYS OIL TANKER CATCHES FIRE IN STRAIT OF HORMUZ AFTER COLLIDING WITH NAVAL MINES - STATE MEDIA ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068653",
+   "title": "Iran tuyên bố giữ đóng Eo biển Hormuz cho đến khi các điều kiện của Tehran được đáp ứng",
+   "translated": true,
+   "original_title": "IRAN’S SECURITY CHIEF REZAEI: STRAIT OF HORMUZ TO STAY CLOSED UNTIL TEHRAN’S CONDITIONS FULFILLED ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068617",
+   "title": "Ngoại trưởng Mỹ: Ông Trump chưa quyết định hành động quân sự với Iran",
+   "translated": true,
+   "original_title": "RUBIO: TRUMP HAS NOT MADE A DECISION REGARDING THE IMPLEMENTATION OF MILITARY ACTION AGAINST IRAN ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068648",
+   "title": "Tháng 10 \"đẫm máu\" với công nghệ và crypto: Intel giảm 45,3%, Nvidia giảm 10,4%, Bitcoin giảm 7,3%",
+   "translated": true,
+   "original_title": "\"UPTOBER\" MARKET RECAP: • BNB $BNB: -8.4% • XRP $XRP: -16.2% • AMD $AMD: -17.5% • INTEL $INTC: -45.3% • BITCOIN $BTC: -7.3% • MICRON $MU: -16.9% • META $META: -15.2% • SOLANA $SOL: -18.8% • NVIDIA $NVDA: -10.4% • REDDIT $RDDT: -35.6% • SPACEX $SPCX: -10.7% • ETHEREUM $ETH: -16.3% • GOOGLE $GOOGL: -18.7% • COINBASE $COIN: -23.0% • ROBINHOOD $HOOD: -24.5% ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068620",
+   "title": "Ngoại trưởng Mỹ: Ông Trump dự kiến gặp Chủ tịch Trung Quốc Tập Cận Bình và Tổng thống Nga Putin tại G20/APEC",
+   "translated": true,
+   "original_title": "US SECRETARY OF STATE RUBIO: ANTICIPATE TRUMP, CHINA'S XI TO CONVENE AT G20 AND APEC GATHERINGS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068654",
+   "title": "Sở giao dịch Moscow sẽ cho giao dịch tiền điện tử xuyên suốt các phiên từ 1/12 theo luật mới",
+   "translated": true,
+   "original_title": "JUST IN: 🇷🇺 RUSSIA'S MOSCOW EXCHANGE TO OFFER CRYPTOCURRENCY TRADING ACROSS ALL TRADING SESSIONS UNDER NEW LEGISLATION STARTING DECEMBER 1ST. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1068612",
+   "title": "G20: Các bộ trưởng ngoại giao nhất trí về an ninh lương thực, chuỗi cung ứng khoáng sản thiết yếu và tự do hàng hải",
+   "translated": true,
+   "original_title": "RUBIO: G20 FOREIGN MINISTERS AGREED ON THE IMPORTANCE OF FOOD SECURITY, CRITICAL MINERAL SUPPLY CHAINS, AND FREEDOM OF NAVIGATION ...",
+   "link": null
+  }
+ ],
+ "content_sha": "d08f2756e297dddf64039fda221cae12181184dced2e5bb5aef227ce15eec6d5"
+}
