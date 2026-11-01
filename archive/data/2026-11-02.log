@@ -1,0 +1,39 @@
+
+########## CHAY LUC 2026-11-02 06:46:08 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-02, ban daily)
+   the gioi 21 tin · Viet Nam 70 tin / 9 bao · phap ly 9 tin · chot quyen 10 ma
+   CANH BAO [C9] world[18]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[19]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[20]: tin lấy từ nguồn trong nước 'MarketTimes'
+   THAT BAI: 2 loi
+      [C9] legal: khối 'Báo Đầu tư' phải đứng trước 'VnExpress' theo thứ tự báo phổ biến
+      [C4] world[18]: URL không hợp lệ 'http://vietstock.vn/2026/11/openai-ha-muc-tieu-goi-von-giua-' (nguồn web phải https)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-11-02 06:46:50 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-02, ban daily)
+   the gioi 18 tin · Viet Nam 73 tin / 9 bao · phap ly 9 tin · chot quyen 10 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-02 · the gioi 18 · Viet Nam 73 · phap ly 9
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-02.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-02: commit 4ad8f9e57be1 · sha noi dung 2d9c25fa0497ccf1
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 02/11 | content_sha bf6d5869d0c4 | commit 4ad8f9e57be1
+   telegram user/928f6fc4179d OK message_id=304
+   zalo     user/593dd2adbb87 OK message_id=69a6b8613a7e7e272768
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-02.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-02 06:47:26 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

@@ -693,5 +693,44 @@
    "link": "https://www.bloomberg.com/news/articles/2026-11-01/colombia-is-at-risk-of-default-without-fiscal-fix-restrepo-says"
   }
  ],
- "content_sha": "bf6d5869d0c4a30310bbb201586bae9204595d2867fb8c89a680e066ec878f28"
+ "content_sha": "bf6d5869d0c4a30310bbb201586bae9204595d2867fb8c89a680e066ec878f28",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "4ad8f9e57be1c2075b439a25ad73b533c3870941",
+   "published_at": "2026-11-02T06:47:24+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "304",
+   "sent_at": "2026-11-02T06:47:25+07:00",
+   "content_sha": "bf6d5869d0c4a30310bbb201586bae9204595d2867fb8c89a680e066ec878f28",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "304",
+     "sent_at": "2026-11-02T06:47:25+07:00",
+     "content_sha": "bf6d5869d0c4a30310bbb201586bae9204595d2867fb8c89a680e066ec878f28"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "69a6b8613a7e7e272768",
+   "sent_at": "2026-11-02T06:47:26+07:00",
+   "content_sha": "bf6d5869d0c4a30310bbb201586bae9204595d2867fb8c89a680e066ec878f28",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "69a6b8613a7e7e272768",
+     "sent_at": "2026-11-02T06:47:26+07:00",
+     "content_sha": "bf6d5869d0c4a30310bbb201586bae9204595d2867fb8c89a680e066ec878f28"
+    }
+   ]
+  }
+ }
 }
