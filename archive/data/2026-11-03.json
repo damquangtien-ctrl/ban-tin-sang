@@ -623,5 +623,44 @@
    "link": "https://vneconomy.vn/cac-quan-chuc-fed-khang-dinh-can-tang-lai-suat-them.htm"
   }
  ],
- "content_sha": "2262d1fbb49f9e2e3367081eae28c9998eefc1d0063299bb41d0e7eba95bb357"
+ "content_sha": "2262d1fbb49f9e2e3367081eae28c9998eefc1d0063299bb41d0e7eba95bb357",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "c2bede528c43de464e793e6e658ad78286ba7281",
+   "published_at": "2026-11-03T06:49:52+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "305",
+   "sent_at": "2026-11-03T06:49:53+07:00",
+   "content_sha": "2262d1fbb49f9e2e3367081eae28c9998eefc1d0063299bb41d0e7eba95bb357",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "305",
+     "sent_at": "2026-11-03T06:49:53+07:00",
+     "content_sha": "2262d1fbb49f9e2e3367081eae28c9998eefc1d0063299bb41d0e7eba95bb357"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "316aa91de51aa243fb0c",
+   "sent_at": "2026-11-03T06:49:54+07:00",
+   "content_sha": "2262d1fbb49f9e2e3367081eae28c9998eefc1d0063299bb41d0e7eba95bb357",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "316aa91de51aa243fb0c",
+     "sent_at": "2026-11-03T06:49:54+07:00",
+     "content_sha": "2262d1fbb49f9e2e3367081eae28c9998eefc1d0063299bb41d0e7eba95bb357"
+    }
+   ]
+  }
+ }
 }
