@@ -1,0 +1,651 @@
+{
+ "date": "2026-11-04",
+ "dividends": [
+  {
+   "event": "Cổ tức tiền mặt tỷ lệ 30% (3.000 đồng/cp, gồm 20% còn lại năm 2025 và tạm ứng 10% đợt 1/2026)",
+   "record_date": "2026-11-12",
+   "ref": "cafef:5c088773cc",
+   "ticker": "PMC"
+  },
+  {
+   "event": "Tạm ứng cổ tức tiền mặt đợt 1/2026, tỷ lệ 65% (6.500 đồng/cp)",
+   "record_date": "2026-11-12",
+   "ref": "cafef:00265cb3c4",
+   "ticker": "BMP"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VN-Index",
+   "text": "VN-Index thủng mốc 1.700 điểm, đóng cửa phiên 3/11 giảm 0,65% về 1.699,62 điểm; khối ngoại bán ròng gần 502 tỷ đồng trên HOSE"
+  },
+  {
+   "source": "Thị trường Mỹ",
+   "text": "Thị trường Mỹ biến động trong ngày bầu cử giữa nhiệm kỳ; AMD tăng vọt sau dự báo doanh thu trung tâm dữ liệu vượt 80% tổng doanh thu năm 2027"
+  },
+  {
+   "source": "Vietcombank (VCB)",
+   "text": "Vietcombank báo lãi hơn 40.400 tỷ đồng sau 9 tháng, được NHNN chấp thuận tăng vốn điều lệ thêm 5.431 tỷ đồng"
+  },
+  {
+   "source": "Nvidia",
+   "text": "Nvidia yêu cầu đối tác trung tâm dữ liệu giảm bán dịch vụ cho khách hàng Trung Quốc, siết nguồn chip AI cao cấp"
+  },
+  {
+   "source": "CPI Việt Nam",
+   "text": "CPI Việt Nam 10 tháng đầu năm 2026 vượt ngưỡng tăng 4,5%, áp lực chủ yếu từ giá nhiên liệu"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:974f245e0b",
+     "title": "Tham ô 79 tỷ Quỹ Bình ổn giá, bà Chu Thị Thành bị đề nghị phạt 16-18 năm tù"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:5a783a490f",
+     "title": "Vụ bán chui 5,1 triệu lít xăng: 'Đừng mang mẹ già, con nhỏ ra xin giảm án'"
+    },
+    {
+     "ref": "vnexpress:7527b63f3c",
+     "title": "Sau cú bắt tay với Chủ tịch BMC, bà Trương Mỹ Lan được chia 1.235 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:0aeb3965a6",
+     "title": "Kế toán PVOil Vũng Áng bị đề nghị tù chung thân vì tham ô 94 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:776caf838d",
+     "title": "Giám đốc Tân Thuận Phong được vợ con gom hàng triệu USD đi 'tìm cách giảm nhẹ tội'"
+    },
+    {
+     "ref": "vnexpress:4011f504f1",
+     "title": "Xoay xở cứu 20 dự án dở dang, BMC sa lầy vào khoản nợ 22.500 tỷ đồng"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:a8a6beac11",
+     "title": "GAS: bị xử phạt vì sử dụng hoá đơn không hợp pháp"
+    },
+    {
+     "ref": "google-news-ph-p-l:e7fd1c7a9e",
+     "title": "TDP: UBCKNN xử phạt, yêu cầu khắc phục hậu quả phát hành thêm cổ phiếu không đúng thời hạn"
+    },
+    {
+     "ref": "google-news-ph-p-l:ae872ac492",
+     "title": "Vietnam Post vào diện thanh tra về quản lý vốn và đầu tư tài chính"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-0,65%",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.699,62 điểm"
+   },
+   {
+    "change": "+0,35%",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "251,42 điểm"
+   },
+   {
+    "change": "-28,8% KL",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "515 triệu đơn vị (~12.940 tỷ đồng)"
+   },
+   {
+    "change": "Mua ròng 7 tỷ đồng trên HNX",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~502 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": "Mua CK 25.580",
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "25.960"
+   }
+  ],
+  "summary": "Phố Wall tăng điểm trong phiên 3/11 nhờ đà lạc quan nhóm bán dẫn - AI, với Nasdaq dẫn đầu khi AMD tăng vọt sau báo cáo kết quả kinh doanh; giá dầu và vàng thế giới đồng loạt giảm trong khi USD mạnh lên. Tại thị trường trong nước, VN-Index đóng cửa phiên 3/11 giảm 0,65% về 1.699,62 điểm, thủng mốc tâm lý 1.700 điểm, trong khi HNX-Index tăng nhẹ 0,35% lên 251,42 điểm. Thanh khoản HOSE sụt giảm với khối lượng khớp lệnh hơn 515 triệu đơn vị, giảm 28,8% so với phiên trước; khối ngoại bán ròng gần 502 tỷ đồng trên HOSE nhưng mua ròng nhẹ trên HNX. Giá vàng SJC và biến động tỷ giá USD/VND chưa có số liệu so sánh phiên trước do nguồn dữ liệu gặp lỗi kỹ thuật.",
+  "tiles": [
+   {
+    "change_pct": 0.36,
+    "label": "S&P 500",
+    "value": "7.568,9"
+   },
+   {
+    "change_pct": -0.38,
+    "label": "Dow Jones",
+    "value": "51.786,7"
+   },
+   {
+    "change_pct": 0.83,
+    "label": "Nasdaq",
+    "value": "25.372,0"
+   },
+   {
+    "change_pct": 0.29,
+    "label": "Dầu WTI",
+    "value": "96,7 USD"
+   },
+   {
+    "change_pct": -0.42,
+    "label": "Dầu Brent",
+    "value": "104,3 USD"
+   },
+   {
+    "change_pct": -0.82,
+    "label": "Vàng thế giới",
+    "value": "3.937 USD"
+   },
+   {
+    "change_pct": 1.48,
+    "label": "Bitcoin",
+    "value": "77.813 USD"
+   },
+   {
+    "change_pct": 0.14,
+    "label": "DXY",
+    "value": "101,89"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:26e8b2c1c1",
+     "title": "Chủ tịch U70 một doanh nghiệp thuộc hệ sinh thái Petrolimex xin nghỉ hưu sau hơn 4 năm giữ chức"
+    },
+    {
+     "ref": "cafef:003cfe4fdc",
+     "title": "Công ty Ấn Độ cung cấp phần mềm cho hơn 20 triệu ô tô vừa quyết định lập công ty con tại Việt Nam, là đối tác của Honda và Renault"
+    },
+    {
+     "ref": "cafef:b2579a0679",
+     "title": "Sàn tài sản mã hóa tại Việt Nam sẽ phải công khai những gì? Một mốc thời gian đáng chú ý vừa được ấn định"
+    },
+    {
+     "ref": "cafef:a3c25e7ec0",
+     "title": "FPT: CTCK đưa ra dự báo bất ngờ về triển vọng"
+    },
+    {
+     "ref": "cafef:0099d78aec",
+     "title": "Một lĩnh vực từng hút hơn 82 triệu USD tại Việt Nam bất ngờ mất 99% vốn chỉ sau một năm: Chuyện gì đã xảy ra?"
+    },
+    {
+     "ref": "cafef:6578d1f57d",
+     "title": "Buồn của cổ đông FPT, Masan Consumer, SSI: Hàng chục nghìn tỷ vốn hóa bay hơi khỏi doanh nghiệp từ đầu năm"
+    },
+    {
+     "ref": "cafef:673d07ec22",
+     "title": "Trúng tới 46 gói thầu từ Vingroup, Sun Group, Masterise, MIK, một doanh nghiệp thu gần 11.300 tỷ trong 3 tháng, lãi lớn nhất trong vòng 31 quý"
+    },
+    {
+     "ref": "cafef:3c2d92f91c",
+     "title": "Loạt công ty trên sàn phá kỷ lục kép cả doanh thu và lợi nhuận trong quý 3: Có công ty lợi nhuận tăng hơn 16.000%"
+    },
+    {
+     "ref": "cafef:fead6352eb",
+     "title": "Giật mình giá trị khối ngoại bán ròng từ khi chứng khoán Việt Nam được nâng hạng"
+    },
+    {
+     "ref": "cafef:0c00a700d4",
+     "title": "Hơn 21.000 tỷ đổ vào các thương vụ IPO: Thêm hàng hóa chất lượng cho thị trường chứng khoán"
+    },
+    {
+     "ref": "cafef:dfc98361b1",
+     "title": "Ủy ban Chứng khoán yêu cầu công ty chứng khoán rà soát, tăng cường an ninh mạng"
+    },
+    {
+     "ref": "cafef:317c347c0a",
+     "title": "Công ty đầu tiên hé lộ doanh thu cả năm 2026 đạt gần 224.000 tỷ đồng, tăng 56%"
+    },
+    {
+     "ref": "cafef:e708241bd9",
+     "title": "HBC: Doanh thu khởi sắc nhưng dòng tiền và lợi nhuận sụt giảm"
+    },
+    {
+     "ref": "cafef:93c5dba2c0",
+     "title": "Giải bài toán lớn để Việt Nam đón dòng vốn toàn cầu chảy qua Trung tâm tài chính"
+    },
+    {
+     "ref": "cafef:313a318d7a",
+     "title": "BAF: thành lập liên doanh với tập đoàn lớn thế giới về chăn nuôi gia cầm"
+    },
+    {
+     "ref": "cafef:cb80751e2c",
+     "title": "VHM: Giám đốc Tài chính Đầu tư Vinhomes nói gì về nhà phù hợp túi tiền?"
+    },
+    {
+     "ref": "cafef:ad6f63dbe7",
+     "title": "HGI: chính thức chốt ngày giao dịch UPCoM, vốn hóa hơn 11.350 tỷ đồng"
+    },
+    {
+     "ref": "cafef:cef68ff1f7",
+     "title": "9 doanh nghiệp Việt góp mặt trong danh sách Fortune 100 tại Đông Nam Á"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:26ef1d811c",
+     "title": "Lite-On rót thêm 320 triệu USD cho nhà máy Việt Nam, đón đơn hàng điện toán đám mây Bắc Mỹ"
+    },
+    {
+     "ref": "vietstock:5986a4607e",
+     "title": "Bộ trưởng Công Thương: Giá điện phải phản ánh các chi phí hợp lý, hợp lệ và vận hành theo cơ chế thị trường"
+    },
+    {
+     "ref": "vietstock:2785fc2f5d",
+     "title": "Bộ Tài chính công bố kết quả chấm điểm giải ngân vốn đầu tư công 10 tháng năm 2026"
+    },
+    {
+     "ref": "vietstock:785afe389c",
+     "title": "TCB: CEO Techcombank tại Fortune Summit 2026 - Việt Nam duy trì sức chống chịu và động lực tăng trưởng tích cực"
+    },
+    {
+     "ref": "vietstock:fcf7a23da8",
+     "title": "Góc nhìn 04/11: Cơ hội bắt đáy đã xuất hiện?"
+    },
+    {
+     "ref": "vietstock:de003cf7f9",
+     "title": "VCB: NHNN chấp thuận cho Vietcombank tăng vốn điều lệ thêm 5.431 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:4ad0414c88",
+     "title": "PNJ: Dịch chuyển cơ cấu chủ nợ, gia đình Chủ tịch dần thế chân ngân hàng"
+    },
+    {
+     "ref": "vietstock:3632782f33",
+     "title": "MSH: Doanh thu và lãi gộp đi lên, vẫn hụt lãi ròng sau 9 tháng"
+    },
+    {
+     "ref": "vietstock:6fae746319",
+     "title": "BCG Energy tính rút gần hết vốn tại nhà máy điện rác ở Củ Chi"
+    },
+    {
+     "ref": "vietstock:41a5bc822e",
+     "title": "NVL: Đằng sau khoản lãi gần 2,9 ngàn tỷ sau 9 tháng của Novaland"
+    },
+    {
+     "ref": "vietstock:703cdf3949",
+     "title": "CNCTech hoàn tất nâng vốn lên gần 1.100 tỷ, giá cổ phiếu tăng gần 80% so với ngày đầu lên sàn"
+    },
+    {
+     "ref": "vietstock:55ea0fe8d9",
+     "title": "SHB: hợp tác cùng Cục Thuế thúc đẩy chuyển đổi số, hỗ trợ doanh nghiệp, hộ kinh doanh và cá nhân kinh doanh"
+    },
+    {
+     "ref": "vietstock:fcfcb3c545",
+     "title": "Sabibeco lãi hơn 250 tỷ sau 9 tháng, dù quý 3 đi lùi"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:e891c12807",
+     "title": "VN-Index mất mốc 1700, các công ty chứng khoán bình luận gì?"
+    },
+    {
+     "ref": "vneconomy:04b433921f",
+     "title": "SHS: Tổng giám đốc nói quan trọng nhất của thị trường vốn là phải phát triển từ quy mô sang chất lượng"
+    },
+    {
+     "ref": "vneconomy:3e87ce59f5",
+     "title": "Áp lực từ giá nhiên liệu và dịch vụ đẩy CPI tháng 10 tăng 0,20%"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:96d4e3e4a0",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 4/11: Thị trường có dấu hiệu ổn định hơn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8e291928bb",
+     "title": "KDH: báo lãi 1.267,68 tỷ đồng trong 9 tháng đầu năm 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3df4cf1bfc",
+     "title": "BBT: báo lãi quý III tăng gần 58%, đã trả sạch nợ vay ngắn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cb090a6ee1",
+     "title": "C4G: Lợi nhuận 9 tháng đạt 26,57 tỷ đồng, giảm tới 60,3% so với cùng kỳ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:def5d0fee7",
+     "title": "FMC: Doanh số tháng 10 đảo chiều tăng hơn 6% sau 4 tháng giảm liên tiếp"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a110718c6e",
+     "title": "DIG: Chủ tịch Nguyễn Hùng Cường mua vào 5 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:46ee9defcd",
+     "title": "Chỉ số sản xuất công nghiệp tăng cao nhất trong 8 năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3e235a301b",
+     "title": "Vốn đăng ký của doanh nghiệp thành lập mới trong 10 tháng tăng 34,29%, đạt gần 2,14 triệu tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:29f845b55e",
+     "title": "Nhập siêu hạ nhiệt, 10 tháng chỉ còn hơn 12 tỷ USD"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0cc9461448",
+     "title": "VCS: được Forbes Việt Nam vinh danh top 50 doanh nghiệp dẫn đầu về ESG năm 2026"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e5d79e164d",
+     "title": "Thứ trưởng Lê Tấn Cận: Việt Nam sẵn sàng đón các trung tâm dữ liệu, AI và R&D"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:f846482b64",
+     "title": "Lạm phát vượt ngưỡng 4,5%"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:30978636e0",
+     "title": "VCB: báo lãi hơn 40.400 tỷ đồng sau 9 tháng, chi phí dự phòng tăng gần 8 lần trong quý III"
+    },
+    {
+     "ref": "markettimes:ae461b38a1",
+     "title": "Chính thức tăng lương tối thiểu vùng từ 1/1/2027"
+    },
+    {
+     "ref": "markettimes:0bd1b6b4e5",
+     "title": "VPB: Chính thức từ hôm nay (3/11), người nắm giữ cổ phiếu đón một thay đổi đáng chú ý"
+    },
+    {
+     "ref": "markettimes:4b243bce96",
+     "title": "FPT: Bên trong nhà máy kiểm thử và đóng gói chip bán dẫn vừa đưa vào vận hành"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:9c27c50f10",
+     "title": "Từ ngoại giao cây tre đến ứng dụng AI linh hoạt"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:8d6047d741",
+     "title": "Luật Đầu tư và sứ mệnh kiến tạo động lực tăng trưởng quốc gia"
+    },
+    {
+     "ref": "vnbusiness:d07ae2aa45",
+     "title": "PET: đối mặt áp lực dòng tiền, chi phí lãi vay tăng 73%"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:e6e9ae4cbb",
+     "title": "Xăng E5 giảm hơn 1.000 đồng/lít, dầu mazut tăng giá"
+    },
+    {
+     "ref": "ti-n-phong:51cf262982",
+     "title": "Kinh tế 10 tháng nhiều điểm sáng, mục tiêu tăng trưởng 10% ra sao?"
+    },
+    {
+     "ref": "ti-n-phong:bfe1234f2b",
+     "title": "Lộ diện doanh nghiệp gửi 'núi tiền' trong ngân hàng"
+    },
+    {
+     "ref": "ti-n-phong:bd77f7c624",
+     "title": "Thị trường hồi phục, doanh nghiệp thép vẫn nặng gánh chi phí"
+    },
+    {
+     "ref": "ti-n-phong:4dbb9f221c",
+     "title": "Hạn cuối phải liên kết tài khoản ngân hàng, chứng khoán với VNeID"
+    },
+    {
+     "ref": "ti-n-phong:4132aeb80a",
+     "title": "Vốn FDI đăng ký vào Việt Nam cao nhất từ năm 2009"
+    },
+    {
+     "ref": "ti-n-phong:3284a19168",
+     "title": "Tiêu thụ điện tăng mạnh, lên phương án ứng phó thiếu công suất giờ cao điểm"
+    },
+    {
+     "ref": "ti-n-phong:2c2e88a148",
+     "title": "HPG: xuất khẩu 8.000 tấn tôn mạ sang Nhật Bản, mở rộng thị trường quốc tế"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:e763bdcb3c",
+     "title": "Việt Nam - Panama mở rộng hợp tác thương mại, logistics và hàng hải"
+    },
+    {
+     "ref": "bnews:1c98b09c50",
+     "title": "Cổ phiếu ngày 3/11: Triển vọng nào cho HDC, ANV và VCG?"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:d67e2dfc09",
+     "title": "EIB: Công bố thông tin chuyển nhượng cổ phần của HFIC tại Eximbank"
+    },
+    {
+     "ref": "hose:603b7097f6",
+     "title": "HDC: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Lê Viết Liên"
+    },
+    {
+     "ref": "hose:b4fd9a2b9a",
+     "title": "DSH: Báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức năm 2025"
+    },
+    {
+     "ref": "hose:27022c8b3e",
+     "title": "HAX: Nghị quyết HĐQT về việc triển khai phương án mua lại cổ phiếu"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:8191aaa37d",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ tăng theo làn sóng lạc quan AI trong ngày nước Mỹ bỏ phiếu: Tổng quan thị trường",
+   "translated": true,
+   "original_title": "US Stock Futures Climb on AI Rally as US Votes: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-marketfeed:1070418",
+   "title": "AMD: Dự báo doanh thu trung tâm dữ liệu vượt 80% tổng doanh thu năm 2027, doanh thu máy chủ tăng gấp đôi, trong khi mảng PC giảm hai chữ số",
+   "translated": true,
+   "original_title": "AMD CEO SAYS IT IS PLANNING FOR PC MARKET UNIT SHIPMENTS TO DECLINE DOUBLE-DIGITS IN 2027, WHILE EXPECTING STRONG DOUBLE-DIGIT GROWTH IN ITS EMBEDDED BUSINESS, WITH THE CFO SEEING Q4 NON-GAAP OPERATING EXPENSES OF ABOUT $3.75 BLN ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1070419",
+   "title": "Nvidia yêu cầu các đối tác trung tâm dữ liệu giảm bán dịch vụ cho khách hàng Trung Quốc, siết chặt khả năng tiếp cận chip AI cao cấp",
+   "translated": true,
+   "original_title": "NVIDIA HAS ORDERED DATA CENTER PARTNERS TO CUT BACK ON CHINESE CUSTOMERS, WITH CLOUD PROVIDERS NOW REQUIRED TO SELL AT LEAST 51% OF SERVICES TO NON-CHINESE COMPANIES UNDER A NEW NVIDIA RULE, TIGHTENING CHINESE AI FIRMS’ ACCESS TO ADVANCED CHIPS THROUGH OVERSEAS RENTALS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1070402",
+   "title": "Super Micro Computer (SMCI) nâng dự báo doanh thu cả năm tài chính lên 72-82 tỷ USD, vượt kỳ vọng thị trường",
+   "translated": true,
+   "original_title": "$SMCI *SMCI SEES FY NET SALES $72.0B TO $82.0B, SAW $65B TO $72B *SMCI SEES 2Q NET SALES $19.5B TO $21.5B, EST. $16.53B $SMCI - TRADFI NEWS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1070417",
+   "title": "Meta Platforms phát hành 15 tỷ USD trái phiếu ưu tiên chia thành 5 kỳ hạn",
+   "translated": true,
+   "original_title": "META PLATFORMS PRICES $15 BILLION SENIOR NOTES IN FIVE SEGMENTS - SEC FILING ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:aea6781dc3",
+   "title": "Làn sóng IPO tại Hong Kong hạ nhiệt, số thương vụ bị hủy nhiều nhất kể từ năm 2008",
+   "translated": true,
+   "original_title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008"
+  },
+  {
+   "ref": "tg-marketfeed:1070420",
+   "title": "CVS Health lên kế hoạch chia tách tập đoàn y tế trị giá 117 tỷ USD",
+   "translated": true,
+   "original_title": "CVS HEALTH MOVES TO DISMANTLE $117B HEALTHCARE EMPIRE – FT ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:533f95a62b",
+   "title": "Lợi nhuận UOB thấp hơn dự báo do thu nhập giao dịch sụt giảm",
+   "translated": true,
+   "original_title": "UOB Profits Miss Estimates as Lower Trading Income Dampens Gains",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains"
+  },
+  {
+   "ref": "bloomberg:e8995929de",
+   "title": "Tin tức và phân tích mới nhất về thị trường dầu ngày 4/11",
+   "translated": true,
+   "original_title": "Latest Oil Market News and Analysis for Nov. 4",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4"
+  },
+  {
+   "ref": "tg-marketfeed:1070404",
+   "title": "BMW hạ dự báo biên lợi nhuận EBIT mảng ô tô năm 2026 xuống -0,5% đến 0,5%, dự kiến doanh số ô tô và xe máy giảm nhẹ",
+   "translated": true,
+   "original_title": "BMW REVISES ITS 2026 ROCE GUIDANCE FOR THE AUTOMOTIVE SEGMENT TO -1% TO +1% AND ITS 2026 EBIT MARGIN GUIDANCE FOR THE SEGMENT TO -0.5% TO +0.5%, WITH THE ADJUSTMENT RESULTING FROM AN EXPANSION OF ITS PORTFOLIO AND STRUCTURAL MEASURES ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1070409",
+   "title": "Chỉ số sản xuất AIG và PMI tổng hợp của Australia tháng 10 tiếp tục ở vùng suy giảm",
+   "translated": true,
+   "original_title": "THE AIG MANUFACTURING INDEX FELL TO -20.1 FROM -16.6 AND THE CONSTRUCTION INDEX DROPPED TO -26.9 FROM -6.9 ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:409113",
+   "title": "Xác suất Fed điều chỉnh lãi suất tháng 12 khoảng 79% theo CME FedWatch",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed tăng lãi suất tháng 12 khoảng 79% Theo CME FedWatch: Xác suất Fed giữ nguyên lãi suất tháng 12 là 21,1%, tăng 25 điểm cơ sở là 78,9%. Trong kỳ tới tháng 1, xác suất giữ nguyên là 15,3%, tăng tích lũy 25 điểm cơ sở là 63,0%, tăng tích lũy 50 điểm cơ sở là 21,8%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109110",
+   "title": "Ngân hàng trung ương tăng mua vàng 42% trong quý 3, giá cao làm suy yếu nhu cầu trang sức",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Ngân hàng trung ương tăng mua vàng 42% trong quý 3, giá cao làm suy yếu nhu cầu trang sức Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ngan-hang-trung-uong-tang-mua-vang-42-trong-quy-3-gia-cao-lam-suy-yeu-nhu-cau-trang-suc-113951.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109107",
+   "title": "Dầu: Khảo sát tư nhân API cho thấy tồn kho dầu thô giảm mạnh, trái với dự báo tăng",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Dầu: Khảo sát tư nhân API cho thấy tồn kho dầu thô giảm mạnh, trái với dự báo tăng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/dau-khao-sat-tu-nhan-api-cho-thay-ton-kho-dau-tho-giam-manh-trai-voi-du-bao-tang-113948.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:409119",
+   "title": "Iran định giá dầu nhẹ xuất khẩu sang châu Á tháng 11 chiết khấu 6,90 USD/thùng so với giá Oman/Dubai, tăng so với mức 4,55 USD/thùng tháng 10",
+   "translated": false,
+   "original_title": "▫️ Iran đã định giá dầu nhẹ xuất khẩu sang châu Á trong tháng 11 với mức chiết khấu 6,90 USD/thùng so với giá trung bình Oman/Dubai, tăng so với mức chiết khấu 4,55 USD/thùng trong tháng 10. #oil #iran",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109109",
+   "title": "Mỹ cảnh báo nguy cơ Houthi tấn công sân bay và hạ tầng Ả Rập Xê Út, hạn chế đi lại tới vùng dầu mỏ",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Mỹ cảnh báo nguy cơ Houthi tấn công sân bay và hạ tầng Ả Rập Xê Út, hạn chế đi lại tới vùng dầu mỏ Chi tiết xem tại: https://dubaotiente.net/tieu-diem/my-canh-bao-nguy-co-houthi-tan-cong-san-bay-va-ha-tang-a-rap-xe-ut-113950.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109108",
+   "title": "Carney: Đàm phán thương mại Mỹ – Canada sẽ được đẩy mạnh, Washington đòi hỏi ít hơn và nhượng bộ nhiều hơn",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Carney: Đàm phán thương mại Mỹ – Canada sẽ được đẩy mạnh, Washington đòi hỏi ít hơn và nhượng bộ nhiều hơn Chi tiết xem tại: https://dubaotiente.net/tieu-diem/carney-dam-phan-thuong-mai-my-canada-se-duoc-day-manh-113949.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:409117",
+   "title": "Tỷ lệ thất nghiệp New Zealand quý III tăng lên 5,7%, cao nhất từ giữa năm 2015, trái dự báo giảm xuống 5,5%",
+   "translated": false,
+   "original_title": "▫️ Cuộc bầu cử New Zealand sắp diễn ra, tỷ lệ thất nghiệp đạt mức cao nhất kể từ giữa năm 2015 Tỷ lệ thất nghiệp quý III của New Zealand tăng lên 5,7%, mức cao nhất kể từ giữa năm 2015, trái ngược với dự báo sẽ giảm xuống 5,5%. Số lượng việc làm bán thời gian tăng 15.000 người, nhưng việc làm toàn thời gian giảm 17.000 người. Tỷ lệ sử dụng lao động không đầy đủ vẫn ở mức 13,8%, tỷ lệ việc làm giảm",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:2a5532109a",
+   "title": "CEO Schwab: Cá cược thể thao không phải là đầu tư",
+   "translated": false,
+   "original_title": "CEO Schwab: Cá cược thể thao không phải là đầu tư",
+   "link": "https://bbw.vn/ceo-schwab-ca-cuoc-the-thao-khong-phai-la-dau-tu-61309.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:44dc36a296",
+   "title": "IPO Anthropic: Cách nhà đầu tư châu Á có thể tiếp cận",
+   "translated": false,
+   "original_title": "IPO Anthropic: Cách nhà đầu tư châu Á có thể tiếp cận",
+   "link": "https://bbw.vn/ipo-anthropic-cach-nha-dau-tu-chau-a-co-the-tiep-can-61301.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:428370be21",
+   "title": "Singapore đối đầu Hong Kong: Cuộc chiến giành dòng tiền của Châu Á",
+   "translated": false,
+   "original_title": "Singapore đối đầu Hong Kong: Cuộc chiến giành dòng tiền của Châu Á",
+   "link": "https://bbw.vn/singapore-doi-dau-hong-kong-cuoc-chien-gianh-dong-tien-cua-chau-a-61297.html"
+  }
+ ],
+ "content_sha": "6c9caa62c4ad6d42c37e541facb9017c6ba0a0d313ef88c4aca17a2c740f18e2"
+}
