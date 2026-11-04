@@ -647,5 +647,44 @@
    "link": "https://bbw.vn/singapore-doi-dau-hong-kong-cuoc-chien-gianh-dong-tien-cua-chau-a-61297.html"
   }
  ],
- "content_sha": "6c9caa62c4ad6d42c37e541facb9017c6ba0a0d313ef88c4aca17a2c740f18e2"
+ "content_sha": "6c9caa62c4ad6d42c37e541facb9017c6ba0a0d313ef88c4aca17a2c740f18e2",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "11e26369d9d79c16b5ce754166dbd060730065bf",
+   "published_at": "2026-11-04T07:03:00+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "306",
+   "sent_at": "2026-11-04T07:03:00+07:00",
+   "content_sha": "6c9caa62c4ad6d42c37e541facb9017c6ba0a0d313ef88c4aca17a2c740f18e2",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "306",
+     "sent_at": "2026-11-04T07:03:00+07:00",
+     "content_sha": "6c9caa62c4ad6d42c37e541facb9017c6ba0a0d313ef88c4aca17a2c740f18e2"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "885c79c81aa75cfe05b1",
+   "sent_at": "2026-11-04T07:03:02+07:00",
+   "content_sha": "6c9caa62c4ad6d42c37e541facb9017c6ba0a0d313ef88c4aca17a2c740f18e2",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "885c79c81aa75cfe05b1",
+     "sent_at": "2026-11-04T07:03:02+07:00",
+     "content_sha": "6c9caa62c4ad6d42c37e541facb9017c6ba0a0d313ef88c4aca17a2c740f18e2"
+    }
+   ]
+  }
+ }
 }

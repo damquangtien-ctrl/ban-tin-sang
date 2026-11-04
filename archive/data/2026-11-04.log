@@ -1,0 +1,41 @@
+
+########## CHAY LUC 2026-11-04 07:01:23 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-04, ban daily)
+   the gioi 26 tin · Viet Nam 67 tin / 11 bao · phap ly 9 tin · chot quyen 2 ma
+   CANH BAO [C9] world[21]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[22]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[23]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[24]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[25]: tin lấy từ nguồn trong nước 'Tiền Phong'
+   THAT BAI: 2 loi
+      [C9] legal: khối 'Tin nhanh Chứng khoán' phải đứng trước 'Google News Pháp lý' theo thứ tự báo phổ biến
+      [C4] world[21]: URL không hợp lệ 'http://vietstock.vn/2026/11/nghich-ly-thang-10-cua-fed-giu-n' (nguồn web phải https)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-11-04 07:02:26 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-04, ban daily)
+   the gioi 21 tin · Viet Nam 67 tin / 11 bao · phap ly 9 tin · chot quyen 2 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-04 · the gioi 21 · Viet Nam 67 · phap ly 9
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-04.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-04: commit 11e26369d9d7 · sha noi dung 4d75673901dc0f76
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 04/11 | content_sha 6c9caa62c4ad | commit 11e26369d9d7
+   telegram user/928f6fc4179d OK message_id=306
+   zalo     user/593dd2adbb87 OK message_id=885c79c81aa75cfe05b1
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-04.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-04 07:03:02 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
