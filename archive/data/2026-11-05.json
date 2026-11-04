@@ -661,5 +661,44 @@
    "link": "https://bbw.vn/ceo-new-balance-noi-ve-cam-ket-san-xuat-tai-my-61332.html"
   }
  ],
- "content_sha": "6a1166908298ec1878bf6cbc526fd01e6e1515744972bfd101f83a031c51045e"
+ "content_sha": "6a1166908298ec1878bf6cbc526fd01e6e1515744972bfd101f83a031c51045e",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "1c7e4322fcbf164937ed46b75b6652d9ad83d5f5",
+   "published_at": "2026-11-05T06:53:25+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "307",
+   "sent_at": "2026-11-05T06:53:26+07:00",
+   "content_sha": "6a1166908298ec1878bf6cbc526fd01e6e1515744972bfd101f83a031c51045e",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "307",
+     "sent_at": "2026-11-05T06:53:26+07:00",
+     "content_sha": "6a1166908298ec1878bf6cbc526fd01e6e1515744972bfd101f83a031c51045e"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "1bf3328b06dc5f8506ca",
+   "sent_at": "2026-11-05T06:53:28+07:00",
+   "content_sha": "6a1166908298ec1878bf6cbc526fd01e6e1515744972bfd101f83a031c51045e",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "1bf3328b06dc5f8506ca",
+     "sent_at": "2026-11-05T06:53:28+07:00",
+     "content_sha": "6a1166908298ec1878bf6cbc526fd01e6e1515744972bfd101f83a031c51045e"
+    }
+   ]
+  }
+ }
 }
