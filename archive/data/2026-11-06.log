@@ -1,0 +1,27 @@
+
+########## CHAY LUC 2026-11-06 06:47:33 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-06, ban daily)
+   the gioi 20 tin · Viet Nam 66 tin / 12 bao · phap ly 8 tin · chot quyen 9 ma
+   CANH BAO [C9] world[19]: tin lấy từ nguồn trong nước 'Tiền Phong'
+   DAT: khong loi, 1 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-06 · the gioi 20 · Viet Nam 66 · phap ly 8
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-06.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-06: commit f46ae6d6a9db · sha noi dung 6347142cbf203100
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 06/11 | content_sha 9d554cf8348a | commit f46ae6d6a9db
+   telegram user/928f6fc4179d OK message_id=308
+   zalo     user/593dd2adbb87 OK message_id=c8f4d575f2caab93f2dc
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-06.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-06 06:48:09 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===

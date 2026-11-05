@@ -684,5 +684,44 @@
    "link": "https://tienphong.vn/usd-lao-doc-sau-bau-cu-my-bang-anh-tang-manh-post1891713.tpo"
   }
  ],
- "content_sha": "9d554cf8348a245c38c2256a0a9dff74e7d18b618f3e6e4a09d4c64603088033"
+ "content_sha": "9d554cf8348a245c38c2256a0a9dff74e7d18b618f3e6e4a09d4c64603088033",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "f46ae6d6a9db4b10859b5795ad345bb93a71eda5",
+   "published_at": "2026-11-06T06:48:07+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "308",
+   "sent_at": "2026-11-06T06:48:08+07:00",
+   "content_sha": "9d554cf8348a245c38c2256a0a9dff74e7d18b618f3e6e4a09d4c64603088033",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "308",
+     "sent_at": "2026-11-06T06:48:08+07:00",
+     "content_sha": "9d554cf8348a245c38c2256a0a9dff74e7d18b618f3e6e4a09d4c64603088033"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "c8f4d575f2caab93f2dc",
+   "sent_at": "2026-11-06T06:48:09+07:00",
+   "content_sha": "9d554cf8348a245c38c2256a0a9dff74e7d18b618f3e6e4a09d4c64603088033",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "c8f4d575f2caab93f2dc",
+     "sent_at": "2026-11-06T06:48:09+07:00",
+     "content_sha": "9d554cf8348a245c38c2256a0a9dff74e7d18b618f3e6e4a09d4c64603088033"
+    }
+   ]
+  }
+ }
 }
