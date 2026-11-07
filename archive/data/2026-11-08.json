@@ -1,0 +1,171 @@
+{
+ "date": "2026-11-08",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "VN Wall Street",
+   "text": "Quân đội Mỹ vô hiệu hóa một tàu hàng ở Vịnh Oman, Iran tố hai tàu dầu trúng mìn gần eo biển Hormuz — căng thẳng leo thang đẩy rủi ro giá dầu."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Lạm phát Mỹ được dự báo hạ nhiệt phần nào sau đợt tăng gần đây."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Meta phát hành 25 tỷ USD trái phiếu, cho thấy thị trường nợ công nghệ đang dịch chuyển."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Chánh văn phòng mới gây phản ứng dây chuyền, cổ phiếu công nghệ Mỹ bị bán tháo."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Elon Musk: Tesla, SpaceX chuyển hoạt động sang Texas do thuế và quy định khắc nghiệt của California."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": null,
+    "direction": null,
+    "label": "VN-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Khối ngoại (HOSE)",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "25.780"
+   }
+  ],
+  "summary": "Ấn bản Chủ Nhật rút gọn, chỉ tổng hợp tin thế giới. Đêm qua chứng khoán Mỹ tăng giảm đan xen: S&P 500 +0,31%, Nasdaq +1,09% nhưng Dow Jones -0,46%. Dầu WTI +0,34% giữa lúc căng thẳng tại Vịnh Oman và eo biển Hormuz leo thang, vàng thế giới giảm 0,94% xuống 4.075 USD/ounce, DXY tăng 0,72%.",
+  "tiles": [
+   {
+    "change_pct": 0.31,
+    "label": "S&P 500",
+    "value": "7.376,9"
+   },
+   {
+    "change_pct": -0.46,
+    "label": "Dow Jones",
+    "value": "51.285,7"
+   },
+   {
+    "change_pct": 1.09,
+    "label": "Nasdaq",
+    "value": "24.579,4"
+   },
+   {
+    "change_pct": 0.34,
+    "label": "Dầu WTI",
+    "value": "90,8 USD"
+   },
+   {
+    "change_pct": 0.03,
+    "label": "Dầu Brent",
+    "value": "98,3 USD"
+   },
+   {
+    "change_pct": -0.94,
+    "label": "Vàng thế giới",
+    "value": "4.075 USD"
+   },
+   {
+    "change_pct": -0.07,
+    "label": "Bitcoin",
+    "value": "75.696 USD"
+   },
+   {
+    "change_pct": 0.72,
+    "label": "DXY",
+    "value": "102,28"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:410256",
+   "title": "Quân đội Mỹ vô hiệu hóa một tàu chở hàng từng cập cảng Iran tại Vịnh Oman",
+   "translated": false,
+   "original_title": "▫️ Quân đội Mỹ tấn công một tàu chở hàng ở vịnh Oman Bộ Chỉ huy Trung ương Mỹ ngày 7 tháng 11 (giờ địa phương) đã công bố tuyên bố trên mạng xã hội cho biết quân đội Mỹ đã ngăn chặn một tàu chở hàng từng cập cảng Iran ở vịnh Oman, làm mất khả năng điều hành của tàu. Theo tuyên bố, thủy thủ đoàn tàu Huda (treo cờ Saint Kitts và Nevis) \"đã nhiều lần bỏ lờ cảnh báo\" và \"cố gắng phá vỡ lệnh phong tỏa ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:410258",
+   "title": "Iran tuyên bố hai tàu chở dầu bốc cháy do trúng mìn gần eo biển Hormuz",
+   "translated": false,
+   "original_title": "▫️ Iran tuyên bố hai tàu chở dầu bốc cháy do phát nổ mìn ở eo biển Hormuz Bộ Quan hệ Công chúng của Hải quân Vệ binh Cách mạng Iran phát hành tuyên bố cho biết hai tàu chở dầu bốc cháy do phát nổ mìn ở eo biển Hormuz. Theo tuyên bố, hai tàu vi phạm nằm ở phía đông eo biển Hormuz và trong eo biển; chúng đã phát nổ và bốc cháy sau khi chạm vào mìn do cố gắng đi qua một tuyến đường chưa được phép. Cá",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:cab6f6cfd9",
+   "title": "Lạm phát Mỹ được dự báo hạ nhiệt phần nào sau đợt tăng gần đây",
+   "translated": true,
+   "original_title": "US Inflation Set to Simmer Down Some After Recent Pickup",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup"
+  },
+  {
+   "ref": "bloomberg:d45cefdc2d",
+   "title": "Meta phát hành 25 tỷ USD trái phiếu, cho thấy sự dịch chuyển của thị trường nợ công nghệ",
+   "translated": true,
+   "original_title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly"
+  },
+  {
+   "ref": "bloomberg:7438e52714",
+   "title": "Chánh văn phòng mới, phản ứng dây chuyền khiến cổ phiếu công nghệ bị bán tháo",
+   "translated": true,
+   "original_title": "New Chief of Staff, Chain Reaction Tech Selloff",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video"
+  },
+  {
+   "ref": "tg-marketfeed:1073090",
+   "title": "Elon Musk: Thuế và quy định khắc nghiệt của California buộc SpaceX, Tesla chuyển hoạt động sang Texas",
+   "translated": true,
+   "original_title": "JUST IN: 🇺🇸 ELON MUSK SAYS CALIFORNIA'S EXTREME TAXES AND REGULATIONS FORCED SPACEX $SPCX AND TESLA $TSLA TO MOVE OPERATIONS TO TEXAS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:410247",
+   "title": "Tesla: Đơn hàng Cybertruck tồn đọng vượt xa năng lực sản xuất, dự kiến chuyển dây chuyền sang Cybercab giữa năm 2027",
+   "translated": false,
+   "original_title": "▫️ Elon Musk phát biểu rằng lượng đơn đặt hàng Cybertruck hiện đang tồn kho của Tesla vượt xa năng lực sản xuất hiện tại. Vào khoảng tháng 6 hoặc 7 năm 2027, công ty sẽ tháo dỡ các dây chuyền sản xuất hiện có để phục vụ việc mở rộng sản xuất Cybercab. #stocks #tesla",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:410244",
+   "title": "Tổng thống Nga Putin ra lệnh tịch thu thêm tài sản của Japan Tobacco tại Nga",
+   "translated": false,
+   "original_title": "▫️ Tổng thống Nga Putin ra lệnh tịch thu thêm tài sản của công ty Nhật Bản Tobacco tại Nga. #russia #geopolitics",
+   "link": null
+  }
+ ],
+ "content_sha": "04ba150b75e3d137f15955ec710d0b3c53845b2c2e608e6a53b2f4809bff8a12"
+}
