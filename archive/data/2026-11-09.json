@@ -1,0 +1,649 @@
+{
+ "date": "2026-11-09",
+ "dividends": [
+  {
+   "event": "Cổ tức năm 2025, 52,4% bằng tiền mặt, chi gần 7.000 tỷ đồng",
+   "record_date": "2026-11-13",
+   "ref": "cafef:742123a52d",
+   "ticker": "VEA"
+  },
+  {
+   "event": "Cổ tức đợt 1/2026, 25% bằng tiền mặt, chi hơn 5.200 tỷ đồng",
+   "record_date": "2026-11-12",
+   "ref": "cafef:742123a52d",
+   "ticker": "VNM"
+  },
+  {
+   "event": "Tạm ứng cổ tức đợt 1/2026, 65% bằng tiền mặt, dự chi hơn 532 tỷ đồng",
+   "record_date": "2026-11-12",
+   "ref": "cafef:742123a52d",
+   "ticker": "BMP"
+  },
+  {
+   "event": "Tạm ứng cổ tức bằng tiền mặt 20% (2.000 đồng/CP)",
+   "record_date": "2026-11-19",
+   "ref": "cafef:735cb3e1c8",
+   "ticker": "AST"
+  },
+  {
+   "event": "Cổ tức năm 2025, 50% bằng tiền mặt",
+   "record_date": "2026-11-12",
+   "ref": "cafef:742123a52d",
+   "ticker": "WCS"
+  },
+  {
+   "event": "Cổ tức năm 2025, 4% bằng tiền mặt",
+   "record_date": "2026-11-11",
+   "ref": "cafef:742123a52d",
+   "ticker": "GVR"
+  },
+  {
+   "event": "Cổ tức năm 2025, 14% bằng tiền mặt",
+   "record_date": "2026-11-16",
+   "ref": "cafef:742123a52d",
+   "ticker": "DPR"
+  },
+  {
+   "event": "Cổ tức đợt 2/2026, 10% bằng tiền mặt",
+   "record_date": "2026-11-16",
+   "ref": "cafef:742123a52d",
+   "ticker": "VSH"
+  },
+  {
+   "event": "Cổ tức năm 2025, 4,5% bằng tiền mặt",
+   "record_date": "2026-11-12",
+   "ref": "cafef:742123a52d",
+   "ticker": "PPC"
+  },
+  {
+   "event": "Cổ tức đợt 2/2026, 10% bằng tiền mặt",
+   "record_date": "2026-11-16",
+   "ref": "cafef:742123a52d",
+   "ticker": "TBC"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Nvidia bị điều tra vụ bê bối gián điệp liên quan CEO Jensen Huang, thị trường châu Á chịu áp lực bán nhóm AI - bán dẫn"
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Xác suất Fed tăng lãi suất 25 điểm cơ bản trong tháng 12 lên 78% theo CME FedWatch"
+  },
+  {
+   "source": "Thị trường VN",
+   "text": "VN-Index phiên 6/11 giảm 15,37 điểm, thanh khoản HOSE tăng vọt lên khoảng 18.800 tỷ đồng, khối ngoại trở lại mua ròng"
+  },
+  {
+   "source": "CafeF",
+   "text": "BSR nâng mạnh kế hoạch lợi nhuận năm 2026 lên gần 18.600 tỷ đồng"
+  },
+  {
+   "source": "CafeF",
+   "text": "Lịch chốt quyền tuần này: VEA cổ tức 52,4%, VNM 25%, BMP tạm ứng 65% bằng tiền mặt"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:d3d933def0",
+     "title": "BCE: Ông Lê Việt Cường thao túng giá cổ phiếu, bị phạt 1,5 tỷ đồng và cấm giao dịch 2 năm"
+    },
+    {
+     "ref": "cafef:6230bf72cb",
+     "title": "Xử phạt 2 doanh nghiệp do vi phạm công bố thông tin"
+    },
+    {
+     "ref": "cafef:831e0ff3f9",
+     "title": "Shark Bình muốn sớm được chấp hành án"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:4803ff067d",
+     "title": "AVC: Bắt tạm giam Phó Tổng Giám đốc Thủy điện A Vương"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:40c79c27ab",
+     "title": "Việt Nam điều tra thép không gỉ cán nguội từ Trung Quốc, Indonesia và Đài Loan"
+    },
+    {
+     "ref": "b-o-u-t:6b813ff2d8",
+     "title": "Đầu tháng 12 tới, Shark Thủy cùng 28 đồng phạm bị đưa ra xét xử"
+    },
+    {
+     "ref": "b-o-u-t:986c387df9",
+     "title": "Viện Kiểm sát bác quan điểm đề nghị giám định tâm thần Mr Pips"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:2be58b1c5a",
+     "title": "14 người Trung Quốc bị nghi lập sàn chứng khoán ảo ở TP HCM, lừa đảo"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-15,37 điểm (-0,88%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.725,36 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": "+36% so với TB 20 phiên",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "~18.800 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại",
+    "value": "Mua ròng ~394 tỷ đồng (HOSE)"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "138,0 - 141,0 triệu đồng/lượng (8/11)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.400 · Bán 25.780"
+   }
+  ],
+  "summary": "Phố Wall đêm qua phân hóa: Nasdaq tăng 1,09% nhờ nhóm công nghệ, trong khi Dow Jones giảm 0,46% khi thị trường lo ngại vụ điều tra bê bối gián điệp liên quan CEO Nvidia Jensen Huang có thể ảnh hưởng tâm lý nhóm cổ phiếu AI - bán dẫn. Dầu WTI và Brent cùng giảm hơn 0,6-1% dù rủi ro nguồn cung từ vụ Houthi tấn công Aramco và căng thẳng Mỹ - Iran vẫn hiện hữu. Trong phiên giao dịch gần nhất tại Việt Nam (6/11), VN-Index giảm 15,37 điểm (-0,88%) xuống 1.725,36 điểm dưới áp lực bán nhóm vốn hóa lớn, trong khi thanh khoản HOSE tăng vọt lên khoảng 18.800 tỷ đồng và khối ngoại trở lại mua ròng sau chuỗi bán ròng kéo dài.",
+  "tiles": [
+   {
+    "change_pct": 0.31,
+    "label": "S&P 500",
+    "value": "7.376,9"
+   },
+   {
+    "change_pct": -0.46,
+    "label": "Dow Jones",
+    "value": "51.285,7"
+   },
+   {
+    "change_pct": 1.09,
+    "label": "Nasdaq",
+    "value": "24.579,4"
+   },
+   {
+    "change_pct": -0.68,
+    "label": "Dầu WTI",
+    "value": "90,2 USD"
+   },
+   {
+    "change_pct": -1.03,
+    "label": "Dầu Brent",
+    "value": "97,3 USD"
+   },
+   {
+    "change_pct": 0.15,
+    "label": "Vàng thế giới",
+    "value": "4.081 USD"
+   },
+   {
+    "change_pct": -0.66,
+    "label": "Bitcoin",
+    "value": "75.244 USD"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "DXY",
+    "value": "102,24"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:aec7dfbc83",
+     "title": "Chuyên gia chỉ tên một nhóm cổ phiếu định giá rẻ có thể \"dẫn sóng\" thị trường thời gian tới"
+    },
+    {
+     "ref": "cafef:58aac8948b",
+     "title": "Chứng khoán phát tín hiệu mới, chuyên gia tiết lộ thời điểm nên mạnh tay xuống tiền"
+    },
+    {
+     "ref": "cafef:91600d196e",
+     "title": "Dự báo nhịp giảm sâu sắp tới là cơ hội \"gom hàng\", Vietcap gọi tên 2 cổ phiếu đáng chú ý"
+    },
+    {
+     "ref": "cafef:c9a25e8b6e",
+     "title": "Gần 90 CTCK nhưng \"miếng bánh\" thuộc về số ít: Thị trường đang có quá nhiều \"zombie\"?"
+    },
+    {
+     "ref": "cafef:42101174ed",
+     "title": "Lợi nhuận doanh nghiệp tăng mạnh, dòng tiền vẫn đứng ngoài thị trường"
+    },
+    {
+     "ref": "cafef:28c42cd1d8",
+     "title": "Chứng khoán chờ tín hiệu tạo đáy sau cú 'hụt hơi' cuối tuần?"
+    },
+    {
+     "ref": "cafef:ea59a953d7",
+     "title": "VIC: Đại công trường 18 tỷ USD của tỷ phú Phạm Nhật Vượng cần 10.000 lao động, Vincons kêu gọi lao động cũ quay lại"
+    },
+    {
+     "ref": "cafef:0bfa09d9a7",
+     "title": "BSR: Tăng mạnh kế hoạch lợi nhuận năm 2026 lên gần 18.600 tỷ đồng"
+    },
+    {
+     "ref": "cafef:df634de2dc",
+     "title": "Góc nhìn chuyên gia: Chứng khoán đón tin tốt, 3 nhóm cổ phiếu phát tín hiệu tạo đáy"
+    },
+    {
+     "ref": "cafef:df10a9a126",
+     "title": "TAL: Taseco Group mua thành công 6 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:7e4ac48e01",
+     "title": "POW: Báo lãi vượt 6 lần kế hoạch năm chỉ sau 9 tháng, nhờ đâu?"
+    },
+    {
+     "ref": "cafef:e63559474e",
+     "title": "Doanh nghiệp xuất nhập khẩu trong những tháng cuối năm: Chủ động ứng phó với biến động tỷ giá"
+    },
+    {
+     "ref": "cafef:817718728b",
+     "title": "Chiến dịch đặc biệt ngoài khơi Việt Nam: Quyết giữ dòng \"vàng đen\""
+    },
+    {
+     "ref": "cafef:9ab29eb979",
+     "title": "DGW: Lãnh đạo hé lộ \"miếng bánh\" hơn 1 tỷ USD, đánh giá mục tiêu tăng trưởng 20% năm 2027 là khả thi"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:1bc2456105",
+     "title": "NVL: Lên kế hoạch tăng mạnh bàn giao nhà từ năm 2027"
+    },
+    {
+     "ref": "vietstock:5586f1567e",
+     "title": "Góc nhìn tuần 09-13/11: Chưa phải lúc mua dàn trải"
+    },
+    {
+     "ref": "vietstock:f2b2e5301b",
+     "title": "Chủ tịch ECB Christine Lagarde: Lạm phát dự kiến ở mức cao trong thời gian tới"
+    },
+    {
+     "ref": "vietstock:35086bd71c",
+     "title": "OpenAI huy động được 11 tỷ USD với mức định giá 1.250 tỷ USD"
+    },
+    {
+     "ref": "vietstock:cb043642e0",
+     "title": "Vietstock Weekly 09-13/11/2026: Biến động khó lường?"
+    },
+    {
+     "ref": "vietstock:d7a542e894",
+     "title": "PXI: Muốn thoái vốn khỏi dự án chung cư vướng mắc kéo dài tại TP.HCM"
+    },
+    {
+     "ref": "vietstock:f82d350795",
+     "title": "Tuần 09-13/11: Nổi bật các khoản cổ tức ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:6b47e124e1",
+     "title": "Làm thế nào để dự báo sự sụp đổ của thị trường? Hãy lắng nghe nhà đầu tư trẻ Paul Tudor Jones"
+    },
+    {
+     "ref": "vietstock:27891c8d46",
+     "title": "Chứng khoán phái sinh tuần 09-13/11/2026: Thanh khoản toàn thị trường tăng hơn 30%"
+    },
+    {
+     "ref": "vietstock:3f8eb85bd2",
+     "title": "Bài toán vốn 1.500 tỷ USD đặt ngân hàng trước áp lực đệm vốn và thách thức cho thị trường trái phiếu"
+    },
+    {
+     "ref": "vietstock:e893ffd4b1",
+     "title": "TCBS tham gia đợt tăng vốn lên 10.000 tỷ của TCEX, sẵn sàng rót gần 1.100 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:9abc087dfb",
+     "title": "Khi nút thắt tỷ giá được tháo gỡ, áp lực lãi suất hạ nhiệt"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:a56ea00cef",
+     "title": "\"Cá mập\" Pyn Elite Fund báo lỗ nặng từ đầu năm do nắm giữ nhiều FPT, STB"
+    },
+    {
+     "ref": "vneconomy:da9c99c291",
+     "title": "Nên theo dõi kỳ rà soát của FTSE Russell vào tháng 3/2027"
+    },
+    {
+     "ref": "vneconomy:9feef9b36a",
+     "title": "Dự báo lãi suất huy động tiếp tục giảm 0,3% từ nay tới cuối năm 2026"
+    },
+    {
+     "ref": "vneconomy:1e6402b6d9",
+     "title": "Xu thế dòng tiền: VN-Index có cơ hội tạo mô hình 2 đáy phục hồi?"
+    },
+    {
+     "ref": "vneconomy:656416c852",
+     "title": "Quỹ ngoại: Tâm lý thận trọng nhà đầu tư trong nước đang tạo ra cơ hội tích lũy đặc biệt hấp dẫn"
+    },
+    {
+     "ref": "vneconomy:7d1b8f35c8",
+     "title": "VN-Index dự báo đi ngang trong tuần tới"
+    },
+    {
+     "ref": "vneconomy:a1994dfa9f",
+     "title": "Chuẩn hóa quản trị, năng lực nội tại là chìa khóa giúp doanh nghiệp Việt thu hút vốn"
+    },
+    {
+     "ref": "vneconomy:28e4311cf6",
+     "title": "Vàng trượt giá, USD tăng mạnh sau báo cáo việc làm Mỹ"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8950971212",
+     "title": "Cổ phiếu cần quan tâm ngày 9/11"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:090f9af2ef",
+     "title": "Nhận định thị trường phiên giao dịch ngày 9/11: Duy trì tỷ trọng trung bình"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cc15dd4db6",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 9/11: Tiếp tục rung lắc"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bddacbeaeb",
+     "title": "Góc nhìn chuyên gia chứng khoán tuần mới: \"Đo\" triển vọng nhóm cổ phiếu ngân hàng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:40aaab7884",
+     "title": "Kafi muốn IPO trong tháng 12, giá 15.000 đồng/cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7005647d90",
+     "title": "Giá đồng sụt giảm trước rủi ro đầu tư trung tâm dữ liệu AI chững lại"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9994dfbd0a",
+     "title": "Căn hộ TOD sẽ dẫn dắt thị trường"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ba47a1fd56",
+     "title": "HAN: Không đáp ứng điều kiện đại chúng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fe53fdf553",
+     "title": "ABB: Phía sau gói tín dụng 1.000 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f07355da35",
+     "title": "Nhu cầu vốn đầu tư 1.500 tỷ USD cần tăng vai trò thị trường vốn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:39344ccfd1",
+     "title": "Nâng hạng tín nhiệm quốc gia: Cánh cửa để Việt Nam đón dòng vốn toàn cầu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e94db5b2cc",
+     "title": "Thị trường trái phiếu doanh nghiệp tháng 10: Phát hành chững lại, áp lực đáo hạn gia tăng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:62507547f1",
+     "title": "Dự báo ngành tiêu dùng tăng trưởng chậm lại trong quý IV/2026 và triển vọng các cổ phiếu đầu ngành"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2bce7d0365",
+     "title": "Trình Quốc hội hàng loạt ưu đãi cho dự án du lịch, doanh nghiệp kinh doanh du lịch"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:dc1ccf80cf",
+     "title": "Thanh khoản sẽ không quá áp lực, lãi suất giảm dần trong năm 2027"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:043a25db8d",
+     "title": "Nhìn lại dự báo chứng khoán tuần qua"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3c96f76bce",
+     "title": "Trình Quốc hội đầu tư 3 dự án cao tốc 430,5km, tổng mức đầu tư 162.393 tỷ đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:49901054ad",
+     "title": "IDC: Đẩy mạnh thu hút đầu tư quốc tế vào Khu công nghiệp Tân Phước 1"
+    },
+    {
+     "ref": "b-o-u-t:e4f1403d0a",
+     "title": "Thương mại Việt - Nhật vượt 49 tỷ USD, Việt Nam xuất siêu 3,42 tỷ USD"
+    },
+    {
+     "ref": "b-o-u-t:233c657fc9",
+     "title": "Rủi ro giảm dần, chứng khoán tháng 11 chờ lực đẩy từ dòng tiền"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:4f34cfbe6b",
+     "title": "PGB: Kéo dài thời gian chào bán 150 triệu cổ phiếu khi 3 cổ đông lớn không tham gia đợt chào bán"
+    },
+    {
+     "ref": "markettimes:c765ddbdd3",
+     "title": "VNM: Kinh doanh khởi sắc, cổ phiếu được kỳ vọng chạm 73.000 đồng"
+    },
+    {
+     "ref": "markettimes:6eb9bea2f8",
+     "title": "Tài chính tuần qua: Lãi suất đồng loạt giảm sâu, nợ xấu \"phình to\", cổ đông lâu năm Eximbank muốn thoái vốn"
+    },
+    {
+     "ref": "markettimes:2962963667",
+     "title": "Chứng khoán tuần qua: Dòng tiền \"bắt đáy\" chảy về VIX và KDH, bầu Đức thông báo tin vui lớn"
+    },
+    {
+     "ref": "markettimes:dc83955183",
+     "title": "PNJ: Bất ngờ muốn rút sạch vốn khỏi công ty cầm đồ sau chưa đầy 8 tháng"
+    },
+    {
+     "ref": "markettimes:62f6deb00c",
+     "title": "PNJ: Hơn 1.000 nhân viên rời đi, nhận thêm đơn xin nghỉ của Giám đốc cấp cao Tài chính"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:20021b53b5",
+     "title": "QCG: Sau khi thay tổng giám đốc"
+    },
+    {
+     "ref": "ti-n-phong:d0e8491e25",
+     "title": "Phó Thủ tướng: Xác lập ngay cơ chế điều phối logistics quốc gia"
+    },
+    {
+     "ref": "ti-n-phong:3bc5778e15",
+     "title": "TLG: Tập đoàn Thiên Long \"bán mình\""
+    },
+    {
+     "ref": "ti-n-phong:48cd3cd150",
+     "title": "Kiểm soát, giám sát hơn 1.100 quỹ tín dụng nhân dân ra sao?"
+    },
+    {
+     "ref": "ti-n-phong:5fad8567cb",
+     "title": "Giải pháp nào xử lý các tổ chức tín dụng yếu kém?"
+    },
+    {
+     "ref": "ti-n-phong:9f6afe76bc",
+     "title": "Mở cơ chế đặc thù, dự án du lịch 30.000 tỷ được đề xuất miễn thuế 4 năm"
+    },
+    {
+     "ref": "ti-n-phong:c1f100041c",
+     "title": "\"Chốt\" tăng trưởng năm 2027 từ 10%, GDP bình quân đầu người đạt 6.100 USD"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:398302eece",
+     "title": "Việt Nam và Anh thúc đẩy phát triển thị trường giao dịch hàng hóa phái sinh"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:124dfd6d36",
+     "title": "NVL: Hoàn thành hơn 155% kế hoạch lợi nhuận năm 2026 sau 9 tháng"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:650ad2febe",
+     "title": "Thu phí hơn 3.500 tỷ đồng trên 15 tuyến cao tốc Bắc – Nam phía Đông"
+    },
+    {
+     "ref": "bnews:0f98466494",
+     "title": "DPM: Ứng dụng Digital Twin giúp tối ưu vận hành nhà máy"
+    },
+    {
+     "ref": "bnews:1f8f837fc7",
+     "title": "Chứng khoán trước ngưỡng thử thách: VN-Index có thể tạo đáy trong tháng 11"
+    },
+    {
+     "ref": "bnews:754d95a66b",
+     "title": "EVNNPT đôn đốc tiến độ 5 dự án truyền tải điện phía Bắc"
+    },
+    {
+     "ref": "bnews:2eab6dec99",
+     "title": "Tạo lực cho tăng trưởng 2 con số: Chính sách thuế và 3 trụ cột hỗ trợ doanh nghiệp"
+    },
+    {
+     "ref": "bnews:516519eb57",
+     "title": "Green SM giảm 25% cước xe, tăng hỗ trợ tài xế trong gần 4 tháng"
+    },
+    {
+     "ref": "bnews:578d9ceae1",
+     "title": "Tiêu điểm kinh tế tuần: Giảm giá điện - Hỗ trợ sức mua và mục tiêu tăng trưởng"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:43371c289c",
+   "title": "Nvidia điều tra vụ bê bối gián điệp liên quan đến CEO Jensen Huang",
+   "translated": true,
+   "original_title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video"
+  },
+  {
+   "ref": "bloomberg:1be7d3026b",
+   "title": "Thị trường châu Á đối mặt áp lực bán sau vụ điều tra Nvidia",
+   "translated": true,
+   "original_title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-vnwallstreet:410308",
+   "title": "Xác suất Fed tăng lãi suất 25 điểm cơ bản trong tháng 12 lên 78% theo CME FedWatch",
+   "original_title": "▫️ Xác suất Fed tăng lãi suất tháng 12 là 78% Theo CME FedWatch: Xác suất Fed giữ nguyên lãi suất trong tháng 12 là 22,0%, tăng 25 điểm cơ bản là 78%. Xác suất giữ nguyên lãi suất cho đến tháng 1 năm sau là 17,7%, tăng 25 điểm cơ bản là 67,1%, tăng 50 điểm cơ bản là 15,2%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109288",
+   "title": "Trợ lý Thống đốc RBA cảnh báo AI có thể khiến tài sản bị định giá lại mạnh, bùng nổ đầu tư đẩy lạm phát",
+   "original_title": "(Tiêu điểm) Trợ lý Thống đốc RBA Hunter cảnh báo AI có thể khiến tài sản bị định giá lại mạnh, bùng nổ đầu tư đẩy lạm phát Chi tiết xem tại: https://dubaotiente.net/tieu-diem/tro-ly-thong-doc-rba-hunter-canh-bao-ai-co-the-khien-tai-san-bi-dinh-gia-lai-manh-114094.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109289",
+   "title": "Houthi tấn công tháp Aramco ở Riyadh nhằm vào kho dầu, rủi ro nguồn cung Ả Rập Xê Út gia tăng",
+   "original_title": "(Tiêu điểm) Houthi tấn công tháp Aramco ở Riyadh, nhắm vào kho dầu – rủi ro nguồn cung Ả Rập Xê Út gia tăng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/houthi-tan-cong-thap-aramco-o-riyadh-nham-vao-kho-dau-rui-ro-nguon-cung-a-rap-xe-ut-gia-tang-114095.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109291",
+   "title": "Dự báo lạm phát tháng 10 của Trung Quốc: CPI quanh 0,8%, PPI trên 5%",
+   "original_title": "(Tiêu điểm) Dự báo lạm phát tháng 10 của Trung Quốc: CPI quanh 0.8%, PPI trên 5% Chi tiết xem tại: https://dubaotiente.net/tieu-diem/du-bao-lam-phat-thang-10-cua-trung-quoc-cpi-quanh-0-8-ppi-tren-5-114097.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109286",
+   "title": "Rubio: Đàm phán với Iran không hiệu quả vì yêu cầu của Tehran không thể chấp nhận",
+   "original_title": "(Tiêu điểm) Rubio: Đàm phán với Iran không hiệu quả vì yêu cầu của Tehran không thể chấp nhận Chi tiết xem tại: https://dubaotiente.net/tieu-diem/rubio-dam-phan-voi-iran-khong-hieu-qua-vi-yeu-cau-cua-tehran-khong-the-chap-nhan-114092.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1073403",
+   "title": "Mỹ mở rộng trừng phạt Iran qua các cửa khẩu biên giới và biển Caspi - Washington Post",
+   "translated": true,
+   "original_title": "US TO EXPAND IRAN SANCTIONS EFFORT ACROSS LAND BORDERS, CASPIAN SEA - WP ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109284",
+   "title": "Bitcoin tiếp tục chịu áp lực, giao dịch dưới 74.600 USD khi tâm lý rủi ro trở nên thận trọng",
+   "original_title": "(Tiêu điểm) Bitcoin tiếp tục chịu áp lực, giao dịch dưới 74,600 USD khi tâm lý rủi ro trở nên thận trọng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bitcoin-tiep-tuc-chiu-ap-luc-giao-dich-duoi-74600-usd-114090.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109290",
+   "title": "Thượng nghị sĩ Blumenthal ấn định hạn chót 4/1 cho Binance, Tether và các công ty crypto liên quan đến Trump",
+   "original_title": "(Tiêu điểm) Thượng nghị sĩ Blumenthal ấn định hạn chót 4/1 cho Binance, Tether và các công ty crypto liên quan đến Trump Chi tiết xem tại: https://dubaotiente.net/tieu-diem/thuong-nghi-si-blumenthal-an-dinh-han-chot-4-1-cho-binance-tether-va-cac-cong-ty-crypto-lien-quan-den-trump-114096.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1073406",
+   "title": "Gần 2,8 GW công suất điện bị mất khỏi lưới sau vụ tấn công mỏ khí Khor Mor của Iraq - Bộ Điện lực khu vực Kurdistan",
+   "translated": true,
+   "original_title": "NEARLY 2.8 GW OF POWER OUTPUT LOST FROM GRID AFTER ATTACK ON IRAQ'S KHOR MOR FIELD: KURDISTAN REGION'S ELECTRICITY MINISTRY ...",
+   "link": null
+  }
+ ],
+ "content_sha": "992d1002615798019f966e60908259725878a6d3cb60abbeebe1581415de1275"
+}
