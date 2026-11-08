@@ -1,0 +1,38 @@
+
+########## CHAY LUC 2026-11-09 06:44:53 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-09, ban daily)
+   the gioi 13 tin · Viet Nam 74 tin / 9 bao · phap ly 8 tin · chot quyen 10 ma
+   CANH BAO [C9] world[11]: tin lấy từ nguồn trong nước 'Vietstock'
+   CANH BAO [C9] world[12]: tin lấy từ nguồn trong nước 'Vietstock'
+   THAT BAI: 2 loi
+      [C4] world[11]: URL không hợp lệ 'http://vietstock.vn/2026/11/chu-tich-ecb-christine-lagarde-l' (nguồn web phải https)
+      [C4] world[12]: URL không hợp lệ 'http://vietstock.vn/2026/11/openai-huy-dong-duoc-11-ty-usd-v' (nguồn web phải https)
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-11-09 06:45:17 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-09, ban daily)
+   the gioi 11 tin · Viet Nam 76 tin / 9 bao · phap ly 8 tin · chot quyen 10 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-09 · the gioi 11 · Viet Nam 76 · phap ly 8
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-09.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-09: commit 65e8aa2292f5 · sha noi dung 0648aa3c42b16f78
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 09/11 | content_sha 992d10026157 | commit 65e8aa2292f5
+   telegram user/928f6fc4179d OK message_id=311
+   zalo     user/593dd2adbb87 OK message_id=8a8ba4435c67063e5f71
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-09.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-09 06:45:53 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
