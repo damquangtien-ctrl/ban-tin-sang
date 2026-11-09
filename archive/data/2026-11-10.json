@@ -650,5 +650,44 @@
    "link": "https://bbw.vn/de-che-musk-mat-130-ty-usd-khi-texas-doi-mau-chinh-tri-61430.html"
   }
  ],
- "content_sha": "fe3d2ca04b47b110accdbac0a617969bdb408d15de5d32bc07e16d4f1ff94ae8"
+ "content_sha": "fe3d2ca04b47b110accdbac0a617969bdb408d15de5d32bc07e16d4f1ff94ae8",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "64717853c3f4a6dd5dab32aac5dbf8eeb22ac43e",
+   "published_at": "2026-11-10T06:48:27+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "312",
+   "sent_at": "2026-11-10T06:48:28+07:00",
+   "content_sha": "fe3d2ca04b47b110accdbac0a617969bdb408d15de5d32bc07e16d4f1ff94ae8",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "312",
+     "sent_at": "2026-11-10T06:48:28+07:00",
+     "content_sha": "fe3d2ca04b47b110accdbac0a617969bdb408d15de5d32bc07e16d4f1ff94ae8"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "5100cf9ef29bafc2f68d",
+   "sent_at": "2026-11-10T06:48:29+07:00",
+   "content_sha": "fe3d2ca04b47b110accdbac0a617969bdb408d15de5d32bc07e16d4f1ff94ae8",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "5100cf9ef29bafc2f68d",
+     "sent_at": "2026-11-10T06:48:29+07:00",
+     "content_sha": "fe3d2ca04b47b110accdbac0a617969bdb408d15de5d32bc07e16d4f1ff94ae8"
+    }
+   ]
+  }
+ }
 }
