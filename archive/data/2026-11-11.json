@@ -675,5 +675,44 @@
    "link": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates"
   }
  ],
- "content_sha": "1b6b84194071e227029254e1695f95ee5e3085d13502c522adb600980440828b"
+ "content_sha": "1b6b84194071e227029254e1695f95ee5e3085d13502c522adb600980440828b",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "25d6c2cbce3a3b8777db982a50d69830b1fe68a6",
+   "published_at": "2026-11-11T06:55:49+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "313",
+   "sent_at": "2026-11-11T06:55:50+07:00",
+   "content_sha": "1b6b84194071e227029254e1695f95ee5e3085d13502c522adb600980440828b",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "313",
+     "sent_at": "2026-11-11T06:55:50+07:00",
+     "content_sha": "1b6b84194071e227029254e1695f95ee5e3085d13502c522adb600980440828b"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "286a8ad462b93ee067af",
+   "sent_at": "2026-11-11T06:55:51+07:00",
+   "content_sha": "1b6b84194071e227029254e1695f95ee5e3085d13502c522adb600980440828b",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "286a8ad462b93ee067af",
+     "sent_at": "2026-11-11T06:55:51+07:00",
+     "content_sha": "1b6b84194071e227029254e1695f95ee5e3085d13502c522adb600980440828b"
+    }
+   ]
+  }
+ }
 }
