@@ -647,5 +647,44 @@
    "link": "https://bbw.vn/google-ra-mat-chip-ai-moi-thach-thuc-nvidia-61476.html"
   }
  ],
- "content_sha": "2885bb84917c02cf7d61f6185f3867bc63bac3a0e5ef3925bdcd26b94e6ef876"
+ "content_sha": "2885bb84917c02cf7d61f6185f3867bc63bac3a0e5ef3925bdcd26b94e6ef876",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "9de90084b7a18fd8b322aa2a022b7620672977e2",
+   "published_at": "2026-11-12T06:46:17+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "314",
+   "sent_at": "2026-11-12T06:46:18+07:00",
+   "content_sha": "2885bb84917c02cf7d61f6185f3867bc63bac3a0e5ef3925bdcd26b94e6ef876",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "314",
+     "sent_at": "2026-11-12T06:46:18+07:00",
+     "content_sha": "2885bb84917c02cf7d61f6185f3867bc63bac3a0e5ef3925bdcd26b94e6ef876"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "7c2236dde28cbdd5e49a",
+   "sent_at": "2026-11-12T06:46:20+07:00",
+   "content_sha": "2885bb84917c02cf7d61f6185f3867bc63bac3a0e5ef3925bdcd26b94e6ef876",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "7c2236dde28cbdd5e49a",
+     "sent_at": "2026-11-12T06:46:20+07:00",
+     "content_sha": "2885bb84917c02cf7d61f6185f3867bc63bac3a0e5ef3925bdcd26b94e6ef876"
+    }
+   ]
+  }
+ }
 }
