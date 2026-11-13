@@ -445,5 +445,44 @@
    "link": "https://vneconomy.vn/cac-dong-tien-chau-a-duong-dau-ap-luc-mat-gia-manh-vi-du-bao-fed-tang-lai-suat.htm"
   }
  ],
- "content_sha": "328edd8f8efb0dab8b64f646fa2a74111ed1234ecbfc02d023be5f972e8c4ac2"
+ "content_sha": "328edd8f8efb0dab8b64f646fa2a74111ed1234ecbfc02d023be5f972e8c4ac2",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "a0abfe0a70f7e02d2dd7f83e43b72a47191c5bec",
+   "published_at": "2026-11-14T06:53:02+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "316",
+   "sent_at": "2026-11-14T06:53:02+07:00",
+   "content_sha": "328edd8f8efb0dab8b64f646fa2a74111ed1234ecbfc02d023be5f972e8c4ac2",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "316",
+     "sent_at": "2026-11-14T06:53:02+07:00",
+     "content_sha": "328edd8f8efb0dab8b64f646fa2a74111ed1234ecbfc02d023be5f972e8c4ac2"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "becab46ccef090a9c9e6",
+   "sent_at": "2026-11-14T06:53:04+07:00",
+   "content_sha": "328edd8f8efb0dab8b64f646fa2a74111ed1234ecbfc02d023be5f972e8c4ac2",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "becab46ccef090a9c9e6",
+     "sent_at": "2026-11-14T06:53:04+07:00",
+     "content_sha": "328edd8f8efb0dab8b64f646fa2a74111ed1234ecbfc02d023be5f972e8c4ac2"
+    }
+   ]
+  }
+ }
 }

@@ -1,0 +1,46 @@
+
+########## CHAY LUC 2026-11-14 06:50:44 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-14, ban daily)
+   the gioi 10 tin · Viet Nam 42 tin / 10 bao · phap ly 6 tin · chot quyen 0 ma
+   CANH BAO [C9] world[7]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[8]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[9]: tin lấy từ nguồn trong nước 'VnEconomy'
+   DAT: khong loi, 3 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-14 · the gioi 10 · Viet Nam 42 · phap ly 6
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-14.html
+
+=== 3/5 XUAT BAN ===
+
+########## CHAY LUC 2026-11-14 06:52:25 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-14, ban daily)
+   the gioi 10 tin · Viet Nam 42 tin / 10 bao · phap ly 6 tin · chot quyen 0 ma
+   CANH BAO [C9] world[7]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[8]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[9]: tin lấy từ nguồn trong nước 'VnEconomy'
+   DAT: khong loi, 3 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-14 · the gioi 10 · Viet Nam 42 · phap ly 6
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-14.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-14: commit a0abfe0a70f7 · sha noi dung bf546d7a554dd937
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 14/11 | content_sha 328edd8f8efb | commit a0abfe0a70f7
+   telegram user/928f6fc4179d OK message_id=316
+   zalo     user/593dd2adbb87 OK message_id=becab46ccef090a9c9e6
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-14.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-14 06:53:04 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
