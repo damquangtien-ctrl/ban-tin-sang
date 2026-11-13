@@ -1,0 +1,449 @@
+{
+ "date": "2026-11-14",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "FAA bất ngờ dừng toàn bộ chuyến bay nội địa Mỹ do lỗi hệ thống kiểm soát không lưu, gần 7.000 chuyến bị hoãn/hủy"
+  },
+  {
+   "source": "Vietstock",
+   "text": "VN-Index đóng cửa phiên 13/11 gần như đi ngang ở 1.734,93 điểm, thanh khoản HOSE đạt khoảng 9.770 tỷ đồng"
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Quốc hội chính thức thông qua Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán"
+  },
+  {
+   "source": "Bloomberg Businessweek VN",
+   "text": "Jensen Huang từ chức CEO Nvidia giữa bê bối tình ái và nghi vấn gián điệp, cổ phiếu chao đảo"
+  },
+  {
+   "source": "CafeF",
+   "text": "Dragon Capital: Chứng khoán Việt Nam chưa phản ánh đầy đủ triển vọng đảo chiều lãi suất"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:673aa9f3ad",
+     "title": "PNJ: Khai sai thuế, bị phạt gần 2 tỷ đồng"
+    },
+    {
+     "ref": "cafef:fc28a08744",
+     "title": "Chủ tịch Tân Hoàng Minh Đỗ Anh Dũng bị tạm hoãn xuất cảnh"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:d5c3d2611c",
+     "title": "Doanh nghiệp bất động sản, khách sạn bị phạt vì chậm công bố thông tin"
+    },
+    {
+     "ref": "vietstock:590cbdba23",
+     "title": "TTF: Nói nhầm lẫn sau gần 7 năm công bố đã thoái vốn công ty con"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9f31e90b6c",
+     "title": "Thanh tra việc giảm lãi suất tại các ngân hàng, thực hiện ngay trong tháng 11"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:6325230d32",
+     "title": "Cựu Phó chủ tịch UBND tỉnh Thanh Hóa Lê Đức Giang lĩnh án 3 năm tù"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+0,18 (+0,01%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.734,93"
+   },
+   {
+    "change": "-1,64 (-0,64%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "254,98"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~9.770 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~320,88 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "Mua 135 - Bán 138 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "USD/VND (VCB bán)",
+    "value": "25.910"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ diễn biến phân hóa đêm qua: S&P 500 giảm 0,40%, Nasdaq giảm 0,91%, trong khi Dow Jones nhẹ tăng 0,10%, giữa lúc FAA bất ngờ dừng toàn bộ chuyến bay nội địa do lỗi hệ thống kiểm soát không lưu và Microsoft gặp sự cố dịch vụ toàn cầu ảnh hưởng tới dữ liệu giao dịch hàng hóa. Giá dầu WTI và Brent nhích nhẹ lên quanh 88,9 và 96,1 USD/thùng, vàng thế giới gần như đi ngang ở 3.888 USD/ounce, còn Bitcoin giảm mạnh 4,51% xuống khoảng 68.127 USD. Tại thị trường trong nước, VN-Index đóng cửa phiên 13/11 gần như đi ngang ở 1.734,93 điểm (+0,01%), HNX-Index giảm 0,64% xuống 254,98 điểm; thanh khoản HOSE đạt khoảng 9.770 tỷ đồng và khối ngoại mua ròng nhẹ hơn 320 tỷ đồng. Giá vàng SJC trong nước giao dịch quanh 135-138 triệu đồng/lượng, USD/VND theo Vietcombank ở mức 25.530-25.910 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.4,
+    "label": "S&P 500",
+    "value": "7.561,7"
+   },
+   {
+    "change_pct": 0.1,
+    "label": "Dow Jones",
+    "value": "52.347,6"
+   },
+   {
+    "change_pct": -0.91,
+    "label": "Nasdaq",
+    "value": "25.136,3"
+   },
+   {
+    "change_pct": 0.2,
+    "label": "Dầu WTI",
+    "value": "88,9 USD"
+   },
+   {
+    "change_pct": 0.27,
+    "label": "Dầu Brent",
+    "value": "96,1 USD"
+   },
+   {
+    "change_pct": 0.06,
+    "label": "Vàng thế giới",
+    "value": "3.888 USD"
+   },
+   {
+    "change_pct": -4.51,
+    "label": "Bitcoin",
+    "value": "68.127 USD"
+   },
+   {
+    "change_pct": 0.23,
+    "label": "DXY",
+    "value": "103,41"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:7991bb20f4",
+     "title": "Chuyên gia: Thanh khoản chứng khoán có thể đạt 60.000 – 70.000 tỷ đồng mỗi phiên trong chu kỳ tới"
+    },
+    {
+     "ref": "cafef:bfb05c4095",
+     "title": "Dragon Capital: Chứng khoán Việt Nam chưa phản ánh đầy đủ triển vọng đảo chiều lãi suất"
+    },
+    {
+     "ref": "cafef:93265ee35f",
+     "title": "Lãi vượt kế hoạch năm, nắm \"núi tiền\" gần 50.000 tỷ đồng, một ông lớn sắp đón cú hích từ siêu dự án 12 tỷ USD"
+    },
+    {
+     "ref": "cafef:36b43c677d",
+     "title": "Một cổ phiếu giảm 44% sau 6 phiên, 18% lượng cổ phiếu được sang tay chỉ trong 1 ngày"
+    },
+    {
+     "ref": "cafef:b9ea535c96",
+     "title": "NKG: Ái nữ kín tiếng của Chủ tịch Hồ Minh Quang lần đầu đăng ký mua cổ phiếu Thép Nam Kim"
+    },
+    {
+     "ref": "cafef:8b63261cc3",
+     "title": "Thị trường M&A tháng 10 gần 1 tỷ USD: Doanh nghiệp của 2 tỷ phú Trần Đình Long và Nguyễn Đăng Quang thực hiện 2 thương vụ lớn nhất"
+    },
+    {
+     "ref": "cafef:afdd6bad57",
+     "title": "Tỷ phú Bill Gates liên tục mua thêm hàng triệu cổ phiếu \"bắt đáy\" 2 công ty bất động sản Việt Nam"
+    },
+    {
+     "ref": "cafef:5aa6415445",
+     "title": "DIG: Người nhà Tổng Giám đốc DIC Corp đã mua 1 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:a8b2e03c5a",
+     "title": "Đại gia công nghệ rót 690 triệu USD xây nhà máy rộng 30 ha tại Quảng Ninh"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:6a593337ce",
+     "title": "IMF lưu ý rủi ro lạm phát khi Việt Nam đặt mục tiêu tăng trưởng 10% năm 2027"
+    },
+    {
+     "ref": "vietstock:6ea011b398",
+     "title": "Tuần 09-13/11: USD-Index bật tăng, tỷ giá ngân hàng và tự do cùng đi lên"
+    },
+    {
+     "ref": "vietstock:960051de18",
+     "title": "Chứng khoán Tuần 09-13/11/2026: Giằng co trong thận trọng"
+    },
+    {
+     "ref": "vietstock:ad18b84563",
+     "title": "Cơ chế ngoại hối mới tháo gỡ điểm nghẽn dòng vốn cho siêu dự án hạ tầng"
+    },
+    {
+     "ref": "vietstock:24b2bd5dab",
+     "title": "TAR: Lãnh đạo đăng ký mua 1 triệu cổ phiếu giữa lúc kinh doanh lỗ nặng"
+    },
+    {
+     "ref": "vietstock:9210d9adc9",
+     "title": "Chính phủ cho phép EVN dùng lợi nhuận xử lý chi phí đầu tư thất bại"
+    },
+    {
+     "ref": "vietstock:40fff44826",
+     "title": "Lãnh đạo người Pháp từ nhiệm HĐQT TCBS"
+    },
+    {
+     "ref": "vietstock:f30f046496",
+     "title": "TNT: Tập đoàn tính góp 233 tỷ lập công ty AI, Chủ tịch nắm hơn 51% vốn"
+    },
+    {
+     "ref": "vietstock:be02487c4e",
+     "title": "Lãi suất cho vay đã giảm, doanh nghiệp còn e ngại gì?"
+    },
+    {
+     "ref": "vietstock:7e4e07cd76",
+     "title": "Sovico và MUFG hợp tác chiến lược, kết nối nguồn lực cho phát triển Việt Nam - Nhật Bản"
+    },
+    {
+     "ref": "vietstock:8c9863719d",
+     "title": "Khơi thông thị trường vốn là lời giải để hạ nhiệt lãi suất"
+    },
+    {
+     "ref": "vietstock:9420bd5d2c",
+     "title": "NTL: Phó Chủ tịch Lideco Đinh Quang Chiến liên tục gom hàng triệu cổ phiếu"
+    },
+    {
+     "ref": "vietstock:aac48739e4",
+     "title": "PDV: Muốn huy động gần 570 tỷ bổ sung vốn mua tàu, thách thức khi chào bán cao hơn thị giá"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:0ef1dcf554",
+     "title": "Có tới 88 quỹ cổ phiếu báo lỗ nặng trong tháng 10"
+    },
+    {
+     "ref": "vneconomy:43d28bda58",
+     "title": "Quốc hội thông qua Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán"
+    },
+    {
+     "ref": "vneconomy:37e3708525",
+     "title": "Thanh khoản lại \"phá đáy\", VN30 lần đầu tiên khớp dưới 2.000 tỷ kể từ tháng 2/2025"
+    },
+    {
+     "ref": "vneconomy:09dfeb8d5a",
+     "title": "Trong kịch bản tiêu cực, VN-Index vẫn có nguy cơ lùi về 1650 điểm?"
+    },
+    {
+     "ref": "vneconomy:8e2f6451f3",
+     "title": "SGI Capital: Mặt bằng lãi suất thị trường mới nổi gồm Việt Nam tiếp tục neo cao tới năm 2027"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2c8aa3fbc8",
+     "title": "Đề nghị giao Bộ Tài chính quản lý giao dịch hàng hóa phái sinh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cd0c460ca6",
+     "title": "Top 10 cổ phiếu tăng/giảm mạnh nhất tuần: Tuần của các tân binh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8cf3e79de5",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 14/11"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:590b706366",
+     "title": "VCB: Hạ lãi vay cuối năm, gần 25.000 khách hàng hưởng lợi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d30176fd69",
+     "title": "Giới đầu tư giao dịch chậm lại sau diễn biến mới tại Nvidia"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:216bd4228d",
+     "title": "HD SAISON công bố thông tin chuyển đổi hình thức pháp lý, nhà đầu tư chiến lược nước ngoài"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:5f285b8e42",
+     "title": "TIG: Dòng tiền \"bắt đáy\" chảy vào, gần 18% cổ phần được sang tay trong phiên giảm sàn thứ 6 liên tiếp"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:d28213e8f3",
+     "title": "Việt Nam nên lựa chọn sử dụng các mô hình AI Mỹ hay Trung Quốc?"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:c4d8c98f0d",
+     "title": "Lãnh đạo doanh nghiệp rầm rộ gom cổ phiếu"
+    },
+    {
+     "ref": "ti-n-phong:4bc0e4c537",
+     "title": "Bán ròng trăm nghìn tỷ, khối ngoại vẫn tìm cơ hội ở Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:b43edbf1b9",
+     "title": "Nợ xấu ngân hàng tăng mạnh"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:098a40935e",
+     "title": "Khơi thông nguồn lực đầu tư, thúc đẩy R&D bán dẫn Việt Nam"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:8c744332e6",
+     "title": "Quốc hội thông qua Nghị quyết về quyết toán ngân sách nhà nước năm 2025"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:1698c4264e",
+     "title": "Sáng 13/11: NHNN niêm yết tỷ giá trung tâm ở mức 25.637 đồng"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:2e5401efc4",
+     "title": "BSR: Nghiên cứu công nghệ thu hồi và lưu trữ CO2, hướng tới Net Zero"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:9a719057b4",
+   "title": "FAA dừng toàn bộ chuyến bay nội địa trên khắp nước Mỹ do lỗi hệ thống kiểm soát không lưu",
+   "translated": true,
+   "original_title": "FAA Grounds All Flights Nationwide",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video"
+  },
+  {
+   "ref": "tg-vnwallstreet:411836",
+   "title": "Sự cố dịch vụ toàn cầu của Microsoft gây rối loạn giao dịch hàng hóa, ảnh hưởng dữ liệu giá dầu và thông tin giao dịch",
+   "translated": false,
+   "original_title": "▫️ Sự cố dịch vụ toàn cầu của Microsoft gây rối loạn giao dịch hàng hóa; dữ liệu giá dầu và thông tin giao dịch bị ảnh hưởng Microsoft phát sinh sự cố dịch vụ lớn hôm thứ Năm, ảnh hưởng đến các cơ quan chính phủ, doanh nghiệp và nhà giao dịch trên toàn cầu. Nhiều nhóm giao dịch buộc phải chuyển sang sử dụng điện thoại, fax và ứng dụng nhắn tin. Sự cố này làm phức tạp hoạt động giao dịch dầu thô tr",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:015a240776",
+   "title": "Chứng khoán Mỹ tăng điểm cuối tuần giữa biến động nhóm công nghệ",
+   "translated": true,
+   "original_title": "Stocks End Week Higher Amid Tech Turmoil | Closing Bell",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/stocks-end-week-higher-amid-tech-turmoil-closing-bell-video"
+  },
+  {
+   "ref": "bloomberg:76eae5a632",
+   "title": "Jeff Currie: Bi quan về giá đồng do nhu cầu Trung Quốc suy yếu",
+   "translated": true,
+   "original_title": "Jeff Currie Says He’s Bearish on Copper Due to China",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:c344d1e096",
+   "title": "Jensen Huang từ chức: Điều gì đang chờ Nvidia?",
+   "translated": false,
+   "original_title": "Jensen Huang từ chức: Điều gì đang chờ Nvidia?",
+   "link": "https://bbw.vn/jensen-huang-tu-chuc-nang-dieu-gi-dang-cho-nvidia-61540.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:919ad56950",
+   "title": "Jensen Huang: Bê bối tình ái, nghi vấn gián điệp và cú sốc Nvidia",
+   "translated": false,
+   "original_title": "Jensen Huang: Bê bối tình ái, nghi vấn gián điệp và cú sốc Nvidia",
+   "link": "https://bbw.vn/jensen-huang-be-boi-tinh-ai-nghi-van-gian-diep-va-cu-soc-nvidia-61567.html"
+  },
+  {
+   "ref": "tg-vnwallstreet:411835",
+   "title": "Bộ Tài chính Mỹ xem xét cho Venezuela vay để thanh toán nợ với Ngân hàng Phát triển Mỹ",
+   "translated": false,
+   "original_title": "▫️ Bộ Tài chính Mỹ đang xem xét việc cung cấp khoản vay nhằm giúp Venezuela thanh toán các khoản nợ đối với Ngân hàng Phát triển Mỹ. #geopolitics #us",
+   "link": null
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:2355693f2c",
+   "title": "Tesla và SpaceX tiến gần thương vụ hợp nhất lịch sử",
+   "translated": false,
+   "original_title": "Tesla và SpaceX tiến gần thương vụ hợp nhất lịch sử - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3RSN0U5MGNSejdLWEx1bkxRSV9YRld0cDBQeHVEUGU2azMzbTRzbHk3WDBMS2dCR2FYcXE0MWUwOVJvMFhyelVoYzhYcXJmUDFyLUR3MU9XVkJlbldaUGNaUjZoOFZ2RG00NEIxQ1gwY3pidjV0QnRmSVk4cmowanJxRDZhekh3OEhkdHpPQlJZUC1lV1QwQm12M0t4VkNuZ1Jz0gGfAUFVX3lxTFBwQ19mVlcwZHo0Tm5FLWE3TG9vR284WHNpMHVxcXAybTl0aFNtYW12VWNfUlJ3YnNRRzZiV2xVQ1pvb3NCVG1mdnRFLUVkZG1tcVYzN2tLZXZxckY5TXgtLUZqVVhabzlMS0FpZUdNN0kwcjE2SXp6bGMxOGJfWmZ0VjlUT1RYV1dLbFBXdGpkSWtKdy0xeEpxd3FzejRuQQ?oc=5"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:0fb2a491c9",
+   "title": "Binance khắc phục toàn bộ hơn 6,3 tỷ USD thiệt hại từ vụ tấn công mạng",
+   "translated": false,
+   "original_title": "Binance khắc phục toàn bộ hơn 6,3 tỷ USD thiệt hại từ vụ tấn công mạng - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpvR0o0YVZtaUZtalBlRGo5YlRvem9UaE13RjZSelB5Zmx6eFE4YnNBa3lGc1RvNnlNMEFGZS1KRGRJQThxWDNvd0pVaEZDZEcwRDdZR2xOekdVZzJCbEpPM21Mdk14ekQxdVhaV1dnUDhrVDUzaGpYMXJqSzlpVFJMZHI5ck1TazJTbWx4c2FSV3ZwZ1V6dU9GaE4zMnplbVNrY3JnTUdVUTg5T1FMM2huNDk0Y3d4VXVn0gG3AUFVX3lxTE1oYTZTZ0w0RVA4V054Rmk5QmhsRHpOYzYwS2JONjhwc1U3ZzVWMVhpdFBHV3BYZUNLVU1ma0RGdktDV0dPeHVESXhLaWV4eHVXX0d0WFlzRXJZeDVPdEt4bDMyVTVTaElDT05Mbnp0WmMwVzVBRUVrRURPQk0xbnpWWmNocjhPTkt5VFBycGNPMXF6c2p2Y1hzM2J2bWsxc1lDdi1nQUljOHFZTC04V2w1b2hLY1Qwdw?oc=5"
+  },
+  {
+   "ref": "vneconomy:a4f89320db",
+   "title": "Các đồng tiền châu Á đương đầu áp lực mất giá mạnh vì dự báo Fed tăng lãi suất",
+   "translated": false,
+   "original_title": "Các đồng tiền châu Á đương đầu áp lực mất giá mạnh vì dự báo Fed tăng lãi suất",
+   "link": "https://vneconomy.vn/cac-dong-tien-chau-a-duong-dau-ap-luc-mat-gia-manh-vi-du-bao-fed-tang-lai-suat.htm"
+  }
+ ],
+ "content_sha": "328edd8f8efb0dab8b64f646fa2a74111ed1234ecbfc02d023be5f972e8c4ac2"
+}
