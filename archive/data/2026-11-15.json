@@ -1,0 +1,185 @@
+{
+ "date": "2026-11-15",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "Market News Feed",
+   "text": "Thị trường tiền số mất 230 tỷ USD vốn hóa trong 24 giờ, Bitcoin giảm 6,74%, Ethereum giảm hơn 9%."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Hai tàu chở dầu bốc cháy sau khi trúng mìn tại eo biển Hormuz, theo Hải quân Vệ binh Cách mạng Iran."
+  },
+  {
+   "source": "Bloomberg Businessweek VN",
+   "text": "Jensen Huang bị thôi chức CEO Nvidia giữa bê bối tình ái và nghi vấn gián điệp, giới đầu tư tranh luận về tương lai công ty."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Số liệu giá cả Anh có thể củng cố khả năng BOE tăng lãi suất trở lại."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Hỗn loạn hàng không Mỹ: hơn 22.000 chuyến bay bị hủy hoặc hoãn, đợt gián đoạn tồi tệ nhất từ sau vụ 11/9."
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": null,
+    "direction": null,
+    "label": "VN-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Khối ngoại (HOSE)",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "25.910"
+   }
+  ],
+  "summary": "Ấn bản Chủ Nhật rút gọn, chỉ tổng hợp tin thế giới. Chứng khoán Mỹ đêm qua giảm điểm, Nasdaq mất 0,91% dẫn đầu đà giảm trong khi Dow Jones nhích nhẹ 0,1% và S&P 500 giảm 0,4%. Dầu WTI và Brent gần như đi ngang quanh 88,6 USD và 95,8 USD/thùng, vàng thế giới tăng nhẹ 0,03% lên 3.886 USD/ounce. Bitcoin lao dốc 6,84% xuống 63.584 USD giữa làn sóng bán tháo tiền số, trong khi đồng USD (DXY) tăng 0,23%.",
+  "tiles": [
+   {
+    "change_pct": -0.4,
+    "label": "S&P 500",
+    "value": "7.561,7"
+   },
+   {
+    "change_pct": 0.1,
+    "label": "Dow Jones",
+    "value": "52.347,6"
+   },
+   {
+    "change_pct": -0.91,
+    "label": "Nasdaq",
+    "value": "25.136,3"
+   },
+   {
+    "change_pct": -0.2,
+    "label": "Dầu WTI",
+    "value": "88,6 USD"
+   },
+   {
+    "change_pct": 0.02,
+    "label": "Dầu Brent",
+    "value": "95,8 USD"
+   },
+   {
+    "change_pct": 0.03,
+    "label": "Vàng thế giới",
+    "value": "3.886 USD"
+   },
+   {
+    "change_pct": -6.84,
+    "label": "Bitcoin",
+    "value": "63.584 USD"
+   },
+   {
+    "change_pct": 0.23,
+    "label": "DXY",
+    "value": "103,41"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1078015",
+   "title": "Thị trường tiền số mất 230 tỷ USD vốn hóa trong 24 giờ, Bitcoin giảm 6,74%, Ethereum giảm hơn 9%",
+   "translated": true,
+   "original_title": "JUST IN: $230,000,000,000 WIPED OUT FROM THE CRYPTO MARKET CAP IN THE PAST 24 HOURS. $BTC CRASHED 6.74% $ETH CRASHED 9.36% $BNB CRASHED 9.34% $XRP CRASHED 10.92% $SOL CRASHED 11.79% ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1078014",
+   "title": "Hải quân Vệ binh Cách mạng Iran: Hai tàu chở dầu bốc cháy sau khi trúng mìn tại eo biển Hormuz",
+   "translated": true,
+   "original_title": "IRAN'S IRGC NAVY: TWO TANKERS IGNITE AFTER HITTING NAVAL MINES IN STRAIT OF HORMUZ - STATE MEDIA ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:357710cb76",
+   "title": "Số liệu giá cả Anh có thể củng cố khả năng BOE tăng lãi suất trở lại",
+   "translated": true,
+   "original_title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data"
+  },
+  {
+   "ref": "bloomberg:9989272595",
+   "title": "Lợi suất 6% hấp dẫn hơn sau biến động tại Nvidia: Credit Weekly",
+   "translated": true,
+   "original_title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:919ad56950",
+   "title": "Jensen Huang: Bê bối tình ái, nghi vấn gián điệp và cú sốc Nvidia",
+   "translated": false,
+   "original_title": "Jensen Huang: Bê bối tình ái, nghi vấn gián điệp và cú sốc Nvidia",
+   "link": "https://bbw.vn/jensen-huang-be-boi-tinh-ai-nghi-van-gian-diep-va-cu-soc-nvidia-61567.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:29a0b15ea8",
+   "title": "Việc Jensen Huang bị thôi chức CEO có ý nghĩa gì đối với Nvidia",
+   "translated": false,
+   "original_title": "Việc Jensen Huang bị thôi chức CEO có ý nghĩa gì đối với Nvidia",
+   "link": "https://bbw.vn/viec-jensen-huang-bi-thoi-chuc-ceo-co-y-nghia-gi-doi-voi-nvidia-61550.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:b4fd0ddbf0",
+   "title": "Nvidia trước đó được phép thử không có Jensen Huang",
+   "translated": false,
+   "original_title": "Nvidia trước đó được phép thử không có Jensen Huang",
+   "link": "https://bbw.vn/nvidia-truoc-do-duoc-phep-thu-khong-co-jensen-huang-61544.html"
+  },
+  {
+   "ref": "tg-vnwallstreet:411876",
+   "title": "UCC (Qatar) đàm phán mua hai mỏ dầu khí trên đất liền ở Venezuela",
+   "translated": false,
+   "original_title": "▫️ UCC (Qatar) đàm phán mua hai mỏ dầu khí trên đất liền ở Venezuela Theo báo cáo quốc tế, tập đoàn UCC Oil and Gas Holding có trụ sở tại Qatar đang đàm phán để tiếp nhận hai mỏ dầu khí trên đất liền ở Venezuela. Theo những người am hiểu tình hình đàm phán, UCC nhắm tới hai mỏ dầu El Furrial và Jusepin nằm ở phía bắc tỉnh Monagas, miền đông Venezuela. Monagas là một trong những tỉnh chính sản xuất",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1077983",
+   "title": "Hỗn loạn hàng không Mỹ: hơn 22.000 chuyến bay bị hủy hoặc hoãn, đợt gián đoạn tồi tệ nhất từ sau vụ 11/9",
+   "translated": true,
+   "original_title": "US AVIATION CHAOS: OVER 22,000 FLIGHTS CANCELED OR DELAYED AMERICA’S AIR TRAVEL SYSTEM IS STRUGGLING TO RECOVER FROM ITS WORST NATIONWIDE FLIGHT SHUTDOWN SINCE 9/11. A NEARLY FIVE-HOUR FAA GROUND STOP ON FRIDAY TRIGGERED ROUGHLY 10,000 CANCELLATIONS AND 7,000 DELAYS. ANOTHER 3,700 FLIGHTS WERE CANCELED AND 2,000 DELAYED SATURDAY, LEAVING TENS OF THOUSANDS OF PASSENGERS STRANDED. OFFICIALS TRACED T",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1078004",
+   "title": "Đặc phái viên Mỹ Kushner: hai bên đều nhận thấy cần thỏa hiệp thực tế để kết thúc chiến tranh Nga - Ukraine",
+   "translated": true,
+   "original_title": "KUSHNER: BOTH SIDES RECOGNIZE PRACTICAL COMPROMISES NEEDED TO END WAR ...",
+   "link": null
+  }
+ ],
+ "content_sha": "31f5125d114c28dabcb077b89a402b9fc941f2512c718961ab45e0312381ef0e"
+}
