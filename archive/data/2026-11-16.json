@@ -1,0 +1,634 @@
+{
+ "date": "2026-11-16",
+ "dividends": [
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 45%",
+   "record_date": "2026-11-20",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "SIP"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 25%",
+   "record_date": "2026-11-20",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "VLB"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 20%",
+   "record_date": "2026-11-20",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "S4A"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 20%",
+   "record_date": "2026-11-18",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "NSC"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 20%",
+   "record_date": "2026-11-19",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "AST"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 18%",
+   "record_date": "2026-11-19",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "SFC"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 16%",
+   "record_date": "2026-11-17",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "SJD"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 16%",
+   "record_date": "2026-11-20",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "MH3"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 12,5%",
+   "record_date": "2026-11-23",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "TIX"
+  },
+  {
+   "event": "Chốt quyền trả cổ tức tiền mặt tỷ lệ 12%",
+   "record_date": "2026-11-23",
+   "ref": "vietstock:ce0d50fc05",
+   "ticker": "CLH"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thế giới",
+   "text": "Nvidia chấn động: CEO Jensen Huang từ chức sau bê bối, Bộ Tài chính Mỹ yêu cầu HĐQT thay lãnh đạo trong 10 ngày"
+  },
+  {
+   "source": "Thế giới",
+   "text": "CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản trong tháng 12 lên 95%"
+  },
+  {
+   "source": "Thị trường VN",
+   "text": "VN-Index khép phiên cuối tuần tăng nhẹ lên 1.734,93 điểm, khối ngoại mua ròng khoảng 320 tỷ đồng"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Bloomberg: Nhà đầu tư cá nhân bán tháo cổ phiếu Việt Nam để gửi tiết kiệm lãi suất gần 10%"
+  },
+  {
+   "source": "Thế giới",
+   "text": "Căng thẳng Hormuz: Iran tuyên bố một siêu tàu dầu bị chìm sau khi trúng thủy lôi"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:a985ba3cf0",
+     "title": "NHNN yêu cầu mở đợt thanh tra việc giảm lãi suất của các ngân hàng ngay trong tháng 11"
+    },
+    {
+     "ref": "vietstock:4fc40fa892",
+     "title": "Bắt 2 đối tượng rửa tiền cho các nhóm tội phạm ở Campuchia, giao dịch hơn 200 tỷ đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8bd3276d74",
+     "title": "PNJ: Bị phạt gần 2 tỷ đồng do khai sai dẫn đến thiếu số tiền thuế"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:3c8071e392",
+     "title": "Phạt nhiều doanh nghiệp vi phạm về trái phiếu"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:d3fd82953c",
+     "title": "FLC: Cựu Chủ tịch Trịnh Văn Quyết bị xóa tên khỏi Đoàn luật sư Hà Nội"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+0,18 (+0,01%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.734,93 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "15.138 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "+320 tỷ đồng (mua ròng)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "134,5 – 137,5 triệu/lượng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "25.910 đồng"
+   }
+  ],
+  "summary": "Phố Wall đêm qua diễn biến phân hóa: S&P 500 giảm 0,4%, Nasdaq giảm 0,91% do lo ngại nhóm cổ phiếu AI, trong khi Dow Jones nhích tăng 0,1%; giá dầu WTI và Brent cùng giảm nhẹ, vàng thế giới lùi về quanh 3.884 USD/ounce. Căng thẳng tại eo biển Hormuz và khả năng Fed tăng lãi suất 25 điểm cơ bản trong tháng 12 (xác suất 95% theo CME FedWatch) tiếp tục chi phối tâm lý nhà đầu tư toàn cầu. Trong nước, VN-Index khép lại phiên cuối tuần (13/11) trong sắc xanh nhẹ, tăng 0,18 điểm lên 1.734,93 điểm nhờ lực mua cuối phiên, thanh khoản HOSE đạt khoảng 15.138 tỷ đồng và khối ngoại mua ròng khoảng 320 tỷ đồng. Giá vàng SJC trong nước đi ngang ở mức 134,5-137,5 triệu đồng/lượng, còn tỷ giá USD/VND tại Vietcombank niêm yết bán ra 25.910 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.4,
+    "label": "S&P 500",
+    "value": "7.561,7"
+   },
+   {
+    "change_pct": 0.1,
+    "label": "Dow Jones",
+    "value": "52.347,6"
+   },
+   {
+    "change_pct": -0.91,
+    "label": "Nasdaq",
+    "value": "25.136,3"
+   },
+   {
+    "change_pct": -0.14,
+    "label": "Dầu WTI",
+    "value": "88,4 USD"
+   },
+   {
+    "change_pct": -0.42,
+    "label": "Dầu Brent",
+    "value": "95,4 USD"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "Vàng thế giới",
+    "value": "3.884 USD"
+   },
+   {
+    "change_pct": 1.39,
+    "label": "Bitcoin",
+    "value": "65.018 USD"
+   },
+   {
+    "change_pct": 0.02,
+    "label": "DXY",
+    "value": "103,43"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:d8ce27a050",
+     "title": "Soi dòng tiền của Thế Giới Di Động và loạt đại gia bán lẻ: Hé lộ bài toán khó đằng sau con số lợi nhuận"
+    },
+    {
+     "ref": "cafef:4d9aeb00fe",
+     "title": "Giai đoạn nước rút cuối năm, chuyên gia Mirae Asset chỉ ra 4 biến số có thể chi phối VN-Index"
+    },
+    {
+     "ref": "cafef:cf52e6c856",
+     "title": "Giám đốc Nghiên cứu MBS gọi tên nhóm cổ phiếu có thể \"đánh bại\" VN-Index năm 2027"
+    },
+    {
+     "ref": "cafef:ba370160fc",
+     "title": "Phó Chủ tịch UBCKNN Bùi Hoàng Hải: Sau 30 năm, chứng khoán Việt Nam đứng trước một sứ mệnh lớn"
+    },
+    {
+     "ref": "cafef:2102a7627d",
+     "title": "Viettel nắm danh mục khủng 4,7 tỷ cổ phiếu trị giá 262.600 tỷ đồng: Riêng một công ty mang về gần 10.000 tỷ đồng cổ tức"
+    },
+    {
+     "ref": "cafef:b7681585be",
+     "title": "Tuần tới VN-Index có thể phục hồi?"
+    },
+    {
+     "ref": "cafef:8b334e0ff9",
+     "title": "Khu đô thị AIC hơn 13.000 tỷ đồng 'đắp chiếu' cả thập kỷ bất ngờ 'thay tên, đổi họ'"
+    },
+    {
+     "ref": "cafef:15405f7a18",
+     "title": "Góc nhìn chuyên gia: Chứng khoán chờ chất xúc tác, \"đãi cát tìm vàng\" tại loạt nhóm ngành tăng trưởng giai đoạn cuối năm"
+    },
+    {
+     "ref": "cafef:22a0fbd429",
+     "title": "Siêu máy bay 253 tấn của tỷ phú Nguyễn Thị Phương Thảo bay thử thành công tại Pháp: Mở màn đơn hàng 390.000 tỷ đồng, tốc độ gần 900 km/h"
+    },
+    {
+     "ref": "cafef:cda14c4598",
+     "title": "VDP: Chủ tịch cùng loạt lãnh đạo từ nhiệm sau biến động cổ đông"
+    },
+    {
+     "ref": "cafef:2471737b48",
+     "title": "PHR: Báo lãi tăng 64%, lợi nhuận từ hoạt động cốt lõi bất ngờ \"lao dốc\" 96%"
+    },
+    {
+     "ref": "cafef:0dae85a8db",
+     "title": "NKG: Con gái Chủ tịch đăng ký mua 5 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:4ea83f7509",
+     "title": "Đại gia Hàn Quốc vừa ký dự án 2 tỷ USD với Bộ Công thương: Có tới 56.200 nhân viên tại Việt Nam, từng thua kiện Novaland, bán hàng chục triệu cổ phiếu DIG trước \"cơn sóng thần\""
+    },
+    {
+     "ref": "cafef:97647923ad",
+     "title": "PNJ: Bất ngờ tỷ lệ sở hữu của gia đình bà Cao Thị Ngọc Dung"
+    },
+    {
+     "ref": "cafef:832379d7f0",
+     "title": "Lô trái phiếu 100 tỷ của Điện Máy Xanh gây chú ý"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:4c607d47f4",
+     "title": "HPG: Dự kiến rót 650 tỷ thành lập công ty năng lượng tái tạo"
+    },
+    {
+     "ref": "vietstock:13be03fd42",
+     "title": "Vietstock Weekly 16-20/11/2026: Thận trọng chờ tín hiệu?"
+    },
+    {
+     "ref": "vietstock:2cee5c8aa2",
+     "title": "Khởi công nhà máy điện rác đầu tiên hơn 2.600 tỷ đồng ở Đồng Nai"
+    },
+    {
+     "ref": "vietstock:7158d04fcc",
+     "title": "Tiền mặt trở thành tài sản khan hiếm nhất"
+    },
+    {
+     "ref": "vietstock:9f57648af9",
+     "title": "Bất động sản hụt hơi trên thị trường trái phiếu doanh nghiệp tháng 10"
+    },
+    {
+     "ref": "vietstock:dd7faab44f",
+     "title": "Điểm tựa giúp dệt may Việt Nam hướng tới mốc 49 tỷ USD"
+    },
+    {
+     "ref": "vietstock:1cae756762",
+     "title": "IEA: Thế giới sắp dư dầu"
+    },
+    {
+     "ref": "vietstock:8ead0bae4b",
+     "title": "Dragon Capital và VinaCapital tái cơ cấu cổ phiếu bất động sản"
+    },
+    {
+     "ref": "vietstock:92e2495f25",
+     "title": "VIC nâng đỡ VN-Index, TIG lao dốc trên HNX"
+    },
+    {
+     "ref": "vietstock:ded80622cc",
+     "title": "POW: Sắp thu hồi dứt điểm khí trả trước tại Cà Mau, ước lãi công ty mẹ 2026 gần 7 ngàn tỷ đồng"
+    },
+    {
+     "ref": "vietstock:49e5d5b397",
+     "title": "TPB: Sắp huy động 3.000 tỷ đồng từ chào bán trái phiếu đợt 1"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:ec1fc4c445",
+     "title": "Nhiều quỹ lớn tiếp tục tăng tỷ trọng tiền mặt, phòng ngừa thị trường nhiều biến động"
+    },
+    {
+     "ref": "vneconomy:e61a559679",
+     "title": "Xu thế dòng tiền: Vì sao thanh khoản \"bốc hơi\"?"
+    },
+    {
+     "ref": "vneconomy:e9cff5720c",
+     "title": "Các quỹ đầu tư rút tiền khỏi chứng khoán Việt Nam, tài sản ròng giảm 8.600 tỷ đồng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a2901c6983",
+     "title": "Cổ phiếu cần quan tâm ngày 16/11"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2b87af6d7d",
+     "title": "Nhận định thị trường phiên giao dịch ngày 16/11: Tránh mua đuổi trong các nhịp hồi"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7c1bcfac8c",
+     "title": "CII: Tính giảm giá chuyển đổi trái phiếu đã phát hành từ 12.500 đồng xuống 11.500 đồng/cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6853d5eb51",
+     "title": "Khơi dòng chảy tín dụng cuối năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:543901674a",
+     "title": "KDH: Nâng vốn đầu tư dự án khu nhà ở 11A thêm 8.178 tỷ đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:05ba1bc08a",
+     "title": "Khởi công dự án nhà máy điện gió 620 tỷ đồng ở Đắk Lắk"
+    },
+    {
+     "ref": "b-o-u-t:c43bde24e6",
+     "title": "Doanh nghiệp hạ tầng khu công nghiệp mở rộng đầu tư điện gió vào Gia Lai"
+    },
+    {
+     "ref": "b-o-u-t:f6f5238e32",
+     "title": "Đánh giá đề xuất mở rộng cao tốc Mỹ Thuận - Cần Thơ vốn khoảng 8.836 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:a6667c794f",
+     "title": "Lâm Đồng duyệt dự án điện mặt trời gần 500 tỷ đồng; Hà Nội thúc tiến độ 14 dự án PPP trọng điểm"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:ca8581a182",
+     "title": "PVS: Được kỳ vọng tăng gần 18%, lợi nhuận hưởng lợi từ loạt đại dự án dầu khí"
+    },
+    {
+     "ref": "markettimes:914f23a3e2",
+     "title": "TCB: Báo lãi kỷ lục, ABS đưa ra mức giá mục tiêu mới cho cổ phiếu"
+    },
+    {
+     "ref": "markettimes:da89ebb4ce",
+     "title": "Mặt bằng lãi suất hạ nhiệt nhưng dòng vốn tín dụng cho SME vẫn không dễ tiếp cận"
+    },
+    {
+     "ref": "markettimes:069c3d8f0b",
+     "title": "Chứng khoán tuần qua: Thị trường rung lắc mạnh, hơn 10% cổ phần của LPB được \"sang tay\", TIG bị bán tháo vẫn hút dòng tiền \"bắt đáy\""
+    },
+    {
+     "ref": "markettimes:40b2ae7631",
+     "title": "Hút 7.400 tỷ đồng trái phiếu với lãi suất chỉ 5%/năm, TokenBay đặt cược lớn vào sàn tài sản mã hóa"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:a533423e06",
+     "title": "Đào tạo nhân lực thế hệ mới: Việt Nam cần xác định những ưu tiên nào?"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:a07a8afb6b",
+     "title": "Dòng tiền yếu, chứng khoán tuần tới có giữ đà hồi phục?"
+    },
+    {
+     "ref": "ti-n-phong:ba0b3f89da",
+     "title": "Ngân hàng đẩy mạnh huy động vốn ngoại, hút hàng tỷ USD"
+    },
+    {
+     "ref": "ti-n-phong:d650e4ea6e",
+     "title": "EVNGENCO2 nỗ lực hoàn thành kế hoạch 10 tháng, tập trung phát triển các dự án nguồn"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:79f78b2acc",
+     "title": "27 cổ phiếu \"trụ hạng\" FTSE: Đếm ngược đợt giải ngân tỷ USD"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:61afec040d",
+     "title": "Mở rộng kênh dẫn vốn, chia sẻ áp lực với hệ thống ngân hàng"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:7bda01acc6",
+     "title": "Không xuyên tạc bản chất việc tinh gọn mạng lưới ngân hàng"
+    },
+    {
+     "ref": "bnews:d543aad992",
+     "title": "Lãi suất ngân hàng hạ nhiệt, áp lực giảm lãi vay vẫn hiện hữu"
+    },
+    {
+     "ref": "bnews:5e915c38b7",
+     "title": "VN-Index tích lũy trong vùng 1.720-1.740 điểm khi dòng tiền thận trọng"
+    },
+    {
+     "ref": "bnews:68102b0063",
+     "title": "VPI hợp tác với đối tác Nhật Bản thúc đẩy chuyển dịch năng lượng carbon thấp tại Việt Nam"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-dubaotiente:109602",
+   "title": "Knot (ECB): Can thiệp thị trường trái phiếu không thể thay thế chính sách tài khóa lành mạnh",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Knot (ECB): Can thiệp thị trường trái phiếu không thể thay thế chính sách tài khóa lành mạnh Chi tiết xem tại: https://dubaotiente.net/tieu-diem/knot-ecb-can-thiep-thi-truong-trai-phieu-khong-the-thay-the-chinh-sach-tai-khoa-lanh-manh-114374.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:6942352285",
+   "title": "Diễn biến và phân tích thị trường dầu mới nhất ngày 16/11",
+   "translated": true,
+   "original_title": "Latest Oil Market News and Analysis for Nov. 16",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16"
+  },
+  {
+   "ref": "bloomberg:6d04759dde",
+   "title": "Thâm Quyến hiện đại cho thấy khó khăn của Trump trong việc ngăn chặn Trung Quốc của Tập Cận Bình",
+   "translated": true,
+   "original_title": "Futuristic Shenzhen Shows Trump the Difficulty of Stopping Xi Jinping's China",
+   "link": "https://www.bloomberg.com/news/features/2026-11-15/futuristic-shenzhen-shows-trump-the-difficulty-of-stopping-xi-jinping-s-china"
+  },
+  {
+   "ref": "tg-dubaotiente:109600",
+   "title": "QTS do Blackstone hậu thuẫn cắt 60% thương vụ bán nợ trung tâm dữ liệu AI vì nhà đầu tư phản đối mức giá",
+   "translated": false,
+   "original_title": "(Tiêu điểm) QTS do Blackstone hậu thuẫn cắt 60% thương vụ bán nợ trung tâm dữ liệu AI vì nhà đầu tư phản đối mức giá Chi tiết xem tại: https://dubaotiente.net/tieu-diem/qts-blackstone-cat-60-thuong-vu-ban-no-trung-tam-du-lieu-ai-114372.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109599",
+   "title": "Trump gia hạn miễn trừ Đạo luật Jones thêm 90 ngày, tàu nước ngoài tiếp tục chở dầu giữa các cảng Mỹ",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Trump gia hạn miễn trừ Đạo luật Jones thêm 90 ngày, tàu nước ngoài tiếp tục chở dầu giữa các cảng Mỹ Chi tiết xem tại: https://dubaotiente.net/tieu-diem/trump-gia-han-mien-tru-dao-luat-jones-them-90-ngay-tau-nuoc-ngoai-tiep-tuc-cho-dau-114371.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:411917",
+   "title": "Tàu sân bay USS Roosevelt tới khu vực CENTCOM, Mỹ có ba nhóm tác chiến tàu sân bay hoạt động tại đây",
+   "translated": false,
+   "original_title": "▫️ Theo Axios, một quan chức Mỹ tiết lộ rằng tàu sân bay Roosevelt của Hải quân Mỹ đã tới khu vực trách nhiệm của Bộ Chỉ huy Trung Mỹ (CENTCOM) vào sáng sớm ngày chủ nhật. Hiện nay, quân đội Mỹ có ba nhóm tấn công tàu sân bay hoạt động trong khu vực CENTCOM. #geopolitics #us",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:2c0dbe644d",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ tăng khi lo ngại về AI dịu lại, giá dầu giảm",
+   "translated": true,
+   "original_title": "US Stock Futures Rise as AI Woes Ease, Oil Slips: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-dubaotiente:109598",
+   "title": "Iran tuyên bố siêu tàu chở 2 triệu thùng dầu bị chìm sau khi trúng thủy lôi ở eo biển Hormuz, chưa được xác nhận",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Iran tuyên bố siêu tàu chở 2 triệu thùng dầu bị chìm sau khi trúng thủy lôi ở eo biển Hormuz, chưa được xác nhận Chi tiết xem tại: https://dubaotiente.net/tieu-diem/iran-tuyen-bo-sieu-tau-cho-2-trieu-thung-dau-bi-chim-sau-khi-trung-thuy-loi-o-hormuz-114370.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1078256",
+   "title": "Nvidia chấn động: CEO Jensen Huang từ chức sau cáo buộc bê bối, cổ đông lớn tuyên bố ngừng đầu tư thêm",
+   "translated": true,
+   "original_title": "WEEKLY RECAP: 1) NVIDIA CEO JENSEN HUANG RESIGNS AFTER HAVING 3 REPORTED AFFAIRS. 2) BILLIONAIRE SHAREHOLDER LEO KOGUAN SAYS HE WILL NOT INVEST MORE MONEY IN NVIDIA WITHOUT JENSEN HUANG. 3) ELON MUSK SAYS IT WOULD \"BE AN HONOR\" TO HIRE JENSEN HUANG. 4) ELON MUSK, CZ, NVIDIA EMPLOYEES & SHAREHOLDERS PETITION TO BRING BACK JENSEN HUANG AS CEO WITH OVER 150K SIGNATURES. 5) TWO NVIDIA INVESTORS HOLDIN",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1078255",
+   "title": "Samsung sẽ sản xuất chip vệ tinh cho SpaceX tại Mỹ",
+   "translated": true,
+   "original_title": "SAMSUNG TO MAKE SPACEX SATELLITE CHIPS IN US – SEOUL ECONOMIC DAILY ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:411916",
+   "title": "CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản trong tháng 12 lên 95%",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 95% Theo \"Fed Watch\" của CME: xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 95%, tăng 50 điểm cơ bản là 5%. Đến tháng 1 năm sau, xác suất Fed tăng lãi suất cộng dồn 25 điểm cơ bản là 25,2%, tăng 50 điểm cơ bản là 71,1%, tăng 75 điểm cơ bản là 3,7%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:cbc015fddf",
+   "title": "Nhà đầu tư cá nhân bán tháo cổ phiếu Việt Nam để gửi tiết kiệm lãi suất gần 10%",
+   "translated": true,
+   "original_title": "Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates"
+  },
+  {
+   "ref": "tg-dubaotiente:109597",
+   "title": "Nagel (ECB): Khả năng rất cao ECB sẽ phải tăng lãi suất thêm lần nữa do giá năng lượng đẩy lạm phát",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Nagel (ECB): Khả năng rất cao ECB sẽ phải tăng lãi suất thêm lần nữa do giá năng lượng đẩy lạm phát Chi tiết xem tại: https://dubaotiente.net/tieu-diem/nagel-ecb-kha-nang-rat-cao-ecb-se-phai-tang-lai-suat-them-lan-nua-114369.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:90b50869c8",
+   "title": "Diamondback đàm phán mua lại Double Eagle với giá khoảng 5 tỷ USD",
+   "translated": true,
+   "original_title": "Diamondback in Talks to Buy Double Eagle for About $5 Billion",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion"
+  },
+  {
+   "ref": "tg-dubaotiente:109595",
+   "title": "Fed Collins ủng hộ tăng lãi suất từ từ, không mặn mà với mức tăng mạnh hơn trong tháng 12",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Fed Collins ủng hộ tăng lãi suất từ từ, không mặn mà với mức tăng mạnh hơn trong tháng 12 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/fed-collins-ung-ho-tang-lai-suat-tu-tu-khong-man-ma-voi-muc-tang-manh-hon-trong-thang-12-114367.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109594",
+   "title": "Schmid (Fed): Lạm phát vẫn gần 3% kể cả khi loại trừ năng lượng, Fed còn nhiều việc phải làm",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Schmid (Fed): Lạm phát vẫn gần 3% kể cả khi loại trừ năng lượng, Fed còn nhiều việc phải làm Chi tiết xem tại: https://dubaotiente.net/tieu-diem/schmid-fed-lam-phat-van-gan-3-ke-ca-khi-loai-tru-nang-luong-fed-con-nhieu-viec-phai-lam-114366.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:baa2a14bed",
+   "title": "Pictet tăng tỷ trọng cổ phiếu Nhật Bản để đa dạng hóa danh mục sau bầu cử giữa kỳ Mỹ",
+   "translated": true,
+   "original_title": "Pictet Adds Japan Stocks in Diversification Push After Midterms",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/pictet-adds-japan-stocks-in-diversification-push-after-midterms"
+  },
+  {
+   "ref": "tg-vnwallstreet:411911",
+   "title": "NTSB: Tàu chở dầu va chạm ở New Orleans gặp lỗi hệ thống lái trước sự cố",
+   "translated": false,
+   "original_title": "▫️ Ủy ban An toàn Giao thông Quốc gia Mỹ (NTSB) cho biết tàu chở dầu liên quan đến sự cố va chạm ở New Orleans đã gặp tình trạng lỗi điều hướng. Tàu này có vấn đề với hệ thống lái, điều này có thể là nguyên nhân góp phần gây ra vụ va chạm. #oil #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109593",
+   "title": "FT: Jensen Huang cân nhắc trở lại Nvidia chỉ vài ngày sau khi từ chức vì bê bối",
+   "translated": false,
+   "original_title": "(Tiêu điểm) FT: Jensen Huang cân nhắc trở lại Nvidia chỉ vài ngày sau khi từ chức vì bê bối Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ft-jensen-huang-can-nhac-tro-lai-nvidia-vai-ngay-sau-khi-tu-chuc-vi-be-boi-114365.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1078238",
+   "title": "Bộ trưởng Tài chính Mỹ Bessent yêu cầu HĐQT Nvidia trả lời trong 10 ngày về cáo buộc bán chip AI cho Trung Quốc",
+   "translated": true,
+   "original_title": "US TREASURY SECRETARY SCOTT BESSENT DEMANDED ANSWERS FROM NVIDIA’S BOARD WITHIN 10 DAYS, AS LAWMAKERS INCREASE PRESSURE ON THE COMPANY AND COMMERCE SECRETARY HOWARD LUTNICK OVER EXPORT-CONTROL FAILURES AND POTENTIAL NATIONAL SECURITY RISKS. ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:feb50d084b",
+   "title": "Giới giao dịch trái phiếu điêu đứng chờ phát biểu và biên bản họp Fed cho động thái tiếp theo",
+   "translated": true,
+   "original_title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move"
+  },
+  {
+   "ref": "tg-vnwallstreet:411908",
+   "title": "Zelensky: Nga thiệt hại hơn 50.000 người trong tháng 10, Ukraine đã làm tê liệt hơn 55% công suất lọc dầu Nga",
+   "translated": false,
+   "original_title": "▫️ Tổng thống Ukraine Zelensky cho biết, trong tháng 10, Nga thiệt hại trên 50.000 người (bao gồm thiệt mạng và bị thương). Cho đến nay, Ukraine đã làm tê liệt hơn 55% sản năng lọc dầu của Nga. #oil #geopolitics",
+   "link": null
+  }
+ ],
+ "content_sha": "648b21918838f1652b9f67c308c56459fe82d8d42dcfab238657abb123df9767"
+}
