@@ -676,5 +676,44 @@
    "link": "https://bbw.vn/ipo-anthropic-nha-dau-tu-chau-a-mua-co-phieu-the-nao-61598.html"
   }
  ],
- "content_sha": "6890ba18f246c3ab2f66514a4424e33c66e067b8fef23581657d779e4106c3db"
+ "content_sha": "6890ba18f246c3ab2f66514a4424e33c66e067b8fef23581657d779e4106c3db",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "bd7dc3995c3b7b94c54d93b7a967361e089425c7",
+   "published_at": "2026-11-17T06:49:36+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "319",
+   "sent_at": "2026-11-17T06:49:37+07:00",
+   "content_sha": "6890ba18f246c3ab2f66514a4424e33c66e067b8fef23581657d779e4106c3db",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "319",
+     "sent_at": "2026-11-17T06:49:37+07:00",
+     "content_sha": "6890ba18f246c3ab2f66514a4424e33c66e067b8fef23581657d779e4106c3db"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "f798fe99a68af5d3ac9c",
+   "sent_at": "2026-11-17T06:49:38+07:00",
+   "content_sha": "6890ba18f246c3ab2f66514a4424e33c66e067b8fef23581657d779e4106c3db",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "f798fe99a68af5d3ac9c",
+     "sent_at": "2026-11-17T06:49:38+07:00",
+     "content_sha": "6890ba18f246c3ab2f66514a4424e33c66e067b8fef23581657d779e4106c3db"
+    }
+   ]
+  }
+ }
 }
