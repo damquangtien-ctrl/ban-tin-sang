@@ -1,0 +1,612 @@
+{
+ "date": "2026-11-18",
+ "dividends": [
+  {
+   "event": "Tạm ứng cổ tức tiền mặt tỷ lệ 40% (4.000 đồng/CP)",
+   "record_date": "2026-11-27",
+   "ref": "tin-nhanh-ch-ng-kho-n:06a2cb4287",
+   "ticker": "MSH"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thị trường VN",
+   "text": "VN-Index phiên 17/11 giảm 10,17 điểm (-0,59%) về 1.726,72 điểm, khối ngoại bán ròng hơn 359 tỷ đồng, nhóm dầu khí chịu áp lực lớn nhất"
+  },
+  {
+   "source": "Bloomberg/thế giới",
+   "text": "Nvidia công bố lãi quý III vượt dự báo (doanh thu 115,8 tỷ USD) nhưng cổ phiếu vẫn chịu sức ép từ vụ SEC điều tra và biến động CEO"
+  },
+  {
+   "source": "Thế giới",
+   "text": "Hội đồng quản trị Nvidia khẳng định không phục chức Jensen Huang làm CEO, đã thuê Heidrick & Struggles tìm người thay thế"
+  },
+  {
+   "source": "Thế giới",
+   "text": "Chứng khoán Mỹ đồng loạt giảm (Dow -1,64%, S&P 500 -1,03%, Nasdaq -0,74%) trước loạt rủi ro từ Nvidia và lo ngại lãi suất"
+  },
+  {
+   "source": "Pháp lý - DN niêm yết",
+   "text": "NVL: UBCKNN phát thông báo quan trọng tới Novaland; APS bị UBCKNN xử phạt"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:da7ed569b2",
+     "title": "APS: Xử phạt Chứng khoán APEC"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:be14ba5165",
+     "title": "Thêm hai doanh nghiệp bị UBCKNN phạt vì chậm công bố thông tin"
+    },
+    {
+     "ref": "vietstock:0e2c015cf0",
+     "title": "TV2: Tòa phúc thẩm tuyên TV2 và TV3 thắng kiện, không phải bồi hoàn 15 tỷ cho nhóm bảo hiểm"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:472932266a",
+     "title": "PID: Trang trí Nội thất Dầu khí bị xử phạt 232,5 triệu đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:b0147fec06",
+     "title": "Ông Lê Thanh Thản ra tòa trong vụ lừa 519 người mua chung cư xây trái phép"
+    },
+    {
+     "ref": "vnexpress:9592db8f6e",
+     "title": "Cán bộ thuế TP HCM thừa nhận ‘bảo kê’ đường dây hóa đơn khống 4.180 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:4d5af51ef3",
+     "title": "50 người mua bán hóa đơn trị giá hơn 3.700 tỷ đồng"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-10,17 điểm (-0,59%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.726,72 điểm"
+   },
+   {
+    "change": "-6,31 điểm (-2,48%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "248,6 điểm"
+   },
+   {
+    "change": "636,2 triệu đơn vị",
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "14.961,5 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng 359,4 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.520 · Bán 25.900"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đồng loạt giảm trong phiên qua đêm, với S&P 500 mất 1,03%, Dow Jones giảm 1,64% và Nasdaq giảm 0,74%, trong bối cảnh nhà đầu tư thận trọng trước loạt diễn biến xoay quanh Nvidia sau báo cáo kết quả kinh doanh và thông tin SEC điều tra công ty. Dầu WTI và Brent tăng nhẹ, vàng thế giới và Bitcoin gần như đi ngang, chỉ số DXY nhích lên. Tại thị trường trong nước, VN-Index đóng cửa phiên 17/11 giảm 10,17 điểm (-0,59%) xuống 1.726,72 điểm, HNX-Index giảm sâu hơn với 2,48%, trong khi thanh khoản HOSE đạt 14.961,5 tỷ đồng và khối ngoại tiếp tục bán ròng hơn 359 tỷ đồng, tâm điểm là nhóm dầu khí chịu áp lực bán mạnh.",
+  "tiles": [
+   {
+    "change_pct": -1.03,
+    "label": "S&P 500",
+    "value": "7.340,5"
+   },
+   {
+    "change_pct": -1.64,
+    "label": "Dow Jones",
+    "value": "50.759,4"
+   },
+   {
+    "change_pct": -0.74,
+    "label": "Nasdaq",
+    "value": "24.328,4"
+   },
+   {
+    "change_pct": 0.1,
+    "label": "Dầu WTI",
+    "value": "85,8 USD"
+   },
+   {
+    "change_pct": 1.0,
+    "label": "Dầu Brent",
+    "value": "93,4 USD"
+   },
+   {
+    "change_pct": 0.1,
+    "label": "Vàng thế giới",
+    "value": "3.857 USD"
+   },
+   {
+    "change_pct": -0.01,
+    "label": "Bitcoin",
+    "value": "64.851 USD"
+   },
+   {
+    "change_pct": 0.05,
+    "label": "DXY",
+    "value": "103,60"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:d332e9c970",
+     "title": "Bà Đặng Huỳnh Ức My hé lộ tham vọng đưa công ty dừa lên sàn chứng khoán quốc tế, muốn đưa ngành dừa Việt Nam lên quy mô tỷ USD"
+    },
+    {
+     "ref": "cafef:ae644df5b0",
+     "title": "FPT: Bất ngờ sở hữu khối ngoại thay đổi khi thị giá “thủng đáy” 3 năm"
+    },
+    {
+     "ref": "cafef:787990f536",
+     "title": "Loại nhóm Vingroup, định giá chứng khoán Việt Nam thấp ngang thời kỳ “thảm hoạ”"
+    },
+    {
+     "ref": "cafef:7fe7d11b22",
+     "title": "Tiền vào chứng khoán bất ngờ rơi xuống thấp nhất 21 tháng, chuyện gì đang xảy ra?"
+    },
+    {
+     "ref": "cafef:614982bf24",
+     "title": "Lãi 9 tháng vượt 50% kế hoạch năm, “ông lớn” vốn hóa 170.000 tỷ đón cú hích từ siêu dự án 12 tỷ USD"
+    },
+    {
+     "ref": "cafef:96287856bf",
+     "title": "PNJ: Tổng Giám đốc Phan Quốc Công tạm lỗ 20 tỷ sau cú “bắt đáy”"
+    },
+    {
+     "ref": "cafef:370eb77d99",
+     "title": "Chứng khoán xuất hiện mức định giá hiếm thấy, CTCK chỉ điểm 8 cổ phiếu tiềm năng"
+    },
+    {
+     "ref": "cafef:619077b20b",
+     "title": "Một ‘đại gia’ Việt Nam nắm gần 16.000 tỷ đồng tiền ròng, gần bằng cả giá trị công ty trên sàn: Từng có 5 quý tiền còn nhiều hơn cả vốn hóa"
+    },
+    {
+     "ref": "cafef:7787fc95cc",
+     "title": "“Không ai giàu ba họ” và cuộc chuyển giao nghìn tỷ cho Bùi Cao Nhật Quân, Phạm Nhật Quân Anh, Phạm Nhật Minh Hoàng, Đỗ Quang Vinh, Đỗ Vinh Quang..."
+    },
+    {
+     "ref": "cafef:929098bdff",
+     "title": "TGĐ của “Vua nha đam” Việt Nam bất ngờ bán sạch cổ phiếu giữa lúc thay đổi loạt nhân sự cấp cao"
+    },
+    {
+     "ref": "cafef:e91b08832f",
+     "title": "PNJ: Bất ngờ thay nhân sự tại vị trí quan trọng"
+    },
+    {
+     "ref": "cafef:3b4246b491",
+     "title": "NVL: UBCKNN phát thông báo quan trọng tới Novaland"
+    },
+    {
+     "ref": "cafef:91b94af86f",
+     "title": "PC1: Mảng năng lượng trở thành điểm sáng, dự báo lãi gần 1.300 tỷ đồng năm 2027"
+    },
+    {
+     "ref": "cafef:902dd5d5d1",
+     "title": "FPT: Buồn của FPT"
+    },
+    {
+     "ref": "cafef:533509578b",
+     "title": "Sở hữu 28 công ty tại Việt Nam, một doanh nghiệp Thái Lan thu gần 49.000 tỷ đồng chỉ trong 9 tháng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:f38d94cdc0",
+     "title": "Lần đầu phát hành trái phiếu, TokenBay hút thành công 7.400 tỷ với lãi suất chỉ 5%/năm"
+    },
+    {
+     "ref": "vietstock:f35dc6a4d2",
+     "title": "Bộ Tài chính làm việc với ICBC, thúc đẩy hợp tác huy động vốn và tài trợ dự án"
+    },
+    {
+     "ref": "vietstock:ecd1078c8a",
+     "title": "Lo doanh nghiệp phải nộp loạt ‘tờ khai trắng’ để giải thể"
+    },
+    {
+     "ref": "vietstock:c863d24f2d",
+     "title": "Ngân hàng giảm lãi suất: Doanh nghiệp hưởng lợi, dòng vốn tiếp sức sản xuất"
+    },
+    {
+     "ref": "vietstock:eb4bd995d6",
+     "title": "Chọn cổ phiếu năm 2027: Đừng nhầm giá giảm sâu với định giá rẻ"
+    },
+    {
+     "ref": "vietstock:02758202ef",
+     "title": "Giám đốc SSI chỉ ra mấu chốt khiến câu chuyện thị trường Việt Nam trở nên khác biệt"
+    },
+    {
+     "ref": "vietstock:73cf2bcc98",
+     "title": "EVS: Ông Vũ Mạnh Tiến làm Phó Chủ tịch HĐQT"
+    },
+    {
+     "ref": "vietstock:7ad3110305",
+     "title": "SMC: Thị giá thấp hơn giá phát hành, kéo dài đợt chào bán gần 37 triệu cổ phiếu thêm 1 tháng"
+    },
+    {
+     "ref": "vietstock:8c392e222b",
+     "title": "ACB: Quỹ ngoại Principal Global Investors điều chỉnh sở hữu"
+    },
+    {
+     "ref": "vietstock:d2ac67a83f",
+     "title": "CMV: Muốn chào bán cổ phiếu cao hơn thị giá 45%, huy động hơn 36 tỷ"
+    },
+    {
+     "ref": "vietstock:f3f50c32dd",
+     "title": "BCM: Lập công ty bất động sản vốn 300 tỷ, tăng vốn doanh nghiệp cao tốc gấp gần 9 lần"
+    },
+    {
+     "ref": "vietstock:63edc888e8",
+     "title": "Everland chuyển sang BĐS trung cấp và cho thuê, mục tiêu lợi nhuận tăng hơn 20%/năm"
+    },
+    {
+     "ref": "vietstock:3b73c69612",
+     "title": "Tổng Giám đốc Thủy điện Quế Phong muốn thoái hết cổ phiếu"
+    },
+    {
+     "ref": "vietstock:4fe28e3aaa",
+     "title": "AAM: Thủy sản Mekong thoái sạch vốn tại công ty liên kết duy nhất"
+    },
+    {
+     "ref": "vietstock:63a5d2bb44",
+     "title": "STB: Hoàn tất tinh gọn bộ máy, ghi dấu ấn đầu tiên trên hành trình phát triển mới"
+    },
+    {
+     "ref": "vietstock:bb899e3959",
+     "title": "EU áp thuế chống bán phá giá 16% với thép cán nguội Việt Nam"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:1319c89318",
+     "title": "Nhà đầu tư khó tìm được một “hầm trú ẩn” thực sự vào thời điểm này"
+    },
+    {
+     "ref": "vneconomy:157dc33c29",
+     "title": "Tính đến 16/11/2026, có 71 mã bị cắt margin trên HOSE"
+    },
+    {
+     "ref": "vneconomy:65ffeab426",
+     "title": "Dòng vốn ETF rút khỏi Việt Nam, thị trường Mỹ hút tiền mạnh"
+    },
+    {
+     "ref": "vneconomy:f39e677962",
+     "title": "Tổng giám đốc ABS: Nhiều doanh nghiệp trên UPCoM tăng trưởng tốt, có thể đạt hai chữ số"
+    },
+    {
+     "ref": "vneconomy:97d401966c",
+     "title": "VN-Index vẫn chưa phản ánh đầy đủ triển vọng lãi suất hạ nhiệt, thị trường hấp dẫn khi hướng tới 2027"
+    },
+    {
+     "ref": "vneconomy:5fd8769ebf",
+     "title": "Quỹ trái phiếu gặp áp lực rút ròng lớn bất chấp hiệu suất tăng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:25bbd33d0c",
+     "title": "SBG: Siba Group muốn góp thêm 101 tỷ đồng vào một công ty con đang thua lỗ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5618d71e99",
+     "title": "Hai quỹ do SSIAM quản lý dự kiến sở hữu 9% vốn AMY GRUPO"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2b3adc9a5d",
+     "title": "Lợi nhuận ngành điện tăng mạnh, triển vọng năm 2027 phân hóa"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:85472bb027",
+     "title": "PHS: Đầu tư hạ tầng AI toàn cầu đối mặt rủi ro hạ nhiệt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b2dc4001a1",
+     "title": "Hai quỹ cổ phiếu của Dragon Capital có hiệu suất đầu tư top dưới thị trường, tiếp tục cơ cấu danh mục"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:9f92e8cf7d",
+     "title": "Khai thác Hiệp định CEPA, đưa hàng Việt sang UAE và thị trường Trung Đông"
+    },
+    {
+     "ref": "b-o-u-t:5e7a100803",
+     "title": "Viettel đón nhận Huân chương Quân công hạng Nhất và ra mắt Tổng công ty Hàng không Vũ trụ Viettel"
+    },
+    {
+     "ref": "b-o-u-t:8babc23d4d",
+     "title": "Nhôm định hình xuất sang Ấn Độ vướng điều tra phòng vệ thương mại"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:34be11e88e",
+     "title": "VSC: Viconship liên tiếp huy động 3.000 tỷ đồng trái phiếu, nợ vay tăng gần 58% sau 9 tháng"
+    },
+    {
+     "ref": "markettimes:ec7f8f36eb",
+     "title": "LPB: Hơn 74,3 triệu cổ phiếu sang tay thỏa thuận trong một phiên"
+    },
+    {
+     "ref": "markettimes:8796518fca",
+     "title": "HPX: Người nhà một thành viên HĐQT Hải Phát muốn mua 2 triệu cổ phiếu"
+    },
+    {
+     "ref": "markettimes:b11431b26b",
+     "title": "Ngân hàng Nhà nước nâng tỷ giá trung tâm lên trên mốc 25.650 đồng/USD"
+    },
+    {
+     "ref": "markettimes:63ce388e4f",
+     "title": "Viettel vừa “khoe” với thế giới một “báu vật công nghệ” có khả năng thực hiện 1.000 tỷ phép tính/giây"
+    },
+    {
+     "ref": "markettimes:72d3ceb06b",
+     "title": "Ngân hàng tăng tốc phát hành trái phiếu, áp lực vốn dài hạn ngày càng lớn"
+    },
+    {
+     "ref": "markettimes:f76158bdbf",
+     "title": "Một doanh nghiệp “hoọ” Viettel thu gần 14.000 tỷ đồng sau 10 tháng"
+    },
+    {
+     "ref": "markettimes:c0a9f74966",
+     "title": "“Cá mập” Dragon Capital tiếp tục xuống tiền vào doanh nghiệp bất động sản của “đại gia” Đỗ Hữu Hạ"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:270fafae9b",
+     "title": "Ông Tập Cận Bình hoan nghênh sản phẩm chất lượng của Việt Nam xuất khẩu sang Trung Quốc nhiều hơn"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:aa51f7ae09",
+     "title": "Biến động nhân sự cấp cao tại nhiều doanh nghiệp lớn"
+    },
+    {
+     "ref": "ti-n-phong:1a187a5eee",
+     "title": "Ga Hà Nội chuyển về Phú Xuyên, khu ‘đất vàng’ nội đô dùng làm gì?"
+    },
+    {
+     "ref": "ti-n-phong:928c4f7670",
+     "title": "Tăng giám sát, yêu cầu địa phương theo dõi diễn biến giá cả"
+    },
+    {
+     "ref": "ti-n-phong:f1a0228f9c",
+     "title": "VSN: Vissan đầu tư gần 1.600 tỷ đồng xây dựng nhà máy chế biến thực phẩm"
+    },
+    {
+     "ref": "ti-n-phong:c80f0d46c5",
+     "title": "Hơn 20 triệu tỷ đồng đang rót vào lĩnh vực nào?"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:42e967b1a1",
+     "title": "EVNNPT đẩy nhanh tiến độ 3 dự án truyền tải điện tại Thanh Hóa và Nghệ An"
+    },
+    {
+     "ref": "bnews:9967835a79",
+     "title": "Bộ Công Thương chấp thuận chủ trương điều chỉnh quy hoạch hạ tầng xăng dầu, khí đốt"
+    },
+    {
+     "ref": "bnews:6174ee2908",
+     "title": "SCB niêm yết lãi suất tiền gửi mới về 0% ở nhiều kỳ hạn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:5295807f9c",
+     "title": "OPC: Thông báo giao dịch cổ phiếu của Người nội bộ Trịnh Xuân Vương"
+    },
+    {
+     "ref": "hose:26a8d934b8",
+     "title": "OPC: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đỗ Thụy Như Hà, Trịnh Việt Tuấn"
+    },
+    {
+     "ref": "hose:cf0489ceb2",
+     "title": "CTG: Thông báo thay đổi nhân sự (kèm Quyết định HĐQT)"
+    },
+    {
+     "ref": "hose:253e754e0d",
+     "title": "DHC: Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-marketfeed:1080030",
+   "title": "Nvidia báo lãi quý III vượt dự báo: EPS điều chỉnh 2,68 USD, doanh thu 115,8 tỷ USD, vượt đồng thuận 17 quý liên tiếp",
+   "translated": true,
+   "original_title": "$NVDA NVIDIA Q3 EARNINGS ADJUSTED EPS $2.68, EST $2.47 REVENUE $115.8B, EST. $109.33B REVENUE BEATS CONSENSUS FOR 17TH CONSECUTIVE QUARTER REVENUE TOPS HIGHEST ESTIMATE OF $114.9B ADJUSTED GROSS MARGIN 74.9% DATA CENTER REVENUE $107.6B, EST. $101.87B COMPUTE & NETWORKING REVENUE $106.0B, EST. $98.27B HYPERSCALE REVENUE $60.1B AI CLOUDS, INDUSTRIAL & ENTERPRISE REVENUE $47.5B GRAPHICS REVENUE $9.8B",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1080060",
+   "title": "CFO Nvidia Colette Kress nâng dự báo tăng trưởng doanh thu tài khóa 2028 lên 75%, sản phẩm Rubin đã mang về 20 tỷ USD doanh thu",
+   "translated": true,
+   "original_title": "NVIDIA CFO COLETTE KRESS SAYS SHE RAISES THE FY2028 REVENUE GROWTH FORECAST TO 75% AND THAT RUBIN PRODUCTS GENERATED $20 BLN IN REVENUE, ADDING THAT COMMITMENTS TO CUSTOMERS AND PARTNERS WILL REMAIN IN PLACE AND THAT PASSION AND MOMENTUM CONTINUE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1080061",
+   "title": "CEO tạm quyền Nvidia: tồn đọng (backlog) ngành điện toán mây đạt 2.500 tỷ USD, tăng từ 2.000 tỷ USD ba tháng trước",
+   "translated": true,
+   "original_title": "NVIDIA INTERIM CEO COLETTE KRESS SAYS THE CLOUD INDUSTRY BACKLOG HAS REACHED $2.5 TRLN, UP FROM $2 TRLN THREE MONTHS AGO, AND THAT SHE EXPECTS MAJOR FRONTIER LABS TO CONTRIBUTE APPROXIMATELY 15% OF DATA CENTRE REVENUE THIS YEAR ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1080059",
+   "title": "Chủ tịch Nvidia: không có kế hoạch phục chức Jensen Huang làm CEO, đã thuê Heidrick & Struggles tìm CEO mới",
+   "translated": true,
+   "original_title": "NVIDIA CHAIRMAN HARVEY JONES SAYS THERE ARE NO PLANS TO REINSTATE JENSEN HUANG AS CEO AND THAT NVIDIA HAS RETAINED HEIDRICK & STRUGGLES TO LEAD THE CEO SEARCH, ADDING THAT HE WILL NOT ADDRESS OR TAKE QUESTIONS ON HUANG’S RESIGNATION OR THE ONGOING INVESTIGATION DURING TODAY’S CALL ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:79dcaede91",
+   "title": "SEC điều tra Nvidia liên quan đến việc CEO Jensen Huang từ chức, theo WSJ",
+   "translated": true,
+   "original_title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports"
+  },
+  {
+   "ref": "tg-marketfeed:1080064",
+   "title": "Nvidia ký thỏa thuận với Kinsus và Samsung Electro-Mechanics để mở rộng năng lực sản xuất đế chip, phục vụ mở rộng hạ tầng AI",
+   "translated": true,
+   "original_title": "NVIDIA SIGNS DEALS WITH KINSUS AND SAMSUNG ELECTRO-MECHANICS TO EXPAND SUBSTRATE CAPACITY ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:0a80a65cdf",
+   "title": "Hợp đồng tương lai Nasdaq, S&P 500 tăng sau báo cáo lợi nhuận Nvidia",
+   "translated": true,
+   "original_title": "Nasdaq, S&P 500 Futures Rise After Nvidia Earnings: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "vneconomy:56c8ec85d7",
+   "title": "Cổ phiếu Nvidia trải qua chuỗi giảm giá dài nhất 14 năm, điều gì sẽ xảy ra tiếp theo?",
+   "translated": false,
+   "original_title": "Cổ phiếu Nvidia trải qua chuỗi giảm giá dài nhất 14 năm, điều gì sẽ xảy ra tiếp theo?",
+   "link": "https://vneconomy.vn/co-phieu-nvidia-trai-qua-chuoi-giam-gia-dai-nhat-14-nam-dieu-gi-se-xay-ra-tiep-theo.htm"
+  },
+  {
+   "ref": "tg-vnwallstreet:412529",
+   "title": "CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 96,8%",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 96,8% Theo CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 96,8%, xác suất tăng 50 điểm cơ bản là 3,2%. Tính đến tháng 1 năm tới, xác suất tăng lũy kế 25 điểm cơ bản là 26,8%, tăng lũy kế 50 điểm cơ bản là 70,9%, tăng lũy kế 75 điểm cơ bản là 2,3%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:fac179cd81",
+   "title": "Fidelity: Trái phiếu Mỹ dù lãi suất 6% vẫn chưa thể gọi là 'rẻ'",
+   "translated": true,
+   "original_title": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap"
+  },
+  {
+   "ref": "bloomberg:d62dc35b1c",
+   "title": "Lãnh đạo Apollo: Ngành bảo hiểm sẽ là động lực cho làn sóng đầu tư AI trị giá 8.000 tỷ USD",
+   "translated": true,
+   "original_title": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom"
+  },
+  {
+   "ref": "bloomberg:2d5188a90e",
+   "title": "Tổng thống Putin đến Trung Quốc dự cuộc gặp với Trump và Tập Cận Bình",
+   "translated": true,
+   "original_title": "Putin Arrives in China for Trump, Xi Meeting",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video"
+  },
+  {
+   "ref": "tg-marketfeed:1080050",
+   "title": "Nhiều tiếng nổ được nghe thấy tại Kuwait, còi báo động không kích vang lên tại các căn cứ quân sự Mỹ",
+   "translated": true,
+   "original_title": "SEVERAL EXPLOSIONS WERE HEARD IN KUWAIT - IRIB NEWS CITING ARABIC MEDIA ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:412528",
+   "title": "Trump: Giá xăng dầu giảm mạnh nhất 18 năm, ngụ ý thời điểm trùng với sau bầu cử",
+   "translated": false,
+   "original_title": "🔴 Donald Trump chỉ ra rằng có mức giảm giá xăng dầu lớn nhất trong 18 năm qua, và bình luận rằng việc này xảy ra sau cuộc bầu cử, ngụ ý về thời điểm và động cơ chính trị đằng sau. Xem bài trên Truth Social #năng_lượng #giá_xăng #chính_sách_kinh_tế",
+   "link": null
+  },
+  {
+   "ref": "vneconomy:0021f929ae",
+   "title": "Nhà đầu tư rót tiền vào các vụ IPO lớn nhất Phố Wall năm nay đang thua lỗ",
+   "translated": false,
+   "original_title": "Nhà đầu tư rót tiền vào các vụ IPO lớn nhất Phố Wall năm nay đang thua lỗ",
+   "link": "https://vneconomy.vn/nha-dau-tu-rot-tien-vao-cac-vu-ipo-lon-nhat-pho-wall-nam-nay-dang-thua-lo.htm"
+  },
+  {
+   "ref": "vneconomy:caa1365cb9",
+   "title": "Tổng giám đốc IMF cảnh báo kinh tế toàn cầu “đừng một chân” giỷa cơn sốt AI",
+   "translated": false,
+   "original_title": "Tổng giám đốc IMF cảnh báo kinh tế toàn cầu “đứng một chân” giữa cơn sốt AI",
+   "link": "https://vneconomy.vn/tong-giam-doc-imf-canh-bao-kinh-te-toan-cau-dung-mot-chan-giua-con-sot-ai.htm"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:42eedb914f",
+   "title": "Mỹ tăng cường kiểm soát xuất khẩu chip AI sang Trung Quốc",
+   "translated": false,
+   "original_title": "Mỹ tăng cường kiểm soát xuất khẩu chip AI sang Trung Quốc - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDhlUEk5cHo0aFBPTWxQb3E1Q1NNSm5ncVJWZnB0cjFjT1hJTHEtSjYzaE92QW1EZVJaZjN5MlVfTVdjTlhURnM4OWZ2LVB0eFAyc2I1cWprVmhwWWlNQV8zSVB2a2tXdldkWWpvUUZBTVdTZ3RaVzBNWWtTV1V2bjRnS2VEdGNWai04NmZ2TzBHNEFiX3hQcnRXRlZsSTJiUFJZekplb2FEUFHSAacBQVVfeXFMTVB0QnFwaHJMcDNucGM5S0VIaXhaNWEtaVZOV3lmREVvOGM3U1E4aThtZnlPWVVuZ3ZhVGVGUG5ZVEk4bG54NnNCTjVsWjNFU0F0SUEwalluUU9YZGRfc0NCa2kxUWhWbEtEamE5cDVBR0xzRGVEckJNS3lEZzhFdDgzeHdKTmNUOU1KV1lIUTdfbmtfNGRmcGlaVlAzVkphNk50MGRLdUU?oc=5"
+  },
+  {
+   "ref": "bnews:b25b190c27",
+   "title": "Nhiều ngân hàng lớn tại Mỹ gặp sự cố hệ thống",
+   "translated": false,
+   "original_title": ". Nhiều ngân hàng lớn tại Mỹ gặp sự cố - media.bnews.vn",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00MU9vY1NNUDcxdGpTVDl2V3RRMjJUZDQ5VEpFT09OY0hvbXd2d0Y2ci1wbGt6UnJVci00LUthc3o3MVhTdERFYnlaRjkzNXA1aXBQT24tWHl6cEFFUmxuTTdjcng3cG9LbHZZOFBUVU5MT29EekVUSg?oc=5"
+  }
+ ],
+ "content_sha": "a924ba4b14b25295e5474f4a91c93c14d50494e82ba1f076ae6f653c2403b539"
+}
