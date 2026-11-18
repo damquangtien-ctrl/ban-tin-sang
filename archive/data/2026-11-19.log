@@ -1,0 +1,38 @@
+
+########## CHAY LUC 2026-11-19 06:46:27 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-19, ban daily)
+   the gioi 20 tin · Viet Nam 46 tin / 10 bao · phap ly 9 tin · chot quyen 0 ma
+   CANH BAO [C9] world[5]: tin lấy từ nguồn trong nước 'BNEWS'
+   THAT BAI: 2 loi
+      [C9] vietnam: khối 'Tiền Phong' phải đứng trước 'HOSE' theo thứ tự báo phổ biến
+      [C9] legal: khối 'Tin nhanh Chứng khoán' phải đứng trước 'MarketTimes' theo thứ tự báo phổ biến
+DUNG: kiem dinh that bai (exit 20)
+
+########## CHAY LUC 2026-11-19 06:47:14 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-19, ban daily)
+   the gioi 20 tin · Viet Nam 46 tin / 10 bao · phap ly 9 tin · chot quyen 0 ma
+   CANH BAO [C9] world[5]: tin lấy từ nguồn trong nước 'BNEWS'
+   DAT: khong loi, 1 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-19 · the gioi 20 · Viet Nam 46 · phap ly 9
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-19.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-19: commit a97f6df33750 · sha noi dung c31ebd8e6a7d623e
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 19/11 | content_sha d2b09dd7dcc5 | commit a97f6df33750
+   telegram user/928f6fc4179d OK message_id=321
+   zalo     user/593dd2adbb87 OK message_id=727c568a2fea7ab323fc
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-19.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-19 06:47:49 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
