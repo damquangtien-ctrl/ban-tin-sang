@@ -1,0 +1,551 @@
+{
+ "date": "2026-11-19",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Thị trường",
+   "text": "VN-Index giảm 23,71 điểm (-1,37%) về 1.703,01 điểm, khối ngoại bán ròng hơn 1.100 tỷ đồng phiên 18/11"
+  },
+  {
+   "source": "Thế giới",
+   "text": "Anthropic IPO giá 83 USD/cổ phiếu, huy động 81,3 tỷ USD trong đợt IPO công nghệ lớn nhất"
+  },
+  {
+   "source": "Thế giới",
+   "text": "Tổng thống Trump cân nhắc tấn công quân sự mới vào Iran trước áp lực của Israel"
+  },
+  {
+   "source": "Thế giới",
+   "text": "Moody's hạ triển vọng tín nhiệm Nvidia xuống ổn định sau khi Jensen Huang rời ghế CEO"
+  },
+  {
+   "source": "CafeF",
+   "text": "LPBank: Hơn 17.355 tỷ đồng cổ phiếu sang tay thỏa thuận, thị trường chờ cổ đông lớn lộ diện"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:c539d87be9",
+     "title": "Ông Lê Hoàng Khánh Nhựt bị khởi tố, doanh nghiệp phát thông báo nóng"
+    },
+    {
+     "ref": "cafef:fc3a8fc661",
+     "title": "PNJ: Bảo Tín Minh Châu, PNJ, DOJI, SJC vào danh sách thanh tra năm 2027"
+    },
+    {
+     "ref": "cafef:0fe9eddabe",
+     "title": "Điều tra vụ giám đốc Công ty Lâm nghiệp La Ngà nằm gục tại phòng làm việc, nghi bị bắn"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1f8d66c1f6",
+     "title": "Đề xuất không phạt tiền nếu lập hóa đơn sai thời điểm nhưng đã khai thuế"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:951052d414",
+     "title": "KSB: Bimico của Chủ tịch Phan Tấn Đạt bị phạt 177,5 triệu đồng vì loạt vi phạm công bố thông tin"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:3163f0c3fa",
+     "title": "Thanh tra 1 công ty xổ số điện toán và 4 doanh nghiệp xổ số kiến thiết"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:8d680def85",
+     "title": "LIX: Thông báo nhận được quyết định của Thuế TP.HCM về xử phạt vi phạm hành chính về thuế"
+    }
+   ],
+   "source": "HOSE"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:ca14e7ca33",
+     "title": "Người mua nhà lo ông Lê Thanh Thản không có đủ 2.000 tỷ đồng bồi thường"
+    },
+    {
+     "ref": "vnexpress:a0f7c6163f",
+     "title": "'Trùm bất động sản' ở TP.HCM tiều tụy ra tòa trong vụ án thứ 6"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-23,71 (-1,37%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.703,01"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~17.450-17.480 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại",
+    "value": "Bán ròng ~1.113-1.115 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "Mua 134,7 - Bán 137,7 (triệu đồng/lượng)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.520 - Bán 25.900"
+   }
+  ],
+  "summary": "Thị trường Mỹ diễn biến phân hóa trong phiên qua đêm: S&P 500 giảm 0,23%, Dow Jones giảm 1,11%, trong khi Nasdaq tăng 0,42%. Giá dầu WTI và Brent giảm hơn 4,5%, vàng thế giới giảm 3,24% xuống 3.739 USD/ounce, Bitcoin giảm 3,32% về 62.740 USD. Tại thị trường trong nước, VN-Index giảm 23,71 điểm (-1,37%) về 1.703,01 điểm trong phiên 18/11, khối ngoại bán ròng khoảng 1.113-1.115 tỷ đồng trên HOSE, thanh khoản đạt khoảng 17.450-17.480 tỷ đồng. Giá vàng SJC trong nước giữ ở mức 134,7-137,7 triệu đồng/lượng, tỷ giá USD/VND tại Vietcombank niêm yết mua chuyển khoản 25.520 - bán ra 25.900 đồng.",
+  "tiles": [
+   {
+    "change_pct": -0.23,
+    "label": "S&P 500",
+    "value": "7.323,6"
+   },
+   {
+    "change_pct": -1.11,
+    "label": "Dow Jones",
+    "value": "50.198,2"
+   },
+   {
+    "change_pct": 0.42,
+    "label": "Nasdaq",
+    "value": "24.429,9"
+   },
+   {
+    "change_pct": -4.55,
+    "label": "Dầu WTI",
+    "value": "82,1 USD"
+   },
+   {
+    "change_pct": -4.68,
+    "label": "Dầu Brent",
+    "value": "88,8 USD"
+   },
+   {
+    "change_pct": -3.24,
+    "label": "Vàng thế giới",
+    "value": "3.739 USD"
+   },
+   {
+    "change_pct": -3.32,
+    "label": "Bitcoin",
+    "value": "62.740 USD"
+   },
+   {
+    "change_pct": 0.31,
+    "label": "DXY",
+    "value": "103,81"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:c559bb09e4",
+     "title": "Lãi suất hạ nhiệt, CTCK bất ngờ gọi tên 4 cổ phiếu có thể hưởng lợi lớn"
+    },
+    {
+     "ref": "cafef:3f16fc7a66",
+     "title": "AEON Mall Việt Nam: Lợi nhuận nửa đầu năm tài khóa 2026 tăng hơn 35%, lên hơn 500 tỷ đồng"
+    },
+    {
+     "ref": "cafef:0e6daf0f8c",
+     "title": "FRT: Vietcap định giá Long Châu hơn 44.000 tỷ đồng, gấp 18 lần FPT Shop"
+    },
+    {
+     "ref": "cafef:9f63e2679f",
+     "title": "VCB: Định giá ngân hàng lớn nhất sàn chứng khoán Việt Nam xuống mức thấp nhất trong hơn một thập kỷ"
+    },
+    {
+     "ref": "cafef:a0d06c9520",
+     "title": "LPB: Sang tay thỏa thuận hơn 17.355 tỷ đồng giá trị cổ phiếu trong thời gian ngắn, thị trường chờ cổ đông lớn LPBank lộ diện"
+    },
+    {
+     "ref": "cafef:9d04b33db9",
+     "title": "VTP: Viettel Post bắt tay 'ông lớn' logistics Việt Nam, sở hữu 5 cảng và ICD, 34 sà lan"
+    },
+    {
+     "ref": "cafef:272bc9ee40",
+     "title": "DRC: Cao su Đà Nẵng có Tổng giám đốc mới"
+    },
+    {
+     "ref": "cafef:8088577d4d",
+     "title": "IDP: Sữa Quốc tế Lof chốt ngày tạm ứng cổ tức tiền mặt tỷ lệ 32%"
+    },
+    {
+     "ref": "cafef:61c6af9d17",
+     "title": "CTG: VietinBank hoàn tất bán tòa tháp VietinBank Tower 'đắp chiếu' 16 năm ở Ciputra"
+    },
+    {
+     "ref": "cafef:f0abad8e48",
+     "title": "Giải áp lực vốn trung, dài hạn từ thị trường trái phiếu"
+    },
+    {
+     "ref": "cafef:3a4daae3b6",
+     "title": "20 doanh nghiệp Việt Nam vốn hóa hơn 1,6 triệu tỷ đồng vượt bình quân ASEAN về điểm quản trị"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:34d97dd569",
+     "title": "Hơn 112.600 tỷ đồng vốn tín dụng chảy vào nhà ở xã hội, khu công nghiệp và du lịch tại TP.HCM"
+    },
+    {
+     "ref": "vietstock:cbee4101d5",
+     "title": "VIB: Chủ động đón cơ hội tối ưu thanh khoản từ giải pháp hoán đổi ngoại tệ của NHNN"
+    },
+    {
+     "ref": "vietstock:106b3ae8c7",
+     "title": "UBCKNN đẩy mạnh hiện đại hóa hạ tầng công nghệ, hướng tới ứng dụng AI giám sát thị trường chứng khoán"
+    },
+    {
+     "ref": "vietstock:6679ac1dd6",
+     "title": "SHI: Sơn Hà tính làm nhà ở xã hội gần 1.200 tỷ tại Phú Thọ, tham vọng doanh thu 1,3 tỷ USD"
+    },
+    {
+     "ref": "vietstock:eb096a2425",
+     "title": "NHNN đề xuất thay đổi tiêu chí xếp hạng ngân hàng từ năm 2027"
+    },
+    {
+     "ref": "vietstock:181edc70d4",
+     "title": "MIC và SeABank ký kết hợp tác, nâng tầm kết nối hệ sinh thái tài chính số và bảo hiểm"
+    },
+    {
+     "ref": "vietstock:333c53dad5",
+     "title": "NHNN chấp thuận cho SFinance tăng vốn điều lệ lên 2.600 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:c6581de277",
+     "title": "MSR: Giá vonfram ghi nhận tín hiệu mới, triển vọng nào cho Masan High-Tech Materials?"
+    },
+    {
+     "ref": "vietstock:163d0b303f",
+     "title": "TCO: Hai cổ đông liên tục giao dịch ngược chiều, một người nâng sở hữu lên hơn 24%"
+    },
+    {
+     "ref": "vietstock:1d14cf6aa2",
+     "title": "VIT: Thị giá tăng 30% trong 1 năm, Ủy viên HĐQT muốn bán gần 1,7 triệu cổ phiếu"
+    },
+    {
+     "ref": "vietstock:1dabee717e",
+     "title": "Lợi nhuận ngành xây dựng hụt hơi trước nhiều áp lực"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:98f05642f2",
+     "title": "Doanh nghiệp xếp hạng tín nhiệm: Bổ sung thêm biện pháp nhằm ngăn ngừa xung đột lợi ích"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:bf2dbbdd47",
+     "title": "DC4: Chủ tịch HĐQT DICERA Holdings Lê Đình Thắng đăng ký mua 1,5 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:31c78823cf",
+     "title": "BVB: BVBank chào bán trái phiếu ra công chúng quy mô 1.300 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6a63d56f42",
+     "title": "Lợi nhuận tăng bằng lần, vì sao cổ phiếu dầu khí chưa hấp dẫn?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:455dbd23ee",
+     "title": "Lãi vay giảm giúp 231 doanh nghiệp hưởng lợi, VBSE gợi ý theo dõi 4 cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fb4c874b1d",
+     "title": "FPT: 10 tháng, lợi nhuận trước thuế tăng 16,8%"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:9eb59fea67",
+     "title": "VSN: Vissan động thổ nhà máy chế biến thực phẩm hơn 1.558 tỷ đồng tại Tây Ninh"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:c12b4cfd6d",
+     "title": "Doanh nghiệp xoay xở trước sức ép giá nhiên liệu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:d6bee57801",
+     "title": "Để xăng dầu vận hành theo cơ chế giá thị trường, cũng nên chấm dứt hoạt động của Quỹ bình ổn giá"
+    },
+    {
+     "ref": "markettimes:9a41099b65",
+     "title": "Doanh nghiệp từng được MHC rót hàng trăm tỷ đồng vừa huy động 1.100 tỷ đồng trái phiếu, lãi suất 11,5%/năm"
+    },
+    {
+     "ref": "markettimes:2b74c6f951",
+     "title": "ACB: Bức tranh đối lập, quỹ ngoại Hoa Kỳ rút lui trong khi một nhóm cổ đông nội liên tục mua gom"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:7c14fb78cb",
+     "title": "Trung tâm công nghiệp - năng lượng: Dự án chờ cơ chế đặc thù"
+    },
+    {
+     "ref": "ti-n-phong:bdc62975c2",
+     "title": "Hàng loạt thị trường thay đổi quy định nhập khẩu nông sản, thực phẩm"
+    },
+    {
+     "ref": "ti-n-phong:006a1e7947",
+     "title": "Kiến nghị làm rõ trường hợp không nợ thuế vẫn bị hoãn xuất cảnh"
+    },
+    {
+     "ref": "ti-n-phong:ede3efedbf",
+     "title": "NKG: Trước thềm khánh thành, Nhà máy Tôn Nam Kim Phú Mỹ hướng đến nhu cầu vật liệu đa dạng của thị trường"
+    },
+    {
+     "ref": "ti-n-phong:90591daec3",
+     "title": "FPT: Đặt mục tiêu lọt Top 13 doanh nghiệp dịch vụ CNTT tại Nhật Bản vào năm 2033"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:24a1eb4dce",
+     "title": "TP.HCM: Tín dụng nhà ở xã hội tăng trưởng 36%"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:2b84131a48",
+     "title": "Xóa bỏ 99% dòng thuế: Cánh cửa vàng từ CEPA cho doanh nghiệp Việt"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:8716a9f731",
+     "title": "Doanh nghiệp cần rõ cách tính thuế khi bán hàng trên sàn trực tuyến"
+    },
+    {
+     "ref": "bnews:d52cc02989",
+     "title": "Xây dựng hạ tầng mềm cho Trung tâm Tài chính quốc tế"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:5c3c603aba",
+     "title": "VCB: HĐQT thông qua điều chỉnh giới hạn tín dụng đối với VCBNeo"
+    },
+    {
+     "ref": "hose:f594d52a29",
+     "title": "DBD: Công bố thông tin mua lại cổ phiếu"
+    },
+    {
+     "ref": "hose:c02fd4a8a5",
+     "title": "HCM: Nghị quyết HĐQT phê duyệt tài liệu lấy ý kiến cổ đông bằng văn bản năm 2026"
+    },
+    {
+     "ref": "hose:caf6ff7b0f",
+     "title": "OPC: Thông báo giao dịch cổ phiếu của người nội bộ Nguyễn Thị Hồng"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg-businessweek-vn:a61f7ad8f8",
+   "title": "Anthropic IPO, kinh tế Mỹ đặt cược lớn",
+   "translated": false,
+   "original_title": "Anthropic IPO, kinh tế Mỹ đặt cược lớn",
+   "link": "https://bbw.vn/anthropic-ipo-kinh-te-my-dat-cuoc-lon-61658.html"
+  },
+  {
+   "ref": "bloomberg:11a090ea47",
+   "title": "Cựu Chủ tịch SEC Gary Gensler cảnh báo dòng tiền của Anthropic là rủi ro lớn cho kinh tế AI",
+   "translated": true,
+   "original_title": "Former SEC Chair Gary Gensler Warns Anthropic’s Cash Flow Poses Big Risk To AI Economy",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video"
+  },
+  {
+   "ref": "tg-marketfeed:1081082",
+   "title": "Elon Musk: Không ai có thể thay thế nhà sáng lập Nvidia Jensen Huang",
+   "translated": true,
+   "original_title": "JUST IN: ELON MUSK SAYS NO ONE CAN REPLACE NVIDIA $NVDA FOUNDER JENSEN HUANG. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081059",
+   "title": "CEO Microsoft Nadella về việc cựu CEO Nvidia Huang từ chức: \"Khá bi thương, tôi rất ngưỡng mộ những gì ông ấy đã làm\", muốn cho ông không gian để tự giải quyết",
+   "translated": true,
+   "original_title": "MICROSOFT CEO NADELLA, ON FORMER NVIDIA CEO HUANG RESIGNING, SAYS “IT’S ALL SORT OF PRETTY TRAGIC, I AM A GREAT ADMIRER OF WHAT HE’S DONE,” ADDING “I KIND OF WANT TO GIVE HIM SPACE TO FIGURE THIS OUT. IT’S THE NVIDIA BOARD’S DECISION ON WHAT HAPPENS” - NADELLA, VIA NEW YORK TIMES DEALBOOK SUMMIT ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109753",
+   "title": "Moody's hạ triển vọng Nvidia xuống ổn định, cho rằng việc Jensen Huang rời ghế CEO gây bất định về chiến lược",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Moody's hạ triển vọng Nvidia xuống ổn định, cho rằng việc Jensen Huang rời ghế CEO gây bất định về chiến lược Chi tiết xem tại: https://dubaotiente.net/tieu-diem/moodys-ha-trien-vong-nvidia-xuong-on-dinh-do-jensen-huang-roi-ghe-ceo-114517.html",
+   "link": null
+  },
+  {
+   "ref": "bnews:684341834e",
+   "title": "Nvidia bác đề nghị trở lại vị trí CEO của Jensen Huang",
+   "translated": false,
+   "original_title": "Nvidia bác đề nghị trở lại vị trí CEO của Jensen Huang - media.bnews.vn",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ29pZnpwR1NnV1ZBUzhwVW03TzZGSE96Q3hZV1pTMEQzT2N3Z0dUWDVoc0o5Uk5MLTQ5LWpFLWlrb0lsQUdDcjFvNzd0VUU5b0VLZnItOTZlRFhvRXk2eThjQjJSNHZYeVU3T1V0OGRmUmJpdGRfOURuSGxpTGZSVXBQZ2VFa05ybkx1VEUxODE?oc=5"
+  },
+  {
+   "ref": "tg-dubaotiente:109755",
+   "title": "Moody's giữ xếp hạng tín nhiệm Mỹ ở mức Aa1 khi kinh tế vượt kỳ vọng, dự báo tăng trưởng 2,3% năm nay",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Moody's giữ xếp hạng tín nhiệm Mỹ ở mức Aa1 khi kinh tế vượt kỳ vọng, dự báo tăng trưởng 2.3% năm nay Chi tiết xem tại: https://dubaotiente.net/tieu-diem/moodys-giu-xep-hang-tin-nhiem-my-o-muc-aa1-khi-kinh-te-vuot-ky-vong-114519.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109752",
+   "title": "BOJ được dự báo nâng lãi suất lên 1,50% vào tháng 12, năm đầu tiên tăng lãi suất ba lần sau 37 năm",
+   "translated": false,
+   "original_title": "(Tiêu điểm) BOJ được dự báo nâng lãi suất lên 1.50% vào tháng 12, năm đầu tiên tăng lãi suất ba lần sau 37 năm Chi tiết xem tại: https://dubaotiente.net/tieu-diem/boj-duoc-du-bao-nang-lai-suat-len-1-50-vao-thang-12-nam-dau-tien-tang-lai-suat-ba-lan-sau-37-nam-114516.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081079",
+   "title": "Tổng thống Trump cân nhắc tấn công quân sự mới vào Iran trước áp lực của Israel; Israel muốn chiến dịch không kích 4-7 ngày nhằm vào cơ sở tên lửa và năng lượng Iran",
+   "translated": true,
+   "original_title": "*US PRESIDENT TRUMP WEIGHS NEW MILITARY STRIKES AGAINST IRAN AMID ISRAELI PRESSURE: NYT *ISRAEL URGES A 4- TO 7-DAY AIRSTRIKE CAMPAIGN TARGETING IRANIAN MISSILE AND ENERGY FACILITIES ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081078",
+   "title": "Sự cố gián đoạn hệ thống CNTT của NSA liên quan việc vá nhanh lỗ hổng PHP do AI phát hiện; tình báo Mỹ khẳng định không phải do tấn công mạng",
+   "translated": true,
+   "original_title": "*NSA IT DISRUPTION LINKED TO RAPID PATCHING OF AI-DISCOVERED PHP FLAWS: CNN *DNI CLAYTON CITES 'VERY HIGH CONFIDENCE' RECENT OUTAGES NOT FROM HACKING ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081074",
+   "title": "UniCredit và Đức đạt thỏa thuận rộng về thương vụ thâu tóm Commerzbank, giữ trụ sở tại Frankfurt và duy trì niêm yết",
+   "translated": true,
+   "original_title": "UNICREDIT AND GERMANY HAVE REACHED A BROAD AGREEMENT ON A COMMERZBANK TAKEOVER, WITH FRANKFURT TO BE THE GERMAN HEADQUARTERS AND UNICREDIT AGREEING TO KEEP COMMERZBANK AND THE MERGED ENTITY LISTED ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081071",
+   "title": "Bộ trưởng Quốc phòng Saudi Arabia và Tư lệnh CENTCOM Mỹ hội đàm về hợp tác quân sự, an ninh khu vực tại Riyadh",
+   "translated": true,
+   "original_title": "SAUDI DEFENCE MINISTER, US CENTCOM CHIEF DISCUSS MILITARY COOPERATION, REGIONAL SECURITY AND STABILITY: SAUDI STATE NEWS AGENCY ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081062",
+   "title": "CEO Citigroup Jane Fraser nhấn mạnh tầm quan trọng duy trì quan hệ với Trung Quốc trước cuộc gặp Trump - Tập Cận Bình",
+   "translated": true,
+   "original_title": "CITI CEO FRASER STRESSES CHINA ENGAGEMENT BEFORE TRUMP-XI TALKS - BBG ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081052",
+   "title": "Tàu chở dầu bị vật thể không xác định bắn vào khoang máy khi di chuyển qua eo biển Hormuz",
+   "translated": true,
+   "original_title": "UKMTO: TANKER HIT BY UNIDENTIFIED PROJECTILE IN ENGINE ROOM WHILE PASSING OUTBOUND THROUGH STRAIT OF HORMUZ ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081054",
+   "title": "Liên minh do Saudi Arabia dẫn đầu đánh chặn, vô hiệu hóa tên lửa của Houthi (Yemen) bắn về phía Nam Saudi Arabia",
+   "translated": true,
+   "original_title": "SAUDI-LED COALITION SAYS IT INTERCEPTED AND NEUTRALIZED A MISSILE FIRED BY YEMEN'S HOUTHIS TOWARD SOUTHERN SAUDI ARABIA ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1081065",
+   "title": "Giao thông qua cầu Crimea bị đình chỉ sau vụ tấn công, theo quan chức do Nga bổ nhiệm",
+   "translated": true,
+   "original_title": "TRAFFIC SUSPENDED OVER CRIMEAN BRIDGE AFTER ATTACK: MOSCOW-INSTALLED OFFICIAL ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:412925",
+   "title": "CEO Tesla Elon Musk công bố Tesla sẽ sản xuất Model Y tự lái không có vô lăng",
+   "translated": false,
+   "original_title": "▫️ CEO Tesla Elon Musk công bố Tesla sẽ sản xuất Model Y tự lái không có vô lăng. #stocks #technology",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:3b01186433",
+   "title": "Challenger từ chối đề nghị thâu tóm Daiichi Life trị giá 4,4 tỷ USD",
+   "translated": true,
+   "original_title": "Challenger Rejects New $4.4 Billion Daiichi Life Takeover Bid",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/challenger-rejects-new-4-4-billion-daiichi-life-takeover-bid"
+  },
+  {
+   "ref": "bloomberg:4116f5e0ec",
+   "title": "Skydance bỏ qua đấu thầu FIFA World Cup khi Netflix, Fox nhắm thương vụ 4 tỷ USD",
+   "translated": true,
+   "original_title": "Skydance Skips FIFA World Cup Bid as Netflix, Fox Eye $4 Billion Deal",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal"
+  },
+  {
+   "ref": "tg-vnwallstreet:412924",
+   "title": "SPDR Gold Trust, quỹ ETF vàng lớn nhất thế giới, giảm vị thế 4,56 tấn so với phiên trước, tổng vị thế hiện tại 1.044,123 tấn",
+   "translated": false,
+   "original_title": "🔴 SPDR Gold Trust, quỹ ETF vàng lớn nhất thế giới, đã giảm vị thế 4,56 tấn so với phiên trước, với tổng vị thế hiện tại là 1.044,123 tấn. #gold #etf",
+   "link": null
+  }
+ ],
+ "content_sha": "d2b09dd7dcc5c07bfffb40b5482d5f3eeab3ab0596b045f41f09c2241174d4f1"
+}
