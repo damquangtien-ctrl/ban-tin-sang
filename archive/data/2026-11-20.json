@@ -1,0 +1,535 @@
+{
+ "date": "2026-11-20",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "CafeF",
+   "text": "VN-Index mất mốc 1.700 điểm, đóng cửa giảm 0,79% xuống 1.689,62 điểm; khối ngoại bán ròng gần 1.000 tỷ đồng"
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Chứng khoán Mỹ giảm mạnh đêm qua: S&P 500 giảm 2,02%, Dow Jones giảm 2,19%, Nasdaq giảm 2,25%"
+  },
+  {
+   "source": "CafeF",
+   "text": "Khối ngoại bán ròng 126.000 tỷ đồng từ đầu năm 2026, mức kỷ lục chưa từng có trên TTCK Việt Nam"
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Anthropic trở thành công ty giá trị thứ 7 thế giới sau thương vụ IPO kỷ lục"
+  },
+  {
+   "source": "CafeF",
+   "text": "PNJ: 3 giám đốc cấp cao đồng loạt từ nhiệm"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:2d820f670c",
+     "title": "Loạt ông lớn trên sàn vào danh sách thanh tra năm 2027, CEO và KDH thuộc diện dự phòng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:3e1dfc994e",
+     "title": "Cơ quan Thuế thông báo: Tất cả cá nhân có tên trong danh sách sau đã bị tạm hoãn xuất cảnh"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:5994e2f064",
+     "title": "5 doanh nghiệp xổ số trong diện thanh tra kinh doanh ra sao?"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:10a2bc47fc",
+     "title": "Thanh tra chứng khoán phát hiện vi phạm tại nhiều doanh nghiệp"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:7f422debef",
+     "title": "VKS lý giải việc ông Lê Thanh Thản có 12 dự án sai phạm song \"chỉ 5 cán bộ\" bị xét xử?"
+    },
+    {
+     "ref": "vnexpress:25df673c75",
+     "title": "Ông Lê Thanh Thản được đề nghị 30-36 tháng án treo, bồi thường nhà theo giá thị trường"
+    },
+    {
+     "ref": "vnexpress:d57fa12e76",
+     "title": "Thủ đoạn dùng 28 công ty \"ma\" bán hóa đơn hơn 3.700 tỷ đồng"
+    },
+    {
+     "ref": "vnexpress:752ac3ab63",
+     "title": "\"Trùm\" đường dây mua bán 47.000 hóa đơn bị đề nghị 19-21 năm tù"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:c5195e9216",
+     "title": "Nghị định xử phạt trong lĩnh vực công nghiệp công nghệ số: Hoàn thiện cơ chế thực thi pháp luật"
+    },
+    {
+     "ref": "google-news-ph-p-l:a53bc8c35b",
+     "title": "LIX: Bột giặt LIX nhận quyết định xử phạt thuế, lãi quý III tăng mạnh"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-13,39 (-0,79%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.689,62 điểm"
+   },
+   {
+    "change": "-1,56%",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "238,94 điểm"
+   },
+   {
+    "change": "-15,8%",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "~15.580 tỷ đồng (toàn thị trường)"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~1.000 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (VCB bán)",
+    "value": "25.940"
+   }
+  ],
+  "summary": "Thị trường Mỹ giảm mạnh trong phiên đêm qua với S&P 500 giảm 2,02%, Dow Jones giảm 2,19% và Nasdaq giảm 2,25%, trong bối cảnh giá dầu và vàng cùng đi xuống còn chỉ số DXY nhích nhẹ. Tại Việt Nam, phiên 19/11 VN-Index mất mốc 1.700 điểm, đóng cửa giảm 13,39 điểm (-0,79%) xuống 1.689,62 điểm; HNX-Index giảm 1,56% về 238,94 điểm. Thanh khoản toàn thị trường giảm 15,8% xuống khoảng 15.580 tỷ đồng, trong khi khối ngoại tiếp tục bán ròng gần 1.000 tỷ đồng, nối dài xu hướng rút vốn từ đầu năm.",
+  "tiles": [
+   {
+    "change_pct": -2.02,
+    "label": "S&P 500",
+    "value": "7.175,8"
+   },
+   {
+    "change_pct": -2.19,
+    "label": "Dow Jones",
+    "value": "49.097,1"
+   },
+   {
+    "change_pct": -2.25,
+    "label": "Nasdaq",
+    "value": "23.879,2"
+   },
+   {
+    "change_pct": -0.29,
+    "label": "Dầu WTI",
+    "value": "83,0 USD"
+   },
+   {
+    "change_pct": -2.11,
+    "label": "Dầu Brent",
+    "value": "90,0 USD"
+   },
+   {
+    "change_pct": -3.05,
+    "label": "Vàng thế giới",
+    "value": "3.628 USD"
+   },
+   {
+    "change_pct": -1.98,
+    "label": "Bitcoin",
+    "value": "61.739 USD"
+   },
+   {
+    "change_pct": 0.06,
+    "label": "DXY",
+    "value": "103,92"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:d6132ec925",
+     "title": "Lợi nhuận nhà máy lớn nhất của Samsung tại Việt Nam không bằng Vingroup trong 9 tháng đầu năm 2026"
+    },
+    {
+     "ref": "cafef:59e5a7e04c",
+     "title": "Khối ngoại bán ròng 126.000 tỷ từ đầu năm 2026, kỷ lục chưa từng có"
+    },
+    {
+     "ref": "cafef:68e6a46510",
+     "title": "FPT: Bán ròng hàng triệu cổ phiếu mỗi ngày, khối ngoại còn nắm bao nhiêu?"
+    },
+    {
+     "ref": "cafef:b9a0d54116",
+     "title": "FPT: Tăng giá 9% với 55 khách hàng Nhật Bản khiến doanh thu ký mới chậm lại, thêm 100 khách hàng vào năm sau"
+    },
+    {
+     "ref": "cafef:af5395c19c",
+     "title": "FPT: Cổ phiếu \"thủng đáy\", bất ngờ hé lộ kế hoạch mới"
+    },
+    {
+     "ref": "cafef:5aa7db1a7f",
+     "title": "Nữ CEO Sunshine Group bất ngờ xin từ nhiệm thành viên HĐQT"
+    },
+    {
+     "ref": "cafef:97e32d7f68",
+     "title": "PNJ: 3 giám đốc cấp cao đồng loạt từ nhiệm"
+    },
+    {
+     "ref": "cafef:2c09868ec0",
+     "title": "Dự án nhà ở xã hội lớn nhất Việt Nam của tỷ phú Phạm Nhật Vượng"
+    },
+    {
+     "ref": "cafef:043bfcc9e2",
+     "title": "OCB: Người thân lãnh đạo tiếp tục đăng ký bán cổ phiếu"
+    },
+    {
+     "ref": "cafef:c6db6559a2",
+     "title": "BSR: Cập nhật tiến độ dự án tỷ đô mở rộng nhà máy lọc dầu đầu tiên của Việt Nam, có thể tiết kiệm 200 triệu USD"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:c1ad0e0ad1",
+     "title": "Để tận dụng cơ hội nâng hạng, Việt Nam cần cả chất lượng nhà đầu tư, hàng hóa và nhân lực"
+    },
+    {
+     "ref": "vietstock:b6ffd7fc0f",
+     "title": "Góc nhìn 20/11: VN-Index có thể còn lùi về 1.660 điểm?"
+    },
+    {
+     "ref": "vietstock:b2bb96a941",
+     "title": "LPB: Hơn 107 triệu cp sang tay phiên 19/11, lũy kế từ đầu tháng gần 21% cổ phần"
+    },
+    {
+     "ref": "vietstock:276ad1db72",
+     "title": "HAG: Dự chi hơn 3.000 tỷ đồng trồng mới 10.000 ha cà phê năm 2027, lập công ty con làm hạ tầng cụm công nghiệp"
+    },
+    {
+     "ref": "vietstock:f8b3ae3495",
+     "title": "Chỉ nửa năm, Mai Linh giảm nhân sự từ 5.500 còn 120 người"
+    },
+    {
+     "ref": "vietstock:d332841c99",
+     "title": "KTS: Giá cổ phiếu giảm một nửa từ đầu năm, Tổng Giám đốc Đường Kon Tum gom gần 26% vốn"
+    },
+    {
+     "ref": "vietstock:ed21bf6d52",
+     "title": "NVL: Novaland lại lùi thời hạn chào bán cổ phiếu, các chủ nợ phải tiếp tục chờ"
+    },
+    {
+     "ref": "vietstock:633c4cb5ba",
+     "title": "M&A Việt Nam tháng 10/2026: Bất động sản và hàng tiêu dùng chiếm 85% giá trị"
+    },
+    {
+     "ref": "vietstock:fef0e1e4e0",
+     "title": "Chuyên gia VinaCapital: Ngành quỹ hướng đến AUM đạt 5-10% GDP vào năm 2030"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:5b3bb3c97f",
+     "title": "Lại mất mốc 1.700 điểm, công ty chứng khoán bình luận gì?"
+    },
+    {
+     "ref": "vneconomy:dd1e6d301f",
+     "title": "SSI Research: Mặt bằng lãi suất ổn định nhưng khó giảm mạnh?"
+    },
+    {
+     "ref": "vneconomy:55a4a01022",
+     "title": "Đồng USD vững ở mức cao nhất 19 tháng"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ce7c14bac7",
+     "title": "Bất động sản hàng hiệu tại Việt Nam dự kiến tăng nguồn cung 152% đến năm 2032"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:f6201deebe",
+     "title": "Số doanh nghiệp giải thể tăng mạnh, điều gì phía sau những con số?"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:56ab67bcba",
+     "title": "VAFI: Doanh nghiệp niêm yết nên tạm ứng cổ tức tiền mặt đợt 1 năm 2026 cho nhà đầu tư"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:153bb88c02",
+     "title": "Bất động sản khu công nghiệp: 4 động lực để tăng trưởng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:712f7fa3bf",
+     "title": "TV2: Trúng hợp đồng EPC dự án alumin công suất 2,4 triệu tấn/năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:01dfe50a86",
+     "title": "Ngành ngân hàng: Lợi nhuận tăng trưởng, áp lực nợ xấu gia tăng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4222a697c8",
+     "title": "Lãnh đạo IEA: Xung đột Trung Đông làm suy giảm niềm tin vào eo biển Hormuz"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:289d1dd0fc",
+     "title": "EVG: Everland muốn hạn chế phát triển dự án nghỉ dưỡng cao cấp, mở rộng bất động sản cho thuê"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:c613628c0d",
+     "title": "Một doanh nghiệp huy động 1.100 tỷ đồng trái phiếu, lãi suất 11,5%/năm"
+    },
+    {
+     "ref": "markettimes:5449a13a63",
+     "title": "SBT: AgriS dự kiến huy động 1.000 tỷ đồng trái phiếu, lãi suất 11,8%/năm để cơ cấu nợ vay"
+    },
+    {
+     "ref": "markettimes:fa92833389",
+     "title": "CTG: VietinBank đã bán xong tòa tháp tại Ciputra"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:f2ffaff866",
+     "title": "TP.HCM chính thức khởi công xây dựng 45.000 căn nhà ở xã hội"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:384987b766",
+     "title": "Tập đoàn Sovico và Ngân hàng Mizuho hợp tác, thúc đẩy kết nối tài chính và đầu tư Việt Nam – Nhật Bản"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:0107deda5d",
+     "title": "MIG: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công đoàn cơ sở MIG"
+    },
+    {
+     "ref": "hose:2fe03b7350",
+     "title": "ECO: Thông báo công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức"
+    },
+    {
+     "ref": "hose:d8f8ba1d6d",
+     "title": "TRA: Biên bản kiểm phiếu, Nghị quyết ĐHĐCĐ theo thể thức lấy ý kiến cổ đông bằng văn bản"
+    },
+    {
+     "ref": "hose:daf2e2b5ad",
+     "title": "TCB: Nghị quyết HĐQT số 0642 ngày 18/11/2026"
+    },
+    {
+     "ref": "hose:b757849a61",
+     "title": "CCC: Nghị quyết HĐQT và báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức 2025"
+    },
+    {
+     "ref": "hose:cd909b160f",
+     "title": "SJS: Thông báo ngày ĐKCC thực hiện quyền nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "ref": "hose:3310c5a6c5",
+     "title": "VFG: Thông báo thay đổi nhân sự và kèm Nghị quyết HĐQT"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:413266",
+   "title": "Nhật Bản: CPI lõi tháng 10 tăng 2,2% so với năm trước, thấp hơn dự báo 2,3%, cao hơn mức 2,1% trước đó",
+   "translated": false,
+   "original_title": "🇯🇵 Nhật Bản : CPI lõi năm 10 tháng 🔴 ⭐ ⭐ ⭐ ☆☆ Trước đó: 2.10 % Kỳ vọng: 2.30 % Thực tế: 2.2 %",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1082124",
+   "title": "Citigroup bị cáo buộc đánh giá thấp tài sản có trọng số rủi ro khoảng 35 tỷ USD tại một đơn vị ở châu Âu",
+   "translated": true,
+   "original_title": "CITIGROUP UNDERSTATED RISK-WEIGHTED ASSETS BY ABOUT $35 BILLION, A SOURCE SAYS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109817",
+   "title": "Bitcoin rơi xuống mức thấp nhất kể từ tháng 7 khi kỳ vọng Fed tăng lãi suất và làn sóng bán tháo ở Phố Wall cùng gây sức ép",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Bitcoin rơi xuống mức thấp nhất kể từ tháng 7 khi kỳ vọng Fed tăng lãi suất và đà bán tháo Phố Wall cùng gây sức ép Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bitcoin-roi-xuong-muc-thap-nhat-ke-tu-thang-7-khi-ky-vong-fed-tang-lai-suat-va-pho-wall-ban-thao-114574.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413264",
+   "title": "Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust giảm nắm giữ 5.984 tấn trong phiên, còn 1.038.139 tấn",
+   "translated": false,
+   "original_title": "🔴 Quỹ ETF vàng lớn nhất thế giới SPDR Gold Trust đã giảm lượng nắm giữ 5.984 tấn so với phiên trước, hiện tại đứng ở mức 1.038.139 tấn. #gold #etf",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:7af5011d2c",
+   "title": "Anthropic trở thành công ty giá trị thứ 7 thế giới sau thương vụ IPO",
+   "translated": true,
+   "original_title": "Anthropic Becomes World’s 7th Most Valuable Company After IPO",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:7e7e3a986a",
+   "title": "IPO của Anthropic có thể khơi thông làn sóng niêm yết mới",
+   "translated": false,
+   "original_title": "IPO của Anthropic có thể khơi thông làn sóng niêm yết mới",
+   "link": "https://bbw.vn/ipo-cua-anthropic-co-the-khoi-thong-lan-song-niem-yet-moi-61684.html"
+  },
+  {
+   "ref": "tg-marketfeed:1082120",
+   "title": "Dầu hướng tới tuần giảm thứ ba do nguồn cung dư thừa lấn át rủi ro từ Iran",
+   "translated": true,
+   "original_title": "#OOTT | OIL SET FOR THIRD WEEKLY DROP AS AMPLE SUPPLY COUNTERS IRAN RISK – BBG ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109815",
+   "title": "Euro thủng mốc 1,10 USD vì rủi ro bầu cử Pháp, ba ngân hàng lớn dự báo xuống 1,08 USD",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Euro thủng mốc 1.10 USD vì rủi ro bầu cử Pháp, ba ngân hàng lớn dự báo xuống 1.08 USD Chi tiết xem tại: https://dubaotiente.net/tieu-diem/euro-thung-moc-1-10-usd-vi-rui-ro-bau-cu-phap-ba-ngan-hang-du-bao-1-08-usd-114572.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:c49788b85e",
+   "title": "Quan chức Bộ Tài chính Mỹ tái cảnh báo về làn sóng giao dịch tránh thuế",
+   "translated": true,
+   "original_title": "Treasury Official Renews Warning on Wave of Tax-Saving Trades",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades"
+  },
+  {
+   "ref": "tg-marketfeed:1082116",
+   "title": "Chiến tranh Iran làm trầm trọng thêm tình trạng thiếu đạn dược của Mỹ, theo cơ quan giám sát chính phủ",
+   "translated": true,
+   "original_title": "IRAN WAR HAS WORSENED US MUNITIONS SHORTAGE, GOVT WATCHDOG FINDS - WP ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1082117",
+   "title": "Nvidia gần đạt thỏa thuận mua lại công ty tạo mô hình AI khuếch tán với giá hơn 500 triệu USD",
+   "translated": true,
+   "original_title": "NVIDIA NEARS DEAL TO ACQUIRE AI DIFFUSION MODEL CREATOR FOR MORE THAN $500 MILLION, THE INFORMATION REPORTS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1082111",
+   "title": "Tổng chưởng lý California Bonta ban hành lệnh triệu tập điều tra Nvidia về khả năng chip tiên tiến hoặc dữ liệu mật bị chuyển sang Trung Quốc",
+   "translated": true,
+   "original_title": "CALIFORNIA ATTORNEY GENERAL BONTA ISSUES INVESTIGATIVE SUBPOENA TO NVIDIA ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1082108",
+   "title": "Canada dự báo Mỹ sẽ giữ nguyên thuế quan ô tô và thép",
+   "translated": true,
+   "original_title": "CANADA'S LEBLANC EXPECTS US TARIFFS ON AUTOS AND STEEL TO STAY IN PLACE, AS OTTAWA SEEKS A COMPREHENSIVE TRADE SOLUTION ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1082106",
+   "title": "Bộ trưởng Năng lượng Mỹ tin tưởng Quốc hội sẽ thông qua dự luật cấp phép năng lượng",
+   "translated": true,
+   "original_title": "US ENERGY SECRETARY WRIGHT EXPRESSES CONFIDENCE CONGRESS WILL PASS PERMITTING BILL, WHICH IS TRUMP'S SIGNATURE ENERGY INVESTMENT EFFORT ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1082100",
+   "title": "PDVSA của Venezuela đã ký 84 thỏa thuận dầu khí, theo Tổng thống tạm quyền Rodríguez",
+   "translated": true,
+   "original_title": "VENEZUELA'S ACTING PRESIDENT RODRÍGUEZ SAYS PDVSA HAS SIGNED 84 OIL AND GAS DEALS ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:c79c46bd54",
+   "title": "Vì sao bộ máy xuất khẩu của Trung Quốc vẫn không thể bị ngăn cản",
+   "translated": true,
+   "original_title": "Why China’s Export Machine Seems Unstoppable",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable"
+  },
+  {
+   "ref": "tg-vnwallstreet:413260",
+   "title": "Dữ liệu khách hàng của Visa, Mastercard và JPMorgan Chase bị tin tặc rò rỉ",
+   "translated": false,
+   "original_title": "▫️ Dữ liệu khách hàng của Visa, Mastercard và JPMorgan Chase bị rò rỉ bởi tin tặc Nhóm tin tặc tống tiền đã tiết lộ dữ liệu khách hàng của Visa, Mastercard và JPMorgan Chase vào hôm thứ năm. Đây là vụ tấn công an ninh công nghệ mới nhất trong loạt sự cố liên tiếp xảy ra trong tuần qua, làm tăng mối lo ngại của người tiêu dùng về tính an toàn của các dịch vụ liên quan. Ba công ty cho biết tin tặc đ",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:a08f8d2bf0",
+   "title": "Chứng khoán châu Á tiếp tục giảm, hợp đồng tương lai Nasdaq trượt điểm",
+   "translated": true,
+   "original_title": "Stock Losses to Extend in Asia, Nasdaq Futures Dip: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "tg-vnwallstreet:413259",
+   "title": "Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 96,4% theo CME FedWatch",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 96,4% Theo CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 96,4%, xác suất tăng 50 điểm cơ bản là 3,6%. Xác suất Fed tăng lãi suất cộng dồn 25 điểm cơ bản cho đến tháng 1 năm sau là 30,0%, tăng cộng dồn 50 điểm cơ bản là 67,5%, tăng cộng dồn 75 điểm cơ bản là 2,5%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1082096",
+   "title": "Trump: Putin muốn hòa bình ở Ukraine dù tuyên bố tiếp tục chiến đấu, theo Washington Post",
+   "translated": true,
+   "original_title": "TRUMP: PUTIN WANTS PEACE IN UKRAINE EVEN AS PUTIN VOWS TO FIGHT - WP ...",
+   "link": null
+  }
+ ],
+ "content_sha": "cfc70094127d5a558063b2635034141eaf2e5cf81d131169d8e6cf4ba2ba8728"
+}
