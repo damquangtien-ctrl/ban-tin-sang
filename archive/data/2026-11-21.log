@@ -1,0 +1,32 @@
+
+########## CHAY LUC 2026-11-21 06:49:44 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-21, ban daily)
+   the gioi 29 tin · Viet Nam 65 tin / 10 bao · phap ly 7 tin · chot quyen 0 ma
+   CANH BAO [C9] world[23]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[24]: tin lấy từ nguồn trong nước 'VnEconomy'
+   CANH BAO [C9] world[25]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[26]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[27]: tin lấy từ nguồn trong nước 'Tin nhanh Chứng khoán'
+   CANH BAO [C9] world[28]: tin lấy từ nguồn trong nước 'Thời báo Ngân hàng'
+   DAT: khong loi, 6 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-21 · the gioi 29 · Viet Nam 65 · phap ly 7
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-21.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-21: commit 3e0dcdb6d006 · sha noi dung 11f199b93939e436
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 21/11 | content_sha c2e1197a1ec0 | commit 3e0dcdb6d006
+   telegram user/928f6fc4179d OK message_id=323
+   zalo     user/593dd2adbb87 OK message_id=1a8d236295ddc18498cb
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-21.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-21 06:50:20 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
