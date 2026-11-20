@@ -1,0 +1,683 @@
+{
+ "date": "2026-11-21",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg/MNF",
+   "text": "Chứng khoán Mỹ lao dốc: S&P 500, Dow Jones rơi vào vùng điều chỉnh, Nasdaq gần chạm thị trường gấu khi cơn bán tháo cổ phiếu AI lan rộng."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Nvidia giảm 23% trong tuần sau khi CEO Jensen Huang từ chức và SEC mở điều tra, hơn 975 tỷ USD vốn hóa bị thổi bay."
+  },
+  {
+   "source": "VnEconomy",
+   "text": "VN-Index tiếp tục giảm trong phiên 20/11, thanh khoản thấp và khối ngoại duy trì bán ròng giữa làn sóng bán tháo toàn cầu."
+  },
+  {
+   "source": "CafeF",
+   "text": "FPT mất gần một nửa vốn hóa từ đầu năm giữa áp lực bán ròng mạnh của khối ngoại."
+  },
+  {
+   "source": "CafeF",
+   "text": "Liên danh của tỷ phú Phạm Nhật Vượng trúng thầu 5 tuyến đường sắt 250km tại Hà Nội, trị giá hơn 873.000 tỷ đồng."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "vietstock:86933b9a8b",
+     "title": "Hai doanh nghiệp vừa bị UBCKNN xử phạt, có một công ty chứng khoán"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:55405dca25",
+     "title": "Chứng khoán Maybank bị xử phạt 137,5 triệu đồng do sai phạm nhận biết khách hàng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3c33bb112b",
+     "title": "BIC: Chi trả 40 triệu đồng quyền lợi bảo hiểm an ninh mạng cho hai khách hàng bị lừa đảo trực tuyến"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:17cdd6361f",
+     "title": "Cựu Thứ trưởng Nguyễn Bá Hoan được giảm 2 năm tù ở cấp phúc thẩm"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:10a2bc47fc",
+     "title": "Thanh tra chứng khoán phát hiện vi phạm tại nhiều doanh nghiệp"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:ecbe8531ad",
+     "title": "Ông Lê Thanh Thản nói lời sau cùng tại tòa trong ba giây"
+    },
+    {
+     "ref": "vnexpress:d57fa12e76",
+     "title": "Thủ đoạn dùng 28 công ty 'ma' bán hóa đơn hơn 3.700 tỷ đồng"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-0,83 điểm (-0,05%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.688,79 điểm"
+   },
+   {
+    "change": "-4,35 điểm (-1,82%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "234,59 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~10.680 tỷ đồng (khớp lệnh)"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~841 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.600 · Bán 25.980"
+   }
+  ],
+  "summary": "Thị trường tài chính toàn cầu trải qua một phiên bán tháo dữ dội: S&P 500 và Dow Jones chính thức rơi vào vùng điều chỉnh, Nasdaq giảm 5,28% và gần chạm ngưỡng thị trường gấu khi mất 19,8% so với đỉnh tháng 10, còn Nvidia lao dốc 23% trong tuần sau thông tin CEO Jensen Huang từ chức và SEC mở điều tra. Tính chung cả tuần, S&P 500 mất 8,61%, Nasdaq mất 10,02% và Dow Jones mất 8,02% - tuần tồi tệ nhất của cổ phiếu công nghệ Mỹ kể từ đại dịch COVID-19. Vàng, Bitcoin và dầu Brent đồng loạt giảm theo xu hướng bán tháo tài sản rủi ro, trong khi đồng USD gần như đi ngang. Tại thị trường trong nước, VN-Index khép phiên 20/11 ở 1.688,79 điểm, giảm nhẹ 0,05% dù có thời điểm lùi sâu hơn trong phiên; thanh khoản HOSE duy trì ở mức thấp (~10.680 tỷ đồng khớp lệnh) và khối ngoại tiếp tục bán ròng khoảng 841 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": -3.7,
+    "label": "S&P 500",
+    "value": "6.910,4"
+   },
+   {
+    "change_pct": -1.93,
+    "label": "Dow Jones",
+    "value": "48.147,3"
+   },
+   {
+    "change_pct": -5.28,
+    "label": "Nasdaq",
+    "value": "22.617,7"
+   },
+   {
+    "change_pct": 0.49,
+    "label": "Dầu WTI",
+    "value": "83,6 USD"
+   },
+   {
+    "change_pct": -2.29,
+    "label": "Dầu Brent",
+    "value": "89,9 USD"
+   },
+   {
+    "change_pct": -3.98,
+    "label": "Vàng thế giới",
+    "value": "3.539 USD"
+   },
+   {
+    "change_pct": -4.87,
+    "label": "Bitcoin",
+    "value": "58.888 USD"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "DXY",
+    "value": "103,84"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:9e3ad1c55c",
+     "title": "TP.HCM mời doanh nghiệp Singapore làm đường sắt nối Long Thành, công viên Safari"
+    },
+    {
+     "ref": "cafef:701a39b7e2",
+     "title": "Đề xuất thay đổi tính giá điện cho trung tâm dữ liệu, trạm sạc"
+    },
+    {
+     "ref": "cafef:69889873f0",
+     "title": "Nhà máy LG Innotek 1,9 tỷ USD tại Hải Phòng thu gần 93.000 tỷ sau 9 tháng, bỏ xa các công ty cùng tập đoàn tại Trung Quốc, Mexico và châu Âu"
+    },
+    {
+     "ref": "cafef:3467f327e5",
+     "title": "THACO hút thành công 3.000 tỷ đồng trái phiếu, đem cổ phần Đại Quang Minh và “đất vàng” Thủ Thiêm bảo đảm"
+    },
+    {
+     "ref": "cafef:ad36cfd2d6",
+     "title": "HAG: Thành lập công ty con mới, 'rót' thêm vốn để trồng cà phê"
+    },
+    {
+     "ref": "cafef:6938c63692",
+     "title": "CRE: Thoái vốn tại một công ty con"
+    },
+    {
+     "ref": "cafef:e88b55e3f6",
+     "title": "FPT: Mất gần một nửa vốn hóa từ đầu năm"
+    },
+    {
+     "ref": "cafef:bc84912f33",
+     "title": "PNJ: CEO: Tái cơ cấu triệt để là điều kiện tiên quyết để tồn tại"
+    },
+    {
+     "ref": "cafef:33dc7a5db4",
+     "title": "Liên danh của tỷ phú Phạm Nhật Vượng trúng thầu 5 tuyến đường sắt 250 km tại Hà Nội, trị giá hơn 873.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:9579418523",
+     "title": "Doanh nghiệp sở hữu mỏ đá có 6 dây chuyền nghiền công suất 2.400 tấn/giờ chính thức lên HOSE, vốn hóa gần 1.250 tỷ đồng"
+    },
+    {
+     "ref": "cafef:0610cca8c0",
+     "title": "SJG: Sắp tạm ứng cổ tức năm 2026 bằng tiền tỷ lệ 10%"
+    },
+    {
+     "ref": "cafef:d3437393d8",
+     "title": "Món nợ gần 1.000 tỷ đồng dưới thời cựu Chủ tịch Ocean Bank Hà Văn Thắm đang được rao bán"
+    },
+    {
+     "ref": "cafef:23a8624b4f",
+     "title": "PNJ: Biến động nhân sự cấp cao: 4 giám đốc cao cấp cùng từ nhiệm trong tháng 11"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:3c6bd56bbc",
+     "title": "Thủ tướng đề nghị mở rộng hợp tác dầu khí với Azerbaijan"
+    },
+    {
+     "ref": "vietstock:a5bedeb466",
+     "title": "Tuần 16-20/11: Tỷ giá trung tâm lập đỉnh mới, USD ngân hàng và tự do cùng tăng"
+    },
+    {
+     "ref": "vietstock:f07d062d69",
+     "title": "VDS: Cựu Tổng Giám đốc Chứng khoán Rồng Việt xin từ nhiệm HĐQT"
+    },
+    {
+     "ref": "vietstock:866ba371ac",
+     "title": "Chứng khoán Tuần 16-20/11/2026: Áp lực bủa vây"
+    },
+    {
+     "ref": "vietstock:3eaeaf4c59",
+     "title": "DHA: Người nội bộ tái cấu trúc khoản đầu tư tại nhà khai thác đá Hóa An"
+    },
+    {
+     "ref": "vietstock:7bfb7e01d6",
+     "title": "Đất bỏ hoang áp dụng mức thuế suất 0,2% có hiệu lực thi hành từ ngày 1/7/2027"
+    },
+    {
+     "ref": "vietstock:1542af7fd3",
+     "title": "Bộ trưởng Tài chính: Sẽ xem xét ban hành chính sách đặc thù xử lý xóa tiền thuế nợ cho người nộp thuế"
+    },
+    {
+     "ref": "vietstock:4f71a38f7a",
+     "title": "Luật Giao dịch hàng hóa phái sinh: Minh bạch thị trường, giảm rủi ro cho người sản xuất"
+    },
+    {
+     "ref": "vietstock:a658769d0d",
+     "title": "FPT: Lãnh đạo chỉ ra 4 động lực tăng trưởng của mảng dịch vụ CNTT nước ngoài"
+    },
+    {
+     "ref": "vietstock:802c1f3b5f",
+     "title": "SHS: Tổng Giám đốc đảm nhiệm thêm vai trò Chủ tịch BVIM"
+    },
+    {
+     "ref": "vietstock:4f7bf69600",
+     "title": "ABB: Cổ đông sắp được quyền mua thêm 50% và nhận cổ phiếu thưởng 12%"
+    },
+    {
+     "ref": "vietstock:f12c91238a",
+     "title": "Tỷ lệ LDR sụt giảm cuối quý 3/2026: Dư địa thực hay hiệu ứng chính sách?"
+    },
+    {
+     "ref": "vietstock:c49fad1cc2",
+     "title": "VNZ: Chi phụ cấp AI cho hơn 4.000 nhân sự, chiến lược \"AI-native\" đi cùng cú bứt phá lợi nhuận ngàn tỷ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:5b3bb3c97f",
+     "title": "Lại mất mốc 1700 điểm, công ty chứng khoán bình luận gì?"
+    },
+    {
+     "ref": "vneconomy:dd1e6d301f",
+     "title": "SSI Research: Mặt bằng lãi suất ổn định nhưng khó giảm mạnh?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:33a6990d63",
+     "title": "Nhìn lại diễn biến nhóm cổ phiếu được các công ty chứng khoán khuyến nghị tuần qua"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:dd00932c26",
+     "title": "IDP: Sữa Quốc tế LOF sắp chi gần 198 tỷ đồng trả cổ tức tiền mặt sau 9 tháng lãi lớn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6b09dc27b6",
+     "title": "Sẽ sửa đổi Luật Doanh nghiệp không chỉ để tháo gỡ vướng mắc"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:347afa20cc",
+     "title": "Khoảng 60 hồ sơ mắc kẹt định giá đất, TP.HCM đề xuất cơ chế đặc biệt tháo gỡ"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:fa9557efa7",
+     "title": "BMJ: Khoáng sản miền Đông AHP chào sàn HOSE, thêm một cơ hội đầu tư tăng trưởng kép cho thị trường"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4996fa2acb",
+     "title": "Đằng sau cuộc đua nghìn tỷ lợi nhuận ngành bảo hiểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c8309385f5",
+     "title": "Mở thêm 2 kênh vốn và thị trường cho doanh nghiệp nhỏ và vừa"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2c4fe7d469",
+     "title": "200 triệu USD vốn bền vững được thu xếp nhằm thúc đẩy doanh nghiệp Việt chuyển đổi xanh"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:28ad4c9d6e",
+     "title": "Quốc hội thông qua Luật Đấu giá tài sản: Chốt mức đặt trước 20-50% giá khởi điểm đất ở"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:582188b8bf",
+     "title": "Liên doanh DLGL-Alpha Seven động thổ 4 dự án năng lượng tái tạo hơn 4.700 tỷ đồng"
+    },
+    {
+     "ref": "b-o-u-t:ea7e6358c3",
+     "title": "TP.HCM kiến nghị bổ sung thêm 23.177 MW vào Quy hoạch điện VIII điều chỉnh"
+    },
+    {
+     "ref": "b-o-u-t:8e954da403",
+     "title": "Quốc hội thông qua Luật sửa đổi, bổ sung một số điều của Luật Đầu tư"
+    },
+    {
+     "ref": "b-o-u-t:932d61fb1c",
+     "title": "Hà Nội quy định giao chủ đầu tư nhà ở cho thuê không qua đấu giá, đấu thầu"
+    },
+    {
+     "ref": "b-o-u-t:af10bf67ae",
+     "title": "LEGO Manufacturing Việt Nam đưa hệ thống pin lưu trữ năng lượng vào vận hành"
+    },
+    {
+     "ref": "b-o-u-t:1a2fccd6a1",
+     "title": "Trung ương bổ sung 200 tỷ đồng cho vay nhà ở xã hội tại Bắc Ninh"
+    },
+    {
+     "ref": "b-o-u-t:f3abb8b80b",
+     "title": "Walmart mở rộng thu mua hàng Việt, gia tăng mạng lưới nhà cung ứng tại Việt Nam"
+    },
+    {
+     "ref": "b-o-u-t:9292f1efea",
+     "title": "Đề nghị tháo gỡ vướng mắc trong cấp C/O, gỡ vướng cho doanh nghiệp"
+    },
+    {
+     "ref": "b-o-u-t:b048a1f9d7",
+     "title": "EUDR bước vào giai đoạn thực thi: Doanh nghiệp Việt phải chuẩn hóa dữ liệu toàn chuỗi cung ứng"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:4f3681d270",
+     "title": "Ngành ngân hàng 9T/2026: Nợ xấu tăng lên 2,3%, áp lực vốn chưa hạ nhiệt"
+    },
+    {
+     "ref": "markettimes:e7a98af88d",
+     "title": "Khối ngoại bán ròng 126.000 tỷ từ đầu năm 2026, kỷ lục chưa từng có"
+    },
+    {
+     "ref": "markettimes:5449a13a63",
+     "title": "SBT: AgriS dự kiến huy động 1.000 tỷ đồng trái phiếu, lãi suất 11,8%/năm để cơ cấu nợ vay"
+    },
+    {
+     "ref": "markettimes:fa92833389",
+     "title": "CTG: Đã bán xong tòa tháp tại Ciputra"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:c7b895519a",
+     "title": "4 ngân hàng có lãi suất cho vay bình quân trên 11%/năm trong tháng 10"
+    },
+    {
+     "ref": "vnbusiness:25db631c51",
+     "title": "9 ngân hàng đã vượt mốc tài sản triệu tỷ, tiêu chí quy mô lớn sắp thay đổi"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:43de7b22bf",
+     "title": "Giá nhà ở xã hội tăng gấp 3 lần sau 5 năm, đề xuất 'khóa' người mua"
+    },
+    {
+     "ref": "ti-n-phong:c31073e4b4",
+     "title": "Doanh nghiệp bất động sản 'đổ bộ' vào năng lượng"
+    },
+    {
+     "ref": "ti-n-phong:db0b325bf8",
+     "title": "Bên trong nhà ga sân bay Long Thành một tháng trước khi vận hành"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:a49836ca74",
+     "title": "EVNNPT được chấp thuận là nhà đầu tư Dự án Trạm biến áp 220kV Đức Hòa 2 và đấu nối"
+    },
+    {
+     "ref": "bnews:3c49f90eaa",
+     "title": "Doanh nghiệp nhỏ và vừa được miễn thuế thu nhập doanh nghiệp 3 năm"
+    },
+    {
+     "ref": "bnews:def635f39f",
+     "title": "Kỳ họp thứ hai, Quốc hội khóa XVI: Doanh nghiệp nhỏ và vừa được giảm tối thiểu 30% tiền thuê lại đất"
+    },
+    {
+     "ref": "bnews:6fe000d080",
+     "title": "Cổ phiếu đáng chú ý ngày 20/11: ACB, FPT, TCB"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:e1cddc318e",
+     "title": "MZG: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Vũ Anh Trà, Vũ Đình Hải"
+    },
+    {
+     "ref": "hose:4866b22be1",
+     "title": "VDP: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐ bất thường năm 2026 lần 2"
+    },
+    {
+     "ref": "hose:de6fc501eb",
+     "title": "VHM: HĐQT phê duyệt phát hành gói trái phiếu riêng lẻ 3.000 tỷ"
+    },
+    {
+     "ref": "hose:84a3adc238",
+     "title": "DSE: Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán"
+    },
+    {
+     "ref": "hose:23c401a081",
+     "title": "AGR: Thông báo giấy phép điều chỉnh Giấy phép thành lập và hoạt động kinh doanh chứng khoán (vốn điều lệ)"
+    },
+    {
+     "ref": "hose:5bb9e1d841",
+     "title": "DHC: Thông báo giao dịch cổ phiếu của người nội bộ Nguyễn Quốc Bình"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:098e214f78",
+   "title": "Trump nói ông Huang nên trở lại Nvidia sau \"lời xin lỗi lớn\"",
+   "translated": true,
+   "original_title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video"
+  },
+  {
+   "ref": "bloomberg:91964bf33a",
+   "title": "S&P 500 và Dow Jones rơi vào vùng điều chỉnh khi nhà đầu tư bán tháo cổ phiếu công nghệ",
+   "translated": true,
+   "original_title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video"
+  },
+  {
+   "ref": "bloomberg:ca54f2dba1",
+   "title": "Nvidia lao dốc khi điều tra của SEC khiến đà bán tháo thị trường AI thêm sâu",
+   "translated": true,
+   "original_title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video"
+  },
+  {
+   "ref": "bloomberg:63169e68ad",
+   "title": "CrowdStrike được cho là đang đàm phán mua lại hãng an ninh mạng Zscaler",
+   "translated": true,
+   "original_title": "CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/crowdstrike-said-in-talks-to-buy-zscaler-video"
+  },
+  {
+   "ref": "bloomberg:b069584bd3",
+   "title": "Hưng phấn AI nhường chỗ cho sợ hãi và \"biến động dữ dội\"",
+   "translated": true,
+   "original_title": "AI Euphoria Gives Way to Fear And ‘Face-Ripping Volatility’",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets"
+  },
+  {
+   "ref": "tg-marketfeed:1083043",
+   "title": "Databricks trong giai đoạn đàm phán sơ bộ để huy động vốn ở mức định giá 225 tỷ USD: WSJ",
+   "translated": true,
+   "original_title": "DATABRICKS IN PRELIMINARY DISCUSSIONS TO SECURE FUNDING AT $225 BILLION VALUATION: WSJ ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083040",
+   "title": "150 tỷ USD bị thổi bay khỏi vốn hóa thị trường tiền điện tử chỉ trong một ngày",
+   "translated": true,
+   "original_title": "JUST IN: $150,000,000,000 WIPED OUT FROM THE CRYPTO MARKET CAP TODAY. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083031",
+   "title": "Goldman Sachs cảnh báo đà bán tháo thị trường chứng khoán chưa kết thúc",
+   "translated": true,
+   "original_title": "JUST IN: GOLDMAN SACHS WARNS STOCK MARKET SELLOFF IS NOT OVER. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083025",
+   "title": "EU sắp có công cụ thương mại mới để hạn chế quyền tiếp cận thị trường chung",
+   "translated": true,
+   "original_title": "EU NEARS NEW TRADE POWER TO BLOCK ACCESS TO ITS SINGLE MARKET. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083024",
+   "title": "Cổ phiếu công nghệ Mỹ trải qua tuần tồi tệ nhất kể từ đại dịch COVID 2020",
+   "translated": true,
+   "original_title": "JUST IN: 🇺🇸 US TECH STOCKS SUFFER WORST WEEK SINCE THE 2020 COVID PANDEMIC. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083021",
+   "title": "S&P 500 rơi vào vùng điều chỉnh khi đà bán tháo AI gây chấn động thị trường toàn cầu",
+   "translated": true,
+   "original_title": "S&P 500 ENTERS CORRECTION AS AI SELLOFF SPARKS GLOBAL MARKET ROUT – US MARKET WRAP ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083019",
+   "title": "Nvidia giảm 23% trong tuần, mức giảm mạnh nhất kể từ khủng hoảng tài chính 2008; hơn 975 tỷ USD vốn hóa bị thổi bay từ khi Jensen Huang từ chức CEO",
+   "translated": true,
+   "original_title": "JUST IN: NVIDIA $NVDA CRASHES 23% IN ITS BIGGEST WEEKLY DECLINE SINCE THE 2008 FINANCIAL CRISIS. OVER $975,000,000,000 IN MARKET CAP HAS BEEN WIPED OUT SINCE JENSEN HUANG RESIGNED AS CEO. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083018",
+   "title": "Mỹ nhắm mục tiêu vào các \"cá nhân tín thác dầu mỏ\" chủ chốt mà chính quyền Iran phụ thuộc",
+   "translated": true,
+   "original_title": "US: TARGETING KEY “OIL TRUSTEES” THAT THE IRANIAN REGIME RELIES ON. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083016",
+   "title": "8.900 tỷ USD bị xóa sổ khỏi thị trường chứng khoán Mỹ trong 45 ngày qua, riêng hôm nay mất 2.500 tỷ USD",
+   "translated": true,
+   "original_title": "BREAKING: 🇺🇸 $8.9 TRILLION ERASED FROM THE US STOCK MARKET IN THE PAST 45 DAYS. $2.5 TRILLION WIPED OUT OF THE US STOCK MARKET TODAY. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083013",
+   "title": "Oracle: Đã đảm bảo đủ nguồn vốn để thực hiện hợp đồng với OpenAI",
+   "translated": true,
+   "original_title": "*ORACLE: HAS SECURED ALL THE FUNDING WE NEED TO FULFILL OUR CONTRACT WITH OPENAI $ORCL ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083012",
+   "title": "Tính chung cả tuần, S&P 500 giảm 8,61%, Nasdaq giảm 10,02%, Dow Jones giảm 8,02%",
+   "translated": true,
+   "original_title": "UNOFFICIALLY, FOR THE WEEK, THE S&P 500 FELL 8.61%, THE NASDAQ DECLINED 10.02%, AND THE DOW FELL 8.02% ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083011",
+   "title": "Dow Jones giảm 2,02% khi đóng cửa, mất gần 1.000 điểm; S&P 500 mất 273,8 điểm còn 6.902,03 điểm; Nasdaq giảm 5,27% còn 22.620,17 điểm",
+   "translated": true,
+   "original_title": "DOW JONES PLUNGES 2.02% AT THE CLOSE AS INDEX SHEDS NEARLY 1,000 POINTS S&P 500 SUFFERS A 273.80-POINT DROP, SETTLING AT 6,902.03 NASDAQ SUFFERS SHARPEST LOSSES, DROPPING 5.27% TO SETTLE AT 22,620.17 ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413594",
+   "title": "Ngoại trưởng Iran Araghchi cho biết Iran vẫn hy vọng kết thúc cuộc xung đột với Mỹ thông qua ngoại giao. Theo ông, Iran và Mỹ tiếp tục trao đổi thông tin thông qua các bên trung gian.",
+   "translated": false,
+   "original_title": "🔴 Ngoại trưởng Iran Araghchi cho biết Iran vẫn hy vọng kết thúc cuộc xung đột với Mỹ thông qua ngoại giao. Theo ông, Iran và Mỹ tiếp tục trao đổi thông tin thông qua các bên trung gian. #iran #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413593",
+   "title": "Chỉ số Nasdaq gần chạm ngưỡng thị trường gấu, giảm 19,8% so với đỉnh tháng 10.",
+   "translated": false,
+   "original_title": "🔴 Chỉ số Nasdaq gần chạm ngưỡng thị trường gấu, giảm 19,8% so với đỉnh tháng 10. #stocks #nasdaq",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413591",
+   "title": "Chỉ số Russell 2000 (cổ phiếu nhỏ vốn hóa thấp Mỹ) giảm 7,48% trong tuần này, đạt mức giảm lớn nhất trong một tuần kể từ tuần ngày 4 tháng 4 năm 2025.",
+   "translated": false,
+   "original_title": "▫️ Chỉ số Russell 2000 (cổ phiếu nhỏ vốn hóa thấp Mỹ) giảm 7,48% trong tuần này, đạt mức giảm lớn nhất trong một tuần kể từ tuần ngày 4 tháng 4 năm 2025. #stocks #us",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:bf22419320",
+   "title": "Trump, Tập, Putin chốt ưu tiên mới sau cuộc gặp lịch sử ở Trung Quốc",
+   "translated": false,
+   "original_title": "Trump, Tập, Putin chốt ưu tiên mới sau cuộc gặp lịch sử ở Trung Quốc",
+   "link": "https://bbw.vn/trump-tap-putin-chot-uu-tien-moi-sau-cuoc-gap-lich-su-o-trung-quoc-61716.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:4680cbd59b",
+   "title": "Cựu Đặc phái viên Khoa học Mỹ chất vấn mô hình quản trị của Anthropic",
+   "translated": false,
+   "original_title": "Cựu Đặc phái viên Khoa học Mỹ chất vấn mô hình quản trị của Anthropic",
+   "link": "https://bbw.vn/ai-quan-ly-anthropic-61707.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:7e7e3a986a",
+   "title": "IPO của Anthropic có thể khơi thông làn sóng niêm yết mới",
+   "translated": false,
+   "original_title": "IPO của Anthropic có thể khơi thông làn sóng niêm yết mới",
+   "link": "https://bbw.vn/ipo-cua-anthropic-co-the-khoi-thong-lan-song-niem-yet-moi-61684.html"
+  },
+  {
+   "ref": "vneconomy:f0744d29d9",
+   "title": "Chứng khoán lao dốc, Đài Loan siết hoạt động bán khống để hỗ trợ thị trường",
+   "translated": false,
+   "original_title": "Chứng khoán lao dốc, Đài Loan siết hoạt động bán khống để hỗ trợ thị trường",
+   "link": "https://vneconomy.vn/chung-khoan-lao-doc-dai-loan-siet-hoat-dong-ban-khong-de-ho-tro-thi-truong.htm"
+  },
+  {
+   "ref": "vneconomy:8f10d4942d",
+   "title": "ECB chỉ ra những điểm tương đồng giữa cơn sốt AI và bong bóng dotcom",
+   "translated": false,
+   "original_title": "ECB chỉ ra những điểm tương đồng giữa cơn sốt AI và bong bóng dotcom",
+   "link": "https://vneconomy.vn/ecb-chi-ra-nhung-diem-tuong-dong-giua-con-sot-ai-va-bong-bong-dotcom.htm"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:d59b21d667",
+   "title": "Chứng khoán châu Á có tuần giảm mạnh nhất kể từ tháng 3/2020",
+   "translated": false,
+   "original_title": "Chứng khoán châu Á có tuần giảm mạnh nhất kể từ tháng 3/2020 - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUlHeWhUeDdKUnpNZDMwamJYU2FISmc4Zk5Fdl9RUXBVZlFBOEJEdmthOGhkSmRlWlktdjN4eV9vOGlSZXRmYTh2Y0ZteEhiYTgtc2psR0laWFM1ZHg3QTJSSkhTZHgxdVpLQjBkUldycGpfR0ZVMjRielEyOThNaDJ1MXB0V1hMa1ZiZ2k0anNBbFYtZnQyUXNpV0tVWFREMVlaeUpIT2xra1l0ZFHSAaoBQVVfeXFMUE5ZOGZIM25CS0FlWU1seWpRQXY3UmtuWUFWa2xXUmFHaWFnalBiT0lNcGdpSjJ5U3BSaV9JZkVjOTE0bXN5OW1TWWlzVjU3SlZoQ01jOTdPdTItSXRINU5qMGVVY1RIUTVFS3pIbHBqSEVWUmYzM1pCei11RGJ0ZmRKeVpmT2VuOU1pdFhpWkhXaEdmS2RPZDZlTF82QjVtenZQSHVuN0R5QXc?oc=5"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:d83ba95ea8",
+   "title": "Nhà cung cấp dịch vụ của JPMorgan, Visa và Mastercard trở thành mục tiêu tấn công mạng",
+   "translated": false,
+   "original_title": "Nhà cung cấp dịch vụ của JPMorgan, Visa và Mastercard trở thành mục tiêu tấn công mạng - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXV4dWZlUm1sUHFGVzNhaHR1SzlhZ2NTLTVrcVRCQVdVTHFfNlZOMVNFSWpRSC1SY0NNQ2xUdEk3Mlh0U2paU1NUSFl1eGZlVGRpX3FIOXA1YnpZWFFRNS15UGhnbC12ckstLVIwV2twa2puRGo3a2NHQ2k1eW5MZURuVkJCczNBVV9RREhBazh6UENMQm1STmVabXMzYjZDSTNhOWNSTGhYVnQwTzVQalpZUGhLOWRQWlh2WWQteEVfN1ZaWUNzcTIwaHDSAcwBQVVfeXFMT0V1eHVmZVJtbFBxRlczYWh0dUs5YWdjUy01a3FUQkFXVUxxXzZWTjFTRUlqUUgtUmNDTUNsVHRJNzJYdFNqWlNTVEhZdXhmZVRkaV9xSDlwNWJ6WVhRUTUteVBoZ2wtdnJLLS1SMFdrcGtqbkRqN2tjR0NpNXluTGVEblZCQnMzQVVfUURIQWs4elBDTEJtUk5lWm1zM2I2Q0kzYTljUkxoWFZ0ME81UGpaWVBoSzlkUFpYdllkLXhFXzdWWllDc3EyMGhw?oc=5"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:1c78fdb4d9",
+   "title": "Allianz: Tổn thất liên quan đến AI mới chỉ là phần nổi của tảng băng chìm",
+   "translated": false,
+   "original_title": "Allianz: Tổn thất liên quan đến AI mới chỉ là phần nổi của tảng băng chìm - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVZEOWZKZkYxMFc5aFZzWEszYTZ3cnMxeXB1NVQyYWRwMGtTbS1qaHFUem84dFNnSFllZ09jZDlxUnFTUDM2MlV3T0hyMnUyd0ZXdVRUWnZxZjhDQktOUmMwQmNDTWRaV01YeU9zdkJ2TU1ZbzN3YUVfVFNLOGo5Ty1KUGR0X25ZV1NPSU1ubFltaFpPQng3MmVZMU00TVNzbnFseU1tUGpERUhmM2c2eVJwSHFlaDVKZUhR0gG7AUFVX3lxTE9xVkQ5ZkpmRjEwVzloVnNYSzNhNndyczF5cHU1VDJhZHAwa1NtLWpocVR6bzh0U2dIWWVnT2NkOXFScVNQMzYyVXdPSHIydTJ3Rld1VFRadnFmOENCS05SYzBCY0NNZFpXTVh5T3N2QnZNTVlvM3dhRV9UU0s4ajlPLUpQZHRfbllXU09JTW5sWW1oWk9CeDcyZVkxTTRNU3NucWx5TW1QakRFSGYzZzZ5UnBIcWVoNUplSFE?oc=5"
+  },
+  {
+   "ref": "th-i-b-o-ng-n-h-ng:8cb4f72c70",
+   "title": "Điều gì đang nâng đỡ USD ngoài kỳ vọng Fed tăng lãi suất?",
+   "translated": false,
+   "original_title": "Điều gì đang nâng đỡ USD ngoài kỳ vọng Fed tăng lãi suất? - Thời Báo Ngân Hàng",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMjNST214bXk1MmhhMVpQdTUtZVVsNElsMHFOMTNkdS1lWGFNU1pvVHN4Qk44MUw0NkFwTDRnX0JTbkV1b29VQ3Bxb3p5OGVndXZPV3VpbHNiejBIaUltb1JoZ01YWVpYMDFaMDd0Ql9rVnFqNGQ1T1FnVDhfbENTaGRPSFJ3Z0ZrTzl0dlRkNVJsMHlnSmxHWGZVbw?oc=5"
+  }
+ ],
+ "content_sha": "c2e1197a1ec0abde8610b498446e3e2ef3babb9a62cdb4a46579bda89511cfd1"
+}
