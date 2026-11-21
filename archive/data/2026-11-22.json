@@ -214,5 +214,44 @@
    "link": "https://bbw.vn/ai-quan-ly-anthropic-61707.html"
   }
  ],
- "content_sha": "e75946a38ae7518777b133ae9c9ac5f99fbc1716ff2464ea50de5314f7567e07"
+ "content_sha": "e75946a38ae7518777b133ae9c9ac5f99fbc1716ff2464ea50de5314f7567e07",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "0f5f3ea50aea37587ac18ae704947066dc6e2908",
+   "published_at": "2026-11-22T06:38:50+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "324",
+   "sent_at": "2026-11-22T06:38:51+07:00",
+   "content_sha": "e75946a38ae7518777b133ae9c9ac5f99fbc1716ff2464ea50de5314f7567e07",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "324",
+     "sent_at": "2026-11-22T06:38:51+07:00",
+     "content_sha": "e75946a38ae7518777b133ae9c9ac5f99fbc1716ff2464ea50de5314f7567e07"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "1f8411e8016b56320f7d",
+   "sent_at": "2026-11-22T06:38:52+07:00",
+   "content_sha": "e75946a38ae7518777b133ae9c9ac5f99fbc1716ff2464ea50de5314f7567e07",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "1f8411e8016b56320f7d",
+     "sent_at": "2026-11-22T06:38:52+07:00",
+     "content_sha": "e75946a38ae7518777b133ae9c9ac5f99fbc1716ff2464ea50de5314f7567e07"
+    }
+   ]
+  }
+ }
 }
