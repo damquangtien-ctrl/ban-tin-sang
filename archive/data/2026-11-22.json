@@ -1,0 +1,218 @@
+{
+ "date": "2026-11-22",
+ "dividends": [],
+ "edition": "sunday",
+ "highlights": [
+  {
+   "source": "VN Wall Street",
+   "text": "Iran tấn công hai căn cứ quân sự Mỹ tại Bahrain, Trung Đông leo thang căng thẳng"
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Ngoại trưởng Iran: Eo biển Hormuz tiếp tục đóng cửa, rủi ro nguồn cung dầu gia tăng"
+  },
+  {
+   "source": "Thị trường",
+   "text": "Chứng khoán Mỹ lao dốc trong phiên qua đêm: S&P 500 giảm 3,70%, Nasdaq giảm 5,28%"
+  },
+  {
+   "source": "Vietstock",
+   "text": "VN-Index giảm nhẹ về 1.688,79 điểm, khối ngoại bán ròng hơn 841 tỷ đồng phiên 20/11"
+  }
+ ],
+ "legal": [],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-0,83 điểm (-0,05%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.688,79"
+   },
+   {
+    "change": "-4,35 điểm (-1,82%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "234,59"
+   },
+   {
+    "change": "521 triệu cổ phiếu khớp lệnh",
+    "direction": "flat",
+    "label": "Thanh khoản HOSE",
+    "value": "10.680 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng 841 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": "Mua CK 25.600 · Bán 25.980",
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "25.980"
+   }
+  ],
+  "summary": "Các chỉ số chứng khoán Mỹ giảm mạnh trong phiên qua đêm với S&P 500 giảm 3,70%, Dow Jones giảm 1,93% và Nasdaq giảm 5,28%. Giá vàng thế giới giảm 4,62%, dầu Brent giảm 2,21% trong khi dầu WTI và Bitcoin đi ngược chiều, tăng nhẹ 0,24% và 2,27%; chỉ số DXY gần như đi ngang. Căng thẳng Iran - Mỹ tại Bahrain và việc Iran tiếp tục phong tỏa eo biển Hormuz đang là rủi ro địa chính trị lớn nhất với giá dầu và vàng hiện nay. Tại Việt Nam, phiên giao dịch gần nhất (20/11) VN-Index giảm nhẹ 0,05% về 1.688,79 điểm, HNX-Index giảm 1,82% về 234,59 điểm; thanh khoản HOSE đạt hơn 10.680 tỷ đồng và khối ngoại tiếp tục bán ròng hơn 841 tỷ đồng.",
+  "tiles": [
+   {
+    "change_pct": -3.7,
+    "label": "S&P 500",
+    "value": "6.910,4"
+   },
+   {
+    "change_pct": -1.93,
+    "label": "Dow Jones",
+    "value": "48.147,3"
+   },
+   {
+    "change_pct": -5.28,
+    "label": "Nasdaq",
+    "value": "22.617,7"
+   },
+   {
+    "change_pct": 0.24,
+    "label": "Dầu WTI",
+    "value": "83,4 USD"
+   },
+   {
+    "change_pct": -2.21,
+    "label": "Dầu Brent",
+    "value": "90,0 USD"
+   },
+   {
+    "change_pct": -4.62,
+    "label": "Vàng thế giới",
+    "value": "3.515 USD"
+   },
+   {
+    "change_pct": 2.27,
+    "label": "Bitcoin",
+    "value": "60.134 USD"
+   },
+   {
+    "change_pct": -0.06,
+    "label": "DXY",
+    "value": "103,84"
+   }
+  ]
+ },
+ "vietnam": [],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:413649",
+   "title": "Vệ binh Cách mạng Iran tấn công hai căn cứ quân sự Mỹ tại Bahrain, một cơ sở dân sự cũng bị trúng đòn",
+   "original_title": "🔴 Lực lượng Vệ binh Cách mạng Hồi giáo Iran tấn công căn cứ quân sự Mỹ tại Bahrain Lực lượng Vệ binh Cách mạng Hồi giáo Iran đã tấn công hai căn cứ quân sự Mỹ tại Bahrain vào tối ngày 21. Bộ Nội vụ Bahrain cũng công bố rằng một cơ sở dân sự trên lãnh thổ nước này bị Iran tấn công, gây cháy tại địa điểm đó. Các bộ phận cứu hỏa đang tiến hành dập lửa. #geopolitics #iran",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413652",
+   "title": "Iran tuyên bố tấn công hai radar phòng không Patriot của Mỹ tại Bahrain",
+   "original_title": "▫️ Vệ binh Cách mạng Iran tuyên bố đã tấn công hai bộ radar phòng không Patriot của Mỹ đặt tại căn cứ quân sự ở Bahrain. #geopolitics #iran",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083297",
+   "title": "Bộ Nội vụ Bahrain: Cuộc tấn công của Iran gây cháy tại một cơ sở công nghiệp dân sự",
+   "translated": true,
+   "original_title": "BAHRAIN INTERIOR MINISTRY: IRANIAN STRIKE ON CIVILIAN INDUSTRIAL SITE CAUSES FIRE ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413654",
+   "title": "CBS: Mỹ xác nhận Iran phát động đợt tấn công mới nhưng không có thương vong hay thiệt hại quân sự",
+   "original_title": "🔴 Theo CBS, viên chức Mỹ cho biết Iran đã phát động đợt tấn công mới. Tuy nhiên, lực lượng quân đội và tài sản quân sự của Mỹ tại khu vực này không bị thương vong hoặc tổn thất. #iran #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413648",
+   "title": "Iran: Một tiêm kích F-16 của Mỹ phát tín hiệu khẩn cấp, Quân đội Mỹ bác bỏ",
+   "original_title": "▫️ Vệ binh Cách mạng Iran tuyên bố, trái ngược với tuyên bố phủ nhận của Quân đội Mỹ, một máy bay chiến đấu F-16 đã phát tín hiệu khẩn cấp 7700 (mã ứng đáp cấp cứu quốc tế được sử dụng bởi máy bay dân dụng). #geopolitics #us",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083306",
+   "title": "Bahrain phát cảnh báo an toàn trở lại sau loạt vụ tấn công",
+   "translated": true,
+   "original_title": "BAHRAIN'S INTERIOR MINISTRY ISSUES ALL-CLEAR ALERT: POST ON X ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413656",
+   "title": "Liên quân Saudi Arabia đánh chặn tên lửa Houthi bắn về miền tây Yemen",
+   "original_title": "▫️ Liên quân do Saudi Arabia dẫn đầu cho biết đã đánh chặn và phá hủy tên lửa mà Houthi phóng về khu vực phía tây Yemen. #geopolitics #yemen",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413646",
+   "title": "Liên quân Saudi Arabia đánh chặn máy bay không người lái Houthi nhằm vào Riyadh",
+   "original_title": "▫️ Liên quân do Ả Rập Xê Út lãnh đạo công bố đã chặn đứng và tiêu diệt máy bay không người lái mà Houthis Yemen phóng tới khu vực Riyadh. #geopolitics #saudi -arabia",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413642",
+   "title": "Ngoại trưởng Iran: Eo biển Hormuz tiếp tục đóng cửa cho đến khi Mỹ chấp nhận điều kiện của Iran",
+   "original_title": "▫️ Ngoại trưởng Iran Araghchi: Eo biển Hormuz sẽ tiếp tục đóng cửa cho đến khi Mỹ chấp nhận các điều kiện 'hợp lý và hợp pháp' của Iran Ngoại trưởng Iran Araghchi tuyên bố rằng Eo biển Hormuz sẽ tiếp tục đóng cửa cho đến khi Mỹ chấp nhận các yêu cầu hợp lý và hợp pháp của Iran. Ông cho rằng nếu Mỹ chấp nhận các điều kiện phù hợp với luật quốc tế, việc mở lại Eo biển không phải là việc khó khăn. Ar",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413644",
+   "title": "Nghe thấy tiếng nổ lớn ngoài khơi Sirri, tỉnh Hormuzgan của Iran",
+   "original_title": "▫️ Phát hiện tiếng nổ lớn trên biển gần Sirri, tỉnh Hormuzgan, Iran Vào ngày 21, theo thông tin từ Iran, cư dân ở thành phố Sirri ở phía đông tỉnh Hormuzgan báo cáo vừa nghe thấy tiếng nổ lớn phát ra từ hướng biển cách đây vài phút. Nguyên nhân chính xác của vụ nổ chưa rõ ràng, nhưng có thể liên quan đến việc bắn cảnh cáo vào các tàu không được phép hoặc kích hoạt thủy lôi. Theo thông tin, trong 3",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083294",
+   "title": "Biên phòng Phần Lan: Thủy thủ đoàn tàu hàng Nga bị cháy đã được sơ tán",
+   "translated": true,
+   "original_title": "FINLAND BORDER GUARD: CREW OF DAMAGED RUSSIAN CARGO SHIP EVACUATED TO ANOTHER VESSEL, EN ROUTE TO RUSSIA ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:bf22419320",
+   "title": "Trump, Tập, Putin chốt ưu tiên mới sau cuộc gặp lịch sử ở Trung Quốc",
+   "original_title": "Trump, Tập, Putin chốt ưu tiên mới sau cuộc gặp lịch sử ở Trung Quốc",
+   "link": "https://bbw.vn/trump-tap-putin-chot-uu-tien-moi-sau-cuoc-gap-lich-su-o-trung-quoc-61716.html"
+  },
+  {
+   "ref": "bloomberg:b55e5a0066",
+   "title": "Người tiêu dùng Mỹ vẫn trụ vững trước lạm phát khi mùa lễ hội đến gần",
+   "translated": true,
+   "original_title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season"
+  },
+  {
+   "ref": "tg-marketfeed:1083313",
+   "title": "Nga chính thức cho phép các sàn giao dịch tiền điện tử hoạt động với sự chấp thuận của ngân hàng trung ương",
+   "translated": true,
+   "original_title": "JUST IN: 🇷🇺 RUSSIA OFFICIALLY ALLOWS EXCHANGES TO LAUNCH CRYPTOCURRENCY TRADING WITH CENTRAL BANK APPROVAL. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413645",
+   "title": "Trump cam kết hợp tác với Đảng Dân chủ áp trần lãi suất thẻ tín dụng ở mức 10%",
+   "original_title": "▫️ Trump cam kết hợp tác với Đảng Dân chủ thiết lập giới hạn lãi suất thẻ tín dụng ở 10% Theo Fox News, Tổng thống Mỹ Trump cho biết sẽ hợp tác với Quốc hội Đảng Dân chủ sắp tới để thúc đẩy thiết lập giới hạn lãi suất thẻ tín dụng, nhằm thực hiện cam kết từ chiến dịch 2024. Trump nói: \"Tôi sẵn sàng làm điều này. Các công ty thẻ tín dụng đã kiếm được rất nhiều tiền.\" Cả Đảng Dân chủ và Trump đều ủn",
+   "link": null
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:51bb9d164f",
+   "title": "IPO Anthropic khiến ngành AI đối mặt giám sát chặt hơn",
+   "original_title": "IPO Anthropic khiến ngành AI đối mặt giám sát chặt hơn",
+   "link": "https://bbw.vn/ipo-anthropic-khien-nganh-ai-doi-mat-giam-sat-chat-hon-61717.html"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:4680cbd59b",
+   "title": "Cựu Đặc phái viên Khoa học Mỹ chất vấn mô hình quản trị của Anthropic",
+   "original_title": "Cựu Đặc phái viên Khoa học Mỹ chất vấn mô hình quản trị của Anthropic",
+   "link": "https://bbw.vn/ai-quan-ly-anthropic-61707.html"
+  }
+ ],
+ "content_sha": "e75946a38ae7518777b133ae9c9ac5f99fbc1716ff2464ea50de5314f7567e07"
+}
