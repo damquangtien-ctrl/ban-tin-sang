@@ -600,5 +600,44 @@
    "link": "https://bbw.vn/ipo-anthropic-khien-nganh-ai-doi-mat-giam-sat-chat-hon-61717.html"
   }
  ],
- "content_sha": "2117d49a4d96c9edb16fadf333fed3d2a320feb8f8e8d59217167a71ae9ebb9b"
+ "content_sha": "2117d49a4d96c9edb16fadf333fed3d2a320feb8f8e8d59217167a71ae9ebb9b",
+ "delivery": {
+  "publish": {
+   "ok": true,
+   "commit": "9449bf36e2c6ca19a83ad21ba2ad32d38a9118c1",
+   "published_at": "2026-11-23T06:50:53+07:00"
+  },
+  "telegram": {
+   "ok": true,
+   "message_id": "325",
+   "sent_at": "2026-11-23T06:50:55+07:00",
+   "content_sha": "2117d49a4d96c9edb16fadf333fed3d2a320feb8f8e8d59217167a71ae9ebb9b",
+   "targets": [
+    {
+     "target_id": "928f6fc4179d",
+     "kind": "user",
+     "ok": true,
+     "message_id": "325",
+     "sent_at": "2026-11-23T06:50:55+07:00",
+     "content_sha": "2117d49a4d96c9edb16fadf333fed3d2a320feb8f8e8d59217167a71ae9ebb9b"
+    }
+   ]
+  },
+  "zalo": {
+   "ok": true,
+   "message_id": "a39e9f1f252973702a3f",
+   "sent_at": "2026-11-23T06:50:56+07:00",
+   "content_sha": "2117d49a4d96c9edb16fadf333fed3d2a320feb8f8e8d59217167a71ae9ebb9b",
+   "targets": [
+    {
+     "target_id": "593dd2adbb87",
+     "kind": "user",
+     "ok": true,
+     "message_id": "a39e9f1f252973702a3f",
+     "sent_at": "2026-11-23T06:50:56+07:00",
+     "content_sha": "2117d49a4d96c9edb16fadf333fed3d2a320feb8f8e8d59217167a71ae9ebb9b"
+    }
+   ]
+  }
+ }
 }
