@@ -1,0 +1,604 @@
+{
+ "date": "2026-11-23",
+ "dividends": [
+  {
+   "event": "Cổ tức tiền mặt 40% (4.000 đồng/cp)",
+   "record_date": "2026-11-27",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "MSH"
+  },
+  {
+   "event": "Cổ tức tiền mặt 20% (2.000 đồng/cp)",
+   "record_date": "2026-11-24",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "SMB"
+  },
+  {
+   "event": "Cổ tức tiền mặt 15% (1.500 đồng/cp)",
+   "record_date": "2026-11-30",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "ABI"
+  },
+  {
+   "event": "Tạm ứng cổ tức tiền mặt đợt 1/2026, tỷ lệ 10% (1.000 đồng/cp)",
+   "record_date": "2026-11-30",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "FPT"
+  },
+  {
+   "event": "Cổ tức tiền mặt 10% (1.000 đồng/cp)",
+   "record_date": "2026-11-30",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "PDN"
+  },
+  {
+   "event": "Cổ tức tiền mặt 8,09% (809 đồng/cp)",
+   "record_date": "2026-11-27",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "BVH"
+  },
+  {
+   "event": "Cổ tức tiền mặt 5% (500 đồng/cp)",
+   "record_date": "2026-11-25",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "BSA"
+  },
+  {
+   "event": "Cổ tức tiền mặt 4% (400 đồng/cp)",
+   "record_date": "2026-11-25",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "VGP"
+  },
+  {
+   "event": "Cổ tức tiền mặt 1% (100 đồng/cp)",
+   "record_date": "2026-11-26",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "NSH"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Chứng khoán Mỹ mất 2.700 tỷ USD vốn hoá trong phiên bán tháo công nghệ, Nasdaq giảm 5,28%"
+  },
+  {
+   "source": "CafeF",
+   "text": "Khối ngoại trên HOSE bán ròng kỷ lục 127.000 tỷ đồng từ đầu năm, chuyên gia dự báo thời điểm đảo chiều"
+  },
+  {
+   "source": "Vietstock",
+   "text": "CEO PNJ: Không thể tiếp tục trả đủ tiền mua lại kim cương theo lịch thanh toán 120 ngày"
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Fed có 91,4% khả năng tăng lãi suất 25 điểm cơ bản vào tháng 12 theo CME FedWatch"
+  },
+  {
+   "source": "Thị trường",
+   "text": "VN-Index phiên 20/11 giảm về 1.688,79 điểm, khối ngoại bán ròng khoảng 841 tỷ đồng trên HOSE"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:c56d8e5ca4",
+     "title": "Thanh tra Chính phủ phát hiện loạt vi phạm tại Tập đoàn TKV và nhóm công ty con"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:86981777b8",
+     "title": "Nvidia đối mặt cuộc điều tra mới từ Ủy ban Chứng khoán Mỹ"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:302b07630f",
+     "title": "Thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:cd8bc263ef",
+     "title": "NNC: Đá Núi Nhỏ bị truy thu và xử phạt thuế gần 5,7 tỷ đồng"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-0,83 điểm (-0,05%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.688,79 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "HNX-Index",
+    "value": "234,59 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "~15.933 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~841 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "128,5 – 133,5 triệu/lượng (mua - bán)"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.600 · Bán 25.980"
+   }
+  ],
+  "summary": "Thị trường Mỹ vừa trải qua phiên bán tháo mạnh cuối tuần trước, xoá khoảng 2.700 tỷ USD vốn hoá, với Nasdaq giảm 5,28%, S&P 500 giảm 3,7% và Dow Jones giảm 1,93%; hợp đồng tương lai mở cửa phiên đầu tuần phục hồi nhẹ. Dòng tiền trú ẩn đẩy vàng thế giới lên 3.582 USD/ounce (+1,89%) và Bitcoin lên 61.139 USD (+1,74%), trong khi dầu WTI và Brent giảm lần lượt 1,54% và 3,69%. Tại Việt Nam, phiên gần nhất (20/11) VN-Index đóng cửa giảm nhẹ 0,05% về 1.688,79 điểm, thanh khoản HOSE đạt khoảng 15.933 tỷ đồng và khối ngoại tiếp tục bán ròng khoảng 841 tỷ đồng. Giá vàng SJC trong nước giữ quanh 128,5 - 133,5 triệu đồng/lượng, còn tỷ giá USD/VND tại Vietcombank niêm yết mua chuyển khoản 25.600 - bán ra 25.980 đồng.",
+  "tiles": [
+   {
+    "change_pct": -3.7,
+    "label": "S&P 500",
+    "value": "6.910,4"
+   },
+   {
+    "change_pct": -1.93,
+    "label": "Dow Jones",
+    "value": "48.147,3"
+   },
+   {
+    "change_pct": -5.28,
+    "label": "Nasdaq",
+    "value": "22.617,7"
+   },
+   {
+    "change_pct": -1.54,
+    "label": "Dầu WTI",
+    "value": "82,7 USD"
+   },
+   {
+    "change_pct": -3.69,
+    "label": "Dầu Brent",
+    "value": "89,2 USD"
+   },
+   {
+    "change_pct": 1.89,
+    "label": "Vàng thế giới",
+    "value": "3.582 USD"
+   },
+   {
+    "change_pct": 1.74,
+    "label": "Bitcoin",
+    "value": "61.139 USD"
+   },
+   {
+    "change_pct": 0.0,
+    "label": "DXY",
+    "value": "103,81"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:408b741768",
+     "title": "GSM và GSMVN Holding cùng tăng vốn thêm 4.000 tỷ đồng trong tháng 11, vốn điều lệ mỗi công ty gần 58.000 tỷ đồng"
+    },
+    {
+     "ref": "cafef:4e958712c6",
+     "title": "Thị trường chứng khoán \"thiếu tiền\": Loạt thương vụ bán vốn bất thành, người nội bộ cũng \"rụt rè\" mua cổ phiếu"
+    },
+    {
+     "ref": "cafef:4f50ac1368",
+     "title": "Khối ngoại bán ròng kỷ lục 127.000 tỷ đồng, chuyên gia dự báo về thời điểm đảo chiều"
+    },
+    {
+     "ref": "cafef:a6ffa4d73d",
+     "title": "Nghịch lý: VN-Index neo ở vùng cao, loạt Bluechips đình đám \"cưa đôi\" từ đỉnh, nhiều mã ngụp lặn dưới đáy"
+    },
+    {
+     "ref": "cafef:bae9d17fd0",
+     "title": "CTCK dự báo: Ngân hàng lãi thêm 45.500 tỷ đồng, tổng tất cả các ngành còn lại giảm 800 tỷ đồng nếu không tính nhóm Vin"
+    },
+    {
+     "ref": "cafef:c1dc98d859",
+     "title": "Một cổ phiếu tăng 64% từ đầu năm, công ty có lượng tiền gửi lớn gấp rưỡi giá trị vốn hóa dù đã dừng sản xuất"
+    },
+    {
+     "ref": "cafef:5fc16d0c69",
+     "title": "PNJ: Tài sản hơn 20.000 tỷ, vốn hoá còn dưới 7.000 tỷ, một DN tài sản 5.000 tỷ có vốn hoá 600 tỷ, Viettel Post, HAGL chung cảnh ngộ"
+    },
+    {
+     "ref": "cafef:e0495a720f",
+     "title": "Chủ tịch FiinGroup chỉ ra 3 mảnh ghép để khơi thông dòng vốn cho Việt Nam"
+    },
+    {
+     "ref": "cafef:8136b90380",
+     "title": "VAF: Chủ tịch HĐQT Phân lân Văn Điển xin từ nhiệm"
+    },
+    {
+     "ref": "cafef:2c53cdc9f8",
+     "title": "Tin mới DA đường sắt cao tốc Bắc - Nam 67 tỷ USD: Một liên danh Hàn Quốc, Pháp và Việt Nam giành hợp đồng hơn 10.700 tỷ đồng"
+    },
+    {
+     "ref": "cafef:a7c9681179",
+     "title": "REE: \"Rót\" thêm 1.400 tỷ đồng tăng vốn cho REE Energy"
+    },
+    {
+     "ref": "cafef:a7e1b8477b",
+     "title": "Đề xuất sửa Luật Doanh nghiệp với 5 nhóm chính sách trọng tâm"
+    },
+    {
+     "ref": "cafef:fcd368e7fb",
+     "title": "Ngành mía đường đối diện khó khăn kép"
+    },
+    {
+     "ref": "cafef:e12fe51c57",
+     "title": "Góc nhìn chuyên gia: Nhịp giảm là cơ hội giải ngân chọn lọc, 3 nhóm cổ phiếu tiềm năng kỳ vọng đón dòng tiền mới"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:852b1b8383",
+     "title": "SAB: TP.HCM thu hồi 39.360m² đất nhà máy lon liên doanh Sabeco - Crown trên Xa lộ Hà Nội"
+    },
+    {
+     "ref": "vietstock:352cf8dcf4",
+     "title": "Phó Thủ tướng yêu cầu rà soát mỏ vật liệu cho công trình trọng điểm"
+    },
+    {
+     "ref": "vietstock:97a1d4a3e7",
+     "title": "Góc nhìn tuần 23-27/11: VN-Index còn giảm bao nhiêu nữa?"
+    },
+    {
+     "ref": "vietstock:1d81aca30f",
+     "title": "Thị trường chứng quyền tuần 23-27/11/2026: Sự bi quan vẫn còn"
+    },
+    {
+     "ref": "vietstock:ac848ff68a",
+     "title": "Vietstock Weekly 23-27/11/2026: Thử thách tại vùng hỗ trợ?"
+    },
+    {
+     "ref": "vietstock:2d3a54f475",
+     "title": "Quản trị xuất siêu, phòng tránh các rủi ro trong hoạt động thương mại quốc tế"
+    },
+    {
+     "ref": "vietstock:157260028d",
+     "title": "NKG: Đưa nhà máy thép 6.200 tỷ đồng vào hoạt động"
+    },
+    {
+     "ref": "vietstock:9acca711d6",
+     "title": "Dragon Capital và VinaCapital tiếp tục gom cổ phiếu bất động sản"
+    },
+    {
+     "ref": "vietstock:c728622bc9",
+     "title": "Chứng khoán phái sinh tuần 23-27/11/2026: Triển vọng ngắn hạn còn tiêu cực?"
+    },
+    {
+     "ref": "vietstock:99079f8b3b",
+     "title": "Chủ tịch DNSE: AI mở ra cơ hội bình đẳng công nghệ trong đầu tư chứng khoán"
+    },
+    {
+     "ref": "vietstock:a19773407f",
+     "title": "Visa, Mastercard và JPMorgan cùng bị tin tặc tấn công, dữ liệu khách hàng bị lộ"
+    },
+    {
+     "ref": "vietstock:bb8072e6ad",
+     "title": "PNJ: CEO nói không thể tiếp tục trả đủ tiền mua lại kim cương theo lịch 120 ngày"
+    },
+    {
+     "ref": "vietstock:76963f0aa9",
+     "title": "SHI: Chủ tịch muốn chi hơn 100 tỷ đồng gom gần 7,9 triệu cổ phiếu"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:e9f1e46fae",
+     "title": "Công ty chứng khoán nhận định gì về rủi ro VN-Index thủng đáy ngắn hạn?"
+    },
+    {
+     "ref": "vneconomy:89510c4601",
+     "title": "Xu thế dòng tiền: Rủi ro ngoại biên có đẩy VN-Index về đáy 1600 điểm?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c0bb76ddce",
+     "title": "Bitcoin hồi lên trên 60.000 USD sau đợt thanh lý hàng tỷ USD"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:027cf84355",
+     "title": "Đảm bảo đồng bộ 3 luật về đất đai, nhà ở và kinh doanh bất động sản"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4e4957864f",
+     "title": "Cổ phiếu cần quan tâm ngày 23/11"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b0843ad0aa",
+     "title": "Những nhóm cổ phiếu nào sẽ đón đầu cơ hội năm 2027"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0d87920a5e",
+     "title": "Nhận định thị trường phiên giao dịch ngày 23/11: Hạn chế sử dụng margin"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6bf863e8de",
+     "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 23/11: Hướng đến vùng 1.700-1.720 điểm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a381a90c44",
+     "title": "Bộ Chính trị đồng ý chủ trương thành lập Khu kinh tế đặc biệt Vân Phong"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:66a05516ac",
+     "title": "ABB: Ngân hàng TMCP An Bình thông báo chào bán cổ phiếu ra công chúng (Kỳ 2)"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b38bc49dc4",
+     "title": "Bỏ giá đất cụ thể, Nhà nước quyết định giá đất dựa trên bảng giá đất và hệ số K"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e26f334f84",
+     "title": "Nhà ở xã hội sau 5 năm vẫn không được bán tự do"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:a9f7d6114f",
+     "title": "Góc nhìn TTCK tuần 23/11-27/11: Dòng tiền bắt đáy tham gia, VN-Index kỳ vọng hồi phục"
+    },
+    {
+     "ref": "b-o-u-t:a9e5bb7e00",
+     "title": "Quốc hội thông qua Nghị quyết về một số cơ chế, chính sách đặc thù phát triển du lịch Việt Nam"
+    },
+    {
+     "ref": "b-o-u-t:83d1202454",
+     "title": "Nhà thầu đề nghị làm rõ định mức, đơn giá thi công 3 tuyến metro tại TP.HCM"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:602d5a7c32",
+     "title": "CTG: Nợ cần chú ý tăng mạnh, VietinBank mạnh tay trích lập dự phòng rủi ro tín dụng gần 21.000 tỷ đồng sau 9 tháng"
+    },
+    {
+     "ref": "markettimes:5a0edf47fa",
+     "title": "Tài chính tuần qua: Lãi suất trái phiếu ngân hàng neo cao, một ngân hàng đưa lãi suất tiết kiệm về 0%/năm"
+    },
+    {
+     "ref": "markettimes:644271ca19",
+     "title": "Chuyên gia hé lộ thời điểm lãi suất cho vay đảo chiều"
+    },
+    {
+     "ref": "markettimes:feedc64da7",
+     "title": "VIS Rating cảnh báo: Ngành ngân hàng đối mặt 3 sức ép lớn trong 12-18 tháng tới"
+    },
+    {
+     "ref": "markettimes:b3245364f3",
+     "title": "NVL: Novaland chuyển đổi 16 trái phiếu quốc tế thành cổ phiếu, giá cao gấp 3,4 lần thị trường"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:0ddf21c9c6",
+     "title": "EU cấm xuất khẩu rác thải nhựa, Việt Nam trong nhóm thị trường bị ảnh hưởng"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:e72b22cf89",
+     "title": "Chứng khoán trước ngưỡng cản 1.700 điểm, cổ phiếu ngân hàng đã đủ hấp dẫn?"
+    },
+    {
+     "ref": "ti-n-phong:71e1120862",
+     "title": "Giá điện sắp có nhiều thay đổi lớn"
+    },
+    {
+     "ref": "ti-n-phong:2a591935e0",
+     "title": "SMC: Chủ tịch 35 tuổi sắp mua gần 14 triệu cổ phiếu"
+    },
+    {
+     "ref": "ti-n-phong:fecb75395b",
+     "title": "Càng \"bắt đáy\" vàng càng lỗ"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:1faf152917",
+     "title": "HDB: HDBank và MUFG mở rộng hợp tác thị trường vốn, thúc đẩy dòng vốn đầu tư Việt Nam - Nhật Bản"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:ee4c21ae29",
+     "title": "VN-Index mất mốc 1.700 điểm, các công ty chứng khoán dự báo gì?"
+    },
+    {
+     "ref": "bnews:a2dcc00826",
+     "title": "Tin chứng khoán: 15 doanh nghiệp chốt quyền họp đại hội cổ đông tuần tới"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:413715",
+   "title": "JPMorgan: Điều chỉnh thị trường Mỹ gần đây chủ yếu do giảm đòn bẩy giao dịch AI",
+   "translated": false,
+   "original_title": "▫️ Phòng giao dịch JPMorgan Chase: Nhịp điều chỉnh thị trường gần đây chủ yếu do giảm đòn bẩy giao dịch AI Chỉ số cổ phiếu Mỹ mở cửa cao trong phiên giao dịch sớm châu Á. Các nhà phân tích JPMorgan Chase khẳng định: \"Chúng tôi tái khẳng định quan điểm trước đó rằng nhịp điều chỉnh tài sản rủi ro gần đây chủ yếu do giảm đòn bẩy giao dịch liên quan AI trong bối cảnh tâm lý thị trường yếu, đồng thời ",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083545",
+   "title": "Giá khí tự nhiên châu Âu tăng tới 6,4% khi mở phiên giao dịch",
+   "translated": true,
+   "original_title": "EUROPEAN NATURAL GAS CLIMBS AS MUCH AS 6.4% AT THE START OF TRADING ...",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109872",
+   "title": "Bộ trưởng Bessent ngỏ khả năng Jensen Huang trở lại Nvidia, một tuần sau khi đòi CEO từ bên ngoài",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Bộ trưởng Bessent ngỏ khả năng Jensen Huang trở lại Nvidia, một tuần sau khi đòi CEO từ bên ngoài Chi tiết xem tại: https://dubaotiente.net/tieu-diem/bo-truong-bessent-ngo-kha-nang-jensen-huang-tro-lai-nvidia-114619.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:e68aaf3281",
+   "title": "Diễn biến và phân tích mới nhất thị trường dầu ngày 23/11",
+   "translated": true,
+   "original_title": "Latest Oil Market News and Analysis for Nov. 23",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23"
+  },
+  {
+   "ref": "bloomberg:e156ac142c",
+   "title": "Nhà đầu tư cổ phiếu Mỹ chuẩn bị đón thêm biến động sau cú bán tháo công nghệ",
+   "translated": true,
+   "original_title": "Stock Traders Brace For More Volatility After Tech-Driven Rout",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout"
+  },
+  {
+   "ref": "tg-vnwallstreet:413711",
+   "title": "Vàng spot vượt mốc 3.580 USD/ounce, tăng 1,22% trong phiên",
+   "translated": false,
+   "original_title": "🔴 Vàng hiện spot tăng nhanh vượt qua mức 3580 USD/ounce, tăng 1,22% trong phiên giao dịch hôm nay. #gold #usd",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:955ab8ae24",
+   "title": "Chứng khoán, tiền tệ châu Á - Thái Bình Dương phản ứng sau cú bán tháo Nasdaq và S&P 500",
+   "translated": true,
+   "original_title": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
+   "link": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open"
+  },
+  {
+   "ref": "bloomberg:dbda121af2",
+   "title": "Hợp đồng tương lai chứng khoán Mỹ mở cửa tăng sau cú bán tháo công nghệ",
+   "translated": true,
+   "original_title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap"
+  },
+  {
+   "ref": "tg-vnwallstreet:413706",
+   "title": "Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 lên 91,4% theo CME FedWatch",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 91,4% Theo CME FedWatch: xác suất Fed giữ nguyên lãi suất tháng 12 là 8,6%, tăng 25 điểm cơ bản là 91,4%, tăng 50 điểm cơ bản là 0%. Từ nay đến tháng 1 năm sau, xác suất giữ nguyên là 3,2%, tăng 25 điểm cơ bản là 39,1%, tăng 50 điểm cơ bản là 57,7%, tăng 75 điểm cơ bản là 0%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413698",
+   "title": "Chính quyền Trump chuẩn bị điều tra thương mại kỹ thuật số với EU, Australia và Hàn Quốc",
+   "translated": false,
+   "original_title": "▫️ Theo Politico, chính quyền Trump đang chuẩn bị khởi động điều tra thương mại kỹ thuật số đối với Liên minh Châu Âu, Australia và Hàn Quốc. #us #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109869",
+   "title": "Chứng khoán Mỹ lao dốc: Bessent cảnh báo Fed không nên thắt chặt quá mức trước cuộc họp tháng 12",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Chứng khoán Mỹ lao dốc: Bessent cảnh báo Fed không nên thắt chặt quá mức trước cuộc họp tháng 12 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/chung-khoan-my-lao-doc-bessent-canh-bao-fed-khong-nen-that-chat-qua-muc-114616.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413697",
+   "title": "Đông Libya yêu cầu Hội đồng Bảo an điều tra vụ tàu Nga và tàu Malta bị tấn công tại Benghazi",
+   "translated": false,
+   "original_title": "▫️ Chính quyền Đông Libya yêu cầu Hội đồng Bảo an Liên Hợp Quốc tiến hành điều tra khẩn cấp về vụ tàu Nga và tàu Malta bị tấn công tại thành phố Benghazi. #geopolitics #shipping",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1083526",
+   "title": "Trump phát tín hiệu có thể tấn công Iran trở lại sau năm mới nếu đàm phán thất bại",
+   "translated": true,
+   "original_title": "TRUMP SIGNALS POSSIBLE NEW STRIKES ON IRAN AFTER NEW YEAR PRESIDENT DONALD TRUMP SAYS HE IS “INCLINED TO” RESUME MILITARY STRIKES AGAINST IRAN AFTER JANUARY 1 IF ONGOING NEGOTIATIONS FAIL TO PRODUCE AN AGREEMENT. SPEAKING TO FOX NEWS, TRUMP CONFIRMED THAT INDIRECT TALKS REMAIN UNDERWAY BUT CRITICIZED TEHRAN FOR PROLONGING NEGOTIATIONS WITHOUT RESULTS. HE ALSO ISSUED A STARK WARNING OVER THE STRAIT",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:3e879bcc06",
+   "title": "Nhà đầu tư bắt đáy dè dặt khi Nasdaq 100 tiến gần thị trường gấu",
+   "translated": true,
+   "original_title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market"
+  },
+  {
+   "ref": "bloomberg:819fa7a219",
+   "title": "Chiến lược giao dịch trái phiếu ưa chuộng để đón Fed tăng lãi suất bị xáo trộn do cổ phiếu lao dốc",
+   "translated": true,
+   "original_title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat"
+  },
+  {
+   "ref": "tg-marketfeed:1083523",
+   "title": "Nhà khoa học trưởng OpenAI kêu gọi hạn chế phát triển AI",
+   "translated": true,
+   "original_title": "JUST IN: OPENAI CHIEF SCIENTIST CALLS TO LIMIT AI DEVELOPMENT. ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:bb031ac9d1",
+   "title": "Giới giao dịch Goldman Sachs thấy điểm vào hợp lý cho cổ phiếu Mỹ nhưng cảnh báo rủi ro",
+   "translated": true,
+   "original_title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:51bb9d164f",
+   "title": "IPO Anthropic khiến ngành AI đối mặt giám sát chặt hơn",
+   "translated": false,
+   "original_title": "IPO Anthropic khiến ngành AI đối mặt giám sát chặt hơn",
+   "link": "https://bbw.vn/ipo-anthropic-khien-nganh-ai-doi-mat-giam-sat-chat-hon-61717.html"
+  }
+ ],
+ "content_sha": "2117d49a4d96c9edb16fadf333fed3d2a320feb8f8e8d59217167a71ae9ebb9b"
+}
