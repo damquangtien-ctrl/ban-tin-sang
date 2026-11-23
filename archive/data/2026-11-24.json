@@ -1,0 +1,643 @@
+{
+ "date": "2026-11-24",
+ "dividends": [
+  {
+   "event": "Tạm ứng cổ tức 2026 bằng tiền mặt tỷ lệ 20%",
+   "record_date": "2026-11-25",
+   "ref": "cafef:5f0a25d24d",
+   "ticker": "SMB"
+  },
+  {
+   "event": "Chia cổ tức 2024 bằng tiền mặt tỷ lệ 4%",
+   "record_date": "2026-11-25",
+   "ref": "cafef:5f0a25d24d",
+   "ticker": "VGP"
+  },
+  {
+   "event": "Tạm ứng cổ tức 2026 bằng tiền mặt tỷ lệ 40%",
+   "record_date": "2026-11-27",
+   "ref": "cafef:5f0a25d24d",
+   "ticker": "MSH"
+  },
+  {
+   "event": "Chia cổ tức 2025 bằng tiền mặt tỷ lệ 8,09%",
+   "record_date": "2026-11-27",
+   "ref": "cafef:5f0a25d24d",
+   "ticker": "BVH"
+  },
+  {
+   "event": "Chia cổ tức 2025 bằng cổ phiếu tỷ lệ 100:10",
+   "record_date": "2026-11-27",
+   "ref": "cafef:5f0a25d24d",
+   "ticker": "GDA"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt đợt 1/2026 tỷ lệ 10%",
+   "record_date": "2026-11-30",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "FPT"
+  },
+  {
+   "event": "Chia cổ tức tiền mặt đợt 1/2026 tỷ lệ 10%",
+   "record_date": "2026-11-30",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "PDN"
+  },
+  {
+   "event": "Chia cổ tức 2025 bằng tiền mặt tỷ lệ 15%",
+   "record_date": "2026-11-30",
+   "ref": "vietstock:4ef768b272",
+   "ticker": "ABI"
+  }
+ ],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Jensen Huang chính thức trở lại làm CEO Nvidia, chứng khoán Mỹ tăng vọt với Nasdaq +6,51%, Dow Jones +3,01%"
+  },
+  {
+   "source": "CafeF",
+   "text": "PNJ chìm trong khủng hoảng lãnh đạo: CEO cảnh báo tình hình tài chính khẩn cấp, cổ phiếu liên tục nằm sàn, hàng loạt lãnh đạo từ nhiệm trong tháng 11"
+  },
+  {
+   "source": "Vietstock",
+   "text": "VN-Index tăng 8,35 điểm lên 1.697,14 điểm, khối ngoại tiếp tục bán ròng gần 419 tỷ đồng trên HOSE"
+  },
+  {
+   "source": "Tin nhanh Chứng khoán",
+   "text": "Novaland (NVL) tiếp tục thoái vốn, muốn rút khỏi dự án 39-39B Bến Vân Đồn và bán sạch vốn tại một liên doanh địa ốc"
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "Fed Williams: có thể tăng lãi suất liên tiếp nếu áp lực lạm phát không hạ nhiệt, dữ liệu sẽ quyết định lộ trình chính sách"
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:627c1ccb5f",
+     "title": "Một thành viên của TKV bị xử phạt hành chính về thuế"
+    },
+    {
+     "ref": "cafef:ca510fa07d",
+     "title": "Trả hồ sơ điều tra thêm vụ cựu Chủ tịch Sen Tài Thu chiếm đoạt tài sản"
+    },
+    {
+     "ref": "cafef:fb20f7f8c5",
+     "title": "Hôm nay 23/11, xét xử vụ Sen Tài Thu lừa đảo chiếm đoạt 757 tỷ đồng"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:9c96025eed",
+     "title": "TDW: Bị xử phạt và truy thu thuế hơn 1,4 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:ea34ad5526",
+     "title": "Công an Tuyên Quang tìm nhà đầu tư liên quan vụ án tại Top One"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:4bf4ce7d1b",
+     "title": "NNC: Đá Núi Nhỏ bị phạt và truy thu thuế gần 5,67 tỷ đồng"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:58ae01a4d9",
+     "title": "TP.HCM: Phá đường dây thuê hàng trăm người mở gần 1.300 tài khoản ngân hàng để rửa tiền - baodautu"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:12ecb9c99b",
+     "title": "Chủ tịch Công ty Thanh Niên phải bồi thường hơn 1.000 tỷ đồng cho PVcomBank"
+    },
+    {
+     "ref": "vnexpress:78dffce40b",
+     "title": "Đường dây rửa tiền đánh bạc hơn 9.000 tỷ đồng, 42 người bị bắt"
+    },
+    {
+     "ref": "vnexpress:419eac806e",
+     "title": "Phó giám đốc bị khởi tố vì đổ 580 tấn chất thải ra môi trường"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+8,35 (+0,49%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.697,14"
+   },
+   {
+    "change": "-2,36 (-1,01%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "232,23"
+   },
+   {
+    "change": "~418 triệu CP",
+    "direction": "flat",
+    "label": "Thanh khoản HOSE",
+    "value": "8.650 tỷ đồng"
+   },
+   {
+    "change": "Bán ròng",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "-418,85 tỷ đồng"
+   },
+   {
+    "change": "",
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": "Mua CK 25.610",
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "25.990"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ tăng vọt đêm qua sau khi Jensen Huang chính thức trở lại làm CEO Nvidia, kéo Nasdaq tăng 6,51%, Dow Jones tăng 3,01% và S&P 500 tăng 4,73%; dầu WTI và Brent giảm mạnh (-4,39% và -6,32%) trong khi vàng thế giới tăng 3,29% lên 3.631 USD/ounce. Trong nước, VN-Index tăng nhẹ 8,35 điểm lên 1.697,14 điểm trong phiên phân hóa, trong khi HNX-Index giảm 1,01% xuống 232,23 điểm. Thanh khoản HOSE đạt khoảng 8.650 tỷ đồng, khối ngoại tiếp tục bán ròng gần 419 tỷ đồng. Giá vàng SJC trong nước chưa cập nhật được do nguồn dữ liệu gặp lỗi.",
+  "tiles": [
+   {
+    "change_pct": 4.73,
+    "label": "S&P 500",
+    "value": "7.237,2"
+   },
+   {
+    "change_pct": 3.01,
+    "label": "Dow Jones",
+    "value": "49.595,3"
+   },
+   {
+    "change_pct": 6.51,
+    "label": "Nasdaq",
+    "value": "24.089,6"
+   },
+   {
+    "change_pct": -4.39,
+    "label": "Dầu WTI",
+    "value": "80,3 USD"
+   },
+   {
+    "change_pct": -6.32,
+    "label": "Dầu Brent",
+    "value": "86,7 USD"
+   },
+   {
+    "change_pct": 3.29,
+    "label": "Vàng thế giới",
+    "value": "3.631 USD"
+   },
+   {
+    "change_pct": 0.41,
+    "label": "Bitcoin",
+    "value": "61.410 USD"
+   },
+   {
+    "change_pct": 0.49,
+    "label": "DXY",
+    "value": "104,32"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:3d8e84c586",
+     "title": "Quỹ ngoại quy mô 23.000 tỷ chỉ ra yếu tố then chốt còn thiếu đối với chứng khoán Việt Nam"
+    },
+    {
+     "ref": "cafef:805cfe9efb",
+     "title": "Chuyên gia chỉ tên 3 nhóm cổ phiếu tiềm năng cho chu kỳ tăng trưởng mới"
+    },
+    {
+     "ref": "cafef:ae99547b7a",
+     "title": "NVL: Novaland muốn bán sạch vốn tại liên doanh địa ốc giảm vốn 99,9% của diễn viên Chi Bảo"
+    },
+    {
+     "ref": "cafef:ab50498a9e",
+     "title": "Chứng khoán Việt Nam sau 3 thập kỷ: Kênh dẫn vốn hàng triệu tỷ đồng cho nền kinh tế"
+    },
+    {
+     "ref": "cafef:767fec6a36",
+     "title": "SAB: Mất vị thế dẫn đầu, Sabeco bị Heineken vượt xa với 50% thị phần bia Việt Nam"
+    },
+    {
+     "ref": "cafef:d01c48a0a4",
+     "title": "Vì sao toàn bộ cổ phiếu niêm yết chuyển hết về HoSE, HNX sẽ đảm nhiệm vai trò gì?"
+    },
+    {
+     "ref": "cafef:92493a6d87",
+     "title": "PNJ: CEO cảnh báo tình hình tài chính khẩn cấp, cổ phiếu nằm sàn"
+    },
+    {
+     "ref": "cafef:760a3696e1",
+     "title": "PNJ: Lãnh đạo thứ 5 rời ghế trong tháng 11, lần này là Giám đốc Marketing"
+    },
+    {
+     "ref": "cafef:867dceaac9",
+     "title": "PNJ: Thêm loạt thành viên HĐQT từ nhiệm, ông Mai Hữu Tín cũng rút lui"
+    },
+    {
+     "ref": "cafef:186ce923c6",
+     "title": "Tỷ phú Nguyễn Thị Phương Thảo ký hợp tác toàn diện với Tổng công ty của Bộ Công an, mở rộng sang công nghiệp an ninh và công nghệ cao"
+    },
+    {
+     "ref": "cafef:3c05436961",
+     "title": "Intel muốn nâng vị thế TP.HCM trong chuỗi bán dẫn toàn cầu, Sun Group cam kết làm trục đại lộ ven sông Sài Gòn"
+    },
+    {
+     "ref": "cafef:ae1ac75e00",
+     "title": "Trung tâm Tài chính Quốc tế Việt Nam tại TPHCM bổ sung 7 thành viên, dự kiến huy động 5 tỷ USD"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:0344c0a6e7",
+     "title": "Ông Trump tiết lộ đã trao đổi với HĐQT Nvidia về Jensen Huang"
+    },
+    {
+     "ref": "vietstock:c738b89955",
+     "title": "Jensen Huang trở lại, cổ phiếu AI hồi sinh, Nasdaq tăng 7.5%, Dow Jones vọt 1,600 điểm"
+    },
+    {
+     "ref": "vietstock:c853935c35",
+     "title": "Tổng Giám đốc Dragon Capital gợi ý chiến lược phân bổ tài sản cho nhà đầu tư tại DNSE Future Tech Summit"
+    },
+    {
+     "ref": "vietstock:0ed8affc0a",
+     "title": "Mục đích, lý do sắp xếp lại thị trường cổ phiếu"
+    },
+    {
+     "ref": "vietstock:9e5a063aa9",
+     "title": "DCL: Dược Cửu Long bất ngờ khóa sàn liên tiếp 4 phiên"
+    },
+    {
+     "ref": "vietstock:f145fe7b36",
+     "title": "Khó khăn bủa vây L61, LLM vẫn muốn bán cổ phiếu với giá gấp 12 lần thị trường"
+    },
+    {
+     "ref": "vietstock:27d744e23d",
+     "title": "XMC: Cựu Phó Chủ tịch Xuân Mai Corp bán sạch gần 9% vốn sau hai tháng mua thêm"
+    },
+    {
+     "ref": "vietstock:f3505c071a",
+     "title": "Việt Nam chi gần 11 tỷ USD nhập xăng dầu"
+    },
+    {
+     "ref": "vietstock:92eee20cd7",
+     "title": "VTR: Vietravel ước lãi trước thuế cả năm 45 tỷ đồng, đặt mục tiêu 75 tỷ đồng năm 2027"
+    },
+    {
+     "ref": "vietstock:18b029cf15",
+     "title": "LPB: LPBank bổ nhiệm bà Vũ Nam Hương làm Quyền Tổng Giám đốc"
+    },
+    {
+     "ref": "vietstock:119f8fbd45",
+     "title": "Lãnh đạo mua bán cổ phiếu: Giao dịch lớn tại Novaland (NVL) và AgriS (SBT)"
+    },
+    {
+     "ref": "vietstock:f343a68f75",
+     "title": "Tín hiệu cảnh báo từ đà lao dốc của giá đồng"
+    },
+    {
+     "ref": "vietstock:87b2fe0de4",
+     "title": "MSR: Đằng sau mức định giá 3,3 tỷ USD của Masan High-Tech Materials"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:ff9e269008",
+     "title": "Tháng 11 trầm lắng nhất 11 năm, “cơn gió ngược” Fed lấn át tín hiệu lịch sử"
+    },
+    {
+     "ref": "vneconomy:ae7a7a2db4",
+     "title": "Blog chứng khoán: Phái sinh hút tiền, cơ sở hưởng lợi"
+    },
+    {
+     "ref": "vneconomy:5947a63c97",
+     "title": "Đồng yên Nhật đang phát huy vai trò “hầm trú ẩn” dù rủi ro mất giá vẫn lớn"
+    },
+    {
+     "ref": "vneconomy:d891c0918e",
+     "title": "Cổ phiếu AI giảm mạnh gợi nhớ thời bong bóng dot-com, liệu bong bóng AI đã vỡ?"
+    },
+    {
+     "ref": "vneconomy:58a90c4801",
+     "title": "Chưa đầy 2 tháng, Nvidia mất gần một nửa giá trị vốn hóa thị trường"
+    },
+    {
+     "ref": "vneconomy:e9f1e46fae",
+     "title": "Công ty chứng khoán nhận định gì về rủi ro VN-Index thủng đáy ngắn hạn?"
+    },
+    {
+     "ref": "vneconomy:89510c4601",
+     "title": "Xu thế dòng tiền: Rủi ro ngoại biên có đẩy VN-Index về đáy 1600 điểm?"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ad362b348e",
+     "title": "Sự kiện chứng khoán đáng chú ý ngày 24/11 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:a160c25be9",
+     "title": "NVL: Novaland muốn rút khỏi dự án 39-39B Bến Vân Đồn"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1365ebc849",
+     "title": "Thị trường chứng khoán nghỉ giao dịch ngày Văn hóa Việt Nam - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:443623c0e1",
+     "title": "MBS: Hiệu ứng tăng điểm cuối năm đứng trước “cơn gió ngược” từ Fed - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:86b2294fbe",
+     "title": "Cơn sốt mua vàng tại Trung Quốc làm giảm thặng dư thương mại kỷ lục của năm ngoái - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3874472433",
+     "title": "Mở rộng Cảng Lạch Huyện, doanh nghiệp cảng biển bước vào cuộc cạnh tranh mới - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:46cded8745",
+     "title": "Generali tiếp tục ghi nhận kết quả kinh doanh tích cực nhờ sự đóng góp từ tất cả các phân khúc kinh doanh - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0311d68a2a",
+     "title": "Áp lực đáo hạn trái phiếu dự kiến tăng mạnh trong tháng 12 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:30f1ada772",
+     "title": "HAG: Hoàng Anh Gia Lai dự kiến phát hành 400 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:150b266951",
+     "title": "Nhà đầu tư Hoa Kỳ rót 117 triệu USD xây nhà máy pin năng lượng tại Đà Nẵng - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6004f3c011",
+     "title": "SJS: SJ Group chốt quyền chia cổ tức và chào bán cổ phiếu giá 10.000 đồng/CP"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:5057bb2387",
+     "title": "Nhân sự điều hành VIFC-DN có thể nhận mức lương khủng đến 850 triệu đồng/tháng"
+    },
+    {
+     "ref": "b-o-u-t:d50f974c2e",
+     "title": "IDC: IDICO đón dự án quốc tế quy mô 500 triệu USD"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:20da402c9e",
+     "title": "Thông báo mới từ cơ quan Thuế: Chính thức tạm hoãn xuất cảnh với loạt cá nhân sau đây"
+    },
+    {
+     "ref": "markettimes:3334b50ba0",
+     "title": "Doanh nghiệp bất động sản “gánh” 3.300 tỷ đồng trái phiếu bị phạt vì chậm công bố thông tin"
+    },
+    {
+     "ref": "markettimes:4c44a22617",
+     "title": "BID: BIDV ghi dấu ấn trong lĩnh vực tài chính phái sinh"
+    },
+    {
+     "ref": "markettimes:5c1a3e1a4c",
+     "title": "PCB: PVcomBank bổ nhiệm ông Nguyễn Hoàng Nam làm Quyền Tổng Giám đốc"
+    },
+    {
+     "ref": "markettimes:eb342b31be",
+     "title": "Tuần 16-20/11: Lãi suất liên ngân hàng biến động trái chiều, NHNN hút ròng hơn 10.800 tỷ đồng"
+    },
+    {
+     "ref": "markettimes:748d327b8b",
+     "title": "Thị trường chứng khoán “thiếu tiền”: Loạt thương vụ bán vốn bất thành, người nội bộ cũng “rụt rè” mua cổ phiếu"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:7f0369fb87",
+     "title": "FDI VÀ NĂNG LỰC NỘI SINH QUỐC GIA-KỲ 2: Doanh nghiệp Việt không tự nhiên trở thành nhà cung cấp của FDI"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:9b638876af",
+     "title": "Được chọn cách tính thuế đơn giản, hộ kinh doanh vẫn băn khoăn"
+    },
+    {
+     "ref": "ti-n-phong:266243d76f",
+     "title": "SCB: Ngân hàng có Chủ tịch mới"
+    },
+    {
+     "ref": "ti-n-phong:1bd6bd82d3",
+     "title": "Đề xuất ‘khoán’ chỉ tiêu điện mặt trời mái nhà cho địa phương"
+    },
+    {
+     "ref": "ti-n-phong:102eecb550",
+     "title": "Giá nhiều cổ phiếu lớn 'du hành' về cả thập kỷ trước"
+    },
+    {
+     "ref": "ti-n-phong:a4c5adea02",
+     "title": "Vàng, kim cương, giá nhà cùng giảm, dòng tiền đang đi đâu?"
+    },
+    {
+     "ref": "ti-n-phong:3cd89782b8",
+     "title": "VCB: Vietcombank ra mắt sản phẩm VCB Merchant Up"
+    },
+    {
+     "ref": "ti-n-phong:4502ec2e24",
+     "title": "GAS: PV GAS có nữ Phó Tổng giám đốc"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:ce662c6423",
+     "title": "Mỹ đối mặt với nguy cơ gián đoạn công nghệ khi bước vào kỷ nguyên AI"
+    },
+    {
+     "ref": "bnews:12fbcc59d1",
+     "title": "TP.HCM đặt mục tiêu thu hút 22 tỷ USD vốn FDI trong năm 2026"
+    },
+    {
+     "ref": "bnews:b4ca06e282",
+     "title": "Khuyến nghị mua dành cho cổ phiếu DBC, GMD và PC1 - Bnews.vn"
+    }
+   ],
+   "source": "BNEWS"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:2845471935",
+   "title": "Vì sao Nvidia phục chức CEO cho Jensen Huang?",
+   "translated": true,
+   "original_title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+   "link": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
+  },
+  {
+   "ref": "bloomberg:b256ac88c8",
+   "title": "Chứng khoán châu Á dự báo tăng mạnh khi làn sóng AI hồi sinh nhờ Jensen Huang trở lại",
+   "translated": true,
+   "original_title": "Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "bloomberg:e156ac142c",
+   "title": "Phố Wall hồi phục mạnh khi giao dịch AI trở lại nhờ Jensen Huang quay về Nvidia",
+   "translated": true,
+   "original_title": "Wall Street Storms Back as AI Trade Rebounds With Huang’s Return",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout"
+  },
+  {
+   "ref": "bloomberg:b8fd2557dc",
+   "title": "Diễn biến mới nhất của thị trường dầu mỏ ngày 24/11",
+   "translated": true,
+   "original_title": "Latest Oil Market News and Analysis for Nov. 24",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24"
+  },
+  {
+   "ref": "tg-dubaotiente:109912",
+   "title": "Nasdaq tăng 6,51% khi Jensen Huang trở lại, Nvidia bứt phá mạnh",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Nasdaq tăng 6.51% khi Jensen Huang trở lại, Nvidia bứt phá mạnh Chi tiết xem tại: https://dubaotiente.net/tieu-diem/nasdaq-tang-6-51-khi-jensen-huang-tro-lai-nvidia-but-pha-manh-114665.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109911",
+   "title": "Jensen Huang trở lại Nvidia: Đà tăng mạnh của Phố Wall vẫn để ngỏ ba câu hỏi lớn",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Jensen Huang trở lại Nvidia: Đà tăng mạnh của Phố Wall vẫn để ngỏ ba câu hỏi lớn Chi tiết xem tại: https://dubaotiente.net/tieu-diem/jensen-huang-tro-lai-nvidia-da-tang-manh-cua-pho-wall-van-de-ngo-ba-cau-hoi-lon-114664.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109918",
+   "title": "Goldman Sachs: Phép thử tiếp theo của AI là chứng minh hiệu quả kinh tế, không phải công nghệ",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Goldman Sachs: Phép thử tiếp theo của AI là chứng minh hiệu quả kinh tế, không phải công nghệ Chi tiết xem tại: https://dubaotiente.net/tieu-diem/goldman-sachs-phep-thu-tiep-theo-cua-ai-la-chung-minh-hieu-qua-kinh-te-114671.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109914",
+   "title": "Goldman Sachs: Hạ tầng AI có thể hút tới 15 nghìn tỷ USD, dòng tiền lan rộng ra ngoài Nvidia",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Goldman Sachs: Hạ tầng AI có thể hút tới 15 nghìn tỷ USD, dòng tiền lan rộng ra ngoài Nvidia Chi tiết xem tại: https://dubaotiente.net/tieu-diem/goldman-sachs-ha-tang-ai-co-the-hut-toi-15-nghin-ty-usd-dong-tien-lan-rong-ra-ngoai-nvidia-114667.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109917",
+   "title": "Fed Williams không loại trừ khả năng tăng lãi suất liên tiếp, dữ liệu sẽ quyết định lộ trình",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Fed Williams không loại trừ khả năng tăng lãi suất liên tiếp, dữ liệu sẽ quyết định lộ trình Chi tiết xem tại: https://dubaotiente.net/tieu-diem/fed-williams-khong-loai-tru-kha-nang-tang-lai-suat-lien-tiep-114670.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109913",
+   "title": "Fed Williams: Lạm phát do yếu tố bất thường, năm 2027 sẽ hạ nhiệt",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Fed Williams: Lạm phát do yếu tố bất thường, năm 2027 sẽ hạ nhiệt Chi tiết xem tại: https://dubaotiente.net/tieu-diem/fed-williams-lam-phat-do-yeu-to-bat-thuong-nam-2027-se-ha-nhiet-114666.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109915",
+   "title": "ANZ đưa dự báo RBA cắt giảm lãi suất lần đầu lên tháng 6/2027, kỳ vọng ba lần cắt đến đầu 2028",
+   "translated": false,
+   "original_title": "(Tiêu điểm) ANZ đưa dự báo RBA cắt giảm lãi suất lần đầu lên tháng 6/2027, kỳ vọng ba lần cắt đến đầu 2028 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/anz-du-bao-rba-cat-giam-lai-suat-thang-6-2027-114668.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413961",
+   "title": "Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 95,9% theo CME FedWatch",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 95,9% Theo CME FedWatch: xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 95,9%, còn tăng 50 điểm cơ bản là 4,1%. Đối với tháng 1 năm sau, xác suất tăng thêm 25 điểm cơ bản là 33,2%, tăng thêm 50 điểm cơ bản là 64,2%, và tăng thêm 75 điểm cơ bản là 2,7%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413966",
+   "title": "Giám đốc điều hành Anthropic bán 3,4 triệu cổ phiếu với giá 83 USD mỗi cổ phiếu",
+   "translated": false,
+   "original_title": "▫️ Tin thị trường: Giám đốc điều hành Anthropic bán 3,4 triệu cổ phiếu với giá 83 USD mỗi cổ phiếu. #anthropic #stocks",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413960",
+   "title": "Thủ tướng và Đặc sứ Qatar gặp Phó Tổng thống Mỹ Vance để thảo luận đàm phán với Iran",
+   "translated": false,
+   "original_title": "▫️ Theo AXIOS, một nguồn tin cho biết Thủ tướng Qatar Al Thani và Đặc sứ Qatar Al Sowadi hôm nay gặp Phó Tổng thống Mỹ Vance để thảo luận về các cuộc đàm phán với Iran. #iran #geopolitics",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413964",
+   "title": "Petrobras dự báo giá dầu Brent năm 2027 đạt 74 USD/thùng theo kế hoạch kinh doanh mới",
+   "translated": false,
+   "original_title": "▫️ Công ty Dầu khí Quốc gia Brazil (Petrobras) dự báo rằng theo kế hoạch kinh doanh mới, giá dầu Brent năm 2027 sẽ đạt 74 USD/thùng. #oil #brazil",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413956",
+   "title": "Moody's dự báo GDP dầu thô của Saudi Arabia sẽ suy giảm 14,1% trong năm 2026",
+   "translated": false,
+   "original_title": "▫️ Moody's dự báo GDP dầu thô của Saudi Arabia sẽ suy giảm 14,1% năm 2026, dẫn tới suy giảm toàn bộ nền kinh tế nước này. #oil #saudi_arabia",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:413970",
+   "title": "Quỹ ETF vàng SPDR Gold Trust giảm khối lượng giữ 3,135 tấn so với phiên trước, còn 1.031,299 tấn",
+   "translated": false,
+   "original_title": "🔴 Quỹ SPDR Gold Trust - quỹ ETF vàng lớn nhất toàn cầu - đã giảm khối lượng giữ 3,135 tấn so với phiên giao dịch trước, với tổng khối lượng hiện tại là 1.031,299 tấn. #gold #etf",
+   "link": null
+  }
+ ],
+ "content_sha": "d3a3de6f58f2276467e3293d82051beea491512c2c9d21d79ba9cb95093d74bf"
+}
