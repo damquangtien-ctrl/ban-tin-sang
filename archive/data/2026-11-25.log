@@ -1,0 +1,26 @@
+
+########## CHAY LUC 2026-11-25 06:47:09 ##########
+
+=== 1/5 KIEM DINH ===
+KIEM DINH bulletin.json (2026-11-25, ban daily)
+   the gioi 24 tin · Viet Nam 38 tin / 8 bao · phap ly 7 tin · chot quyen 0 ma
+   DAT: khong loi, 0 canh bao
+
+=== 2/5 RENDER ===
+Render xong: 2026-11-25 · the gioi 24 · Viet Nam 38 · phap ly 7
+   /home/user/ban-tin-sang/index.html
+   /home/user/ban-tin-sang/archive/2026-11-25.html
+
+=== 3/5 XUAT BAN ===
+Trang da phuc vu dung noi dung moi (lan kiem 3/6)
+Da xuat ban 2026-11-25: commit 5ab4d477a965 · sha noi dung b24bfe113ade6c5c
+
+=== 4/5 GUI TIN NHAN ===
+Giao nhan: 📈 BẢN TIN SÁNG 25/11 | content_sha 37005c86aab7 | commit 5ab4d477a965
+   telegram user/928f6fc4179d OK message_id=327
+   zalo     user/593dd2adbb87 OK message_id=93329e8544c86c9135de
+   Bien nhan: /home/user/ban-tin-sang/archive/data/2026-11-25.json
+KET QUA: 2 dich da giao (telegram=sent, zalo=sent)
+HOAN TAT luc 2026-11-25 06:47:44 - trang da len, ca hai kenh da giao
+
+=== 5/5 GHI BIEN NHAN ===
