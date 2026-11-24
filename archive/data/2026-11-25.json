@@ -1,0 +1,508 @@
+{
+ "date": "2026-11-25",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Bloomberg",
+   "text": "Mỹ chuẩn bị tăng thuế quan với hàng hóa Trung Quốc và EU, chứng khoán Mỹ bán tháo cổ phiếu công nghệ, Nasdaq giảm 2%."
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 lên 97,4%; PCE Mỹ dự báo lạm phát gần 3,8%."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Yemen leo thang: Houthi tấn công cảng Hodeidah, liên quân Saudi Arabia phát cảnh báo sơ tán."
+  },
+  {
+   "source": "VnEconomy",
+   "text": "VNX công bố kế hoạch chuyển giao toàn bộ cổ phiếu niêm yết từ HNX về HOSE."
+  },
+  {
+   "source": "Thị trường trong nước",
+   "text": "VN-Index phiên 23/11 phục hồi lên 1.697,14 điểm (+0,49%), khối ngoại bán ròng phiên thứ 5 liên tiếp."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:1627dbc3e3",
+     "title": "Công an truy tìm nhà đầu tư mua cổ phiếu Top One trong vụ nâng khống vốn, lừa đảo gần 65 tỷ đồng"
+    },
+    {
+     "ref": "cafef:7e307f6987",
+     "title": "Thanh tra Chính phủ chỉ rõ loạt bất cập trong quản lý nhà, đất tại Tập đoàn Than - Khoáng sản"
+    },
+    {
+     "ref": "cafef:23cf41c566",
+     "title": "Tập đoàn Mai Linh bị thu giữ tài sản, còn 120 người"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:c19bd54ddb",
+     "title": "Cảnh báo tin nhắn SMS mạo danh NAPAS với nhiều kịch bản lừa đảo khách hàng"
+    },
+    {
+     "ref": "vietstock:3175cce1ba",
+     "title": "PC1: PC1 và Hưng Thịnh Phát bị phạt do chậm công bố thông tin"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:489d44784d",
+     "title": "TDW: Cấp nước Thủ Đức bị truy thu và xử phạt thuế hơn 1,4 tỷ đồng, khoản phải thu tăng 150%"
+    },
+    {
+     "ref": "google-news-ph-p-l:c5252b1d7b",
+     "title": "Doanh nghiệp bất động sản đang gánh hơn 3.300 tỷ đồng trái phiếu bị phạt 85 triệu đồng vì chậm công bố thông tin"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+8,35 (+0,49%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.697,14 điểm"
+   },
+   {
+    "change": "-2,36 (-1,01%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "232,23 điểm"
+   },
+   {
+    "change": "-20,4% so với phiên trước",
+    "direction": "down",
+    "label": "Thanh khoản HOSE",
+    "value": "~12.690 tỷ đồng"
+   },
+   {
+    "change": "Phiên bán ròng thứ 5 liên tiếp",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~419 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "25.990 đồng"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ giảm điểm trong phiên 24/11 khi lo ngại về lợi nhuận và an toàn của ngành AI quay lại, Nasdaq mất 1,48% trong khi Dow Jones vẫn tăng nhờ nhóm công nghiệp. Giá dầu WTI tăng 1,8% lên 81,6 USD/thùng trong khi Brent giảm 1,1% xuống 88,4 USD/thùng; vàng thế giới giảm mạnh 2,58% về 3.557 USD/ounce. Trong nước, HOSE và HNX nghỉ giao dịch ngày 24/11; phiên gần nhất (23/11) VN-Index phục hồi 8,35 điểm (+0,49%) lên 1.697,14 điểm, HNX-Index giảm 1,01%, thanh khoản HOSE sụt 20,4% và khối ngoại tiếp tục bán ròng khoảng 419 tỷ đồng, phiên bán ròng thứ 5 liên tiếp.",
+  "tiles": [
+   {
+    "change_pct": -0.5,
+    "label": "S&P 500",
+    "value": "7.201,1"
+   },
+   {
+    "change_pct": 0.85,
+    "label": "Dow Jones",
+    "value": "50.018,7"
+   },
+   {
+    "change_pct": -1.48,
+    "label": "Nasdaq",
+    "value": "23.733,5"
+   },
+   {
+    "change_pct": 1.8,
+    "label": "Dầu WTI",
+    "value": "81,6 USD"
+   },
+   {
+    "change_pct": -1.1,
+    "label": "Dầu Brent",
+    "value": "88,4 USD"
+   },
+   {
+    "change_pct": -2.58,
+    "label": "Vàng thế giới",
+    "value": "3.557 USD"
+   },
+   {
+    "change_pct": -2.27,
+    "label": "Bitcoin",
+    "value": "59.821 USD"
+   },
+   {
+    "change_pct": -0.45,
+    "label": "DXY",
+    "value": "103,85"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:704902daad",
+     "title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm"
+    },
+    {
+     "ref": "cafef:93177691fe",
+     "title": "PNJ: Bài toán khó huy động 8.000 tỷ \"chữa cháy\": Bất ngờ lời giải có thể đến từ khoản lỗ kỷ lục"
+    },
+    {
+     "ref": "cafef:62d67330c7",
+     "title": "Biến động ghế nóng tại loạt nhà băng"
+    },
+    {
+     "ref": "cafef:de13301aba",
+     "title": "FPT: FPT Software dự kiến doanh thu lập kỷ lục trong quý 4"
+    },
+    {
+     "ref": "cafef:86042881d5",
+     "title": "Ông lớn thiết bị điện Hàn Quốc tiếp tục rót vốn vào Bắc Ninh, doanh thu tại Việt Nam dự kiến hơn 4.000 tỷ, tăng hơn gấp đôi sau 4 năm"
+    },
+    {
+     "ref": "cafef:177ce954f0",
+     "title": "Phó Chủ tịch UBCKNN Hoàng Văn Thu hé lộ yếu tố quyết định sức hút của doanh nghiệp Việt với dòng vốn ngoại"
+    },
+    {
+     "ref": "cafef:a589adf166",
+     "title": "TED: Công ty Việt liên tiếp thắng thầu từ đường sắt cao tốc Bắc - Nam đến metro 72.300 tỷ, cổ phiếu lập đỉnh lịch sử, lợi nhuận tăng hơn 500%"
+    },
+    {
+     "ref": "cafef:30eda22b50",
+     "title": "VIC: Công ty của tỷ phú Phạm Nhật Vượng đánh bật PV GAS khỏi top 10 lớn nhất thị trường, Vinamilk đứng trước nguy cơ rời top 20"
+    },
+    {
+     "ref": "cafef:43d8fdf037",
+     "title": "TNG: Quỹ của tỷ phú Bill Gates bất ngờ bán mạnh cổ phiếu"
+    },
+    {
+     "ref": "cafef:4213c7288c",
+     "title": "GEX: Gần 15.700 tỷ đồng vốn hóa bốc hơi sau 3 tuần, GELEX và Thaiholdings không còn là công ty tỷ USD"
+    },
+    {
+     "ref": "cafef:d4a7e5c649",
+     "title": "UPS: Doanh nghiệp liên quan Tân Hoàng Minh mua 21,5 triệu cổ phiếu Chứng khoán UP"
+    },
+    {
+     "ref": "cafef:8c32a88325",
+     "title": "CEO OCBS: Ngành chứng khoán đang bước vào một giai đoạn cạnh tranh rất khác"
+    },
+    {
+     "ref": "cafef:a3bf1fc148",
+     "title": "PNJ: Cựu CEO Lê Trí Thông có thu nhập gần 10 tỷ đồng/năm, cao hơn Chủ tịch Cao Thị Ngọc Dung"
+    },
+    {
+     "ref": "cafef:0ebd6b6a34",
+     "title": "TIG: Chủ tịch HĐQT Nguyễn Phúc Long bị bán giải chấp hơn 6 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:49ba8f352b",
+     "title": "VFS: Chứng khoán Nhất Việt chuẩn bị tăng vốn vượt 2.900 tỷ đồng"
+    },
+    {
+     "ref": "cafef:7738439dd5",
+     "title": "Liên danh Đại Quang Minh - THACO - Hòa Phát được giao lấy ý kiến về 2 trục đại lộ ven sông Hồng dài gần 80km"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:05d946771d",
+     "title": "BAF: Khởi động dự án chế biến thực phẩm quy mô gần 1,3 ngàn tỷ"
+    },
+    {
+     "ref": "vietstock:7fdb65fbed",
+     "title": "Đề xuất 'khoán' chỉ tiêu điện mặt trời mái nhà cho địa phương"
+    },
+    {
+     "ref": "vietstock:8caed8a337",
+     "title": "'Sức khỏe' doanh nghiệp trúng thầu tư vấn đường sắt tốc độ cao Bắc - Nam"
+    },
+    {
+     "ref": "vietstock:2a9c28b59c",
+     "title": "Vận tải biển khởi sắc, lợi nhuận doanh nghiệp khai thác tàu vẫn đi lùi"
+    },
+    {
+     "ref": "vietstock:f95546c151",
+     "title": "TNT: Tiếp tục lập thêm công ty công nghệ sau kế hoạch trung tâm dữ liệu 10 tỷ USD"
+    },
+    {
+     "ref": "vietstock:2364d8b787",
+     "title": "IDC: Con trai Tổng Giám đốc gom thành công 4,4 triệu cp"
+    },
+    {
+     "ref": "vietstock:6e6a6b5c38",
+     "title": "NKG: Thép Nam Kim tính bơm thêm 1.500 tỷ đồng vào nhà máy Phú Mỹ trước kế hoạch sáp nhập"
+    },
+    {
+     "ref": "vietstock:5219ee9de8",
+     "title": "ĐHĐCĐ bất thường của JC&C: Thông qua chia 'cổ tức đặc biệt', hé lộ kế hoạch thoái vốn VNM"
+    },
+    {
+     "ref": "vietstock:e2572879d1",
+     "title": "Lợi nhuận ngành nhựa quý 3 chịu áp lực giá nguyên liệu"
+    },
+    {
+     "ref": "vietstock:ad3c679f09",
+     "title": "Ngân hàng SCB có chủ tịch mới"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:1330c18db3",
+     "title": "VNX công bố kế hoạch chuyển giao cổ phiếu niêm yết về HOSE"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:824ae0508a",
+     "title": "Nhập khẩu năm 2026 sẽ lập đỉnh mới"
+    },
+    {
+     "ref": "b-o-u-t:fce145ff87",
+     "title": "Ô tô nhập khẩu về Việt Nam tăng gần 40.000 chiếc"
+    },
+    {
+     "ref": "b-o-u-t:db22d9a3c6",
+     "title": "VCCI đề xuất làm rõ cơ chế gắn ưu đãi đầu tư với cam kết chuyển giao công nghệ"
+    },
+    {
+     "ref": "b-o-u-t:06878961c9",
+     "title": "VRE: Vincom Retail bắt tay DingHui International, kiến tạo điểm đến lưu trú mới tại đảo Vũ Yên"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:c43278e152",
+     "title": "Ngân hàng đầu tiên huỷ thoả thuận bảo hiểm trước hạn để thay đối tác, đổi toàn diện cách bán hàng vừa báo kết quả bất ngờ"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:fa47789cfb",
+     "title": "Hải Phòng khởi công 4 bến cảng container và nhà máy đất hiếm hơn 26.400 tỷ đồng"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:4a5983f035",
+     "title": "Đề xuất mới về xếp hạng ngân hàng"
+    },
+    {
+     "ref": "ti-n-phong:bb6114dd0b",
+     "title": "Đà Nẵng đề xuất trả lương CEO trung tâm tài chính 850 triệu/tháng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:4ee1bc6b3a",
+     "title": "Ví điện tử tăng tốc trong cuộc đua thanh toán bán lẻ"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:c01de01043",
+     "title": "Thêm định chế tài chính dự báo Fed tăng lãi suất tại 3 cuộc họp sắp tới"
+    },
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:a37e94e986",
+     "title": "NHTW Hàn Quốc sẽ tăng lãi suất vào ngày 26/11 tới"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-dubaotiente:109975",
+   "title": "Trump để ngỏ khả năng chính phủ Mỹ nắm cổ phần Nvidia, coi hãng chip là trụ cột dẫn đầu AI",
+   "original_title": "(Tiêu điểm) Trump để ngỏ khả năng chính phủ Mỹ nắm cổ phần Nvidia, coi hãng chip là trụ cột dẫn đầu AI Chi tiết xem tại: https://dubaotiente.net/tieu-diem/trump-de-ngo-kha-nang-chinh-phu-my-nam-co-phan-nvidia-114721.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1084823",
+   "title": "Ông Trump nói sẵn sàng ân xá CEO Nvidia Jensen Huang nếu cần thiết",
+   "translated": true,
+   "original_title": "TRUMP WILLING TO PARDON HUANG IF NECESSARY – NYPOST ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1084826",
+   "title": "Nscale có thể hoãn IPO 35 tỷ USD, chọn ở lại công ty tư nhân khi làn sóng bán tháo cổ phiếu công nghệ AI lan rộng",
+   "translated": true,
+   "original_title": "NSCALE: HAVE OPTION TO STAY PRIVATE AS TECH SELL-OFF THREATENS $35B IPO – FT ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:ac9f934991",
+   "title": "Dell nâng dự báo máy chủ AI khi lượng đơn hàng tồn đọng lập kỷ lục 132 tỷ USD",
+   "translated": true,
+   "original_title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video"
+  },
+  {
+   "ref": "bloomberg:29b6dd8be6",
+   "title": "Chứng khoán châu Á được dự báo giảm khi hoài nghi về cơn sốt AI trở lại",
+   "translated": true,
+   "original_title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+  },
+  {
+   "ref": "tg-marketfeed:1084807",
+   "title": "Nasdaq 100 giảm 2% do lo ngại lợi nhuận AI và nguy cơ thuế quan đè nặng tâm lý thị trường",
+   "translated": true,
+   "original_title": "NASDAQ 100 SLIDES 2% AS AI SELLOFF AND TARIFF FEARS HIT SENTIMENT – US MARKET WRAP ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:43096d772f",
+   "title": "Người mua thép Mỹ tìm nguồn cung từ nước ngoài khi làn sóng xây trung tâm dữ liệu gây thiếu hụt",
+   "translated": true,
+   "original_title": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply"
+  },
+  {
+   "ref": "tg-dubaotiente:109971",
+   "title": "Tổng hợp phiên Mỹ 24/11: Cổ phiếu chip lao dốc, Anthropic rơi dưới giá IPO, USD suy yếu",
+   "original_title": "(Tiêu điểm) Tổng hợp phiên Mỹ 24/11: Cổ phiếu chip lao dốc, Anthropic rơi dưới giá IPO, USD suy yếu Chi tiết xem tại: https://dubaotiente.net/tieu-diem/tong-hop-phien-my-24-11-co-phieu-chip-lao-doc-anthropic-roi-duoi-gia-ipo-usd-suy-yeu-114717.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:832161bfe6",
+   "title": "Mỹ chuẩn bị tăng thuế quan với hàng hóa Trung Quốc và EU",
+   "translated": true,
+   "original_title": "US Readies Tariff Hike on China, EU Goods",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video"
+  },
+  {
+   "ref": "tg-dubaotiente:109970",
+   "title": "Đồng phát ra hai tín hiệu trái chiều: Giảm 20% trên LME, phí nhập khẩu tại Trung Quốc lập kỷ lục",
+   "original_title": "(Tiêu điểm) Đồng phát ra hai tín hiệu trái chiều: Giảm 20% trên LME, phí nhập khẩu tại Trung Quốc lập kỷ lục Chi tiết xem tại: https://dubaotiente.net/tieu-diem/dong-phat-ra-hai-tin-hieu-trai-chieu-giam-20-tren-lme-phi-nhap-khau-tai-trung-quoc-lap-ky-luc-114716.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414232",
+   "title": "CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 lên 97,4%",
+   "original_title": "▫️ Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 97,4% Theo CME FedWatch: Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 97,4%, còn 2,6% khả năng tăng 50 điểm cơ bản. Hòa nhập tới tháng 1 năm sau, xác suất tăng thêm 25 điểm cơ bản là 30,3%, tăng thêm 50 điểm cơ bản là 67,9%, và tăng thêm 75 điểm cơ bản là 1,8%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109973",
+   "title": "Dự báo PCE Mỹ: Lạm phát được kỳ vọng gần 3,8% - lần đọc cuối của Fed trước đợt tăng lãi suất tháng 12",
+   "original_title": "(Tiêu điểm) Dự báo PCE Mỹ: Lạm phát được kỳ vọng gần 3.8% – lần đọc cuối của Fed trước đợt tăng lãi suất tháng 12 Chi tiết xem tại: https://dubaotiente.net/tieu-diem/du-bao-pce-my-lam-phat-duoc-ky-vong-gan-3-8-truoc-dot-tang-lai-suat-thang-12-cua-fed-114719.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:23cf8f3aa5",
+   "title": "Nhà đầu tư trái phiếu đổ xô phòng ngừa rủi ro Fed tăng lãi suất làm chậm kinh tế",
+   "translated": true,
+   "original_title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy"
+  },
+  {
+   "ref": "bloomberg:f8afdc316c",
+   "title": "BOJ có thể nâng lãi suất lên 2% vào giữa năm 2027, theo cựu thành viên hội đồng",
+   "translated": true,
+   "original_title": "BOJ Likely to Lift Rate to 2% by Mid-2027, Ex-Board Member Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/boj-likely-to-lift-rate-to-2-by-mid-2027-ex-board-member-says"
+  },
+  {
+   "ref": "tg-dubaotiente:109968",
+   "title": "Dự báo CPI Úc: 4,8% có thể là đỉnh, nhưng lạm phát lõi mới quyết định động thái của RBA",
+   "original_title": "(Tiêu điểm) Dự báo CPI Úc: 4.8% có thể là đỉnh, nhưng lạm phát lõi mới quyết định động thái của RBA Chi tiết xem tại: https://dubaotiente.net/tieu-diem/du-bao-cpi-uc-4-8-co-the-la-dinh-nhung-lam-phat-loi-moi-quyet-dinh-dong-thai-cua-rba-114714.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414234",
+   "title": "Cảng Hodeida (Yemen) bị tấn công, theo thông tấn xã Saba",
+   "original_title": "▫️ Theo thông tấn xã Saba: Cảng Hodeida ở Yemen bị tấn công. #geopolitics #hormuz",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414233",
+   "title": "Liên quân do Saudi Arabia dẫn đầu phát cảnh báo sơ tán tại cảng Hodeidah (Yemen)",
+   "original_title": "▫️ Liên quân do Saudi Arabia dẫn đầu phát hành cảnh báo sơ tán tại cảng Hodeidah của Yemen. #geopolitics #hormuz",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1084819",
+   "title": "Liên quân do Saudi Arabia dẫn đầu đánh chặn, phá hủy hai máy bay không người lái tại khu vực miền Đông",
+   "translated": true,
+   "original_title": "SAUDI-LED COALITION: INTERCEPTS AND DESTROYS TWO DRONES OVER EASTERN REGION ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:04dca54d7f",
+   "title": "Leo thang tại Iran đang trở thành kịch bản mặc định",
+   "translated": true,
+   "original_title": "Escalation in Iran Appears As the Default",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/opinion-escalation-in-iran-appears-as-the-default-video"
+  },
+  {
+   "ref": "tg-dubaotiente:109974",
+   "title": "Barclays giữ dự báo Brent 100 USD cho năm 2026, cho rằng vị thế bán dầu đang bỏ qua nguồn cung thắt chặt",
+   "original_title": "(Tiêu điểm) Barclays giữ dự báo Brent 100 USD cho năm 2026, cho rằng vị thế bán dầu đang bỏ qua nguồn cung thắt chặt Chi tiết xem tại: https://dubaotiente.net/tieu-diem/barclays-giu-du-bao-brent-100-usd-nam-2026-vi-the-ban-dau-bo-qua-nguon-cung-that-chat-114720.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:109972",
+   "title": "API: Tồn kho dầu thô Mỹ gần như đi ngang, thấp hơn nhiều so với dự báo tăng 0,9 triệu thùng",
+   "original_title": "(Tiêu điểm) API: Tồn kho dầu thô Mỹ gần như đi ngang, thấp hơn nhiều so với dự báo tăng 0.9 triệu thùng Chi tiết xem tại: https://dubaotiente.net/tieu-diem/api-ton-kho-dau-tho-my-gan-nhu-di-ngang-thap-hon-du-bao-114718.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1084825",
+   "title": "Citigroup tính trở lại Venezuela khi ông Trump muốn mở lại kinh tế nước này",
+   "translated": true,
+   "original_title": "CITI EYES RETURN TO VENEZUELA AS TRUMP LOOKS TO REOPEN ITS ECONOMY - BBG ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414235",
+   "title": "Giá bạc giao ngay vượt 41 USD/ounce ngay từ đầu phiên, tăng 0,40%",
+   "original_title": "▫️ Giá bạc spot khai thác tại mở phiên vượt ngưỡng 41 USD/ounce, tăng 0.40% trong phiên hôm nay. #silver #commodities",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414222",
+   "title": "JPMorgan dự báo S&P 500 đạt 8.200 điểm vào cuối năm 2027, thấp hơn kỳ vọng trung bình của Phố Wall",
+   "original_title": "▫️ JPMorgan đặt mục tiêu S&P 500 năm 2027 ở 8200 điểm, thấp hơn đồng thuận của Phố Wall Các chiến lược gia của JPMorgan Chase dự báo thị trường chứng khoán Mỹ sẽ tiếp tục tăng đến cuối năm 2027, với mục tiêu chỉ số S&P 500 ở 8200 điểm—thấp hơn kỳ vọng trung bình của thị trường là 8471 điểm và thấp hơn mục tiêu 8700 điểm của Morgan Stanley cũng như Goldman Sachs. Mục tiêu này vẫn còn khoảng 14% tăn",
+   "link": null
+  }
+ ],
+ "content_sha": "37005c86aab712ea3c7f6c754badf21239b30db25da194e99a9823d037a67378"
+}
