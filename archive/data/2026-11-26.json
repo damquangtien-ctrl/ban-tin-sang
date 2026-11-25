@@ -1,0 +1,584 @@
+{
+ "date": "2026-11-26",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "VN-Index",
+   "text": "VN-Index giảm 0,57% xuống 1.687,45 điểm phiên 25/11, khối ngoại bán ròng mạnh khoảng 5.179 tỷ đồng, tập trung tại VIC."
+  },
+  {
+   "source": "Bloomberg Businessweek VN",
+   "text": "Mỹ đề xuất thuế mới tới 40% với Trung Quốc, 20% với EU, và có thể tới 20% với hàng Việt Nam."
+  },
+  {
+   "source": "Dubaotiente",
+   "text": "Jensen Huang được phục chức CEO Nvidia, vốn hóa công ty tăng thêm gần 1.000 tỷ USD; Moody's giữ nguyên xếp hạng Aa1."
+  },
+  {
+   "source": "VN Wall Street",
+   "text": "Fed được dự báo tăng lãi suất 25 điểm cơ bản vào tháng 12 với xác suất 97,2% theo CME FedWatch."
+  },
+  {
+   "source": "CafeF",
+   "text": "Cổ phiếu Thaiholdings (THD) giảm sàn 4 phiên liên tiếp, mất hơn 34% giá trị, bốc hơi 62.400 tỷ đồng vốn hóa so với đỉnh."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d66342aedd",
+     "title": "Tuấn “Thần đèn” cùng đồng phạm khai thác trái phép hàng trăm nghìn m3 đất, đá - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:80a117f5ef",
+     "title": "Tuấn 'Thần đèn' bị cáo buộc dùng luật giang hồ tống tiền doanh nghiệp đối thủ"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:7b7c328312",
+     "title": "Thống nhất đầu mối giao dịch cổ phiếu niêm yết tại HoSE từ 28/12/2026 - CafeF"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-9,69 (-0,57%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.687,45"
+   },
+   {
+    "change": "-4,77 (-2,05%)",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "227,46"
+   },
+   {
+    "change": "+26,79% so với phiên trước",
+    "direction": "up",
+    "label": "Thanh khoản HOSE",
+    "value": "16.091 tỷ đồng"
+   },
+   {
+    "change": "chủ yếu bán VIC",
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng ~5.179 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.020"
+   }
+  ],
+  "summary": "Chứng khoán Mỹ đóng cửa trái chiều đêm qua: S&P 500 giảm 0,25%, Nasdaq giảm 0,62% do lo ngại rủi ro tín dụng AI, trong khi Dow Jones tăng 0,33%. Giá dầu WTI tăng mạnh 2,39% lên 84 USD/thùng, vàng thế giới tăng 1,12% lên 3.602 USD/ounce. Trong nước, VN-Index giảm 0,57% xuống 1.687,45 điểm trong phiên 25/11, HNX-Index giảm 2,05% xuống 227,46 điểm; thanh khoản HOSE tăng mạnh lên 16.091 tỷ đồng trong khi khối ngoại bán ròng khoảng 5.179 tỷ đồng, tập trung bán mạnh cổ phiếu VIC.",
+  "tiles": [
+   {
+    "change_pct": -0.25,
+    "label": "S&P 500",
+    "value": "7.182,8"
+   },
+   {
+    "change_pct": 0.33,
+    "label": "Dow Jones",
+    "value": "50.182,9"
+   },
+   {
+    "change_pct": -0.62,
+    "label": "Nasdaq",
+    "value": "23.585,8"
+   },
+   {
+    "change_pct": 2.39,
+    "label": "Dầu WTI",
+    "value": "84,0 USD"
+   },
+   {
+    "change_pct": -0.91,
+    "label": "Dầu Brent",
+    "value": "90,6 USD"
+   },
+   {
+    "change_pct": 1.12,
+    "label": "Vàng thế giới",
+    "value": "3.602 USD"
+   },
+   {
+    "change_pct": 0.63,
+    "label": "Bitcoin",
+    "value": "60.126 USD"
+   },
+   {
+    "change_pct": -0.11,
+    "label": "DXY",
+    "value": "103,70"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:70ad391163",
+     "title": "Nhà máy tại Việt Nam của đại gia điện mặt trời Trung Quốc JinkoSolar: Doanh thu gần 18.000 tỷ nhưng lỗ 750 tỷ đồng trong 9 tháng"
+    },
+    {
+     "ref": "cafef:0f1f34b7a4",
+     "title": "ETF vàng toàn cầu có tuần bán mạnh nhất kể từ tháng 6, điều gì đang xảy ra?"
+    },
+    {
+     "ref": "cafef:f3d75c7ca4",
+     "title": "Gần 400.000 tỷ đồng trái phiếu chờ thanh toán năm 2027, doanh nghiệp nào dẫn đầu?"
+    },
+    {
+     "ref": "cafef:bbfc518888",
+     "title": "THD: Cổ phiếu giảm sàn 4 phiên liên tiếp, mất hơn 34% chỉ trong chưa đầy một tuần, giảm 62.400 tỷ đồng vốn hóa so với đỉnh"
+    },
+    {
+     "ref": "cafef:9f69882fec",
+     "title": "\"Vua bo mạch AI\" chuyên cung cấp cho Nvidia muốn rót thêm 700 triệu USD vào Việt Nam: Xây nhà máy 10 ha, nhà ở 21 tầng cho công nhân"
+    },
+    {
+     "ref": "cafef:2389275a37",
+     "title": "Một cổ phiếu HoSE bất ngờ \"rơi thẳng đứng\", bốc hơi gần nửa thị giá chưa đầy một tháng"
+    },
+    {
+     "ref": "cafef:d8041a98b3",
+     "title": "Thấy gì từ việc loạt \"ngôi sao\" một thời PNJ, FPT, DGC lao dốc 60-85% từ đỉnh?"
+    },
+    {
+     "ref": "cafef:05e7739df8",
+     "title": "Từng làm những chiếc cẩu cao 93 m, nặng 1.700 tấn: Nhà máy 'siêu thiết bị' ở Dung Quất được gã khổng lồ đóng tàu Hàn Quốc mua lại giá 200 triệu USD"
+    },
+    {
+     "ref": "cafef:0b4f2f0b93",
+     "title": "SCIC thu về 56.000 tỷ đồng từ thoái vốn nhà nước, giá bán gấp 4,1 lần giá trị đầu tư"
+    },
+    {
+     "ref": "cafef:5031f07794",
+     "title": "DCL: Dược phẩm Cửu Long nằm sàn 5 phiên liên tiếp, dư bán chất đống sàn gần 13 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:ad7b6eb52c",
+     "title": "SSB: SeABank chính thức bổ nhiệm Tổng giám đốc và Phó Tổng giám đốc thường trực"
+    },
+    {
+     "ref": "cafef:d0c6bab170",
+     "title": "Doanh nghiệp Hàn Quốc giành hợp đồng 1.260 tỷ đồng, tham gia siêu dự án 5 tuyến metro với tỷ phú Phạm Nhật Vượng"
+    },
+    {
+     "ref": "cafef:df5193f89b",
+     "title": "ACV: Phải xác định rõ thời điểm công bố thông tin khai thác sân bay Long Thành"
+    },
+    {
+     "ref": "cafef:1bc1522dce",
+     "title": "VNS: Lãnh đạo Vinasun đăng ký mua 4 triệu cổ phiếu"
+    },
+    {
+     "ref": "cafef:79d6ea1ffa",
+     "title": "Ngân hàng mua lại trái phiếu cũ, tất toán sớm hàng nghìn tỷ"
+    },
+    {
+     "ref": "cafef:98edf2f7a2",
+     "title": "Một cổ phiếu niêm yết \"cưa đôi\" sau chưa đầy một tháng, Chủ tịch bị bán giải chấp 6 triệu cổ phiếu, con gái tranh thủ bắt đáy"
+    },
+    {
+     "ref": "cafef:a88457492c",
+     "title": "Nhiều ngân hàng thay đổi nhân sự ở các vị trí lãnh đạo chủ chốt"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:5af9503153",
+     "title": "Thước đo lạm phát ưa thích của Fed tăng tốc trong tháng 10, củng cố khả năng tăng lãi suất"
+    },
+    {
+     "ref": "vietstock:08c12439b9",
+     "title": "Lai lịch chủ đầu tư dự án cảng biển và nhà máy đất hiếm hơn 26,400 tỷ đồng tại Hải Phòng"
+    },
+    {
+     "ref": "vietstock:9d546de64e",
+     "title": "Tiến sĩ điện hóa 81 tuổi của Arbin Instruments đứng sau dự án pin lưu trữ 117 triệu USD tại Đà Nẵng"
+    },
+    {
+     "ref": "vietstock:6f162e3255",
+     "title": "GAS: PV GAS có Phó Tổng giám đốc mới"
+    },
+    {
+     "ref": "vietstock:a4826317e9",
+     "title": "Góc nhìn 26/11: VN-Index đứng trước rủi ro lùi về 1,650 điểm"
+    },
+    {
+     "ref": "vietstock:58606e881d",
+     "title": "VIFC-HCMC mở 'luồng xanh' 7 ngày hút vốn ngoại, chuyên gia dự báo chứng khoán có dư địa sinh lời 40% trong 2027"
+    },
+    {
+     "ref": "vietstock:f95a2f53e6",
+     "title": "CLM: Thị giá tăng gấp rưỡi, chuẩn bị thưởng hơn 24,5 triệu cổ phiếu và chia 367 tỷ đồng cổ tức"
+    },
+    {
+     "ref": "vietstock:7f848bb27f",
+     "title": "Bốn động lực lớn kỳ vọng kích hoạt dòng vốn ngoại vào thị trường chứng khoán Việt Nam từ năm 2027"
+    },
+    {
+     "ref": "vietstock:b2db9ac2f0",
+     "title": "CMG: Muốn phát hành hơn 23 triệu cổ phiếu trả cổ tức tỷ lệ 10%"
+    },
+    {
+     "ref": "vietstock:e276064036",
+     "title": "Tỷ giá trung tâm USD/VND lên cao kỷ lục"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:b573194bd6",
+     "title": "Vì sao ngay cả nhà đầu tư thận trọng cũng khó tránh bong bóng AI?"
+    },
+    {
+     "ref": "vneconomy:3815898ca2",
+     "title": "Tỷ giá ổn định, cơ hội để doanh nghiệp \"mạnh tay\" vay nợ nước ngoài?"
+    },
+    {
+     "ref": "vneconomy:90eda88ff3",
+     "title": "Các quỹ ETF tiếp tục rút ròng 18,87 triệu USD trong vòng một tuần"
+    },
+    {
+     "ref": "vneconomy:dcc9c3f412",
+     "title": "TS Cấn Văn Lực: Cần nâng tầm SCIC trở thành quỹ đầu tư quốc gia, tương tự Temasek của Singapore"
+    },
+    {
+     "ref": "vneconomy:f7a6e21999",
+     "title": "Định giá thị trường đang rất hấp dẫn nhưng vì sao chưa hút được tiền lớn?"
+    },
+    {
+     "ref": "vneconomy:afb7a2688d",
+     "title": "Trên 50% lượng Bitcoin đang trong trạng thái thua lỗ"
+    },
+    {
+     "ref": "vneconomy:f8a61dd11a",
+     "title": "8 ngân hàng muốn thành lập công ty con tại Trung tâm Tài chính quốc tế Việt Nam"
+    },
+    {
+     "ref": "vneconomy:88b39141f0",
+     "title": "Áp lực thanh toán trái phiếu dồn vào tháng cuối năm, quy mô gần 56.000 tỷ đồng"
+    },
+    {
+     "ref": "vneconomy:27aeeccd90",
+     "title": "TDW: Vi phạm thuế, vào danh sách 74 mã bị cắt margin trên HOSE"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1ff7aba4f9",
+     "title": "Nhận định thị trường phiên giao dịch ngày 26/11: Duy trì trạng thái phòng thủ - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:cce8b7dbe6",
+     "title": "Cổ phiếu cần quan tâm ngày 26/11 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:68129fd0a9",
+     "title": "Mỹ siết kiểm soát chip AI khiến trung tâm dữ liệu ASEAN đối mặt rủi ro - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:3ad504e9d5",
+     "title": "Nhiều thợ đào Bitcoin tắt máy - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:8f857966d6",
+     "title": "Nguồn cung tích cực, tỷ giá được dự đoán ổn định cuối năm - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1f82f5f3fb",
+     "title": "Xem xét điều chỉnh khung thuế suất thuế xuất khẩu một số nhóm hàng - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:84dafe005c",
+     "title": "Chuyên gia SSI: Vốn nâng hạng FTSE mới ở mức thăm dò 230 triệu USD, chờ 4 biến số lớn năm 2027 - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6df9efca76",
+     "title": "Glassnode: Dấu hiệu nhà đầu tư \"đầu hàng\" thị trường bắt đầu xuất hiện - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:897d4f38ea",
+     "title": "Một “ông lớn” trên sàn HNX bốc hơi gần 16.300 tỷ đồng vốn hóa sau 6 phiên lao dốc thẳng đứng"
+    },
+    {
+     "ref": "markettimes:647d704560",
+     "title": "KLB: Cổ phiếu Kienlongbank bất ngờ tăng trần, \"cháy hàng\" giữa phiên chứng khoán rực lửa"
+    },
+    {
+     "ref": "markettimes:e78727e0d8",
+     "title": "PNJ: Bán vàng với giá thấp nhất thị trường giữa lúc \"tình hình tài chính hết sức khẩn cấp\""
+    },
+    {
+     "ref": "markettimes:b1bee86f75",
+     "title": "HGI: Của bầu Đức được phép phát hành cổ phiếu thấp hơn 85% giá thị trường để trả nợ"
+    },
+    {
+     "ref": "markettimes:016a830f6e",
+     "title": "BAF: Tiếp tục mở rộng quy mô đầu tư, khởi công dự án chế biến thực phẩm mới 1.250 tỷ đồng tại Gia Lai"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:6bf1c6b5a6",
+     "title": "Mỹ tính áp thuế mới tới 20% với hàng Việt Nam"
+    },
+    {
+     "ref": "ti-n-phong:85f42470e3",
+     "title": "Yêu cầu triển khai ngay 4 nhiệm vụ với đường sắt tốc độ cao Bắc - Nam"
+    },
+    {
+     "ref": "ti-n-phong:8478d2eb18",
+     "title": "Sân bay Long Thành nguy cơ ‘lỡ hẹn’, Phó Thủ tướng chỉ đạo khẩn trương gỡ vướng mắc"
+    },
+    {
+     "ref": "ti-n-phong:f1109daff8",
+     "title": "Ai 'rót' hơn 16.400 tỷ làm đường trên cao nối cao tốc Biên Hòa - Vũng Tàu?"
+    },
+    {
+     "ref": "ti-n-phong:d904448fac",
+     "title": "Cách nào huy động 6,4 triệu tỷ đồng đầu tư toàn xã hội?"
+    },
+    {
+     "ref": "ti-n-phong:b1de748453",
+     "title": "Dự kiến khởi công đường sắt tốc độ cao Bắc - Nam năm 2028"
+    },
+    {
+     "ref": "ti-n-phong:c876dfabb7",
+     "title": "Sầu riêng Việt hết thời tăng trưởng nóng"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:ebdfcdf66c",
+     "title": "DAH: Báo cáo thay đổi sở hữu cổ đông lớn CTCP Đầu tư Toàn Cầu HIT"
+    },
+    {
+     "ref": "hose:1e1abc8157",
+     "title": "TCI: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty TNHH Đầu tư Sài Gòn 3 Capital"
+    },
+    {
+     "ref": "hose:ea23043bc3",
+     "title": "TCB: Nghị quyết HĐQT về việc phê duyệt TCBS cung cấp dịch vụ phát hành trái phiếu TCB lần 23"
+    },
+    {
+     "ref": "hose:15c008b0e0",
+     "title": "HDC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền thanh toán lãi kỳ 2 HDC425001"
+    },
+    {
+     "ref": "hose:b8051edb38",
+     "title": "HDC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền chuyển đổi đợt 1 HDC425001"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:8ec188521b",
+   "title": "Compass trì hoãn phát hành 380 triệu USD trái phiếu ABS sau sự cố mất điện trung tâm dữ liệu",
+   "translated": true,
+   "original_title": "Compass Delays $380 Million ABS After Data Center Outage",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage"
+  },
+  {
+   "ref": "bloomberg:f41751b650",
+   "title": "Chứng khoán Mỹ thu hẹp đà giảm do lo ngại AI, lực bắt đáy xuất hiện",
+   "translated": true,
+   "original_title": "Stocks Pare AI-Driven Losses as Dip Buyers Emerge",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video"
+  },
+  {
+   "ref": "bloomberg:4d3b8e9424",
+   "title": "Hoạt động M&A vẫn sôi động giữa lúc thị trường bán tháo, rủi ro tín dụng AI gia tăng",
+   "translated": true,
+   "original_title": "M&A Maintains Amid Selloff, AI Credit Risk Rises",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-deals-11-25-2026-video"
+  },
+  {
+   "ref": "bloomberg:fa26aeaff4",
+   "title": "Cổ phiếu Anthropic phục hồi sau khi giảm 10%, thị trường chứng khoán hồi phục ngoạn mục",
+   "translated": true,
+   "original_title": "Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video"
+  },
+  {
+   "ref": "bloomberg:8fadf88ff4",
+   "title": "Chứng khoán châu Á hướng tới tăng điểm sau khi Mỹ hồi phục cuối phiên",
+   "translated": true,
+   "original_title": "Asian Stocks Set for Gains After Late US Rebound: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+   "ref": "bloomberg-businessweek-vn:db064faaa7",
+   "title": "Chính quyền Trump chuẩn bị tái lập hàng rào thuế quan với Trung Quốc và EU",
+   "translated": false,
+   "original_title": "Chính quyền Trump chuẩn bị tái lập hàng rào thuế quan với Trung Quốc và EU",
+   "link": "https://bbw.vn/chinh-quyen-trump-chuan-bi-tai-lap-hang-rao-thue-quan-voi-trung-quoc-va-eu-61797.html"
+  },
+  {
+   "ref": "tg-dubaotiente:110034",
+   "title": "Làn sóng phản đối trung tâm dữ liệu từ Tokyo đến Australia: rủi ro mới cho cuộc đua AI",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Làn sóng phản đối trung tâm dữ liệu từ Tokyo đến Australia: rủi ro mới cho cuộc đua AI Chi tiết xem tại: https://dubaotiente.net/tieu-diem/lan-song-phan-doi-trung-tam-du-lieu-tu-tokyo-den-australia-rui-ro-moi-cho-cuoc-dua-ai-114774.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:110033",
+   "title": "Ngân hàng Trung ương Nam Phi cảnh báo làn sóng vay nợ của AI đang gây áp lực lên thị trường trái phiếu",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Ngân hàng Trung ương Nam Phi cảnh báo làn sóng vay nợ của AI đang gây áp lực lên thị trường trái phiếu Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ngan-hang-trung-uong-nam-phi-canh-bao-lan-song-vay-no-cua-ai-gay-ap-luc-len-thi-truong-trai-phieu-114773.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:110032",
+   "title": "Moody's giữ xếp hạng Aa1 của Nvidia sau khi Jensen Huang trở lại, cảnh báo rủi ro nhân sự chủ chốt và quản trị",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Moody's giữ xếp hạng Aa1 của Nvidia sau khi Jensen Huang trở lại, cảnh báo rủi ro nhân sự chủ chốt và quản trị Chi tiết xem tại: https://dubaotiente.net/tieu-diem/moodys-giu-xep-hang-aa1-cua-nvidia-sau-khi-jensen-huang-tro-lai-114772.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:110031",
+   "title": "Vàng hồi phục 160 USD từ đáy 14 tháng, nhưng một cây nến chưa đủ xác nhận đáy",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Vàng hồi phục 160 USD từ đáy 14 tháng, nhưng một cây nến chưa đủ xác nhận đáy Chi tiết xem tại: https://dubaotiente.net/tieu-diem/vang-hoi-phuc-160-usd-tu-day-14-thang-nhung-mot-cay-nen-chua-du-xac-nhan-day-114771.html",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:110029",
+   "title": "CoreWeave chuẩn bị khoản vay 4,5 tỷ USD dựa vào hợp đồng với Meta giữa lúc lo ngại nợ AI lên cao",
+   "translated": false,
+   "original_title": "(Tiêu điểm) CoreWeave chuẩn bị khoản vay 4.5 tỷ USD dựa vào hợp đồng với Meta giữa lúc lo ngại nợ AI lên cao Chi tiết xem tại: https://dubaotiente.net/tieu-diem/coreweave-chuan-bi-khoan-vay-4-5-ty-usd-dua-vao-hop-dong-voi-meta-114769.html",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414587",
+   "title": "Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 97,2% theo CME FedWatch",
+   "translated": false,
+   "original_title": "▫️ Xác suất Fed tăng lãi suất 25 điểm cơ bản vào tháng 12 là 97,2% Theo CME \"Trình theo dõi Fed\": xác suất Fed giữ nguyên lãi suất vào tháng 12 là 2,8%, xác suất tăng 25 điểm cơ bản là 97,2%. Xác suất Fed giữ nguyên vào tháng 1 năm sau là 1%, xác suất tăng tích lũy 25 điểm cơ bản là 36,5%, xác suất tăng tích lũy 50 điểm cơ bản là 62,5%. #fed #interest -rates",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414585",
+   "title": "Mỹ tăng cường trừng phạt tài chính; Iran cảnh báo rủi ro thông hành eo biển Hormuz; hai bên sa vào tiêu hao lâu dài",
+   "translated": false,
+   "original_title": "▫️ Mỹ tăng cường trừng phạt tài chính; Iran cảnh báo rủi ro thông hành eo biển; hai bên sa vào tiêu hao lâu dài Vào ngày 25 theo giờ địa phương, eo biển Hormuz liên tiếp xảy ra nhiều sự cố tàu chạm mìn và cháy. Dữ liệu thống kê gần đây cho thấy số lượng tàu bị tấn công tại eo biển này đang ở mức cao nhất kể từ khi xung đột Mỹ-Iran-Israel nổ ra. Thêm vào đó, Mỹ tiếp tục tăng cường các lệnh trừng ph",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414584",
+   "title": "Anthropic trở thành tâm điểm bất đồng giữa nhiều bên trên Phố Wall về triển vọng cổ phiếu",
+   "translated": false,
+   "original_title": "▫️ Cùng tổ chức đưa ra đánh giá trái ngược: Anthropic trở thành tâm điểm bất đồng giữa nhiều bên trên Phố Wall Hai nhà phân tích cổ phiếu từ Hedgeye Risk Management đã đưa ra nhận định hoàn toàn trái ngược về Anthropic, một trong những cổ phiếu được chú ý nhất thị trường. Andrew Freedman, nhà phân tích thông tin liên lạc và phần mềm, nhận định giá cổ phiếu hiện nay có sức hấp dẫn đối với các nhà đ",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414583",
+   "title": "Morgan Stanley: Chi tiêu vốn AI năm tới sẽ tiến gần 1,4 nghìn tỷ USD, có thể đạt điểm uốn tăng trưởng vào 2028",
+   "translated": false,
+   "original_title": "▫️ Morgan Stanley: Chi tiêu vốn AI năm tới sẽ tiến gần 1,4 nghìn tỷ USD, có thể đạt điểm uốn tăng trưởng vào 2028 Các chiến lược gia Morgan Stanley cho biết, mặc dù ngành AI phát triển mạnh mẽ nhưng có thể sẽ chạm ngưỡng tăng trưởng, các doanh nghiệp vẫn dự kiến phát hành 450 tỷ USD trái phiếu cấp đầu tư qua thị trường công khai năm tới để tài trợ cho chi tiêu vốn liên quan AI. Theo ước tính của M",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1085536",
+   "title": "Mỹ đề xuất thuế mới với Embraer khiến các hãng hàng không Mỹ đối mặt chi phí cao hơn",
+   "translated": true,
+   "original_title": "US AIRLINES FACE HIGHER COSTS FROM PROPOSED EMBRAER DUTY – RTRS ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1085529",
+   "title": "FCC thông qua kế hoạch của SpaceX triển khai tới 1 triệu vệ tinh cho mạng trung tâm dữ liệu AI trên quỹ đạo",
+   "translated": true,
+   "original_title": "THE FCC APPROVED SPACEX’S PLAN TO DEPLOY UP TO 1 MILLION SATELLITES FOR AN ORBITAL AI DATA CENTER NETWORK, SUPPORTING ELON MUSK’S EFFORTS TO EXPAND SPACE-BASED COMPUTING CAPACITY. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1085527",
+   "title": "WaPo: Chính quyền Trump từng thảo luận dùng quyền lực thời chiến để buộc phục chức CEO Nvidia cho Jensen Huang",
+   "translated": true,
+   "original_title": "JUST IN: 🇺🇸 TRUMP ADMINISTRATION DISCUSSED INVOKING WARTIME POWERS TO FORCEFULLY REINSTATE JENSEN HUANG AS NVIDIA $NVDA CEO AFTER HE STEPPED DOWN, WAPO REPORTS. ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1085526",
+   "title": "Liên quân do Saudi Arabia dẫn đầu bắn hạ hai máy bay không người lái tại khu vực miền Đông vương quốc",
+   "translated": true,
+   "original_title": "SAUDI-LED COALITION: TWO DRONES SHOT DOWN OVER KINGDOM'S EASTERN REGION ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1085496",
+   "title": "JPMorgan dự báo làn sóng vay nợ AI 450 tỷ USD vào năm 2027 trước khi chững lại",
+   "translated": true,
+   "original_title": "JPMORGAN SEES $450B AI DEBT BLITZ IN 2027 BEFORE PLATEAU - BBG ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1085535",
+   "title": "UKMTO: Tàu chở dầu báo cáo vụ nổ do vật thể không rõ danh tính gần Dubai, UAE; thủy thủ đoàn an toàn, tàu không bị hư hại",
+   "translated": true,
+   "original_title": "UKMTO: TANKER REPORTS EXPLOSION FROM UNKNOWN PROJECTILE NEARBY, 50NM WEST OF DUBAI, UAE - CREW SAFE AND ACCOUNTED FOR - NO TANKER DAMAGE OR ENVIRONMENTAL IMPACT REPORTED ...",
+   "link": null
+  },
+  {
+   "ref": "vneconomy:e6c7cc6007",
+   "title": "Vốn hóa Nvidia tăng gần 1 nghìn tỷ USD sau khi ông Jensen Huang được phục chức CEO",
+   "translated": false,
+   "original_title": "Vốn hóa Nvidia tăng gần 1 nghìn tỷ USD sau khi ông Jensen Huang được phục chức CEO",
+   "link": "https://vneconomy.vn/von-hoa-nvidia-tang-gan-1-nghin-ty-usd-sau-khi-ong-jensen-huang-duoc-phuc-chuc-ceo.htm"
+  },
+  {
+   "ref": "tin-nhanh-ch-ng-kho-n:085f68bc51",
+   "title": "Trung Quốc gia hạn đình chỉ lệnh cấm xuất khẩu khoáng sản sang Mỹ - Tin nhanh chứng khoán",
+   "translated": false,
+   "original_title": "Trung Quốc gia hạn đình chỉ lệnh cấm xuất khẩu khoáng sản sang Mỹ - Tin nhanh chứng khoán",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnNSTzBXdVRCTnk4eW1ZeENMdE5UdWl0MERJV3hqVkh1UzBxM3lvd0xCMGRnRURGUkdXdlI2N21yTDctYnNnOEU1bHJUUGdpT21lUVN4UWNBTm16emRfZTlwZWhUMVoyVEZzU21hMTVOd0tJY0JWZndhVDZPY2ZzUUZLNUJiQS1XWl8wU2VLeFczLUZvS2F1UnR1V0JEYzBCZmt4SkFkNjNfdmpzbmJINkp30gGyAUFVX3lxTFBic1JPMFd1VEJOeTh5bVl4Q0x0TlR1aXQwRElXeGpWSHVTMHEzeW93TEIwZGdFREZSR1d2UjY3bXJMNy1ic2c4RTVsclRQZ2lPbWVRU3hRY0FObXp6ZF9lOXBlaFQxWjJURnNTbWExNU53S0ljQlZmd2FUNk9jZnNRRks1QmJBLVdaXzBTZUt4VzMtRm9LYXVSdHVXQkRjMEJma3hKQWQ2M192anNuYkg2Snc?oc=5"
+  }
+ ],
+ "content_sha": "85255f5f2faf20a60d06e67a221cd3060a97195f376b42b98fbc8125f27a10e0"
+}
