@@ -1,0 +1,580 @@
+{
+ "date": "2026-11-27",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "Vietstock",
+   "text": "VN-Index giảm 57,77 điểm (-3,42%) xuống 1.629,68 điểm sau tin Mỹ đề xuất thuế bổ sung 35% với hàng Việt Nam, khối ngoại tiếp tục bán ròng trên HOSE."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Giá vàng và bạc thế giới đồng loạt giảm sâu, vàng gần mức thấp nhất 15 tháng, bạc mất hơn 4% trong phiên."
+  },
+  {
+   "source": "Vietstock",
+   "text": "Bộ Công Thương khuyến cáo doanh nghiệp chủ động quản trị rủi ro trước đề xuất thuế Mục 301 của Mỹ; Việt Nam cho biết chỉ còn ít vấn đề về thuế cần trao đổi với Washington."
+  },
+  {
+   "source": "Market News Feed",
+   "text": "Chứng khoán Mỹ đóng cửa phân hóa, Dow Jones tăng 0,33% nhưng Nasdaq giảm 0,62%; vàng thế giới tăng 1,61% lên 3.593 USD/ounce."
+  },
+  {
+   "source": "CafeF",
+   "text": "Ông Lê Thanh Thản, Chủ tịch Tập đoàn Mường Thanh, bị tuyên 30 tháng tù treo trong vụ án liên quan dự án bất động sản."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "cafef:e3c2ede420",
+     "title": "Chủ tịch Tập đoàn Mường Thanh Lê Thanh Thản bị tuyên án 30 tháng tù treo"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d7b3cc2f05",
+     "title": "Mỹ ra kết luận sơ bộ có lợi cho doanh nghiệp Việt trong vụ điều tra thép Indonesia - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:523ec7051f",
+     "title": "Chủ động nhiều giải pháp sau Kết luận sơ bộ điều tra theo Mục 301 của Mỹ - Tin nhanh chứng khoán"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ff46182a3a",
+     "title": "Kịch bản lôi kéo nhà đầu tư tại Sen Tài Thu của cựu cán bộ ngân hàng - Tin nhanh chứng khoán"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:57679772c7",
+     "title": "6 cựu cán bộ cấp sổ đỏ sai quy định bị bắt"
+    }
+   ],
+   "source": "VnExpress"
+  },
+  {
+   "items": [
+    {
+     "ref": "google-news-ph-p-l:ddeec5925f",
+     "title": "Cục VI đang triển khai cuộc thanh tra tại SCIC và Bảo hiểm PVI - nguoiquansat.vn"
+    }
+   ],
+   "source": "Google News Pháp lý"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "-57,77 điểm (-3,42%)",
+    "direction": "down",
+    "label": "VN-Index",
+    "value": "1.629,68 điểm"
+   },
+   {
+    "change": "-0,39%",
+    "direction": "down",
+    "label": "HNX-Index",
+    "value": "226,57 điểm"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Thanh khoản HOSE",
+    "value": "16.044 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": "down",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Bán ròng khoảng 180 tỷ đồng"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "Vàng SJC",
+    "value": "—"
+   },
+   {
+    "change": null,
+    "direction": null,
+    "label": "USD/VND (Vietcombank)",
+    "value": "Mua CK 25.630 · Bán 26.010"
+   }
+  ],
+  "summary": "Thị trường Mỹ đóng cửa phân hóa trong phiên 26/11 (giờ Mỹ): Dow Jones tăng 0,33% lên 50.182,9 điểm, trong khi S&P 500 giảm 0,25% và Nasdaq giảm 0,62%. Vàng thế giới tăng 1,61% lên 3.593 USD/ounce, dầu WTI tăng 1,36% nhưng dầu Brent giảm 3,19%. Tại Việt Nam, VN-Index có phiên giảm mạnh nhất trong nhiều tháng, mất 57,77 điểm (-3,42%) xuống 1.629,68 điểm sau thông tin Mỹ đề xuất áp thuế bổ sung 35% với hàng hóa Việt Nam, thanh khoản HOSE đạt 16.044 tỷ đồng và khối ngoại tiếp tục bán ròng phiên thứ bảy liên tiếp. Nhóm bất động sản giảm sâu nhất thị trường, trong khi giới phân tích dự báo vùng hỗ trợ kỹ thuật quanh 1.600 điểm.",
+  "tiles": [
+   {
+    "change_pct": -0.25,
+    "label": "S&P 500",
+    "value": "7.182,8"
+   },
+   {
+    "change_pct": 0.33,
+    "label": "Dow Jones",
+    "value": "50.182,9"
+   },
+   {
+    "change_pct": -0.62,
+    "label": "Nasdaq",
+    "value": "23.585,8"
+   },
+   {
+    "change_pct": 1.36,
+    "label": "Dầu WTI",
+    "value": "84,8 USD"
+   },
+   {
+    "change_pct": -3.19,
+    "label": "Dầu Brent",
+    "value": "91,6 USD"
+   },
+   {
+    "change_pct": 1.61,
+    "label": "Vàng thế giới",
+    "value": "3.593 USD"
+   },
+   {
+    "change_pct": 0.03,
+    "label": "Bitcoin",
+    "value": "60.398 USD"
+   },
+   {
+    "change_pct": 0.1,
+    "label": "DXY",
+    "value": "103,78"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:51fb9b832e",
+     "title": "HPG: CTCK dự báo bất ngờ về lợi nhuận năm 2027"
+    },
+    {
+     "ref": "cafef:67ddfa5d13",
+     "title": "Phó Chủ tịch UBCKNN: Chứng khoán Việt Nam sắp đón thay đổi quan trọng vào đầu năm 2027"
+    },
+    {
+     "ref": "cafef:101cab9877",
+     "title": "Giám đốc Phân tích VPBankS: Định giá chứng khoán đang bị nén rất sâu, một cú hích có thể kích hoạt sóng tăng mới"
+    },
+    {
+     "ref": "cafef:4870a7796f",
+     "title": "HPG: Cổ phiếu rơi xuống mức thấp nhất 18 tháng"
+    },
+    {
+     "ref": "cafef:8d78112fbe",
+     "title": "VN-Index giảm sâu hơn 6% từ đầu tháng, bộ đôi cổ phiếu này vẫn tăng giá bằng lần"
+    },
+    {
+     "ref": "cafef:9e1d8d7210",
+     "title": "FPT: Hiện tượng đáng chú ý tại FPT, VCB và BID sau phiên VN-Index giảm sâu gần 60 điểm"
+    },
+    {
+     "ref": "cafef:e6db4e8846",
+     "title": "VN-Index ‘bay’ gần 60 điểm sau thông tin Mỹ sẽ áp thuế"
+    },
+    {
+     "ref": "cafef:5c2c3a6929",
+     "title": "CTD: Chủ tịch Coteccons mua thành công cổ phiếu như đăng ký"
+    },
+    {
+     "ref": "cafef:f25bd1502e",
+     "title": "Lý do lãnh đạo doanh nghiệp rầm rộ xuống tiền mua cổ phiếu"
+    },
+    {
+     "ref": "cafef:5b9a96afb9",
+     "title": "VJC: \"Ẩn số\" từ Trung Quốc giúp vá lỗ hổng 11 tỷ đô cho Việt Nam, Vietjet tạo thế \"song mã\" bay ra Đông Nam Á?"
+    },
+    {
+     "ref": "cafef:0f2252633d",
+     "title": "Chi phí vốn cao khiến doanh nghiệp Việt hụt hơi khi ra “biển lớn”: Đâu là lời giải giai đoạn 2026-2030?"
+    },
+    {
+     "ref": "cafef:567738e00d",
+     "title": "HPG: Hưởng lợi lớn từ HRC, \"vua thép\" được dự báo lãi 7.500 tỷ đồng trong quý IV"
+    },
+    {
+     "ref": "cafef:e433000eae",
+     "title": "MSR: Masan High-Tech Materials muốn bầu bổ sung Thành viên HĐQT"
+    },
+    {
+     "ref": "cafef:b230f78c29",
+     "title": "AMY: Tạm ứng cổ tức 20% sau khi lên sàn HoSE"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:bb2a519141",
+     "title": "Giải ngân vốn đầu tư công đạt trên 77% kế hoạch"
+    },
+    {
+     "ref": "vietstock:8ae3c59623",
+     "title": "Việt Nam chỉ còn ít vấn đề về thuế cần trao đổi với Mỹ"
+    },
+    {
+     "ref": "vietstock:f81fb571bf",
+     "title": "Bộ Công Thương khuyến cáo doanh nghiệp chủ động quản trị rủi ro trước đề xuất thuế Mục 301 của Hoa Kỳ"
+    },
+    {
+     "ref": "vietstock:6dcea59f5a",
+     "title": "Thêm kênh đầu tư cho dòng tiền nhàn rỗi để hút vốn dài hạn hậu nâng hạng"
+    },
+    {
+     "ref": "vietstock:d243a5ba01",
+     "title": "Khi chiếc neo lạm phát 2% của Fed cũng bắt đầu lung lay"
+    },
+    {
+     "ref": "vietstock:4b6396aaa8",
+     "title": "Góc nhìn 27/11: Nguy cơ bán tháo tiếp tục lan rộng?"
+    },
+    {
+     "ref": "vietstock:07e5513876",
+     "title": "VN-Index giảm gần 58 điểm vì thuế Mỹ, chuyên gia dự báo áp lực bán sắp hạ nhiệt"
+    },
+    {
+     "ref": "vietstock:345ee3277b",
+     "title": "HHP: Cổ phiếu \"lau sàn\" 6 phiên liên tiếp, bốc hơi gần 50% thị giá trong 3 tuần"
+    },
+    {
+     "ref": "vietstock:ab4fb039cb",
+     "title": "Vietstock Daily 27/11/2026: Mây đen phủ bóng"
+    },
+    {
+     "ref": "vietstock:4b6baae94f",
+     "title": "Chủ khách sạn Kim Liên bất ngờ dừng bán hơn 493 triệu cp để huy động vốn làm tháp đôi 99 tầng"
+    },
+    {
+     "ref": "vietstock:96ba2824b5",
+     "title": "IPO Đông Nam Á giảm tốc, Việt Nam đi ngược xu hướng, Điện Máy Xanh vào top 5 thương vụ IPO"
+    },
+    {
+     "ref": "vietstock:7b8fb292a5",
+     "title": "TIN: VietCredit sắp đổi Chủ tịch, lộ diện nhân sự MoMo và nhóm Vega"
+    },
+    {
+     "ref": "vietstock:ba66b6f4e8",
+     "title": "Một công ty chứng khoán vừa 'bắt đáy' HPG và NVL"
+    },
+    {
+     "ref": "vietstock:11459049b6",
+     "title": "TV2: Chốt ngày chi gần 68 tỷ đồng trả cổ tức 2025, EVN \"bỏ túi\" 35 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:d771b2f446",
+     "title": "VCB: Vietcombank và KN Holdings ký kết thỏa thuận hợp tác toàn diện"
+    },
+    {
+     "ref": "vietstock:0bd75530bf",
+     "title": "MSN: Masan lấy ý kiến cổ đông nâng mục tiêu lợi nhuận 2026 lên 11.500 tỷ đồng"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:57bd3e6afd",
+     "title": "VN-Index giảm sốc, công ty chứng khoán dự báo vùng hỗ trợ 1.600 điểm"
+    },
+    {
+     "ref": "vneconomy:53b766c534",
+     "title": "Mỹ muốn áp thuế trần 35% với Việt Nam, VN-Index sẽ tăng?"
+    },
+    {
+     "ref": "vneconomy:252700825d",
+     "title": "Bán tháo tăng cường độ, ám ảnh thuế quan trở lại?"
+    },
+    {
+     "ref": "vneconomy:d207d61fb5",
+     "title": "Tăng trưởng và lạm phát của Mỹ đều nóng, áp lực tăng lãi suất đối với Fed càng lớn"
+    },
+    {
+     "ref": "vneconomy:77a071bfdc",
+     "title": "Thị trường lao dốc sau tin thuế quan mới, cầu bắt đáy hoạt động mạnh"
+    },
+    {
+     "ref": "vneconomy:7c29a15ea5",
+     "title": "Thứ trưởng Nguyễn Đức Chi: Khả năng thu hút vốn quốc tế không chỉ phụ thuộc vào quy mô thị trường"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:c3a955dee8",
+     "title": "Nhận định thị trường phiên giao dịch ngày 27/11: Tận dụng nhịp hồi kỹ thuật để hạ tỷ trọng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:efcd9c550b",
+     "title": "DAH: Khách sạn Đông Á kinh doanh thua lỗ, một cổ đông lớn giảm tỷ lệ sở hữu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:67c4a77118",
+     "title": "CII: Điều chỉnh phương án sử dụng 1.217 tỷ đồng vốn trái phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6f1df2eafe",
+     "title": "DCL: Dược Cửu Long giảm sàn 5 phiên, HOSE yêu cầu giải trình"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:e48e3f7e7a",
+     "title": "Thuế quan của Mỹ có thể trở lại ngưỡng trước phán quyết của Tòa án Tối cao"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:eeacb6846f",
+     "title": "Nhóm chứng khoán mang hiệu suất âm hậu IPO"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:b405fe69cc",
+     "title": "SMC: Tiếp tục biến động lãnh đạo cấp cao"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7d581d712e",
+     "title": "Đằng sau con số tăng trưởng lợi nhuận ngân hàng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:1ecd604029",
+     "title": "Hàn Quốc tăng lãi suất cơ bản lên mức cao nhất trong hai năm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:ce6030dd61",
+     "title": "Giới đầu tư hạn chế bán, nhưng Phố Wall vẫn ảm đạm"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2a77c09f15",
+     "title": "Chọn kênh đầu tư năm 2027: Cẩn trọng bẫy thanh khoản nuốt chửng lợi nhuận"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:eab8acc62d",
+     "title": "CPTPP - EU hướng tới thiết lập mạng lưới hợp tác chuỗi cung ứng"
+    },
+    {
+     "ref": "b-o-u-t:5fef7f0e54",
+     "title": "TCB: Techcombank thông báo thay đổi nhân sự cấp cao"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:fb9c7c7b76",
+     "title": "CTG: VietinBank chuẩn bị huy động thêm 4.000 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "markettimes:c142ed3fa1",
+     "title": "Thị trường chứng khoán Việt Nam giảm mạnh nhất thế giới"
+    },
+    {
+     "ref": "markettimes:4ef0b59946",
+     "title": "Fed cảnh báo lạm phát Mỹ dai dẳng, doanh nghiệp Mỹ chịu sức ép chi phí gia tăng"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:7744c00c54",
+     "title": "Bamboo Airways vắng bóng trên lịch bay, thị trường hàng không còn những ai?"
+    },
+    {
+     "ref": "vnbusiness:4770018ee9",
+     "title": "Vốn ngoại không thiếu, doanh nghiệp Việt cần gì để tiếp cận?"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:1179b7e655",
+     "title": "GAS: Công bố và trao Quyết định bổ nhiệm Phó Tổng Giám đốc PV GAS"
+    },
+    {
+     "ref": "ti-n-phong:b6a74b7033",
+     "title": "Thêm biến số thuế Mỹ, chứng khoán 2027 sẽ ra sao?"
+    },
+    {
+     "ref": "ti-n-phong:423ce1943f",
+     "title": "Đàm phán thương mại với Mỹ: Việt Nam đưa ra cam kết chưa từng có"
+    },
+    {
+     "ref": "ti-n-phong:88edf2568d",
+     "title": "Ngân hàng \"đua\" lãi suất huy động, có nơi tới 9,7%/năm"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:aea9de0909",
+     "title": "Bộ Công Thương thông tin về đề xuất áp thuế bổ sung 35% của Mỹ đối với hàng Việt Nam - Bnews.vn"
+    },
+    {
+     "ref": "bnews:f7aa244f1c",
+     "title": "Mở rộng ưu đãi thuế cho doanh nghiệp đổi mới sáng tạo - Bnews.vn"
+    },
+    {
+     "ref": "bnews:1cc468b2de",
+     "title": "OECD công bố Báo cáo rà soát thị trường vốn Việt Nam - Bnews.vn"
+    },
+    {
+     "ref": "bnews:8a8168ce2f",
+     "title": "Cổ phiếu đáng chú ý ngày 26/11: SAB, HVN, HT1"
+    },
+    {
+     "ref": "bnews:ec05b5481b",
+     "title": "Thị trường chứng khoán châu Á đảo chiều khi cơn sốt Nvidia hạ nhiệt - Bnews.vn"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:7391daf9fc",
+     "title": "VTO: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ bất thường lần 01 năm 2027"
+    },
+    {
+     "ref": "hose:0861f2c894",
+     "title": "VHM: CBTT Nghị quyết HĐQT thông qua bộ hồ sơ chào bán trái phiếu doanh nghiệp"
+    },
+    {
+     "ref": "hose:67b7a7c659",
+     "title": "PGC: Thông báo bổ nhiệm lại Tổng Giám đốc"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "tg-vnwallstreet:414805",
+   "title": "CPI Tokyo tháng 11 tăng 2,8% so với cùng kỳ, thấp hơn dự báo 3,1%; CPI lõi tăng 2,9%, cao hơn tháng trước",
+   "translated": false,
+   "original_title": "▫️ Chỉ số giá tiêu dùng (CPI) tại Tokyo trong tháng 11 tăng 2,8% so với cùng kỳ năm trước, thấp hơn mức dự báo 3,10% và giữ nguyên so với mức 2,80% của kỳ trước đó.",
+   "link": null
+  },
+  {
+   "ref": "tg-dubaotiente:110074",
+   "title": "Saxo: Đà giảm 37% của vàng từ đỉnh có vẻ đã quá đà, mốc 3.590 USD là phép thử",
+   "translated": false,
+   "original_title": "(Tiêu điểm) Saxo: Đà giảm 37% của vàng từ đỉnh có vẻ đã quá đà, mốc 3,590 USD là phép thử Chi tiết xem tại: https://dubaotiente.net/tieu-diem/saxo-da-giam-37-cua-vang-tu-dinh-co-ve-da-qua-da-moc-3590-usd-la-phep-thu-114812.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1086025",
+   "title": "Giá bạc giao ngay giảm hơn 4%, xuống 41,47 USD/ounce",
+   "translated": true,
+   "original_title": "SPOT SILVER FALLS MORE THAN 4% TO $41.47/OZ ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1086035",
+   "title": "Vàng gần mức thấp nhất 15 tháng, giảm 0,4% xuống 3.571,42 USD/ounce do kỳ vọng Fed diều hâu",
+   "translated": true,
+   "original_title": "GOLD REMAINED NEAR A 15-MONTH LOW, DOWN 0.4% TO $3,571.42/OZ, AS HAWKISH FED EXPECTATIONS AND STRONGER INFLATION DATA FUELED BETS ON FURTHER RATE HIKES, PRESSURING NON-YIELDING BULLION AND KEEPING IT ON TRACK FOR A THIRD CONSECUTIVE MONTHLY LOSS. ...",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:a480ff4453",
+   "title": "Euro trên đà giảm mạnh nhất hai thập kỷ so với nhân dân tệ trong năm nay",
+   "translated": true,
+   "original_title": "Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/euro-set-for-biggest-drop-in-two-decades-against-yuan-this-year"
+  },
+  {
+   "ref": "tg-dubaotiente:110073",
+   "title": "ECB chọn ông Hernández de Cos làm Chủ tịch, ba thử thách chờ ngay từ ngày đầu",
+   "translated": false,
+   "original_title": "(Tiêu điểm) ECB chọn ông Hernández de Cos làm Chủ tịch, ba thử thách chờ ngay từ ngày đầu Chi tiết xem tại: https://dubaotiente.net/tieu-diem/ecb-chon-ong-hernandez-de-cos-lam-chu-tich-ba-thu-thach-cho-ngay-tu-ngay-dau-114811.html",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:c1f38d0051",
+   "title": "Làn sóng bán tháo cổ phiếu AI khiến Kioxia trở thành blue chip rẻ nhất Nhật Bản, giới đầu cơ giá lên đặt cược",
+   "translated": true,
+   "original_title": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls"
+  },
+  {
+   "ref": "tg-dubaotiente:110071",
+   "title": "5 câu hỏi về đường đi của chip Nvidia sang Trung Quốc vẫn chưa được giải đáp dù ông Huang đã trở lại",
+   "translated": false,
+   "original_title": "(Tiêu điểm) 5 câu hỏi về đường đi của chip Nvidia sang Trung Quốc vẫn chưa được giải đáp dù ông Huang đã trở lại Chi tiết xem tại: https://dubaotiente.net/tieu-diem/5-cau-hoi-ve-duong-di-cua-chip-nvidia-sang-trung-quoc-van-chua-duoc-giai-dap-114809.html",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1086019",
+   "title": "Samsung và SK Hynix áp dụng công nghệ xếp chồng NAND do YMTC (Trung Quốc) phát triển, hãng này đã nộp hơn 12.000 bằng sáng chế toàn cầu",
+   "translated": true,
+   "original_title": "SAMSUNG AND SK HYNIX HAVE ADOPTED NAND STACKING TECHNOLOGY DEVELOPED BY CHINA'S YMTC, WHICH HAS FILED MORE THAN 12,000 PATENTS GLOBALLY - NIKKEI ...",
+   "link": null
+  },
+  {
+   "ref": "tg-vnwallstreet:414798",
+   "title": "JERA của Nhật Bản lên kế hoạch xây dựng các trung tâm dữ liệu cho Anthropic và Meta gần các nhà máy điện, đang đàm phán thêm với Amazon, Microsoft và Google",
+   "translated": false,
+   "original_title": "▫️ Theo Nikkei, JERA của Nhật Bản đang lên kế hoạch xây dựng các trung tâm dữ liệu cho Anthropic và Meta ở gần các nhà máy điện.",
+   "link": null
+  },
+  {
+   "ref": "bloomberg:389374dfad",
+   "title": "Hợp đồng tương lai chứng khoán châu Á báo hiệu tăng, giá dầu đi lên: Tổng quan thị trường",
+   "translated": true,
+   "original_title": "Asian Stock Futures Signal Gains, Oil Advances: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap"
+  },
+  {
+   "ref": "tg-marketfeed:1086002",
+   "title": "Dầu Brent tăng 2,1% lên 96,57 USD sau vụ tấn công nhà máy lọc dầu Jazan và các vụ việc drone tại Vùng Vịnh, Saudi Arabia",
+   "translated": true,
+   "original_title": "Market News Feed pinned « 🌆 Market News Digest [Nov 26, 2026 EST] 🔥 Top Stories • Brent crude jumps 2.1% to $96.57 — Saudi Jazan refinery attack and Gulf drone incidents stoke supply-risk premium • ECB minutes tilt hawkish — officials saw a clearer case for tighter policy, with inflation… »",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1086022",
+   "title": "Hàn Quốc xem xét mở rộng quỹ ổn định thị trường chứng khoán",
+   "translated": true,
+   "original_title": "SOUTH KOREA REVIEWS EXPANDING STOCK STABILISATION FUND – MAEIL ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1086018",
+   "title": "Ông Trump đơn phương sửa tuyên bố chung với NATO, thêm Ukraine vào cảnh báo không mở rộng chiến tranh cùng Nga",
+   "translated": true,
+   "original_title": "TRUMP UNILATERALLY AMENDED A JOINT STATEMENT WITH NATO CHIEF MARK RUTTE, ADDING UKRAINE ALONGSIDE RUSSIA IN A WARNING AGAINST EXPANDING THE WAR, WHEREAS THE ORIGINAL STATEMENT REFERRED ONLY TO RUSSIA, THE MOVE COMING DAYS AFTER UKRAINE STRUCK A RUSSIAN WARSHIP IN LIBYA AND HIGHLIGHTING TENSIONS OVER KYIV'S LONG-RANGE STRIKES - POLITICO ...",
+   "link": null
+  },
+  {
+   "ref": "tg-marketfeed:1086036",
+   "title": "Phần mềm SAP bị ảnh hưởng bởi sự cố an ninh, chưa có dấu hiệu dữ liệu khách hàng bị truy cập - Handelsblatt",
+   "translated": true,
+   "original_title": "SAP SOFTWARE DEVELOPMENT HAS BEEN AFFECTED BY A SECURITY INCIDENT, WITH SAP IDENTIFYING SUSPICIOUS ACTIVITY AND SAYING THERE IS NO EVIDENCE OF CUSTOMER DATA ACCESS - HANDELSBLATT, CITING SOURCES ...",
+   "link": null
+  }
+ ],
+ "content_sha": "fe8655828f05dfa4d5fee454804917c1edbb7488d5620914531dc0839386d791"
+}
