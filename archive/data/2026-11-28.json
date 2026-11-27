@@ -1,0 +1,515 @@
+{
+ "date": "2026-11-28",
+ "dividends": [],
+ "edition": "daily",
+ "highlights": [
+  {
+   "source": "MarketTimes",
+   "text": "VN-Index phục hồi mạnh, tăng 24,22 điểm (+1,49%) lên 1.653,9 điểm sau phiên giảm sâu do lo ngại Mỹ áp thuế, khối ngoại quay lại mua ròng hơn 558 tỷ đồng."
+  },
+  {
+   "source": "VnEconomy",
+   "text": "Thủ tướng Lê Minh Hưng cho biết mức thuế Mỹ áp dụng với Việt Nam sẽ thấp hơn nhiều so với dự kiến trước đó."
+  },
+  {
+   "source": "BNEWS",
+   "text": "Nvidia dừng xuất khẩu máy chủ AI sang 4 nước Đông Nam Á, tác động tới chuỗi cung ứng công nghệ khu vực."
+  },
+  {
+   "source": "Bloomberg",
+   "text": "Chứng khoán Mỹ tăng mạnh nhờ làn sóng AI của Trump, S&P 500 tăng 1,6%, Nasdaq tăng 2,31% trong tuần Lễ Tạ ơn."
+  },
+  {
+   "source": "CafeF",
+   "text": "VNM: Vinamilk thông báo tạm ứng cổ tức đợt 2 năm 2026 và kế hoạch tổ chức Đại hội đồng cổ đông bất thường."
+  }
+ ],
+ "legal": [
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:7031006ffe",
+     "title": "REE: Cơ Điện Lạnh bị xử phạt và truy thu thuế hơn 1,53 tỷ đồng"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d7b3cc2f05",
+     "title": "Mỹ ra kết luận sơ bộ có lợi cho doanh nghiệp Việt trong vụ điều tra thép Indonesia"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:523ec7051f",
+     "title": "Chủ động nhiều giải pháp sau Kết luận sơ bộ điều tra theo Mục 301 của Mỹ"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnexpress:a3c1df1452",
+     "title": "Ông Lê Thanh Thản nhận 30 tháng án treo, căn hộ được bồi thường cao nhất 6,8 tỷ đồng"
+    }
+   ],
+   "source": "VnExpress"
+  }
+ ],
+ "market_data": {
+  "domestic": [
+   {
+    "change": "+24,22 (+1,49%)",
+    "direction": "up",
+    "label": "VN-Index",
+    "value": "1.653,90 điểm"
+   },
+   {
+    "change": "+1,54 (+0,68%)",
+    "direction": "up",
+    "label": "HNX-Index",
+    "value": "228,11 điểm"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "Thanh khoản HOSE",
+    "value": "~9.190 tỷ đồng (khớp lệnh)"
+   },
+   {
+    "change": null,
+    "direction": "up",
+    "label": "Khối ngoại (HOSE)",
+    "value": "Mua ròng ~558,84 tỷ đồng"
+   },
+   {
+    "change": "+1,0 triệu đồng/lượng",
+    "direction": "up",
+    "label": "Vàng SJC",
+    "value": "130,5 - 135,5 triệu đồng/lượng"
+   },
+   {
+    "change": null,
+    "direction": "flat",
+    "label": "USD/VND (VCB bán)",
+    "value": "26.030 đồng"
+   }
+  ],
+  "summary": "Phiên 27/11, chứng khoán Mỹ tăng mạnh với S&P 500 tăng 1,6%, Dow Jones tăng 1,18% và Nasdaq tăng 2,31%, trong khi dầu Brent giảm gần 4% và vàng thế giới tăng 3,75% lên 3.668 USD/ounce. Tại thị trường trong nước, VN-Index phục hồi, tăng 24,22 điểm (1,49%) lên 1.653,9 điểm sau phiên giảm sâu trước đó do lo ngại Mỹ áp thuế, trong khi HNX-Index tăng 1,54 điểm lên 228,11 điểm. Thanh khoản khớp lệnh sàn HOSE đạt hơn 9.190 tỷ đồng, khối ngoại quay lại mua ròng hơn 558 tỷ đồng, tập trung vào nhóm dầu khí và công nghệ thông tin. Giá vàng SJC trong nước và tỷ giá USD/VND tại Vietcombank giữ ổn định ở vùng cao.",
+  "tiles": [
+   {
+    "change_pct": 1.6,
+    "label": "S&P 500",
+    "value": "7.297,5"
+   },
+   {
+    "change_pct": 1.18,
+    "label": "Dow Jones",
+    "value": "50.774,9"
+   },
+   {
+    "change_pct": 2.31,
+    "label": "Nasdaq",
+    "value": "24.129,5"
+   },
+   {
+    "change_pct": -0.72,
+    "label": "Dầu WTI",
+    "value": "83,1 USD"
+   },
+   {
+    "change_pct": -3.98,
+    "label": "Dầu Brent",
+    "value": "90,8 USD"
+   },
+   {
+    "change_pct": 3.75,
+    "label": "Vàng thế giới",
+    "value": "3.668 USD"
+   },
+   {
+    "change_pct": -1.15,
+    "label": "Bitcoin",
+    "value": "59.801 USD"
+   },
+   {
+    "change_pct": 0.33,
+    "label": "DXY",
+    "value": "104,01"
+   }
+  ]
+ },
+ "vietnam": [
+  {
+   "items": [
+    {
+     "ref": "cafef:042aefb8ae",
+     "title": "Một cổ phiếu \"bốc đầu\" lên đỉnh lịch sử sau thông tin trả cổ tức tiền mặt khủng 254%"
+    },
+    {
+     "ref": "cafef:40387a370b",
+     "title": "Reuters: Đề xuất xây tháp Trump 1 tỷ USD tại Hà Nội, đại gia Đặng Thành Tâm tham gia xúc tiến dự án"
+    },
+    {
+     "ref": "cafef:3cf2f82f0a",
+     "title": "VNM: Thông báo tạm ứng cổ tức đợt 2 năm 2026 và kế hoạch tổ chức Đại hội đồng cổ đông bất thường"
+    },
+    {
+     "ref": "cafef:d226228b09",
+     "title": "FRT: Từ câu chuyện Long Châu, Chủ tịch FPT Retail nói về cách chọn đối tác đầu tư"
+    },
+    {
+     "ref": "cafef:0b2d68191f",
+     "title": "Chứng khoán Kafi chào bán 125 triệu cổ phiếu, dự kiến huy động 1.875 tỷ đồng"
+    },
+    {
+     "ref": "cafef:e56673045f",
+     "title": "MSB: Thông báo ngày chốt quyền mua cổ phiếu phát hành 963 triệu cổ phiếu cho cổ đông hiện hữu"
+    },
+    {
+     "ref": "cafef:498bd401cf",
+     "title": "Thủ tướng Lê Minh Hưng đặt ra sứ mệnh mới cho thị trường chứng khoán Việt Nam"
+    },
+    {
+     "ref": "cafef:4097079692",
+     "title": "HPG: Con trai SN 1996 của tỷ phú Trần Đình Long nhận nhiệm vụ mới tại một công ty đặc biệt của Hòa Phát"
+    },
+    {
+     "ref": "cafef:cde9f79b88",
+     "title": "Việt Nam cần 38,5 triệu tỷ đồng trong 5 năm: Tổng Giám đốc VIOD nói về \"bộ lọc đầu tiên\" của những quỹ đầu tư lớn nhất thế giới"
+    },
+    {
+     "ref": "cafef:57564336a3",
+     "title": "VinEnergo chính thức sang Philippines làm điện mặt trời, khởi động tham vọng hơn 20.000 MW năng lượng tái tạo"
+    },
+    {
+     "ref": "cafef:3d66050a34",
+     "title": "CII: Huy động 5.218 tỷ đồng trái phiếu lãi suất tới 14,5%/năm, bất ngờ đổi phương án phân bổ vốn"
+    },
+    {
+     "ref": "cafef:e765628152",
+     "title": "Thủ tướng đặt mục tiêu vốn hóa thị trường cổ phiếu đạt 120% GDP vào năm 2030"
+    }
+   ],
+   "source": "CafeF"
+  },
+  {
+   "items": [
+    {
+     "ref": "vietstock:6972ce8f15",
+     "title": "CPTPP thống nhất đàm phán kết nạp thêm 3 nước"
+    },
+    {
+     "ref": "vietstock:e80e86d716",
+     "title": "Tuần 23-27/11: USD-Index hạ nhiệt cuối tuần, tỷ giá trong nước vẫn duy trì đà tăng"
+    },
+    {
+     "ref": "vietstock:e76b11100e",
+     "title": "Chứng khoán UP thay nghị quyết, khoản huy động 215 tỷ đồng 'bốc hơi'"
+    },
+    {
+     "ref": "vietstock:e404dda55a",
+     "title": "Bộ trưởng Tài chính: Mục tiêu tăng trưởng hai con số đặt yêu cầu cao hơn với thị trường chứng khoán"
+    },
+    {
+     "ref": "vietstock:38f70126ad",
+     "title": "Chứng khoán Tuần 23-27/11/2026: Sóng gió chưa qua"
+    },
+    {
+     "ref": "vietstock:d6bebf6785",
+     "title": "Chứng khoán Kafi dự kiến hoàn tất IPO vào giữa tháng 1/2027"
+    },
+    {
+     "ref": "vietstock:46ad6b39c8",
+     "title": "VSF: Đặt mục tiêu tổng doanh thu giai đoạn 2026-2030 hơn 85,000 tỷ, thu gọn danh mục đầu tư"
+    },
+    {
+     "ref": "vietstock:1359855241",
+     "title": "Vốn tư nhân sẽ là kênh đầu tư thay thế của giới siêu giàu Việt Nam"
+    },
+    {
+     "ref": "vietstock:ab13eaf655",
+     "title": "HHV: Liên danh Đèo Cả làm cao tốc Bắc Kạn - Cao Bằng hơn 26,000 tỷ đồng"
+    },
+    {
+     "ref": "vietstock:031abdbabb",
+     "title": "Xuất khẩu rau quả tiến sát kỷ lục mới"
+    },
+    {
+     "ref": "vietstock:c523a12eec",
+     "title": "BID: Sắp phát hành gần 1.4 tỷ cp trả cổ tức, vốn điều lệ tiến sát mốc 92,000 tỷ"
+    },
+    {
+     "ref": "vietstock:4023d4f609",
+     "title": "Chuyên gia chỉ ra những nút thắt từ thực tiễn đầu tư PPP"
+    },
+    {
+     "ref": "vietstock:de1eb0c8b0",
+     "title": "TCB: Thông báo thay đổi nhân sự cấp cao"
+    },
+    {
+     "ref": "vietstock:bdef2080b3",
+     "title": "HDB: Khởi động kế hoạch huy động 20,000 tỷ từ trái phiếu, đợt 1 chiếm một nửa"
+    }
+   ],
+   "source": "Vietstock"
+  },
+  {
+   "items": [
+    {
+     "ref": "vneconomy:947c88573c",
+     "title": "Sẽ không có thay đổi đáng kể đối với triển vọng xuất khẩu sang Mỹ nếu mức thuế là 20%"
+    },
+    {
+     "ref": "vneconomy:e9980cbfaa",
+     "title": "Thủ tướng Lê Minh Hưng: \"Mức thuế Mỹ áp dụng với Việt Nam sẽ thấp hơn nhiều so với dự kiến\""
+    },
+    {
+     "ref": "vneconomy:34e42c72bc",
+     "title": "Cổ phiếu AI bị bán tháo có ngăn được quyết tâm tăng lãi suất của Fed?"
+    },
+    {
+     "ref": "vneconomy:526d31b34e",
+     "title": "Chuyên gia: Cơ hội đầu tư xuất hiện sớm khi ít ai nghĩ tới nhất, thị trường có thể vượt xa kỳ vọng"
+    },
+    {
+     "ref": "vneconomy:e8df2c9474",
+     "title": "Thị trường thí điểm tài sản mã hóa có kịp khởi động trong tháng cuối năm?"
+    },
+    {
+     "ref": "vneconomy:c102356b06",
+     "title": "Chân dung ông Pablo Hernandez de Cos, người được chọn làm Chủ tịch mới của ECB"
+    },
+    {
+     "ref": "vneconomy:f0b9b91dbf",
+     "title": "Tổng giám đốc VCBF: Khi thị trường bị bán quá mức, tài sản sẽ trở nên rất rẻ"
+    },
+    {
+     "ref": "vneconomy:7f8a6f66d6",
+     "title": "Phản ứng của các nước châu Á sau đề xuất thuế quan dư thừa công suất của Mỹ"
+    },
+    {
+     "ref": "vneconomy:ae706b783a",
+     "title": "Vỡ bong bóng AI có thể khiến kinh tế Mỹ chao đảo mạnh hơn vụ sụp đổ dot-com"
+    },
+    {
+     "ref": "vneconomy:787090f327",
+     "title": "Trái phiếu kho bạc Mỹ là \"hầm trú ẩn\" được ưa chuộng giữa lúc cổ phiếu AI bị bán tháo"
+    },
+    {
+     "ref": "vneconomy:57bd3e6afd",
+     "title": "VN-Index giảm sốc, công ty chứng khoán dự báo vùng hỗ trợ 1600 điểm"
+    },
+    {
+     "ref": "vneconomy:53b766c534",
+     "title": "Mỹ muốn áp thuế trần 35% với Việt Nam, VN-Index sẽ tăng?"
+    },
+    {
+     "ref": "vneconomy:1cbb0f60e3",
+     "title": "Giám đốc của VPBankS: Thị trường đang ở vùng đỉnh lãi suất, định giá đã bị nén quá sâu"
+    },
+    {
+     "ref": "vneconomy:252700825d",
+     "title": "Bán tháo tăng cường độ, ám ảnh thuế quan trở lại?"
+    },
+    {
+     "ref": "vneconomy:d207d61fb5",
+     "title": "Tăng trưởng và lạm phát của Mỹ đều nóng, áp lực tăng lãi suất đối với Fed càng lớn"
+    }
+   ],
+   "source": "VnEconomy"
+  },
+  {
+   "items": [
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:49bd232248",
+     "title": "Top 10 cổ phiếu tăng/giảm mạnh nhất tuần: Nhiều mã nhỏ tiếp tục dò đáy"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:6b523bb6f7",
+     "title": "DIG: Ông Nguyễn Hùng Cường tiếp tục đăng ký mua thêm 5 triệu cổ phiếu"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:0100682bf9",
+     "title": "PHC: Người nhà lãnh đạo không mua hết cổ phiếu đăng ký"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:687eb9b42c",
+     "title": "Hải Phòng mở rộng hợp tác đầu tư, hướng tới APEC 2027"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:d145dd5524",
+     "title": "Ngân hàng Việt Nam trước bài toán quản trị AI"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:5cd4344da8",
+     "title": "Hà Nội có quyền quyết định giao Nhà đầu tư đầu tư Dự án khu công nghiệp đường sắt"
+    },
+    {
+     "ref": "tin-nhanh-ch-ng-kho-n:2f30fcac24",
+     "title": "JPMorgan: Làn sóng đầu tư vào AI tiếp tục mạnh mẽ trong năm 2027"
+    }
+   ],
+   "source": "Tin nhanh Chứng khoán"
+  },
+  {
+   "items": [
+    {
+     "ref": "b-o-u-t:95f9963a29",
+     "title": "Thị trường M&A Việt Nam 2027: Cơ hội trong chu kỳ phục hồi"
+    }
+   ],
+   "source": "Báo Đầu tư"
+  },
+  {
+   "items": [
+    {
+     "ref": "markettimes:78611e4fa6",
+     "title": "MBB: SCIC mua vào gần 483 tỷ đồng giá trị cổ phiếu"
+    },
+    {
+     "ref": "markettimes:86f3330145",
+     "title": "DCL: Cổ phiếu Dược phẩm Cửu Long giảm sàn 5 phiên liên tiếp, doanh nghiệp chính thức lên tiếng"
+    },
+    {
+     "ref": "markettimes:fb9c7c7b76",
+     "title": "CTG: VietinBank chuẩn bị huy động thêm 4.000 tỷ đồng trái phiếu"
+    },
+    {
+     "ref": "markettimes:c142ed3fa1",
+     "title": "Thị trường chứng khoán Việt Nam giảm mạnh nhất thế giới"
+    },
+    {
+     "ref": "markettimes:4ef0b59946",
+     "title": "Fed cảnh báo lạm phát Mỹ dai dẳng, doanh nghiệp Mỹ chịu sức ép chi phí gia tăng"
+    },
+    {
+     "ref": "markettimes:c52ff3639e",
+     "title": "Chi phí vốn cao khiến doanh nghiệp Việt hụt hơi khi ra \"biển lớn\": Đâu là lời giải giai đoạn 2026-2030?"
+    }
+   ],
+   "source": "MarketTimes"
+  },
+  {
+   "items": [
+    {
+     "ref": "bloomberg-businessweek-vn:089762d34f",
+     "title": "Chứng khoán Việt Nam: Định giá hấp dẫn, tiền vẫn đứng ngoài"
+    },
+    {
+     "ref": "bloomberg-businessweek-vn:66b40b75f7",
+     "title": "Mua từ Trung Quốc, bán sang Mỹ - Đồng xu hai mặt với Việt Nam"
+    },
+    {
+     "ref": "bloomberg-businessweek-vn:8f4a310403",
+     "title": "Lên sàn thời nâng hạng"
+    }
+   ],
+   "source": "Bloomberg Businessweek VN"
+  },
+  {
+   "items": [
+    {
+     "ref": "vnbusiness:617d0f9f9d",
+     "title": "Hà Nội tính đổi cách thu hút FDI, mở đường cho SMEs vào chuỗi cung ứng"
+    }
+   ],
+   "source": "VnBusiness"
+  },
+  {
+   "items": [
+    {
+     "ref": "ti-n-phong:61f434e1fb",
+     "title": "Tập trung nguồn lực, quyết tâm đưa hai dự án truyền tải điện 500kV tại phía Nam về đích trong tháng 12/2026"
+    },
+    {
+     "ref": "ti-n-phong:40d98406a7",
+     "title": "VCB: Vietcombank và KN Holdings ký kết thỏa thuận hợp tác toàn diện"
+    },
+    {
+     "ref": "ti-n-phong:10c7784f23",
+     "title": "VNM: Trong 9 tháng đầu năm 2026, năng suất lao động Vinamilk tăng hơn 17% so với cùng kỳ"
+    }
+   ],
+   "source": "Tiền Phong"
+  },
+  {
+   "items": [
+    {
+     "ref": "th-i-b-o-ng-n-h-ng:964d05cf6f",
+     "title": "Bộ Công Thương lên tiếng về đề xuất áp thuế mới của Mỹ"
+    }
+   ],
+   "source": "Thời báo Ngân hàng"
+  },
+  {
+   "items": [
+    {
+     "ref": "bnews:ad57f83a37",
+     "title": "Nâng chuẩn công bố thông tin phát triển bền vững trên thị trường chứng khoán"
+    },
+    {
+     "ref": "bnews:9b609df897",
+     "title": "Nghị quyết 57-NQ/TW: Viettel chính thức cung cấp Internet vệ tinh Starlink"
+    },
+    {
+     "ref": "bnews:c58ee2c437",
+     "title": "Nvidia dừng xuất khẩu máy chủ AI sang 4 nước Đông Nam Á"
+    },
+    {
+     "ref": "bnews:c28738dd33",
+     "title": "Công ty chứng khoán khuyến nghị theo dõi VNM, ACV và mua KDH"
+    },
+    {
+     "ref": "bnews:729c27bfca",
+     "title": "Giá gạo xuất khẩu của Ấn Độ tăng lên mức cao nhất trong hơn 19 tháng"
+    }
+   ],
+   "source": "BNEWS"
+  },
+  {
+   "items": [
+    {
+     "ref": "hose:19351d3896",
+     "title": "TIP: Nghị quyết HĐQT về việc phê duyệt giá chuyển nhượng cổ phần tại Công ty Cổ phần Thương mại và Xây dựng Phước Tân"
+    },
+    {
+     "ref": "hose:34031ce555",
+     "title": "PIT: CBTT đường link tài liệu ĐHĐCĐ bất thường năm 2026"
+    },
+    {
+     "ref": "hose:076f3a4c95",
+     "title": "PET: Nghị quyết HĐQT về việc bảo lãnh cho POTS với SCAO-SCVN"
+    }
+   ],
+   "source": "HOSE"
+  }
+ ],
+ "world": [
+  {
+   "ref": "bloomberg:de656cefc5",
+   "title": "Vujčić và Kocher phát tín hiệu ECB có thể tiếp tục tăng lãi suất, theo Kurier",
+   "translated": true,
+   "original_title": "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/vujcic-and-kocher-hint-at-more-ecb-rate-hiking-kurier-reports"
+  },
+  {
+   "ref": "bloomberg:74ffb96cca",
+   "title": "S&P hạ triển vọng tín nhiệm Pháp xuống \"tiêu cực\", cảnh báo trước bầu cử",
+   "translated": true,
+   "original_title": "France Outlook Cut to Negative by S&P in Pre-Election Warning",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/france-outlook-cut-to-negative-by-s-p-in-pre-election-warning"
+  },
+  {
+   "ref": "bloomberg:9167f9651a",
+   "title": "Ván cờ AI của Trump khuấy động tuần giao dịch Lễ Tạ ơn đầy biến động trên Wall Street",
+   "translated": true,
+   "original_title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street"
+  },
+  {
+   "ref": "tg-marketfeed:1086447",
+   "title": "OpenAI kiện ngược Apple, cáo buộc đánh cắp bí mật thương mại",
+   "translated": true,
+   "original_title": "OPENAI FILES COUNTERSUIT AGAINST APPLE, ACCUSING IT OF TRADE SECRET THEFT ...",
+   "link": null
+  }
+ ],
+ "content_sha": "f387e706431855da45bb843161da40ac1164f5cab048f0ede5765c2e6eb72386"
+}
